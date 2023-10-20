@@ -1,0 +1,328 @@
+Will the closing price of Brent crude oil be higher on 16 July 2021 than it was on 16 June 2021?,2021-06-17T22:00:48Z,2021-07-16T07:01:48Z,No,"['Yes', 'No']",['Business'],327,654,69,237,,https://www.gjopen.com/questions/2043-will-the-closing-price-of-brent-crude-oil-be-higher-on-16-july-2021-than-it-was-on-16-june-2021
+34815,2021-07-16T06:59:01Z,2,[0.0],[-100.0],
+14266,2021-07-16T06:40:04Z,13,[0.0],[-25.0],
+101394,2021-07-16T06:20:27Z,20,[4.0],[-5.0],
+86367,2021-07-16T05:32:24Z,13,[4.0],[-11.0],
+14027,2021-07-16T05:28:35Z,14,[11.0],[-39.0],
+101031,2021-07-16T05:14:35Z,21,[20.0],[-30.0],
+529,2021-07-16T05:05:23Z,13,[43.0],[8.0],Last guess.
+767,2021-07-16T03:28:47Z,3,[0.0],[-20.0],
+101031,2021-07-16T02:53:05Z,20,[50.0],[50.0],Thanks to @samglover97 for reminding us of the way that scores are calculated. There is no point in going to 0% unless one is sure. I am sticking with my 5050 for now
+95503,2021-07-16T01:00:00Z,19,[28.0],[-7.0],
+86367,2021-07-15T22:48:49Z,12,[15.0],[-25.0],
+99993,2021-07-15T22:34:34Z,11,[20.0],[-5.0],
+14266,2021-07-15T22:16:56Z,12,[25.0],[-50.0],
+95503,2021-07-15T21:37:39Z,18,[35.0],[-2.0],
+101031,2021-07-15T20:41:06Z,19,[0.0],[-50.0],Reducing my average as much as one can in a single day
+95503,2021-07-15T20:37:03Z,17,[37.0],[-8.0],
+29875,2021-07-15T20:36:32Z,5,[0.0],[-100.0],
+99857,2021-07-15T20:21:48Z,4,[0.0],[-28.0],Correcting for my one day loss of faith... or doing more damage to my brier score...could go either way...
+691,2021-07-15T20:04:13Z,14,[47.0],[-50.0],
+37236,2021-07-15T20:00:37Z,7,[0.0],[-49.0],
+99993,2021-07-15T19:45:20Z,10,[25.0],[-10.0],
+101394,2021-07-15T19:17:07Z,19,[9.0],[-4.0],
+95992,2021-07-15T19:01:31Z,19,[30.0],[-30.0],
+529,2021-07-15T18:50:51Z,12,[35.0],[-17.0],Price is lowering this afternoon so far...
+95503,2021-07-15T18:44:56Z,16,[45.0],[-4.0],
+101394,2021-07-15T18:39:30Z,18,[13.0],[-5.0],
+1333,2021-07-15T18:14:39Z,27,[100.0],[0.0],
+100608,2021-07-15T17:46:45Z,7,[55.0],[-35.0],Today - 15th - it closed at 74.16...should have stuck to my original thoughts.....
+767,2021-07-15T17:45:24Z,2,[20.0],[-50.0],$74.19 right now!
+101394,2021-07-15T17:30:15Z,17,[18.0],[-4.0],
+14027,2021-07-15T16:57:04Z,13,[50.0],[-23.0],
+87897,2021-07-15T16:27:48Z,6,[49.0],[-12.0],"Traveling, so I can't run a simulation. Copying @samglover97"
+37236,2021-07-15T16:11:22Z,6,[49.0],[-51.0],"Reuters yesterday pm showed Brent at $74,10 https://www.reuters.com/world/middle-east/oil-prices-extend-losses-investors-brace-more-supplies-2021-07-15/"
+95992,2021-07-15T16:02:40Z,18,[60.0],[15.0],
+95503,2021-07-15T15:49:08Z,15,[49.0],[3.0],
+95503,2021-07-15T15:48:58Z,14,[46.0],[16.0],
+34959,2021-07-15T15:29:05Z,4,[67.0],[-21.0],
+95992,2021-07-15T15:11:51Z,17,[45.0],[15.0],
+86367,2021-07-15T14:30:30Z,11,[40.0],[-16.0],
+95992,2021-07-15T14:05:37Z,16,[30.0],[-5.0],
+99993,2021-07-15T14:05:33Z,9,[35.0],[-14.0],
+95992,2021-07-15T13:33:16Z,15,[35.0],[5.0],
+94872,2021-07-15T13:18:39Z,14,[35.0],[-18.0],
+95503,2021-07-15T12:13:48Z,13,[30.0],[-10.0],
+95992,2021-07-15T12:12:55Z,14,[30.0],[-20.0],
+95503,2021-07-15T12:12:01Z,12,[40.0],[-47.0],
+86554,2021-07-15T12:08:16Z,14,[33.0],[-57.0],
+86367,2021-07-15T10:02:38Z,10,[56.0],[-29.0],
+101394,2021-07-15T06:48:21Z,16,[22.0],[-2.0],
+101394,2021-07-15T06:48:13Z,15,[24.0],[-8.0],
+40636,2021-07-15T05:19:18Z,5,[50.0],[-10.0],
+101394,2021-07-15T04:50:52Z,14,[32.0],[-11.0],Agree with @Chrisp comments here (https://www.gjopen.com/comments/1307959)
+101031,2021-07-15T04:22:01Z,18,[50.0],[-45.0],
+14266,2021-07-15T03:32:09Z,11,[75.0],[-20.0],
+99857,2021-07-15T03:06:08Z,3,[28.0],[-67.0],Maybe I was right from the get go and blinked too soon... I'm in this far so am going back to my original bet of 28%...
+94872,2021-07-15T00:21:26Z,13,[53.0],[-32.0],
+79142,2021-07-14T23:11:43Z,4,[90.0],[10.0],
+87897,2021-07-14T22:48:59Z,5,[61.0],[-21.0],"Based on the results of this Monte Carlo simulation: https://github.com/jonathanmann/gjopen/blob/master/brent_price_forecasting/brent_monte_carlo.py INPUT PRICE: 74.76 OUTPUT: {LOW:39.26%,HIGH:60.74%} NOTE: This is a nail-biter... DATA: The simulation was trained on yahoo finance data (BZ=F): https://finance.yahoo.com/quote/BZ%3DF"
+101394,2021-07-14T20:38:25Z,13,[43.0],[-13.0],
+529,2021-07-14T19:53:23Z,11,[52.0],[-26.0],"Announced Saudi-UAE production deal is helping drive price down significantly today.... but some sources report the UAE currently says no deal yet. Any deal is reportedly 'provisional': https://www.bloomberg.com/quote/CO1:COM, https://www.marketwatch.com/story/oil-dips-then-trims-losses-after-saudis-u-a-e-said-to-end-opec-standoff-11626266579, https://www.wsj.com/articles/opec-reaches-compromise-with-u-a-e-over-oil-production-standoff-11626264218"
+95992,2021-07-14T19:37:01Z,13,[50.0],[-10.0],
+95992,2021-07-14T19:02:51Z,12,[60.0],[-25.0],"Unfortunately big move down in prices today, sitting at 74.71."
+691,2021-07-14T18:42:07Z,13,[97.0],[15.0],
+1333,2021-07-14T18:39:02Z,26,[100.0],[15.0],
+99993,2021-07-14T17:28:09Z,8,[49.0],[-41.0],
+62808,2021-07-14T11:09:51Z,1,[100.0],[100.0],
+95503,2021-07-14T09:34:30Z,11,[87.0],[17.0],
+94872,2021-07-14T08:56:05Z,12,[85.0],[10.0],
+99993,2021-07-14T04:34:26Z,7,[90.0],[15.0],
+101031,2021-07-14T04:23:12Z,17,[95.0],[10.0],
+86367,2021-07-14T02:53:08Z,9,[85.0],[12.0],
+34959,2021-07-14T02:12:29Z,3,[88.0],[8.0],
+101036,2021-07-14T02:08:17Z,7,[90.0],[10.0],
+99857,2021-07-14T01:50:40Z,2,[95.0],[67.0],I'll have to concede that it's held higher than I had expected and shy of some major news from OPEC+ is likely to stay above now. Looks like its time to blink...
+14266,2021-07-14T00:37:53Z,10,[95.0],[8.0],
+87897,2021-07-13T23:42:52Z,4,[82.0],[9.0],"Based on the results of this Monte Carlo simulation: https://github.com/jonathanmann/gjopen/blob/master/brent_price_forecasting/brent_monte_carlo.py INPUT PRICE: 76.49 OUTPUT: {LOW:18.03%,HIGH:81.97%} NOTE: I'm impressed at how well the consensus forcast matches the Monte Carlo simulation. DATA: The simulation was trained on yahoo finance data (BZ=F): https://finance.yahoo.com/quote/BZ%3DF"
+529,2021-07-13T21:46:36Z,10,[78.0],[16.0],Jump up in price today: https://www.bloomberg.com/quote/CO1:COM
+101031,2021-07-13T21:35:19Z,16,[85.0],[10.0],
+101902,2021-07-13T20:17:36Z,1,[90.0],[90.0],
+101064,2021-07-13T19:56:26Z,2,[90.0],[5.0],"Currently higher, has had one correction but reporting suggests demand and prices firming/lifting."
+59635,2021-07-13T18:36:58Z,5,[84.0],[6.0],
+100608,2021-07-13T18:35:32Z,6,[90.0],[24.0],
+1333,2021-07-13T18:22:34Z,25,[85.0],[0.0],
+100184,2021-07-13T17:43:57Z,2,[95.0],[15.0],
+100184,2021-07-13T17:42:11Z,1,[80.0],[80.0],
+95992,2021-07-13T17:21:59Z,11,[85.0],[5.0],"Current price is 3% above June 16 close with 3 days to go. Assuming 30% annual vol, over next three business days you would need a roughly 1.05Z move down, which has about a 15% probability."
+691,2021-07-13T17:08:26Z,12,[82.0],[7.0],
+37236,2021-07-13T16:28:47Z,5,[100.0],[15.0],
+99993,2021-07-13T16:10:58Z,6,[75.0],[15.0],
+24440,2021-07-13T15:52:51Z,2,[80.0],[25.0],
+14027,2021-07-13T15:21:03Z,12,[73.0],[6.0],
+34959,2021-07-13T15:10:49Z,2,[80.0],[5.0],
+94872,2021-07-13T14:55:19Z,11,[75.0],[7.0],
+86554,2021-07-13T14:11:40Z,13,[90.0],[10.0],
+29875,2021-07-13T14:02:21Z,4,[100.0],[8.0],
+101892,2021-07-13T14:02:08Z,1,[60.0],[60.0],Anything can happen in one month. It is more likely to be higher but my conviction is not strong due to short-term factors.
+101282,2021-07-13T13:56:44Z,2,[76.0],[9.0],
+87897,2021-07-13T13:56:14Z,3,[73.0],[6.0],"Based on the results of this Monte Carlo simulation: https://github.com/jonathanmann/gjopen/blob/master/brent_price_forecasting/brent_monte_carlo.py PRICE: 75.70 OUTPUT: {LOW:27.21%,HIGH:72.79%} NOTE: The simulation was ""trained"" on yahoo finance data (BZ=F): https://finance.yahoo.com/quote/BZ%3DF"
+89013,2021-07-13T13:44:03Z,2,[85.0],[36.0],
+40636,2021-07-13T13:32:00Z,4,[60.0],[0.0],
+95992,2021-07-13T12:07:05Z,10,[80.0],[10.0],
+101394,2021-07-13T07:04:23Z,12,[56.0],[11.0],
+101036,2021-07-13T03:45:19Z,6,[80.0],[10.0],
+101031,2021-07-13T01:44:51Z,15,[75.0],[10.0],
+529,2021-07-12T20:49:15Z,9,[62.0],[2.0],"Over the past month share volume increases every time the price falls significantly, FWIW. The general price trend over the period remains upward: https://www.bloomberg.com/quote/CO1:COM"
+59635,2021-07-12T20:09:38Z,4,[78.0],[4.0],
+29875,2021-07-12T19:51:01Z,3,[92.0],[12.0],
+101031,2021-07-12T18:50:59Z,14,[65.0],[15.0],
+1333,2021-07-12T18:07:07Z,24,[85.0],[1.0],
+37236,2021-07-12T16:58:27Z,4,[85.0],[2.0],Oilprice dot com is showing Brent at $74.99 as I write this.
+100608,2021-07-12T15:31:18Z,5,[66.0],[-4.0],
+691,2021-07-12T15:10:16Z,11,[75.0],[-11.0],
+94872,2021-07-12T14:09:51Z,10,[68.0],[5.0],
+95503,2021-07-12T11:22:27Z,10,[70.0],[5.0],
+86554,2021-07-12T11:16:30Z,12,[80.0],[35.0],
+86554,2021-07-12T11:16:15Z,11,[45.0],[-40.0],
+101031,2021-07-12T10:25:34Z,13,[50.0],[-30.0],Lost my nerve. Just too volatile
+40636,2021-07-12T09:25:54Z,3,[60.0],[-30.0],
+86367,2021-07-12T02:00:00Z,8,[73.0],[8.0],
+87897,2021-07-12T00:53:03Z,2,[67.0],[1.0],"Based on the results of this Monte Carlo simulation: https://github.com/jonathanmann/gjopen/blob/master/brent_price_forecasting/brent_monte_carlo.py PRICE: 75.56 OUTPUT: {LOW:32.82%,HIGH:67.18%} NOTE: The simulation was ""trained"" on yahoo finance data (BZ=F): https://finance.yahoo.com/quote/BZ%3DF"
+79142,2021-07-11T22:45:50Z,3,[80.0],[10.0],
+59635,2021-07-11T21:40:06Z,3,[74.0],[1.0],
+1333,2021-07-11T18:04:41Z,23,[84.0],[1.0],
+56,2021-07-11T17:19:13Z,3,[70.0],[27.0],
+14027,2021-07-11T16:49:05Z,11,[67.0],[17.0],The UAE could take the nuclear option and leave OPEC if Saudi Arabia does not allow the UAE to increase its production quota. See https://on.ft.com/3wxIgze or https://www.ft.com/content/d0b77371-fdd3-4650-81e7-9b5e51f27bb9. [The second link requires a subscription; the first link may only allow three viewers.]
+691,2021-07-11T16:05:22Z,10,[86.0],[10.0],
+1333,2021-07-11T15:25:45Z,22,[83.0],[1.0],
+86554,2021-07-11T13:44:50Z,10,[85.0],[20.0],
+40636,2021-07-11T13:23:55Z,2,[90.0],[85.0],
+94872,2021-07-11T11:39:35Z,9,[63.0],[-2.0],
+94872,2021-07-11T11:38:54Z,8,[65.0],[10.0],
+101031,2021-07-11T08:11:08Z,12,[80.0],[5.0],
+95503,2021-07-10T22:43:13Z,9,[65.0],[3.0],
+95503,2021-07-10T22:43:00Z,8,[62.0],[6.0],
+101394,2021-07-10T21:45:34Z,11,[45.0],[14.0],
+529,2021-07-10T18:55:34Z,8,[60.0],[0.0],Will update this forecast on Monday. https://finance.yahoo.com/news/oil-prices-climb-strong-fuel-190000118.html
+99993,2021-07-10T16:43:53Z,5,[60.0],[10.0],
+101036,2021-07-10T07:06:53Z,5,[70.0],[10.0],
+14266,2021-07-10T00:22:46Z,9,[87.0],[30.0],
+87897,2021-07-09T21:22:32Z,1,[66.0],[66.0],"Based on the results of this Monte Carlo simulation: https://github.com/jonathanmann/gjopen/blob/master/brent_price_forecasting/brent_monte_carlo.py PRICE: 75.59 OUTPUT: {LOW:34.08%,HIGH:65.92%} NOTE: I consider the Monte Carlo simulation to be the ""outside"" view. The simulation was ""trained"" on yahoo finance data for Brent Crude Oil Last Day Financ (BZ=F): https://finance.yahoo.com/quote/BZ%3DF"
+101031,2021-07-09T21:07:27Z,11,[75.0],[5.0],Might drop again if OPEC talks are rescheduled depending on the outcome particularly the size of the increase in production
+100608,2021-07-09T20:39:46Z,4,[70.0],[15.0],"Today's price - 75.60 but been very volatile over the last 3 weeks. Report below says - ""A bitter public rift between the United Arab Emirates and Saudi Arabia over oil production quotas this week caused talks between the world's biggest oil-producing nations to be abandoned and left energy markets in limbo, pushing oil prices to a six-year high."" I'm significantly below the crowd forecast, so will get closer to the average even though that volatility makes me ask why crowd has such assurance it will be yes."
+37236,2021-07-09T19:44:19Z,3,[83.0],[30.0],Seems to be trending upward now
+1333,2021-07-09T18:13:17Z,21,[82.0],[1.0],
+101852,2021-07-09T16:28:38Z,1,[66.0],[66.0],
+95992,2021-07-09T15:48:44Z,9,[70.0],[10.0],
+101394,2021-07-09T13:54:24Z,10,[31.0],[14.0],
+691,2021-07-09T13:34:01Z,9,[76.0],[-1.0],
+95992,2021-07-09T12:43:15Z,8,[60.0],[10.0],
+95503,2021-07-09T12:25:31Z,7,[56.0],[-17.0],
+86554,2021-07-09T10:45:14Z,9,[65.0],[20.0],
+25265,2021-07-09T08:12:41Z,2,[100.0],[39.0],"Okay, seems like it stabilized finally and is reverting back to the trend that makes sense :) https://www.gjopen.com/comments/1305157 Haven't checked oil price so often in such short period of time :)"
+14266,2021-07-09T08:09:07Z,8,[57.0],[22.0],
+101031,2021-07-08T19:18:57Z,10,[70.0],[40.0],Crude is looking like it will increase again so I will put my forcast back where I want it to be before the midnight cut off
+40636,2021-07-08T18:58:44Z,1,[5.0],[5.0],
+1333,2021-07-08T18:29:27Z,20,[81.0],[-4.0],
+1333,2021-07-08T14:13:48Z,19,[85.0],[1.0],
+37236,2021-07-08T13:01:21Z,2,[53.0],[-47.0],
+101031,2021-07-08T10:02:57Z,9,[30.0],[-30.0],I am expecting it to come back up but a couple of days below the crowd will help my average if it doesnt
+14266,2021-07-08T05:12:22Z,7,[35.0],[-65.0],
+94872,2021-07-08T05:07:53Z,7,[55.0],[-11.0],
+86367,2021-07-08T03:45:44Z,7,[65.0],[-9.0],
+101031,2021-07-08T01:16:54Z,8,[60.0],[-15.0],"Bigger drop to reduce my average which has been above the crowd in general, Will it get higher than 74.39? Yes Will it do it in 9 days?... Less confident"
+59635,2021-07-08T00:47:16Z,2,[73.0],[-8.0],
+63674,2021-07-07T22:35:23Z,2,[80.0],[10.0],
+29875,2021-07-07T20:18:15Z,2,[80.0],[-14.0],
+37236,2021-07-07T19:42:49Z,1,[100.0],[100.0],Look at NASDAQ... https://www.nasdaq.com/market-activity/commodities/bz%3Anmx
+14027,2021-07-07T17:06:04Z,10,[50.0],[-21.0],
+101394,2021-07-07T16:19:25Z,9,[17.0],[-15.0],"Updating for further price movement, now below 74.39 at 73.24"
+691,2021-07-07T15:22:30Z,8,[77.0],[-9.0],
+95992,2021-07-07T14:57:03Z,7,[50.0],[-30.0],"Despite great fundamentals and OPEC+ supply change, big recent move down on virus worries and israeli announcement re lower vaccine efficacy"
+86554,2021-07-07T14:34:03Z,8,[45.0],[-54.0],
+101364,2021-07-07T13:12:00Z,2,[80.0],[0.0],"No reason to change my forecast, and I see the crowdsource now agrees with me :)."
+101036,2021-07-07T05:57:30Z,4,[60.0],[-10.0],
+101031,2021-07-07T05:21:15Z,7,[75.0],[-5.0],3.2% drop within hours of me saying that I can't see any reason for a 4% drop - epic fail
+94872,2021-07-07T04:07:22Z,6,[66.0],[-9.0],
+99993,2021-07-07T03:31:01Z,4,[50.0],[-30.0],
+101793,2021-07-07T00:01:17Z,1,[100.0],[100.0],
+59635,2021-07-06T18:20:42Z,1,[81.0],[81.0],
+691,2021-07-06T17:48:50Z,7,[86.0],[6.0],
+529,2021-07-06T16:57:34Z,7,[60.0],[-5.0],Watching OPEC+ developments: https://www.reuters.com/world/middle-east/oil-rises-further-hopes-tighter-supply-opec-talks-abandoned-2021-07-06/
+101312,2021-07-06T16:51:38Z,1,[85.0],[85.0],"Price is a function of supply and demand. We will treat each of these separately. In terms of supply, both OPEC+ and North American shale producers have expressed a desire to temper supply increases so as to allow oil price to continue drifting upward. On the other hand, demand for oil continues to grow as global economies recover from the coronavirus pandemic, and shows no sign of slowing in the next two weeks."
+101394,2021-07-06T15:59:58Z,8,[32.0],[-36.0],Updating for price movement in expectation of pressure on OPEC+ forcing an agreement (https://seekingalpha.com/news/3712915-oil-reverses-early-gains-wti-dips-below-75)
+95992,2021-07-06T14:01:49Z,6,[80.0],[3.0],
+1333,2021-07-06T13:29:16Z,18,[84.0],[8.0],
+99993,2021-07-06T12:11:53Z,3,[80.0],[15.0],
+95992,2021-07-06T03:19:17Z,5,[77.0],[4.0],
+101031,2021-07-06T02:01:25Z,6,[80.0],[8.0],"gone up to 80% because OPEC+ failed in their talks and this will mean that there is no commitment to increase production in August yet. This should mean that prices stay high. WTI is also high, within 80c of Brent this should indicate that demand for Brent will remain strong as it is less economic to move to WTI markets. Staying on the more positive side of the crowd for now."
+529,2021-07-05T19:12:25Z,6,[65.0],[4.0],https://www.marketwatch.com/story/opec-calls-off-output-talks-again-monday-leading-crude-oil-prices-to-surge-11625509349
+95503,2021-07-05T18:22:57Z,6,[73.0],[3.0],
+86367,2021-07-05T17:23:22Z,6,[74.0],[4.0],
+101394,2021-07-05T16:38:51Z,7,[68.0],[31.0],"Delta of the 74.5 strike call Sep 2021 is 0.625, implying a 63% chance of finishing ITM. Lean higher for earlier expiry. I still see a drop in the coming weeks as possible given the market is forward looking and demand with delta could see a negative shock but revising above 50%."
+101394,2021-07-05T16:02:14Z,6,[37.0],[-3.0],
+101394,2021-07-05T16:01:55Z,5,[40.0],[22.0],
+20156,2021-07-05T12:04:04Z,1,[85.0],[85.0],
+34959,2021-07-04T15:42:12Z,1,[75.0],[75.0],
+1333,2021-07-04T15:07:16Z,17,[76.0],[1.0],
+691,2021-07-04T14:02:32Z,6,[80.0],[2.0],
+37520,2021-07-04T04:02:37Z,1,[75.0],[75.0],
+529,2021-07-03T22:19:56Z,5,[61.0],[5.0],Moving a little closer to the 'crowd' forecast for now.
+78821,2021-07-03T12:40:34Z,2,[100.0],[10.0],
+14266,2021-07-03T07:08:47Z,6,[100.0],[21.0],
+86367,2021-07-03T04:34:04Z,5,[70.0],[14.0],
+95992,2021-07-03T02:03:55Z,4,[73.0],[-7.0],"Love the fundamentals but now have a bunch of good news for oil that just came out (OPEC slower than discounted, good US jobs number) and you still are only about 2-3% above starting price."
+100608,2021-07-02T21:45:04Z,3,[55.0],[7.0],"Price today (2nd July) was 76.12. Apart from a couple of days straight after the question opened, it's been just above the starting price. Adjusting my % up. OPEC meeting closed for the day without agreement - might reconvene on Monday and have an impact."
+14027,2021-07-02T21:42:26Z,9,[71.0],[-2.0],
+99993,2021-07-02T16:00:23Z,2,[65.0],[22.0],
+80634,2021-07-02T14:16:38Z,2,[95.0],[70.0],mark to market
+1333,2021-07-02T13:13:19Z,16,[75.0],[1.0],
+1333,2021-07-02T13:01:31Z,15,[74.0],[2.0],
+94872,2021-07-02T01:57:57Z,5,[75.0],[18.0],
+14027,2021-07-01T22:12:20Z,8,[73.0],[2.0],
+14266,2021-07-01T20:31:21Z,5,[79.0],[14.0],
+691,2021-07-01T17:32:14Z,5,[78.0],[8.0],
+14027,2021-07-01T16:57:04Z,7,[71.0],[10.0],
+86554,2021-07-01T16:38:38Z,7,[99.0],[20.0],
+95503,2021-07-01T15:25:13Z,5,[70.0],[5.0],
+78821,2021-07-01T14:09:30Z,1,[90.0],[90.0],"Major factors that contribute to the price of Brent: 1) OPEC output - forecast that output will lag behind demand [1] 2) Consumption by major countries - the US is the leading consumer of oil, and we are headed into a projected peak travel period [2] 3) global stability - this is more subjective and I do not have a source to cite. However, peace doesn't make the headlines. Crisis does. Any coverage of global events will likely serve to drive an increase in Brent, rather than a decrease."
+95992,2021-07-01T13:49:18Z,3,[80.0],[5.0],
+86554,2021-07-01T12:06:48Z,6,[79.0],[34.0],
+101036,2021-07-01T08:42:36Z,3,[70.0],[0.0],
+1333,2021-07-01T08:33:47Z,14,[72.0],[29.0],
+83135,2021-06-30T23:29:24Z,1,[100.0],[100.0],
+529,2021-06-30T16:38:08Z,4,[56.0],[2.0],Watching upcoming OPEC+ meeting.
+6425,2021-06-30T07:29:36Z,1,[100.0],[100.0],summer time blues and the need to take off on a long cruise.
+14266,2021-06-30T03:22:04Z,4,[65.0],[-9.0],
+86554,2021-06-29T21:23:30Z,5,[45.0],[-30.0],
+14027,2021-06-29T16:19:53Z,6,[61.0],[-10.0],OPEC will meet on July 1. If there are any significant announcements it could move the price up or down. This Reuters article says both Russia and Abu Dhabi have recently reduced output. OTOH increased COVID cases in some geographies could reduce demand. See https://www.reuters.com/business/energy/oil-strikes-2018-highs-demand-recovery-iran-nuclear-talks-2021-06-28/.
+1333,2021-06-29T14:35:54Z,13,[43.0],[10.0],
+86367,2021-06-29T03:16:31Z,4,[56.0],[-9.0],
+691,2021-06-28T20:03:38Z,4,[70.0],[3.0],
+25265,2021-06-28T15:04:49Z,1,[61.0],[61.0],"I'm assuming for July the price will not see a decline, that is, stays above 75 (which is higher than 74.39). Waiting for the OPEC meeting in July, especially SA and perhaps Iran deal. =========================================== UPDATE (JULY 6) today price dropped about 1.7 USD in 6 hours between 8 AM and 2 PM (from 77.74 to 75.96). Not sure why. But overall, I still believe it'll stay above 75, especially due to the stand off between SA and UAE: i.e., no concrete plan to further increase oil production beyond July 2021. And the fact that a date has not been assigned yet, makes it more likely that we won't be seeing major decline in price IMO. ==========================================="
+1333,2021-06-28T13:28:34Z,12,[33.0],[8.0],
+29875,2021-06-28T11:23:36Z,1,[94.0],[94.0],"... demand is increasing, and producer love those high prices too much to let rationality step in and start producing more too soon"
+94872,2021-06-28T00:35:31Z,4,[57.0],[2.0],
+101031,2021-06-27T09:12:24Z,5,[72.0],[2.0],
+1333,2021-06-27T06:57:24Z,11,[25.0],[6.0],
+101036,2021-06-27T04:52:18Z,2,[70.0],[10.0],
+56,2021-06-27T03:33:11Z,2,[43.0],[3.0],
+86554,2021-06-26T21:53:14Z,4,[75.0],[7.0],
+86554,2021-06-26T21:53:02Z,3,[68.0],[30.0],
+1333,2021-06-26T12:10:44Z,10,[19.0],[9.0],
+95503,2021-06-26T11:02:05Z,4,[65.0],[2.0],
+50825,2021-06-26T01:40:13Z,1,[60.0],[60.0],
+100608,2021-06-25T22:50:20Z,2,[48.0],[3.0],"Has since edged up to 76.01 at end of 25th June. So upping my % to nearly half. Lot will depend on this ""crude may face headwinds ahead of the OPEC Joint Ministerial Monitoring Committee (JMMC) meeting on July 1 as the group sticks to the production adjustment table."" from this report"
+14027,2021-06-25T17:28:44Z,5,[71.0],[10.0],
+79142,2021-06-25T14:39:42Z,2,[70.0],[70.0],
+691,2021-06-25T14:34:02Z,3,[67.0],[11.0],
+1333,2021-06-25T11:17:24Z,9,[10.0],[1.0],
+94872,2021-06-25T04:35:02Z,3,[55.0],[5.0],
+101031,2021-06-25T01:58:12Z,4,[70.0],[5.0],OPEC discussing an increase in supply for Aug. US likely to remove Iran sanctions but no deal yet WTI too close to Brent so less imports from US - will this hold Brent higher?
+8826,2021-06-24T18:31:22Z,1,[100.0],[100.0],
+101543,2021-06-24T15:27:48Z,1,[20.0],[20.0],
+529,2021-06-24T15:26:44Z,3,[54.0],[4.0],https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Set-To-Head-Even-Higher-As-Market-Tightens.html
+101217,2021-06-24T14:30:55Z,1,[65.0],[65.0],"Economy is picking up, travel is picking up, and people are taking vacations again. There are still some supply issues and demand will be strong, so prices should be up a bit by July."
+1333,2021-06-24T13:05:57Z,8,[9.0],[1.0],
+86367,2021-06-24T11:24:06Z,3,[65.0],[10.0],
+86367,2021-06-24T07:00:40Z,2,[55.0],[7.0],
+78587,2021-06-24T05:05:51Z,1,[75.0],[75.0],
+34815,2021-06-24T04:44:59Z,1,[100.0],[100.0],
+14266,2021-06-24T03:10:03Z,3,[74.0],[13.0],
+84127,2021-06-24T01:36:41Z,1,[90.0],[90.0],
+90237,2021-06-24T00:55:24Z,1,[100.0],[100.0],
+93,2021-06-24T00:37:15Z,1,[64.0],[64.0],
+529,2021-06-23T22:23:13Z,2,[50.0],[2.0],https://www.reuters.com/business/energy/oil-resumes-climb-large-us-oil-stocks-drawdown-2021-06-23/
+34499,2021-06-23T21:56:47Z,1,[0.0],[0.0],
+95503,2021-06-23T16:49:25Z,3,[63.0],[3.0],
+86554,2021-06-23T15:12:49Z,2,[38.0],[18.0],
+14027,2021-06-23T14:44:45Z,4,[61.0],[11.0],Adjusting upwards as the price continues to rise.
+101031,2021-06-23T09:55:02Z,3,[65.0],[10.0],"Daily price increases, back above the jun16 price. 1 month will not be enough time for the US to drastically increase production to reduce price. Iran is slow to progress talks so far, citing trust issues. I havent heard anything from OPEC since they said they wont increase production in a hurry."
+95503,2021-06-23T07:19:50Z,2,[60.0],[20.0],
+101402,2021-06-23T07:01:27Z,1,[64.0],[64.0],Demand of oil is still strong and the production has to expand.
+94872,2021-06-23T03:45:30Z,2,[50.0],[3.0],
+24440,2021-06-23T01:20:55Z,1,[55.0],[55.0],"Always tough to predict short term moves in oil prices. Risk seems to be towards the upside as economic activity might recover faster than expected, as opposed to gradual, well-telegraphed OPEC supply increases."
+82102,2021-06-22T21:43:18Z,1,[90.0],[90.0],
+101064,2021-06-22T20:37:00Z,1,[85.0],[85.0],
+14266,2021-06-22T17:57:39Z,2,[61.0],[20.0],
+101364,2021-06-22T15:57:14Z,1,[80.0],[80.0],Price has been rising for a year and no reason to see changes as the recovery continues.
+1333,2021-06-22T13:18:32Z,7,[8.0],[1.0],
+101031,2021-06-22T05:29:32Z,2,[55.0],[7.0],continue the upward trend?
+92079,2021-06-22T03:52:45Z,1,[49.0],[49.0],
+86367,2021-06-22T03:42:37Z,1,[48.0],[48.0],
+95992,2021-06-21T23:10:12Z,2,[75.0],[21.0],
+691,2021-06-21T19:19:09Z,2,[56.0],[4.0],
+16093,2021-06-21T18:25:00Z,1,[80.0],[80.0],
+101467,2021-06-21T14:44:42Z,1,[35.0],[35.0],
+14027,2021-06-21T14:37:37Z,3,[50.0],[3.0],
+101282,2021-06-21T13:28:56Z,1,[67.0],[67.0],"When you look at the prices of Brent Crude, it is important to note that it reached a peak on June 16 2021 -- so I don' think it is enough here to say that ""oil prices have been going up"" -- because they could continue going up until July 16 and still not reach $74.39. So let's go back and look at past peaks and see the outcome one month later:"
+101311,2021-06-21T13:14:15Z,1,[70.0],[70.0],Oil prices have been going up at a steady rate. Because of this it is probable that Brent crude oil will be higher on 16 July 2021 than it was on 16 June 2021.
+89013,2021-06-21T12:07:16Z,1,[49.0],[49.0],
+101036,2021-06-21T05:23:59Z,1,[60.0],[60.0],"hard to pick. current trend is downward from high of june 16th but only a few days lol! Peak auto season in USA, covid restrictions going down so more demand for oil. stocks also low after all the disruption pushing price up. pushing price down is more wells coming back up in US. watch and reforecast often"
+101394,2021-06-21T04:29:32Z,4,[18.0],[-36.0],"US rig counts are consistently coming in over estimates, SA/OPEC+ increasing supply, and possibility of delta variant killing demand. If market is forward looking."
+14027,2021-06-20T19:09:50Z,2,[47.0],[-6.0],The price has declined a little. I'll run with the herd for a couple of days until the oil price makes a move higher or lower.
+62356,2021-06-20T16:01:31Z,1,[100.0],[100.0],
+1333,2021-06-20T14:08:07Z,6,[7.0],[4.0],
+45594,2021-06-20T06:20:16Z,1,[55.0],[55.0],
+87691,2021-06-20T04:40:12Z,1,[100.0],[100.0],
+100608,2021-06-19T20:49:50Z,1,[45.0],[45.0],There's a similar price of oil question launching this weekend - this one has only a month to run. Should be easier to forecast I guess! Demand will be driven by Covid recovery. Supply by the OPEC increasing production during July. For now I'm forcasting that price will go down overall (it's down a dollar in 2 days) but it wil be so volatile. Last year the answer would been YES
+56,2021-06-19T20:19:26Z,1,[40.0],[40.0],Historical and Monte is giving me somewhere between 33-43%.
+14027,2021-06-19T20:16:05Z,1,[53.0],[53.0],"If you want to be in the winner circle at the end of this question you have to go all in now, at either 0% or 100%. If you want to minimize your overall brier score you have to be more circumspect. Having been humbled a couple of times after going all in, I'll stay closer to the crowd. Referring to the Bloomberg source that will decide the answer, and looking over a one-year period, the oil price has increased almost without interruption since October 30, 2020. Having increased in 6 of the past 7 months I'll bet that it will do so one more time, but with a probability of only 53%."
+99857,2021-06-19T19:10:47Z,1,[28.0],[28.0],"""Brent prices were higher in May as global oil inventories continued to decline, albeit at a slower pace than in the first four months of the year. In the coming months, we expect that global oil production will increase to match rising levels of global oil consumption. "" ""We expect rising production will end the persistent global oil inventory draws that have occurred for much of the past year and lead to relatively balanced global oil markets in the second half of 2021"" ""We expect Brent prices will remain near current levels in 3Q21, averaging $68/b."" https://www.eia.gov/outlooks/steo/report/global_oil.php"
+529,2021-06-19T17:58:10Z,1,[48.0],[48.0],"The 6/16/21 $74.39 Brent price is currently the highest since late April 2019. Perhaps not surprisingly the Brent price is currently well above its three-month, 50-day moving average. (https://seekingalpha.com/symbol/CO1:COM)"
+767,2021-06-19T14:24:34Z,1,[70.0],[70.0],
+1333,2021-06-19T11:32:30Z,5,[3.0],[1.0],
+99993,2021-06-18T21:34:03Z,1,[43.0],[43.0],
+94872,2021-06-18T20:09:16Z,1,[47.0],[47.0],
+95992,2021-06-18T19:48:02Z,1,[54.0],[54.0],
+691,2021-06-18T18:20:19Z,1,[52.0],[52.0],
+1333,2021-06-18T18:20:15Z,4,[2.0],[0.0],
+1333,2021-06-18T18:15:20Z,3,[2.0],[1.0],
+100664,2021-06-18T17:18:10Z,1,[100.0],[100.0],
+60695,2021-06-18T16:38:49Z,1,[100.0],[100.0],
+1333,2021-06-18T15:26:01Z,2,[1.0],[0.0],
+25400,2021-06-18T14:13:24Z,1,[0.0],[0.0],
+86554,2021-06-18T14:06:48Z,1,[20.0],[20.0],
+63674,2021-06-18T13:34:02Z,1,[70.0],[70.0],
+80634,2021-06-18T13:09:06Z,1,[25.0],[25.0],
+101031,2021-06-18T12:02:51Z,1,[48.0],[48.0],Purely because currently sitting below but should stay around 70. Will need close monitoring and a focused effort not to anchor. I dont know what I should use for a base rate yet.
+95503,2021-06-18T11:08:39Z,1,[40.0],[40.0],
+88452,2021-06-18T06:41:07Z,1,[0.0],[0.0],
+14266,2021-06-18T05:49:51Z,1,[41.0],[41.0],
+101394,2021-06-18T05:19:51Z,3,[54.0],[-7.0],
+101394,2021-06-18T05:19:22Z,2,[61.0],[17.0],https://www.argusmedia.com/en/news/2224897-mercuria-sees-opec-control-keeping-crude-around-70bl
+81061,2021-06-18T04:57:44Z,1,[45.0],[45.0],
+101394,2021-06-18T04:22:19Z,1,[44.0],[44.0],"So hard to say. On the one hand, supply is growing in the US and OPEC+ while demand should be coming back strong post-pandemic. At this point, it's too far away to be certain of anything but currently sitting lower than 74.39."
+79142,2021-06-18T03:35:07Z,1,[0.0],[0.0],
+1333,2021-06-17T22:58:56Z,1,[1.0],[1.0],

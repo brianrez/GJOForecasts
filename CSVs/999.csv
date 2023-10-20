@@ -1,0 +1,956 @@
+"What will be the Estimated CO2 (carbon dioxide) Daily Global Seasonal Cycle value for 1 December 2020, according to NOAA's Earth System Research Laboratory?",2019-12-20T18:00:47Z,2020-12-01T08:01:47Z,More than 414.00 ppm but less than 416.00 ppm,"['Less than 412.00 ppm', 'Between 412.00 ppm and 414.00 ppm, inclusive', 'More than 414.00 ppm but less than 416.00 ppm', '416.00 ppm or more']",['Environment'],955,654,169,237,,https://www.gjopen.com/questions/1461-what-will-be-the-estimated-co2-carbon-dioxide-daily-global-seasonal-cycle-value-for-1-december-2020-according-to-noaa-s-earth-system-research-laboratory
+95795,2020-12-01T05:15:44Z,1,"[0.0, 50.0, 50.0, 0.0]","[0.0, 50.0, 50.0, 0.0]",
+95393,2020-12-01T04:18:15Z,2,"[0.0, 0.0, 100.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+57797,2020-11-30T22:11:51Z,19,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+75824,2020-11-30T18:09:49Z,8,"[0.0, 1.0, 99.0, 0.0]","[0.0, -11.0, 11.0, 0.0]",
+56170,2020-11-30T18:09:21Z,15,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+29054,2020-11-29T23:23:00Z,8,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+95565,2020-11-29T23:07:58Z,2,"[0.0, 0.0, 100.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+62808,2020-11-28T22:29:18Z,14,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+96210,2020-11-28T21:24:26Z,1,"[0.0, 5.0, 95.0, 0.0]","[0.0, 5.0, 95.0, 0.0]",@mmunsell 414.1042
+80367,2020-11-28T19:42:18Z,6,"[0.0, 0.0, 100.0, 0.0]","[-5.0, -60.0, 70.0, -5.0]",
+79142,2020-11-28T15:06:10Z,9,"[0.0, 0.0, 100.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+43311,2020-11-28T13:44:10Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+4577,2020-11-28T13:06:53Z,13,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]","It will rise above 414 today, and because these values are output from a model that smooths observations, it will not decline again until next spring."
+57797,2020-11-28T09:11:51Z,18,"[0.0, 1.0, 99.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+96847,2020-11-28T04:47:42Z,6,"[0.0, 2.0, 98.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",Currently the value sits at 413.94 in the cycle column and has been increasing by 0.04 ppm for the last week. This combined with the delta combined to last years makes it likely that it will be above 414.00 ppm
+15414,2020-11-27T23:18:44Z,7,"[0.0, 20.0, 80.0, 0.0]","[0.0, -30.0, 30.0, 0.0]","It has only been above 414 once in the last week and twice above 413.5, so the odds of it being at 414.1 or higher on Tuesday are not that great."
+40584,2020-11-27T22:51:02Z,32,"[0.0, 1.0, 99.0, 0.0]","[0.0, -24.0, 24.0, 0.0]",
+80790,2020-11-27T21:09:47Z,7,"[0.0, 1.0, 99.0, 0.0]","[0.0, -12.0, 12.0, 0.0]",
+27661,2020-11-27T19:32:45Z,20,"[0.0, 0.0, 100.0, 0.0]","[0.0, -41.0, 41.0, 0.0]",
+87897,2020-11-27T14:07:27Z,5,"[0.0, 1.0, 99.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+83,2020-11-27T06:03:01Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+691,2020-11-26T15:39:17Z,55,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+56170,2020-11-26T14:46:41Z,14,"[0.0, 1.0, 99.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+172,2020-11-26T13:48:00Z,25,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","413,91 Boom goes the dynamite."
+14107,2020-11-25T22:27:03Z,22,"[0.0, 4.0, 96.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+96318,2020-11-25T22:11:14Z,4,"[0.0, 0.0, 100.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+1333,2020-11-25T19:19:56Z,89,"[0.0, 0.0, 100.0, 0.0]","[-14.0, -40.0, 55.0, -1.0]",
+1333,2020-11-25T19:18:49Z,88,"[14.0, 40.0, 45.0, 1.0]","[-1.0, 0.0, 0.0, 1.0]",
+79461,2020-11-25T18:43:30Z,13,"[0.0, 0.0, 100.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+1333,2020-11-25T14:50:41Z,87,"[15.0, 40.0, 45.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+50395,2020-11-25T14:03:29Z,2,"[0.0, 9.0, 90.0, 1.0]","[-1.0, -23.0, 28.0, -4.0]",
+66742,2020-11-25T13:20:22Z,35,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]","The DGSC is at 413.83 now (23/11) and rising steadily with about 0.04 ppm daily over the past 14 days. At this rate, the estimated CO2 daily global seasonal cycle value should cross the 414.00 ppm value in 5 days. The DGSC value should fall into the third bin around 4 days before the 1 December deadline."
+96847,2020-11-25T02:33:37Z,5,"[0.0, 8.0, 92.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",It looks like the projection is still aiming to be around 414.15 ppm so I will increase the likelyhood
+172,2020-11-25T01:03:12Z,24,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",FYI https://www.theguardian.com/environment/2020/nov/23/climate-crisis-co2-hits-new-record-despite-covid-19-lockdowns
+87854,2020-11-24T23:06:59Z,5,"[0.0, 0.0, 100.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+1333,2020-11-24T21:58:47Z,86,"[15.0, 35.0, 50.0, 0.0]","[15.0, 10.0, -25.0, 0.0]","https://gcaptain.com/surge-greenhouse-gases-ships-covid-19/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Gcaptain+%28gCaptain.com%29&goal=0_f50174ef03-61bb154432-170102337&mc_cid=61bb154432&mc_eid=c74873c672 Levels of carbon dioxide, a product of burning fossil fuels that is the biggest contributor to global warming, touched a new record of 410.5 parts per million in 2019, it said."
+85449,2020-11-24T20:59:07Z,40,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",Updating to confirm rationale. To hit second bucket growth integers over the next 8 days would need to dive from 0.04 to an average of 0.02125: a freak dip not commensurate with previous years or this year's relative high.
+80662,2020-11-24T19:22:03Z,5,"[0.0, 5.0, 95.0, 0.0]","[-98.0, 3.0, 95.0, 0.0]",Interesting that there has been a surge in concentration from the reported Oct value to mid-Nov. Had to immediately revised my estimate after checking a second source.
+80662,2020-11-24T19:14:43Z,4,"[98.0, 2.0, 0.0, 0.0]","[88.0, -78.0, -10.0, 0.0]","Covid 19 decreased fuel use substantially. Current Mauna Loa data at 411 pm. Still up almost 3 from previous year, but not up 4 (my original “guess” was 213."
+87897,2020-11-24T18:17:01Z,4,"[0.0, 3.0, 97.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+62808,2020-11-24T18:05:51Z,13,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-11-24T18:02:37Z,85,"[0.0, 25.0, 75.0, 0.0]","[0.0, -9.0, 9.0, 0.0]",
+29054,2020-11-24T17:30:00Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",
+56170,2020-11-24T17:26:02Z,13,"[0.0, 4.0, 96.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+4577,2020-11-24T16:32:01Z,12,"[0.0, 1.0, 99.0, 0.0]","[0.0, -12.0, 12.0, 0.0]",
+57797,2020-11-24T16:06:13Z,17,"[0.0, 3.0, 97.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+57797,2020-11-24T16:05:51Z,16,"[0.0, 5.0, 95.0, 0.0]","[0.0, -7.0, 7.0, 0.0]",
+691,2020-11-24T15:51:10Z,54,"[0.0, 1.0, 99.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+80475,2020-11-24T15:36:27Z,2,"[0.0, 1.0, 99.0, 0.0]","[0.0, -16.0, 17.0, -1.0]",This past decade the 8-day period from 11/23 to 12/1 has had well over the 17 ppm increase required to hit the 414 ppm threshold
+66742,2020-11-24T14:28:40Z,34,"[0.0, 1.0, 99.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+19127,2020-11-24T14:06:03Z,23,"[0.0, 7.0, 93.0, 0.0]","[-1.0, -50.0, 51.0, 0.0]",
+29054,2020-11-24T03:13:21Z,6,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, -100.0, 0.0]",
+29054,2020-11-24T03:10:04Z,5,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",
+38259,2020-11-23T20:54:28Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+56170,2020-11-23T17:55:09Z,12,"[0.0, 5.0, 95.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+75824,2020-11-23T17:06:55Z,7,"[0.0, 12.0, 88.0, 0.0]","[0.0, -28.0, 28.0, 0.0]",
+16093,2020-11-23T17:05:51Z,2,"[0.0, 20.0, 80.0, 0.0]","[-10.0, -60.0, 70.0, 0.0]",
+20504,2020-11-23T14:37:48Z,17,"[0.0, 0.0, 100.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+79591,2020-11-23T14:07:20Z,6,"[0.0, 0.0, 100.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+86233,2020-11-23T01:34:15Z,11,"[0.0, 5.0, 95.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+86233,2020-11-23T01:20:17Z,10,"[0.0, 8.0, 92.0, 0.0]","[0.0, 6.0, -6.0, 0.0]",
+14237,2020-11-22T20:30:43Z,4,"[0.0, 1.0, 99.0, 0.0]","[-4.0, -94.0, 98.0, 0.0]",
+1333,2020-11-22T14:39:23Z,84,"[0.0, 34.0, 66.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+53391,2020-11-22T13:24:42Z,13,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Looks like ordered categorical scoring will be a benefit on this question. I ave been at 413.95, now at 414.1 since nov 2. I assumed .04 as low bound of rate of increase in te final month. Now it is .04. Rate and if steady we come in at 414.1. If a .03 rate well that is 414.01. Now we will be looking at the differnce between precision and accuracy."
+80790,2020-11-22T12:02:38Z,6,"[0.0, 13.0, 87.0, 0.0]","[0.0, -15.0, 15.0, 0.0]","It’s going to be very close to 414 making the prediction hang in the balance. Currently 10 days to go and the trend value has been increasing recently by about 0.04 each day, meaning a likely increase 0.4 between now and the end of Nov. Current value is 413.7, so this would land us as 414.1, bin 3. To stay in bin 2 the increase needs to slow to 0.03 or less per day, however current rate of increase is in line with last year at the same time so not convinced it will reduce."
+94837,2020-11-22T07:14:09Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+96847,2020-11-22T04:47:34Z,4,"[0.0, 9.0, 91.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",Trend appears to be still on track to be approx. 414.15 ppm
+79142,2020-11-21T23:17:54Z,8,"[0.0, 15.0, 85.0, 0.0]","[0.0, -70.0, 70.0, 0.0]",
+691,2020-11-21T19:00:49Z,53,"[0.0, 2.0, 98.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+56170,2020-11-21T15:13:38Z,11,"[0.0, 8.0, 92.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+1333,2020-11-21T06:09:16Z,83,"[0.0, 35.0, 65.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+92438,2020-11-20T23:43:50Z,2,"[0.0, 23.0, 77.0, 0.0]","[0.0, -42.0, 42.0, 0.0]",
+691,2020-11-20T16:10:09Z,52,"[0.0, 2.0, 98.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+1333,2020-11-20T15:37:50Z,82,"[0.0, 45.0, 55.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+691,2020-11-19T15:48:19Z,51,"[0.0, 3.0, 97.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+56170,2020-11-18T22:13:56Z,10,"[0.0, 9.0, 91.0, 0.0]","[0.0, -49.0, 49.0, 0.0]",
+14107,2020-11-18T21:36:38Z,21,"[0.0, 24.0, 76.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+95565,2020-11-18T14:36:37Z,1,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, 90.0, 0.0]",
+79591,2020-11-18T14:27:49Z,5,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+1333,2020-11-18T14:27:15Z,81,"[0.0, 55.0, 45.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+88743,2020-11-18T10:33:41Z,7,"[0.0, 96.0, 4.0, 0.0]","[0.0, 52.0, -52.0, 0.0]","It's going to be at or very near 414ppm, but I just cannot see it the estimated daily global seasonal cycle and trend value for CO2 (see link in question above) rising above that target."
+22147,2020-11-18T07:00:17Z,3,"[0.0, 10.0, 90.0, 0.0]","[0.0, -10.0, 10.0, 0.0]","My model currently currently has it at ~90% for 414 < co2 < 415. I'm willing to bank on the model at this point. Sadly, I didn't think to save my earlier runs, so I can't back-test it against other dates."
+15414,2020-11-17T19:32:42Z,6,"[0.0, 50.0, 50.0, 0.0]","[0.0, 22.0, -22.0, 0.0]",Time for the actual probability as we are in the last few weeks.
+691,2020-11-17T17:45:47Z,50,"[0.0, 4.0, 96.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+74903,2020-11-17T15:41:32Z,3,"[0.0, 0.0, 100.0, 0.0]","[0.0, -30.0, 40.0, -10.0]",
+172,2020-11-17T01:54:24Z,23,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",
+95252,2020-11-16T22:00:41Z,1,"[0.0, 5.0, 90.0, 5.0]","[0.0, 5.0, 90.0, 5.0]",
+56170,2020-11-16T16:26:48Z,9,"[0.0, 58.0, 42.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+691,2020-11-16T16:07:06Z,49,"[0.0, 4.0, 96.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+1333,2020-11-16T15:29:12Z,80,"[0.0, 65.0, 35.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+68294,2020-11-16T03:22:28Z,12,"[0.0, 1.0, 99.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",Latest 4cast based on data up through yesterday.
+95444,2020-11-15T20:55:01Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+62808,2020-11-15T20:24:02Z,12,"[0.0, 0.0, 100.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+691,2020-11-15T15:30:24Z,48,"[0.0, 6.0, 94.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+66692,2020-11-15T13:38:55Z,15,"[0.0, 0.0, 100.0, 0.0]","[0.0, -40.0, 40.0, 0.0]",
+66692,2020-11-15T13:37:53Z,14,"[0.0, 40.0, 60.0, 0.0]","[0.0, -60.0, 60.0, 0.0]",
+87827,2020-11-15T13:11:41Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+96847,2020-11-14T23:25:01Z,3,"[0.0, 10.0, 90.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","When you compare the increase from last year over the last 30 days, then you can see a trend develop. Currently the annual increase is sitting around 2.76 ppm (when compared to the same date last year). This value is generally slow moving. The present increase is 2.76 ppm, which would put the Dec 1 value at 414.17. There is still 2 weeks though and I will keep an eye on the number."
+66742,2020-11-14T17:53:21Z,33,"[0.0, 5.0, 95.0, 0.0]","[0.0, -12.0, 12.0, 0.0]",
+66742,2020-11-14T17:52:36Z,32,"[0.0, 17.0, 83.0, 0.0]","[0.0, -7.0, 7.0, 0.0]",
+66742,2020-11-14T17:50:02Z,31,"[0.0, 24.0, 76.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+1646,2020-11-14T15:53:45Z,9,"[0.0, 0.0, 100.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+1646,2020-11-14T15:31:37Z,8,"[0.0, 5.0, 95.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+87897,2020-11-14T15:28:44Z,3,"[0.0, 5.0, 95.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+691,2020-11-14T15:15:59Z,47,"[0.0, 6.0, 94.0, 0.0]","[0.0, -22.0, 22.0, 0.0]","Turns out I've been looking at the wrong data set. If I had any capacity for humility, this would probably trigger it. Looks pretty solid for the 414-416 range, and has for a while."
+28899,2020-11-14T13:22:30Z,18,"[0.0, 0.0, 100.0, 0.0]","[0.0, -35.0, 35.0, 0.0]",
+95265,2020-11-14T03:27:19Z,1,"[0.0, 27.0, 73.0, 0.0]","[0.0, 27.0, 73.0, 0.0]",
+33035,2020-11-13T20:07:44Z,8,"[0.0, 24.0, 76.0, 0.0]","[0.0, -21.0, 21.0, 0.0]",
+22689,2020-11-13T19:11:28Z,6,"[0.0, 0.0, 100.0, 0.0]","[0.0, -90.0, 90.0, 0.0]",
+87897,2020-11-13T16:23:13Z,2,"[0.0, 13.0, 87.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+691,2020-11-13T15:23:04Z,46,"[0.0, 28.0, 72.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+57797,2020-11-13T14:57:15Z,15,"[0.0, 12.0, 88.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+15414,2020-11-13T04:17:51Z,5,"[0.0, 28.0, 72.0, 0.0]","[0.0, -44.0, 44.0, 0.0]",It is 50/50 but I need to adjust for my earlier optimism.
+66742,2020-11-12T22:40:22Z,30,"[0.0, 32.0, 68.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+66742,2020-11-12T22:38:02Z,29,"[0.0, 34.0, 66.0, 0.0]","[0.0, -14.0, 14.0, 0.0]",My model flipped.
+87854,2020-11-12T15:13:19Z,4,"[0.0, 10.0, 90.0, 0.0]","[0.0, -35.0, 35.0, 0.0]",
+691,2020-11-12T14:52:12Z,45,"[0.0, 34.0, 66.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+88452,2020-11-12T14:22:06Z,14,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","There is an amount of .69ppm outstanding to cross the threshold between the second bin and the third bin in 2020. In 2019, after 14 November's value, the time series added .72ppm until 01 December 2019. In a disruptive year statistically, this puts us ahead three days of cyclical CO2 emissions versus last year as of today, which in consequence means the value will almost surely be higher than 414.00ppm on resolution."
+88743,2020-11-12T11:55:42Z,6,"[0.0, 44.0, 56.0, 0.0]","[-1.0, -40.0, 42.0, -1.0]",Just realised that <412ppm and >416ppm are impossible with the smoothed seasonal trend rather than spot measurements. Doh! Should have noticed that months ago. Looks like it's going to be on or just over 414ppm.
+27661,2020-11-12T10:50:16Z,19,"[0.0, 41.0, 59.0, 0.0]","[0.0, -9.0, 9.0, 0.0]",
+96847,2020-11-12T00:57:01Z,2,"[0.0, 10.0, 90.0, 0.0]","[0.0, -60.0, 60.0, 0.0]","I looked at last years value which was 411.41 ppm. I then compared the amount by which a value increased from the previous year and was able to create distributions, which are generally in the range of 2-3 ppm per year."
+95229,2020-11-11T19:29:30Z,1,"[0.0, 24.0, 76.0, 0.0]","[0.0, 24.0, 76.0, 0.0]",
+14107,2020-11-11T17:40:37Z,20,"[0.0, 26.0, 74.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+57797,2020-11-11T14:04:52Z,14,"[0.0, 13.0, 87.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+28899,2020-11-11T11:10:30Z,17,"[0.0, 35.0, 65.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",
+86233,2020-11-10T22:25:52Z,9,"[0.0, 2.0, 98.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+22689,2020-11-10T19:09:58Z,5,"[0.0, 90.0, 10.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+691,2020-11-10T16:33:15Z,44,"[0.0, 42.0, 58.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+85449,2020-11-10T14:37:26Z,39,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","NOAA seem to be constantly revising upwards, so as of now, the next 22 days need to average a rise of only 0.035 to reach 414. Over the last few previous years daily integers have dipped to 0.03 for just a few days before rising back to 0.04. Unless we experience a rogue 11 day trough at 0.03ppm per day or a shorter trough where the daily growth integer dips to 0.02, est ppm on Dec 1st will be 414 or above."
+95444,2020-11-10T11:58:38Z,6,"[0.0, 8.0, 92.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+691,2020-11-09T16:56:17Z,43,"[0.0, 32.0, 68.0, 0.0]","[0.0, -9.0, 9.0, 0.0]",
+172,2020-11-09T14:27:57Z,22,"[0.0, 100.0, 0.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+95444,2020-11-09T07:18:17Z,5,"[0.0, 10.0, 90.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+96847,2020-11-09T04:51:54Z,1,"[0.0, 70.0, 30.0, 0.0]","[0.0, 70.0, 30.0, 0.0]","The data from Mauna Loa showed 411.07 ppm for Dec 1, 2019 On average the increase _thus far_ has been around 2-3 ppm per year If we assume an increase of approximately 2.5 or 2.75, then it will be very likely that it is less than 414 ppm."
+79461,2020-11-09T03:48:25Z,12,"[0.0, 15.0, 85.0, 0.0]","[0.0, -65.0, 65.0, 0.0]",
+22689,2020-11-09T02:06:12Z,4,"[0.0, 80.0, 20.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+95255,2020-11-09T00:40:18Z,1,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, 90.0, 0.0]",
+172,2020-11-08T23:53:10Z,21,"[0.0, 85.0, 15.0, 0.0]","[0.0, 30.0, -30.0, 0.0]",
+87854,2020-11-08T22:27:41Z,3,"[0.0, 45.0, 55.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+40584,2020-11-08T19:25:41Z,31,"[0.0, 25.0, 75.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",4.10
+95393,2020-11-08T18:26:15Z,1,"[0.0, 15.0, 85.0, 0.0]","[0.0, 15.0, 85.0, 0.0]",
+27661,2020-11-08T15:19:15Z,18,"[0.0, 50.0, 50.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+691,2020-11-08T14:58:44Z,42,"[0.0, 41.0, 59.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+86233,2020-11-08T02:02:56Z,8,"[0.0, 4.0, 96.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+87897,2020-11-08T01:15:48Z,1,"[0.0, 14.0, 86.0, 0.0]","[0.0, 14.0, 86.0, 0.0]",
+88569,2020-11-07T22:43:49Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+68294,2020-11-07T17:22:14Z,11,"[0.0, 4.0, 96.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",Updating based on the last week's data
+691,2020-11-07T16:30:05Z,41,"[0.0, 42.0, 58.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+66742,2020-11-07T15:01:09Z,28,"[0.0, 48.0, 52.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+28899,2020-11-07T07:30:46Z,16,"[0.0, 15.0, 85.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+34815,2020-11-07T04:52:05Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+4577,2020-11-06T20:34:46Z,11,"[0.0, 13.0, 87.0, 0.0]","[0.0, -46.0, 46.0, 0.0]",
+691,2020-11-06T15:05:59Z,40,"[0.0, 50.0, 50.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+53391,2020-11-05T22:46:03Z,12,"[0.0, 0.0, 100.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",Nov 4 is 412.3. So .04 per day for 27 days puts it at 413.98. .04 is a low bound for daily cycle so it does indeed look like the final value at close of dec 1 will be above 414.
+88569,2020-11-05T17:40:09Z,6,"[0.0, 2.0, 98.0, 0.0]","[0.0, -18.0, 18.0, 0.0]",
+691,2020-11-05T14:43:34Z,39,"[0.0, 52.0, 48.0, 0.0]","[0.0, -18.0, 18.0, 0.0]",
+33035,2020-11-05T14:38:36Z,7,"[0.0, 45.0, 55.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+85449,2020-11-05T13:20:46Z,38,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Update from previous rationale: NOAA figures have been adjusted back and forth over the last couple of days, but if today’s reading for yesterday is correct at 412.9, readings only need to hit two more days of growth at 0.05 and the rest to hit 0.04 for ppm to reach 414 by Dec 1st. Since consolidated daily readings haven’t yet dipped to 0.04 and are only just starting to dip from 0.06 to 0.05, it seems even more unlikely to me that they will dip below the 27 day average of 0.04074074 necessary to reach 414. Given the excessive high this year and grievous damage to global carbon sinks, I see no reason to expect greater slowing than usual."
+87827,2020-11-05T12:42:10Z,6,"[0.0, 5.0, 95.0, 0.0]","[0.0, -25.0, 25.0, 0.0]",Looking increasingly unlikely it'll go below 414.
+31251,2020-11-05T11:12:07Z,7,"[0.0, 40.0, 60.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+172,2020-11-05T00:36:35Z,20,"[0.0, 55.0, 45.0, 0.0]","[0.0, -44.0, 44.0, 0.0]",I’ve been clinging to 413.8 but per others trending slightly over 414. Believe it will be close to 414 boundary
+40584,2020-11-04T21:36:50Z,30,"[0.0, 40.0, 60.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+14107,2020-11-04T21:34:36Z,19,"[0.0, 30.0, 70.0, 0.0]","[0.0, -12.0, 12.0, 0.0]",
+28899,2020-11-04T14:10:01Z,15,"[0.0, 25.0, 75.0, 0.0]","[0.0, -25.0, 25.0, 0.0]",
+87628,2020-11-04T08:09:57Z,2,"[0.0, 0.0, 100.0, 0.0]","[-20.0, -80.0, 100.0, 0.0]",
+95444,2020-11-04T06:07:12Z,4,"[0.0, 20.0, 80.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+88743,2020-11-03T19:36:46Z,5,"[1.0, 84.0, 14.0, 1.0]","[-5.0, 0.0, 5.0, 0.0]",
+96318,2020-11-03T11:04:18Z,3,"[0.0, 10.0, 90.0, 0.0]","[-3.0, -56.0, 59.0, 0.0]",
+87827,2020-11-02T17:12:43Z,5,"[0.0, 30.0, 70.0, 0.0]","[0.0, -30.0, 30.0, 0.0]",Switching the other way now. It still looks to me like years that exceed trend have slower growth relative to years that don't but it's just looking more and more unlikely that it stays under 414.
+90457,2020-11-02T15:36:32Z,3,"[0.0, 76.0, 24.0, 0.0]","[0.0, -11.0, 11.0, 0.0]",
+57797,2020-11-02T14:18:45Z,13,"[0.0, 15.0, 85.0, 0.0]","[0.0, -23.0, 23.0, 0.0]",
+88569,2020-11-01T19:21:26Z,5,"[0.0, 20.0, 80.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+31679,2020-11-01T19:06:21Z,6,"[0.0, 12.0, 88.0, 0.0]","[0.0, -46.0, 46.0, 0.0]","At 412.68 for 2020-10-31. Here's more data, with the 414 arbitrarily set for this year:"
+56170,2020-11-01T14:53:59Z,8,"[0.0, 78.0, 22.0, 0.0]","[0.0, 73.0, -73.0, 0.0]",
+66742,2020-11-01T13:43:06Z,27,"[0.0, 52.0, 48.0, 0.0]","[0.0, -18.0, 18.0, 0.0]","I am returning to my model again ... at some point, I had let it go. I am trying a combination of a linear model and arima."
+86233,2020-10-31T23:55:50Z,7,"[0.0, 5.0, 95.0, 0.0]","[0.0, -70.0, 70.0, 0.0]",
+88569,2020-10-31T21:05:53Z,4,"[0.0, 22.0, 78.0, 0.0]","[0.0, 22.0, -22.0, 0.0]","Lowering odds in the >414 bin. After testing my methodology on previous years, I have less confidence in it, as described here: https://clyborthreports.wordpress.com/2020/10/31/update-to-forecast-of-the-estimated-co2-daily-global-seasonal-cycle-value-for-december-1st-2020/"
+88766,2020-10-31T17:15:32Z,15,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",
+87064,2020-10-31T08:21:26Z,11,"[0.0, 0.0, 100.0, 0.0]","[0.0, -50.0, 50.0, 0.0]",
+92438,2020-10-30T22:55:49Z,1,"[0.0, 65.0, 35.0, 0.0]","[0.0, 65.0, 35.0, 0.0]",
+88569,2020-10-30T22:23:15Z,3,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","I'm very late to this question, but since the crowd forecast doesn't show a ton of confidence in the outcome I decided to go for it. Here's my methodology: https://theclyborthcorporation.wordpress.com/forecast-of-the-estimated-co2-carbon-dioxide-daily-global-seasonal-cycle-value-for-december-1st-2020/"
+88569,2020-10-30T20:18:35Z,2,"[0.0, 0.0, 100.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+87064,2020-10-30T19:16:10Z,10,"[0.0, 50.0, 50.0, 0.0]","[0.0, -50.0, 50.0, 0.0]",
+88569,2020-10-30T18:48:22Z,1,"[0.0, 15.0, 85.0, 0.0]","[0.0, 15.0, 85.0, 0.0]",
+1333,2020-10-30T18:13:09Z,79,"[0.0, 75.0, 25.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+1333,2020-10-30T18:12:25Z,78,"[0.0, 85.0, 15.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+38094,2020-10-30T16:19:40Z,22,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]","Paradigm shift. Somewhere in August /Sept the older data changed biasing it higher. That is the older values were restated at some later date. I failed to refresh ALL my data at each forecast - foolishly appending new data to old. Lesson learned. ALWAYS refresh all your data from the source. Do Not assume ""old"" data will be static and not be restated as this was. I've paid the Brier price for this shortcut."
+68294,2020-10-30T03:08:50Z,10,"[0.0, 7.0, 93.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",Adjusted up again after looking at the prediction interval projected for 12/1/20
+68294,2020-10-30T03:07:55Z,9,"[0.0, 10.0, 90.0, 0.0]","[0.0, -23.0, 23.0, 0.0]","Updating based on confirmation from new 4cast. Winter's method extrapolation shows that the peak should be within the 414 to 416 range. Hedging a little by aggregating with several other peers. I notice that others (@Chartreuse, @Stark20, etc) have plotted out the curves (I assume) and noted the strong seasonal component in the forecast too."
+20504,2020-10-30T01:11:57Z,16,"[0.0, 1.0, 99.0, 0.0]","[0.0, -29.0, 29.0, 0.0]",https://www.gjopen.com/comments/1171197
+20504,2020-10-30T01:06:14Z,15,"[0.0, 30.0, 70.0, 0.0]","[0.0, -2.0, 2.0, 0.0]","-2% to 412-414, +2% to 414-416"
+56,2020-10-29T21:56:10Z,11,"[0.0, 0.0, 100.0, 0.0]","[0.0, -25.0, 25.0, 0.0]","This was my forecast for months, but the slow rise off the bottom had me second guessing myself. I think it's accelerating enough now, see @Chartreuse."
+53391,2020-10-29T21:01:55Z,11,"[0.0, 20.0, 80.0, 0.0]","[0.0, -80.0, 80.0, 0.0]",I hope this is my last adjustment. I was so sure it would be 413.95. But looking at today figures and cycle rate it looks like just a but over 414. If the world there is another national llckdown then that could drag the rate down just enough to under 414. It is possible that in two more weeks such a lockdown happens. So i am splitting 80/20.
+85449,2020-10-29T20:06:50Z,37,"[0.0, 0.0, 100.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",https://www.gjopen.com/comments/1171407
+95444,2020-10-29T20:02:26Z,3,"[0.0, 40.0, 60.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+691,2020-10-29T15:24:29Z,38,"[0.0, 70.0, 30.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+85449,2020-10-29T15:24:28Z,36,"[0.0, 3.0, 97.0, 0.0]","[0.0, -25.0, 25.0, 0.0]","Have been comparing average daily growth integers between Oct 1st & Oct 28th vs Oct 28th and Dec 1st in previous years. If growth pattern continues to replicate 2018 (so far the closest), ppm will hit 414.3 by Dec 1st. Ditto 2019 pattern. 2017 saw sharper decline in growth integers between Oct 28th and Dec 1st, but even if 2020 saw similar sudden drop, Dec 1 would only just scrape under 414ppm at 413.992. Given swift recovery of China's post-covid industry, continuous recordbreaking wildfires & failure of permafrost, am a sliver away from going all in again. Only need to hit an average of 0.046 over next 34 days to reach 414 and we're still at 0.06 daily increase."
+14107,2020-10-28T21:03:06Z,18,"[0.0, 42.0, 58.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+20504,2020-10-28T03:43:45Z,14,"[0.0, 32.0, 68.0, 0.0]","[0.0, -3.0, 3.0, 0.0]","-3% to 412-414, +3% to 414-416"
+1333,2020-10-27T10:37:54Z,77,"[0.0, 87.0, 13.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+85449,2020-10-26T23:21:32Z,35,"[0.0, 28.0, 72.0, 0.0]","[0.0, -14.0, 14.0, 0.0]",
+95444,2020-10-26T17:07:56Z,2,"[0.0, 45.0, 55.0, 0.0]","[0.0, -30.0, 30.0, 0.0]",
+20504,2020-10-26T16:36:32Z,13,"[0.0, 35.0, 65.0, 0.0]","[0.0, -5.0, 5.0, 0.0]","-5% to 412-414, +5% to 414-416"
+57797,2020-10-26T14:43:08Z,12,"[0.0, 38.0, 62.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+87854,2020-10-26T12:33:27Z,2,"[0.0, 30.0, 70.0, 0.0]","[0.0, -50.0, 50.0, 0.0]",
+172,2020-10-25T22:45:21Z,19,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",This is going to be very close to 414. Sticking to 413.8 forecast
+27661,2020-10-25T19:57:44Z,17,"[0.0, 52.0, 48.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+85449,2020-10-25T00:14:12Z,34,"[0.0, 42.0, 58.0, 0.0]","[0.0, -31.0, 31.0, 0.0]",
+20504,2020-10-24T17:57:45Z,12,"[0.0, 40.0, 60.0, 0.0]","[0.0, -5.0, 5.0, 0.0]","-5% to 412-414, +5% to 414-416. 10 day average increase is .063 daily and needs to avg .051 ppm daily or less to stay under 414 ppm by 12/1."
+79142,2020-10-24T14:37:38Z,7,"[0.0, 85.0, 15.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+38094,2020-10-24T02:53:35Z,21,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0]","I'll follow Alfred E. Neuman on this one, ""what me worry?""."
+691,2020-10-23T17:46:37Z,37,"[0.0, 70.0, 30.0, 0.0]","[0.0, 6.0, -6.0, 0.0]",
+20504,2020-10-23T13:31:24Z,11,"[0.0, 45.0, 55.0, 0.0]","[0.0, -30.0, 30.0, 0.0]","-30% to 412-414, +30% to 414-416. Daily increase in levels would need to avg .052 or less to keep ppm below 414ppm. 10 day avg is .063/day and trending down slowly, Too slowly."
+88452,2020-10-23T11:28:22Z,13,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",Brazil authority Ibama stopped extinguishing the fires in the amazon region due to being cash-strapped.
+38094,2020-10-23T02:23:05Z,20,"[0.0, 99.0, 1.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+27661,2020-10-22T10:08:09Z,16,"[0.0, 54.0, 46.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+28899,2020-10-22T01:41:23Z,14,"[0.0, 50.0, 50.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+40584,2020-10-21T23:20:08Z,29,"[0.0, 60.0, 40.0, 0.0]","[0.0, 35.0, -35.0, 0.0]",413.962. Revised my methodology and it swapped me back into the lower bucket. But very close to the threshold.
+85449,2020-10-21T20:09:23Z,33,"[0.0, 73.0, 27.0, 0.0]","[0.0, 24.0, -24.0, 0.0]",Edit: had a wobble.
+20504,2020-10-21T19:18:09Z,10,"[0.0, 75.0, 25.0, 0.0]","[0.0, -10.0, 10.0, 0.0]","-10% to 412-414, +10% to 414-416"
+68294,2020-10-21T18:11:06Z,8,"[0.0, 33.0, 67.0, 0.0]","[0.0, -11.0, 11.0, 0.0]","Updated after new forecast. Used Saatopa et al's approach for aggregating my prior forecast with the crowd, and my new ETS run from today."
+38094,2020-10-21T15:40:38Z,19,"[0.0, 98.0, 2.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+691,2020-10-21T15:20:37Z,36,"[0.0, 64.0, 36.0, 0.0]","[0.0, -7.0, 7.0, 0.0]",
+66742,2020-10-21T08:45:43Z,26,"[0.0, 70.0, 30.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+88766,2020-10-20T15:54:01Z,14,"[0.0, 100.0, 0.0, 0.0]","[0.0, 9.0, -9.0, 0.0]",
+96318,2020-10-20T15:53:43Z,2,"[3.0, 66.0, 31.0, 0.0]","[3.0, 19.0, -22.0, 0.0]",
+53391,2020-10-20T12:42:51Z,10,"[0.0, 100.0, 0.0, 0.0]","[0.0, 30.0, -30.0, 0.0]",Very confident under 414. Like 413.9. Eliminating 30% for the 414 to 416 category.
+38094,2020-10-20T01:23:35Z,18,"[0.0, 97.0, 3.0, 0.0]","[0.0, 12.0, -12.0, 0.0]",Going back to my original assumptions with fingers crossed.
+14237,2020-10-19T18:25:24Z,3,"[4.0, 95.0, 1.0, 0.0]","[4.0, 91.0, -95.0, 0.0]",
+85449,2020-10-19T14:32:28Z,32,"[0.0, 49.0, 51.0, 0.0]","[0.0, -46.0, 46.0, 0.0]",
+85449,2020-10-19T13:42:04Z,31,"[0.0, 95.0, 5.0, 0.0]","[-1.0, -4.0, 5.0, 0.0]",
+79461,2020-10-19T03:16:29Z,11,"[0.0, 80.0, 20.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+96318,2020-10-18T17:27:56Z,1,"[0.0, 47.0, 53.0, 0.0]","[0.0, 47.0, 53.0, 0.0]",
+88766,2020-10-18T14:27:58Z,13,"[0.0, 91.0, 9.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+62808,2020-10-18T12:53:51Z,11,"[0.0, 20.0, 80.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+28899,2020-10-18T09:58:20Z,13,"[0.0, 47.0, 53.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+38094,2020-10-18T01:13:25Z,17,"[0.0, 85.0, 15.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",Juggling the numbers no new ideas.
+87854,2020-10-17T10:23:25Z,1,"[0.0, 80.0, 20.0, 0.0]","[0.0, 80.0, 20.0, 0.0]",
+88766,2020-10-16T19:16:44Z,12,"[0.0, 89.0, 11.0, 0.0]","[0.0, -11.0, 11.0, 0.0]",
+85449,2020-10-16T18:36:14Z,30,"[1.0, 99.0, 0.0, 0.0]","[1.0, -1.0, 0.0, 0.0]",Edit: Pressed the 1% for 'Less than 412.00' by accident. As if I haven't already messed this one up enough.
+85449,2020-10-16T18:35:11Z,29,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, -100.0, 0.0]",
+172,2020-10-16T14:26:41Z,18,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",My forecast number comes in just under 414 (413.8) but acknowledge it will be close.
+38094,2020-10-16T02:49:02Z,16,"[0.0, 80.0, 20.0, 0.0]","[0.0, -19.0, 19.0, 0.0]",
+95444,2020-10-15T14:07:50Z,1,"[0.0, 75.0, 25.0, 0.0]","[0.0, 75.0, 25.0, 0.0]",
+56,2020-10-15T04:12:21Z,10,"[0.0, 25.0, 75.0, 0.0]","[0.0, -40.0, 40.0, 0.0]",
+691,2020-10-14T19:31:56Z,35,"[0.0, 71.0, 29.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+27661,2020-10-14T08:36:38Z,15,"[0.0, 55.0, 45.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+19127,2020-10-12T22:52:45Z,22,"[1.0, 57.0, 42.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+1646,2020-10-12T22:14:01Z,7,"[0.0, 15.0, 85.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+68294,2020-10-12T21:01:35Z,7,"[0.0, 44.0, 56.0, 0.0]","[0.0, -41.0, 41.0, 0.0]",My ETS forecast is shifting again based on the data. Aggregated with the crowd and my prior result for today's estimate. Will be updating these more frequently going forward.
+73674,2020-10-12T15:55:38Z,3,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",
+75824,2020-10-12T14:03:36Z,6,"[0.0, 40.0, 60.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+87827,2020-10-12T13:22:22Z,4,"[0.0, 60.0, 40.0, 0.0]","[0.0, -25.0, 25.0, 0.0]","Reducing confidence by a decent amount. Initially I was looking at just the trend line which has been very consistent for December 1st and would put it under 414. But others have noted the peak in April or May usually ends up pretty close to the December 1st value, and this year that value was well over 414 and exceeded the trend quite a bit. On the other hand though I took a look at September and October 1st, and September 1st is on trend but October 1st is over trend. But looking at the October 1st to December 1st gain each year, the years where October 1st is over trend appear to have lower gains from October to December. I'm thinking the data is a bit noisy and the trend is probably the most reliable. But the April-May peak matching fairly close with the December 1st value is leading me to be much less confident and it could go either way."
+88743,2020-10-11T20:53:43Z,4,"[6.0, 84.0, 9.0, 1.0]","[-1.0, 3.0, -2.0, 0.0]",
+40584,2020-10-09T16:20:59Z,28,"[0.0, 25.0, 75.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",Estimate 414.16
+1333,2020-10-08T14:10:40Z,76,"[0.0, 87.0, 13.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+691,2020-10-07T19:48:25Z,34,"[0.0, 69.0, 31.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+14107,2020-10-07T18:15:41Z,17,"[0.0, 45.0, 55.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+57797,2020-10-07T11:04:40Z,11,"[0.0, 40.0, 60.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+27661,2020-10-07T08:08:13Z,14,"[0.0, 56.0, 44.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+1333,2020-10-07T06:08:24Z,75,"[0.0, 86.0, 14.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+31679,2020-10-07T06:03:08Z,5,"[0.0, 58.0, 42.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",Updating for passage of time.
+53391,2020-10-06T19:48:08Z,9,"[0.0, 70.0, 30.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",Still 413.9.
+56170,2020-10-06T14:08:33Z,7,"[0.0, 5.0, 95.0, 0.0]","[0.0, -62.0, 62.0, 0.0]",
+40584,2020-10-05T23:40:37Z,27,"[0.0, 30.0, 70.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",Estimate 414.16. Maintaining my prediction at 70/30.
+27661,2020-10-05T09:09:24Z,13,"[0.0, 55.0, 45.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+31802,2020-10-04T09:16:30Z,13,"[0.0, 15.0, 85.0, 0.0]","[0.0, -50.0, 50.0, 0.0]",
+4577,2020-10-03T20:57:26Z,10,"[0.0, 59.0, 41.0, 0.0]","[0.0, -22.0, 22.0, 0.0]",
+56170,2020-10-03T16:48:12Z,6,"[0.0, 67.0, 33.0, 0.0]","[0.0, 19.0, -19.0, 0.0]",
+56,2020-10-02T19:56:33Z,9,"[0.0, 65.0, 35.0, 0.0]","[0.0, 45.0, -45.0, 0.0]",Changing my mind.
+31251,2020-10-02T08:05:44Z,6,"[0.0, 50.0, 50.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",
+90457,2020-10-01T17:39:10Z,2,"[0.0, 87.0, 13.0, 0.0]","[0.0, 44.0, -44.0, 0.0]",
+28899,2020-10-01T15:06:00Z,12,"[0.0, 57.0, 43.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",
+28899,2020-10-01T15:01:52Z,11,"[0.0, 50.0, 50.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+28899,2020-10-01T15:01:16Z,10,"[0.0, 70.0, 30.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",
+27661,2020-10-01T07:43:26Z,12,"[0.0, 54.0, 46.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+66742,2020-09-30T06:47:29Z,25,"[0.0, 67.0, 33.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+66742,2020-09-30T06:46:44Z,24,"[0.0, 65.0, 35.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+27661,2020-09-29T08:50:57Z,11,"[0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-09-28T11:19:48Z,74,"[0.0, 85.0, 15.0, 0.0]","[-1.0, 0.0, 1.0, 0.0]",
+40584,2020-09-27T19:32:54Z,26,"[0.0, 30.0, 70.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",Currently estimating 414.1 which is now 3 consecutive upward adjustments.
+25601,2020-09-27T12:51:40Z,1,"[20.0, 60.0, 15.0, 5.0]","[20.0, 60.0, 15.0, 5.0]",
+28899,2020-09-23T21:27:09Z,9,"[0.0, 50.0, 50.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+68294,2020-09-23T20:23:44Z,6,"[0.0, 85.0, 15.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",Pulled updated data from the NOAA website and reran my Winter's Method algo. Over time I have been steadily downshifting from > than 414 ppm to less than this. I am hypothesizing that the CO2 levels have dropped lower than I originally expected due to less human activity due to the pandemic? Seems plausible but cannot prove it.
+20504,2020-09-22T22:50:58Z,9,"[0.0, 85.0, 15.0, 0.0]","[0.0, 25.0, -25.0, 0.0]","I don't know much about climatology and would love to hear a counter opinion to mine. The YOY (year over year) changes from various recent dates, for instance 9/15, comparing 2018-2019 (+3.1) and 2019-2020 (+1.95) the change in ppm is smaller. Seems fairly consistent with a lower range of 412-414 given that 12/1/2019 was 411.41 (up 2.53 from the year before) and the YOY changes are less in recent 2020 than last year. +25% to 412-414, -25% to 414-416."
+40584,2020-09-21T21:57:09Z,25,"[0.0, 45.0, 55.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",Current estimate: 14.05 with the crossover at 11/29. Wow it's close!!
+691,2020-09-21T20:31:39Z,33,"[0.0, 68.0, 32.0, 0.0]","[0.0, 8.0, -8.0, 0.0]",
+27661,2020-09-21T15:23:02Z,10,"[0.0, 55.0, 45.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+53391,2020-09-21T13:55:59Z,8,"[0.0, 90.0, 10.0, 0.0]","[0.0, 20.0, -20.0, 0.0]","I am a little more confident the result will be under 414, like 413.95. But still a chance the cycle accelerates in october and november over historical trend for the time period."
+85449,2020-09-21T13:50:48Z,28,"[0.0, 0.0, 100.0, 0.0]","[0.0, -30.0, 30.0, 0.0]","Thanks again, @SE_Meyer for invaluable info on effect of wildfires. Going all in to compensate for vacillation."
+88452,2020-09-20T13:35:33Z,12,"[0.0, 0.0, 100.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",Data as of 19 September 2020:
+85449,2020-09-20T05:48:28Z,27,"[0.0, 30.0, 70.0, 0.0]","[0.0, 23.0, -23.0, 0.0]",
+79142,2020-09-19T03:53:51Z,6,"[0.0, 80.0, 20.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+28899,2020-09-19T02:26:46Z,8,"[0.0, 65.0, 35.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+66742,2020-09-18T18:33:48Z,23,"[0.0, 62.0, 38.0, 0.0]","[-1.0, 3.0, -2.0, 0.0]",
+27661,2020-09-18T10:13:22Z,9,"[0.0, 60.0, 40.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+1333,2020-09-18T09:23:46Z,73,"[1.0, 85.0, 14.0, 0.0]","[0.0, 14.0, -14.0, 0.0]",
+88743,2020-09-17T12:43:55Z,3,"[7.0, 81.0, 11.0, 1.0]","[-16.0, 8.0, 8.0, 0.0]","Getting closer and I can see nothing abnormal on NOAA's plot (relative to the existed trend), so I'm tightening the spread."
+38094,2020-09-16T23:00:32Z,15,"[0.0, 99.0, 1.0, 0.0]","[0.0, 9.0, -9.0, 0.0]",It is the 'cycle' data value that will be judged on 12/1/2020 Year month day cycle trend 2020 9 9 409.26 413.01 2020 9 15 409.49 413.03 The forest fires do not appear to drive the trend at this time.
+14107,2020-09-16T20:17:45Z,16,"[0.0, 50.0, 50.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+40584,2020-09-16T13:29:41Z,24,"[0.0, 65.0, 35.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+66742,2020-09-16T07:36:24Z,22,"[1.0, 59.0, 40.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+75824,2020-09-16T02:34:34Z,5,"[0.0, 45.0, 55.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+22689,2020-09-15T23:05:28Z,3,"[0.0, 65.0, 35.0, 0.0]","[0.0, 30.0, -30.0, 0.0]",
+80790,2020-09-15T21:55:10Z,5,"[0.0, 28.0, 72.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Rates have been increasing about just over 2ppm per year, and Dec 19 was at 411.5ish This gives us somewhere in the region of 413.5 to 414, but could be very borderline at 414. Am maintaining bin 3 higher forecast in the bet that rates are generally increasing and we’ll get more than 2.5ppm increase this year. But it’s a gamble!"
+27661,2020-09-15T16:26:48Z,8,"[0.0, 55.0, 45.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+691,2020-09-15T14:59:16Z,32,"[0.0, 60.0, 40.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+28899,2020-09-15T12:11:04Z,7,"[0.0, 60.0, 40.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+57797,2020-09-15T11:15:43Z,10,"[0.0, 45.0, 55.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",
+66692,2020-09-15T09:53:25Z,13,"[0.0, 100.0, 0.0, 0.0]","[0.0, 60.0, -60.0, 0.0]",I have not been following this one closely enough.
+27661,2020-09-14T07:22:23Z,7,"[0.0, 50.0, 50.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+85449,2020-09-14T07:00:15Z,26,"[0.0, 7.0, 93.0, 0.0]","[0.0, -44.0, 44.0, 0.0]","The data change & optimistic crowd forecast gave me a wobble after some time away from this, but, again, @SE_Meyer has added to the bank of rationale - this time for tipping over 414, as per my calculations & original hard position. I'll be keeping an eye on this, but to summarise, we're already in a bad place with the worst of Australia's second fire season yet to come + ice melting at an unprecedented rate."
+172,2020-09-14T01:40:56Z,17,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Forecasting very close to 414,00. Will need to keep track as could tip over to +414"
+33035,2020-09-13T13:02:55Z,6,"[0.0, 55.0, 45.0, 0.0]","[0.0, 14.0, -14.0, 0.0]",
+88452,2020-09-13T08:22:01Z,11,"[0.0, 15.0, 85.0, 0.0]","[0.0, -85.0, 85.0, 0.0]","I decided to switch again, reading about the new report by UN/WMO and its painting rather pessimistic picture of the situation just this morning is the trigger (haven't had time to look at the report itself). One of the key findings is that the pandemic effect exists (reduction of CO2 emissions due to temporarily reduced economic activity), but it will not last and will be smallish. https://public.wmo.int/en/resources/united_in_science"
+95679,2020-09-13T01:21:32Z,2,"[0.0, 70.0, 30.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+95679,2020-09-13T01:13:47Z,1,"[0.0, 70.0, 30.0, 0.0]","[0.0, 70.0, 30.0, 0.0]",
+85449,2020-09-12T14:45:52Z,25,"[0.0, 51.0, 49.0, 0.0]","[0.0, -48.0, 48.0, 0.0]","@SE_Meyer observed a trend I hadn't that puts this on a knife edge. Adjusting my figures to accommodate this observation tips my calculations just over 414, however the margin for error is sufficiently fine that I'm going 49/51 in view of long-standing 100 probability on 414+. Probably needs calculating & adjusting daily to get this right, esp. in view of long term changes to data made by NOAA."
+85449,2020-09-12T09:54:07Z,24,"[0.0, 99.0, 1.0, 0.0]","[0.0, 86.0, -86.0, 0.0]","Historical data changes + inattention to forecast. New est. = c.413.63, with latitude for fire season. Must remember to revisit."
+691,2020-09-11T18:30:45Z,31,"[0.0, 60.0, 40.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",
+172,2020-09-11T12:33:42Z,16,"[0.0, 99.0, 1.0, 0.0]","[0.0, 64.0, -64.0, 0.0]",
+88766,2020-09-11T07:53:53Z,11,"[0.0, 100.0, 0.0, 0.0]","[0.0, 40.0, -40.0, 0.0]",
+86233,2020-09-11T01:40:56Z,6,"[0.0, 75.0, 25.0, 0.0]","[-1.0, 35.0, -33.0, -1.0]",
+87827,2020-09-10T18:43:30Z,3,"[0.0, 85.0, 15.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Checking back in on this one to make sure it makes sense. No change to my forecast but wanted to update the reasoning a bit. I plotted the NOAA data and fit trendlines to it. The trend is very steady, and luckily Dec 1 falls right on the trendline. There doesn't seem to be much variation, so I don't expect coronavirus to change it much either (and from what I've heard emissions haven't changed significantly due to the virus anyway). I still feel confident in a value of about 413.7 PPM on Dec 1."
+15414,2020-09-10T17:53:09Z,4,"[0.0, 72.0, 28.0, 0.0]","[-1.0, 3.0, -2.0, 0.0]",A bit of fine-tuning as we approach the September-October minimum. It looks to be around 413.5 ppm two months after that.
+14107,2020-09-10T17:10:37Z,15,"[0.0, 56.0, 44.0, 0.0]","[0.0, 6.0, -6.0, 0.0]",
+38094,2020-09-10T16:35:54Z,14,"[0.0, 90.0, 10.0, 0.0]","[0.0, 70.0, -70.0, 0.0]","Latest Cycle and Trend data from NOAA. It is the 'cycle' data value that will be judged on 12/1/2020 Year month day cycle trend 2020 9 9 409.26 413.01 From the graph, the cycle appears to approach the trend line at year end. Therefore assume that the ""trend is your friend"" in this context."
+95675,2020-09-10T14:17:27Z,1,"[52.0, 24.0, 15.0, 9.0]","[52.0, 24.0, 15.0, 9.0]",
+1333,2020-09-10T13:24:54Z,72,"[1.0, 71.0, 28.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+40584,2020-09-10T13:09:07Z,23,"[0.0, 60.0, 40.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",Estimate 413.92. I just noticed that the historical data changes each day going back up to a year.
+691,2020-09-09T18:15:33Z,30,"[0.0, 53.0, 47.0, 0.0]","[0.0, 12.0, -12.0, 0.0]",
+56,2020-09-08T19:17:37Z,8,"[0.0, 20.0, 80.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",
+28899,2020-09-08T16:13:23Z,6,"[0.0, 55.0, 45.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+31802,2020-09-08T12:20:39Z,12,"[0.0, 65.0, 35.0, 0.0]","[0.0, 50.0, -50.0, 0.0]",
+19127,2020-09-08T09:43:50Z,21,"[1.0, 58.0, 41.0, 0.0]","[0.0, 6.0, -6.0, 0.0]",
+1333,2020-09-08T09:08:19Z,71,"[1.0, 72.0, 27.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+1333,2020-09-07T12:08:39Z,70,"[1.0, 73.0, 26.0, 0.0]","[-1.0, 1.0, 0.0, 0.0]",
+23999,2020-09-06T19:09:29Z,7,"[3.0, 55.0, 41.0, 1.0]","[-21.0, 15.0, 6.0, 0.0]",
+80367,2020-09-05T12:38:49Z,5,"[5.0, 60.0, 30.0, 5.0]","[0.0, 15.0, -15.0, 0.0]",
+1333,2020-09-05T11:47:06Z,69,"[2.0, 72.0, 26.0, 0.0]","[1.0, -1.0, 0.0, 0.0]",
+172,2020-09-05T01:37:59Z,15,"[0.0, 35.0, 65.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",
+4577,2020-09-04T19:08:58Z,9,"[0.0, 81.0, 19.0, 0.0]","[0.0, 23.0, -23.0, 0.0]",
+40584,2020-09-04T15:30:50Z,22,"[0.0, 50.0, 50.0, 0.0]","[-1.0, -19.0, 20.0, 0.0]",Current estimate: 413.99
+691,2020-09-04T14:56:21Z,29,"[0.0, 41.0, 59.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+79461,2020-09-04T04:31:17Z,10,"[0.0, 65.0, 35.0, 0.0]","[0.0, 37.0, -37.0, 0.0]",
+79142,2020-09-04T04:06:38Z,5,"[0.0, 75.0, 25.0, 0.0]","[0.0, 17.0, -17.0, 0.0]","Today we are 1.93 above last year . December 1, 2019 we were at 411.4. So it´s look like we will be near 413.3.... But 3 moths ago the difference was 2.5 and we have just reach the annual minimum of the cycle. So things may change"
+68294,2020-09-03T20:24:13Z,5,"[0.0, 78.0, 22.0, 0.0]","[-1.0, 76.0, -73.0, -2.0]",
+73674,2020-09-03T15:48:13Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 95.0, -87.0, -8.0]",
+57797,2020-09-03T12:41:23Z,9,"[0.0, 38.0, 62.0, 0.0]","[0.0, -7.0, 7.0, 0.0]",
+1333,2020-09-03T07:32:02Z,68,"[1.0, 73.0, 26.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+14107,2020-09-02T23:33:58Z,14,"[0.0, 50.0, 50.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+62808,2020-09-02T19:48:00Z,10,"[0.0, 20.0, 80.0, 0.0]","[0.0, -9.0, 9.0, 0.0]",
+1333,2020-09-02T14:57:56Z,67,"[1.0, 74.0, 25.0, 0.0]","[-1.0, 0.0, 1.0, 0.0]",
+66742,2020-09-02T13:38:38Z,21,"[1.0, 56.0, 43.0, 0.0]","[-6.0, 4.0, 3.0, -1.0]",
+1333,2020-09-01T15:33:24Z,66,"[2.0, 74.0, 24.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+20504,2020-09-01T14:20:02Z,8,"[0.0, 60.0, 40.0, 0.0]","[0.0, 4.0, -4.0, 0.0]","+4% to 412-414, -4% to 414-416"
+88452,2020-09-01T12:18:32Z,10,"[0.0, 100.0, 0.0, 0.0]","[0.0, 23.0, -23.0, 0.0]",
+40584,2020-08-31T13:37:17Z,21,"[1.0, 69.0, 30.0, 0.0]","[-3.0, -1.0, 4.0, 0.0]","My estimations are bouncing all over. Currently 413.75, down from 413.78 on the 25th."
+1333,2020-08-30T10:42:28Z,65,"[2.0, 75.0, 23.0, 0.0]","[0.0, 8.0, -8.0, 0.0]",
+19127,2020-08-27T01:36:23Z,20,"[1.0, 52.0, 47.0, 0.0]","[0.0, 4.0, -3.0, -1.0]",
+14107,2020-08-26T20:28:30Z,13,"[0.0, 47.0, 53.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+53391,2020-08-26T18:11:25Z,7,"[0.0, 70.0, 30.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",Weighting low side of 414 based on trend. No real magic insight. Just seems it is clearly pointing to a 413.8 ish value.
+28899,2020-08-26T14:21:52Z,5,"[0.0, 50.0, 50.0, 0.0]","[0.0, 16.0, -16.0, 0.0]",
+40584,2020-08-25T13:14:20Z,20,"[4.0, 70.0, 26.0, 0.0]","[4.0, 5.0, -9.0, 0.0]",Updated Estimate 413.78
+88766,2020-08-24T20:38:57Z,10,"[0.0, 60.0, 40.0, 0.0]","[0.0, 27.0, -27.0, 0.0]",
+95213,2020-08-24T15:43:15Z,1,"[0.0, 20.0, 80.0, 0.0]","[0.0, 20.0, 80.0, 0.0]",
+1333,2020-08-24T12:38:13Z,64,"[2.0, 67.0, 31.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+86233,2020-08-23T05:47:28Z,5,"[1.0, 40.0, 58.0, 1.0]","[0.0, 6.0, -6.0, 0.0]",
+1333,2020-08-22T20:14:40Z,63,"[2.0, 68.0, 30.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+1333,2020-08-22T18:22:12Z,62,"[2.0, 67.0, 31.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+94997,2020-08-22T13:08:27Z,1,"[100.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0]",Covid
+87744,2020-08-22T12:18:09Z,2,"[0.0, 20.0, 70.0, 10.0]","[-70.0, 0.0, 60.0, 10.0]",
+85449,2020-08-22T11:23:48Z,23,"[0.0, 13.0, 87.0, 0.0]","[0.0, -2.0, 2.0, 0.0]","Carbon intensive events are winning playoff with lockdowns: catastrophic wildfires, ice calving, continued rainforest destruction, livestock farming, 'build, build, build' & rapid return of other carbon heavy industries = ppm business as usual, just experientially worse for consumers unable to participate in the doomsday merry-go-round. It may be close, but my bet is still on tipping over 414."
+88452,2020-08-22T08:57:08Z,9,"[0.0, 77.0, 23.0, 0.0]","[0.0, 77.0, -77.0, 0.0]","The result looks very uncertain: expecting a value of up to 414.30ppm, it now appers the value could turn out significantly lower from a different angle, maybe as low as 413.50ppm. It will all depend on the scale at which the economic activity worldwide will pick up again, and how bad and how long the season of wildfires in the Northern hemisphere will last, in my opinion. While I still expect the worst, I lean towards the lower end for the time being."
+66742,2020-08-21T07:47:11Z,20,"[7.0, 52.0, 40.0, 1.0]","[-2.0, -1.0, 3.0, 0.0]",
+33035,2020-08-21T03:23:46Z,5,"[0.0, 41.0, 59.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+12089,2020-08-20T17:51:59Z,1,"[75.0, 25.0, 0.0, 0.0]","[75.0, 25.0, 0.0, 0.0]",
+40584,2020-08-19T19:05:55Z,19,"[0.0, 65.0, 35.0, 0.0]","[0.0, 5.0, -5.0, 0.0]","Current estimates 413.97 with the first number > 414 on Dec 2. But the trend is down. Wow this is close! Fires, etc will be enough to move the needle."
+27661,2020-08-19T16:36:02Z,6,"[0.0, 49.0, 51.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+1333,2020-08-19T12:39:30Z,61,"[2.0, 66.0, 32.0, 0.0]","[-1.0, 1.0, 0.0, 0.0]",
+87827,2020-08-18T19:10:52Z,2,"[0.0, 85.0, 15.0, 0.0]","[0.0, -5.0, 5.0, 0.0]","Plotted the cycle and trend, just eyeballing it it looks like a very reliable cycle over the last few years. Red dots are at Dec. 1st of 2018 and 2019, third red dot is based on the trend at 2020. I feel fairly confident it will be around 413.7 on Dec. 1st."
+87827,2020-08-18T18:53:25Z,1,"[0.0, 90.0, 10.0, 0.0]","[0.0, 90.0, 10.0, 0.0]",
+88452,2020-08-17T04:03:20Z,8,"[0.0, 0.0, 100.0, 0.0]","[0.0, -18.0, 18.0, 0.0]",
+40584,2020-08-16T23:49:27Z,18,"[0.0, 60.0, 40.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",New estimate 414.050 so continuing to move lower.
+1333,2020-08-16T15:20:17Z,60,"[3.0, 65.0, 32.0, 0.0]","[3.0, -3.0, 0.0, 0.0]",
+28899,2020-08-16T13:06:41Z,4,"[0.0, 34.0, 66.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+66692,2020-08-16T09:49:47Z,12,"[0.0, 40.0, 60.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+66692,2020-08-16T09:49:25Z,11,"[0.0, 50.0, 50.0, 0.0]","[0.0, 30.0, -30.0, 0.0]","This is going to come down to the wire, very close to the split between these two bins."
+88766,2020-08-15T11:04:06Z,9,"[0.0, 33.0, 67.0, 0.0]","[0.0, -29.0, 29.0, 0.0]",
+66742,2020-08-15T09:08:33Z,19,"[9.0, 53.0, 37.0, 1.0]","[1.0, 4.0, -5.0, 0.0]",
+38094,2020-08-15T00:23:00Z,13,"[0.0, 20.0, 80.0, 0.0]","[0.0, -5.0, 5.0, 0.0]","Having just driven the interstate, traffic is ""nearly back"" to normal. Airlines are not, but a lot of surface traffic is. Manufacturing may be slack and methane leaks may be fewer with less drilling, but there are still 7B people using carbon based fuels daily."
+87748,2020-08-14T17:42:52Z,3,"[0.0, 44.0, 56.0, 0.0]","[0.0, 26.0, -26.0, 0.0]",Update to reflect additional 3 months of measured values. Revising estimate of probability for 414-416 PPM range downward based primarily on comparison of month-month change trends over the year compared with previous years.
+1333,2020-08-13T18:35:29Z,59,"[0.0, 68.0, 32.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+15160,2020-08-12T08:11:33Z,1,"[15.0, 73.0, 10.0, 2.0]","[15.0, 73.0, 10.0, 2.0]","Covid reduced pollution, likely to follow usual trend, as long as increased productivity doesn't counteract. Construction up, transport down."
+80790,2020-08-11T21:02:05Z,4,"[0.0, 28.0, 72.0, 0.0]","[-1.0, 0.0, 2.0, -1.0]",
+40584,2020-08-11T01:20:15Z,17,"[0.0, 40.0, 60.0, 0.0]","[0.0, 7.0, -7.0, 0.0]",Estimate 14.060 so lower than my last estimate. Reducing my prediction.
+72737,2020-08-09T15:14:13Z,13,"[0.0, 37.0, 63.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+1333,2020-08-09T10:05:06Z,58,"[0.0, 67.0, 33.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+27661,2020-08-08T15:16:26Z,5,"[0.0, 48.0, 52.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+1333,2020-08-08T15:07:27Z,57,"[0.0, 66.0, 34.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+79142,2020-08-08T00:08:24Z,4,"[0.0, 58.0, 42.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",
+40584,2020-08-07T17:40:22Z,16,"[0.0, 33.0, 67.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",Current estimate 414.088
+172,2020-08-07T11:47:47Z,14,"[0.0, 15.0, 85.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",No change in my forecast - thinking in 414 range. https://www.theguardian.com/environment/2020/aug/07/covid-19-lockdown-will-have-negligible-impact-on-climate-crisis-study
+88452,2020-08-07T10:30:07Z,7,"[0.0, 18.0, 82.0, 0.0]","[0.0, 18.0, -18.0, 0.0]",
+85449,2020-08-07T06:43:26Z,22,"[0.0, 15.0, 85.0, 0.0]","[0.0, 14.0, -11.0, -3.0]",
+1333,2020-08-06T09:02:13Z,56,"[0.0, 65.0, 35.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+88766,2020-08-06T00:34:19Z,8,"[0.0, 62.0, 38.0, 0.0]","[0.0, 14.0, -14.0, 0.0]",
+14107,2020-08-05T21:17:15Z,12,"[0.0, 44.0, 56.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+691,2020-08-05T19:51:17Z,28,"[0.0, 40.0, 60.0, 0.0]","[0.0, 6.0, -6.0, 0.0]",
+40584,2020-08-05T18:14:44Z,15,"[0.0, 35.0, 65.0, 0.0]","[0.0, -35.0, 35.0, 0.0]",I miscalculated yesterday. Updated now. Current estimate is 414.089 for Dec 1.
+1333,2020-08-05T12:03:21Z,55,"[0.0, 64.0, 36.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+19127,2020-08-05T10:59:12Z,19,"[1.0, 48.0, 50.0, 1.0]","[0.0, 5.0, -5.0, 0.0]",
+40584,2020-08-05T00:32:53Z,14,"[0.0, 70.0, 30.0, 0.0]","[0.0, 40.0, -40.0, 0.0]",
+20504,2020-08-04T15:19:19Z,7,"[0.0, 56.0, 44.0, 0.0]","[0.0, -3.0, 3.0, 0.0]","-3% to 412-414, +3% to 414-416"
+1333,2020-08-03T11:56:23Z,54,"[0.0, 63.0, 37.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+80367,2020-08-02T16:59:06Z,4,"[5.0, 45.0, 45.0, 5.0]","[0.0, 15.0, -15.0, 0.0]",
+1333,2020-08-02T07:52:27Z,53,"[0.0, 62.0, 38.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+4577,2020-08-01T17:08:02Z,8,"[0.0, 58.0, 42.0, 0.0]","[0.0, 8.0, -8.0, 0.0]",
+29054,2020-08-01T16:02:35Z,4,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+40584,2020-08-01T15:01:30Z,13,"[0.0, 30.0, 70.0, 0.0]","[0.0, 0.0, 2.0, -2.0]",http://climate4you.com/GreenhouseGasses.htm
+22689,2020-07-31T17:03:20Z,2,"[0.0, 35.0, 65.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+62808,2020-07-30T22:34:25Z,9,"[0.0, 29.0, 71.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+53391,2020-07-30T19:34:44Z,6,"[0.0, 50.0, 50.0, 0.0]","[0.0, -30.0, 30.0, 0.0]",
+31802,2020-07-29T18:26:57Z,11,"[0.0, 15.0, 85.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+1333,2020-07-28T12:47:06Z,52,"[0.0, 61.0, 39.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+92501,2020-07-25T03:29:18Z,1,"[0.0, 67.0, 33.0, 0.0]","[0.0, 67.0, 33.0, 0.0]",
+94426,2020-07-23T20:16:25Z,1,"[0.0, 45.0, 55.0, 0.0]","[0.0, 45.0, 55.0, 0.0]",
+88766,2020-07-23T10:03:39Z,7,"[0.0, 48.0, 52.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+62808,2020-07-22T17:51:32Z,8,"[0.0, 30.0, 70.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+87064,2020-07-22T17:30:38Z,9,"[0.0, 100.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+87064,2020-07-22T17:29:05Z,8,"[0.0, 95.0, 5.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+87064,2020-07-22T17:28:03Z,7,"[0.0, 92.0, 8.0, 0.0]","[0.0, 12.0, -12.0, 0.0]",
+62808,2020-07-21T23:34:34Z,7,"[0.0, 25.0, 75.0, 0.0]","[0.0, 25.0, -25.0, 0.0]",
+68294,2020-07-19T22:38:16Z,4,"[1.0, 2.0, 95.0, 2.0]","[0.0, -1.0, 6.0, -5.0]",
+56170,2020-07-19T18:33:06Z,5,"[0.0, 48.0, 52.0, 0.0]","[0.0, 3.0, 1.0, -4.0]",
+56170,2020-07-19T15:28:41Z,4,"[0.0, 45.0, 51.0, 4.0]","[0.0, -21.0, 26.0, -5.0]",
+1333,2020-07-18T16:35:53Z,51,"[0.0, 60.0, 40.0, 0.0]","[-5.0, 0.0, 5.0, 0.0]",
+56170,2020-07-18T14:05:18Z,3,"[0.0, 66.0, 25.0, 9.0]","[-2.0, 2.0, 0.0, 0.0]",
+88766,2020-07-16T09:47:43Z,6,"[0.0, 43.0, 57.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+14107,2020-07-15T20:18:36Z,11,"[0.0, 42.0, 58.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+38094,2020-07-15T17:14:15Z,12,"[0.0, 25.0, 75.0, 0.0]","[0.0, 18.0, -10.0, -8.0]",Updating to reflect estimates of x% less CO2 emitted due to Covid-19.
+66742,2020-07-14T10:55:15Z,18,"[8.0, 49.0, 42.0, 1.0]","[1.0, 2.0, -3.0, 0.0]",
+88766,2020-07-14T10:07:16Z,5,"[0.0, 38.0, 62.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+27661,2020-07-13T14:25:15Z,4,"[0.0, 45.0, 55.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+72737,2020-07-11T17:55:00Z,12,"[0.0, 35.0, 65.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+80790,2020-07-10T20:54:24Z,3,"[1.0, 28.0, 70.0, 1.0]","[-4.0, -12.0, 20.0, -4.0]","Looking at graphs December in recent year December has come in at the level of the April before. April 20 is about 214. So going most likely 414-416, but as is a boundary hedging my bets. Unlikely the reduction in air travel and factories will have an effect this year, if ever, so not reducing forecasts for that."
+80790,2020-07-10T20:50:56Z,2,"[5.0, 40.0, 50.0, 5.0]","[-5.0, 10.0, 30.0, -35.0]","Looking at graphs December in recent year December has come in at the level of the April before. April 20 is about 214. So going most likely 414-416, but as is a boundary hedging my bets. Unlikely the reduction in air travel and factories will have an effect this year, if ever, so not reducing forecasts for that."
+53391,2020-07-09T18:13:40Z,5,"[0.0, 80.0, 20.0, 0.0]","[0.0, 80.0, -80.0, 0.0]",The number will be just below 414 like 413.8. But now i am leaving a bit of room for a higher than 414 value.
+88452,2020-07-09T12:47:58Z,6,"[0.0, 0.0, 100.0, 0.0]","[0.0, -4.0, 4.0, 0.0]","We've observed a decline of seasonal CO2 of .07ppm dod (07 July 2020 to 08 July 2020), compared to .08ppm at least in the past three years, when at the same time the the daily decline should be steepest due to full vegetation in the northern hemisphere, where 67.3% of the land mass is situated."
+29054,2020-07-09T12:13:54Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, -100.0]",
+56170,2020-07-08T22:04:08Z,2,"[2.0, 64.0, 25.0, 9.0]","[0.0, 39.0, 0.0, -39.0]",
+88452,2020-07-07T07:53:32Z,5,"[0.0, 4.0, 96.0, 0.0]","[0.0, -26.0, 26.0, 0.0]",2016: 01 Dec: 404.23 06 Jun: 404.20 12 Jul 2017: 404.17 (cycle top 10-16 May 2017: 407.08)
+172,2020-07-07T01:38:45Z,13,"[0.0, 15.0, 85.0, 0.0]","[0.0, -50.0, 50.0, 0.0]","Crap shoot, currently on track to slightly exceed 414. But, reduced economic activity (2nd wave Covid, recession, etc) could bring it in below 414. I’m flip-flopping and going for 414-416."
+90457,2020-07-07T00:00:15Z,1,"[0.0, 43.0, 57.0, 0.0]","[0.0, 43.0, 57.0, 0.0]",
+66742,2020-07-06T22:14:19Z,17,"[7.0, 47.0, 45.0, 1.0]","[0.0, 3.0, -2.0, -1.0]",
+88743,2020-07-06T14:22:22Z,2,"[23.0, 73.0, 3.0, 1.0]","[22.0, 42.0, -60.0, -4.0]","I think I originally erred on the higher conc., it looks unlikely to exceed 414ppm but could edge in at just under 412ppm."
+1333,2020-07-06T13:38:40Z,50,"[5.0, 60.0, 35.0, 0.0]","[4.0, 1.0, -5.0, 0.0]",
+86233,2020-07-06T02:36:50Z,4,"[1.0, 34.0, 64.0, 1.0]","[0.0, -6.0, 6.0, 0.0]",
+56170,2020-07-04T18:01:25Z,1,"[2.0, 25.0, 25.0, 48.0]","[2.0, 25.0, 25.0, 48.0]",
+80367,2020-07-04T13:34:31Z,3,"[5.0, 30.0, 60.0, 5.0]","[0.0, -5.0, 5.0, 0.0]",Current seasonal trend points to a level comfortably between 414 and 416
+172,2020-07-03T18:13:28Z,12,"[0.0, 65.0, 35.0, 0.0]","[0.0, 20.0, -20.0, 0.0]",
+1333,2020-07-03T13:19:40Z,49,"[1.0, 59.0, 40.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+4577,2020-07-02T20:52:19Z,7,"[0.0, 50.0, 50.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+19127,2020-07-02T20:52:08Z,18,"[1.0, 43.0, 55.0, 1.0]","[0.0, 1.0, -1.0, 0.0]",
+88452,2020-07-02T20:15:04Z,4,"[0.0, 30.0, 70.0, 0.0]","[0.0, -60.0, 60.0, 0.0]",
+79118,2020-07-02T16:48:11Z,15,"[0.0, 3.0, 97.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+88766,2020-07-02T12:14:42Z,4,"[0.0, 40.0, 60.0, 0.0]","[0.0, 21.0, -21.0, 0.0]",
+27661,2020-07-01T14:38:14Z,3,"[0.0, 49.0, 51.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",
+1333,2020-07-01T09:30:07Z,48,"[1.0, 60.0, 39.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+691,2020-06-28T17:49:27Z,27,"[0.0, 34.0, 66.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-06-28T14:03:21Z,47,"[1.0, 61.0, 38.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+87064,2020-06-25T16:19:25Z,6,"[0.0, 80.0, 20.0, 0.0]","[0.0, 38.0, -38.0, 0.0]","I predict it will be very close, should pass 414.00 ppm in the 2nd week of December. https://www.carbonbrief.org/analysis-what-impact-will-the-coronavirus-pandemic-have-on-atmospheric-co2"
+79464,2020-06-23T23:32:56Z,6,"[0.0, 44.0, 56.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+88743,2020-06-22T21:14:30Z,1,"[1.0, 31.0, 63.0, 5.0]","[1.0, 31.0, 63.0, 5.0]",Very tricky to work out percentages for the daily value. Would have been much easier working with mean weekly or monthly values. Very sneaky.
+691,2020-06-22T12:57:47Z,26,"[0.0, 34.0, 66.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",
+33035,2020-06-21T01:11:48Z,4,"[0.0, 39.0, 61.0, 0.0]","[-1.0, 0.0, 5.0, -4.0]",
+92407,2020-06-19T03:53:58Z,1,"[100.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0]",Because covid
+86678,2020-06-18T16:44:02Z,8,"[1.0, 39.0, 60.0, 0.0]","[1.0, 17.0, -17.0, -1.0]",
+1333,2020-06-18T14:11:51Z,46,"[1.0, 62.0, 37.0, 0.0]","[0.0, 0.0, 1.0, -1.0]",
+14107,2020-06-18T12:31:48Z,10,"[0.0, 44.0, 56.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+20504,2020-06-18T02:36:56Z,6,"[0.0, 59.0, 41.0, 0.0]","[0.0, 2.0, -2.0, 0.0]","+2% to 412-414, -2% to 414-416"
+90237,2020-06-17T20:17:04Z,1,"[10.0, 40.0, 50.0, 0.0]","[10.0, 40.0, 50.0, 0.0]",
+90195,2020-06-17T13:31:50Z,1,"[0.0, 75.0, 25.0, 0.0]","[0.0, 75.0, 25.0, 0.0]",
+88452,2020-06-16T09:48:02Z,3,"[0.0, 90.0, 10.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+88766,2020-06-16T07:37:45Z,3,"[0.0, 19.0, 81.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+40584,2020-06-15T20:45:16Z,12,"[0.0, 30.0, 68.0, 2.0]","[0.0, 10.0, -10.0, 0.0]",
+691,2020-06-15T14:17:40Z,25,"[0.0, 42.0, 58.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+1646,2020-06-15T14:12:29Z,6,"[0.0, 25.0, 75.0, 0.0]","[0.0, -35.0, 35.0, 0.0]",
+19127,2020-06-15T09:04:13Z,17,"[1.0, 42.0, 56.0, 1.0]","[0.0, -6.0, 6.0, 0.0]",
+15414,2020-06-14T18:32:35Z,3,"[1.0, 69.0, 30.0, 0.0]","[-4.0, 20.0, -15.0, -1.0]",The annual peak has passed and it has shown a small drop the economic effects of the pandemic will continue and that will probably keep it below 414ppm at the begining of December.
+91695,2020-06-14T03:48:22Z,1,"[0.0, 0.0, 30.0, 70.0]","[0.0, 0.0, 30.0, 70.0]",
+90912,2020-06-14T01:21:25Z,1,"[0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 20.0, 80.0]","As of June 12th, it is at 416.69 ppm - and in May it reached 417.16 ppm. There was some thought that with a global pandemic bringing most air travel to a halt that this period would be beneficial to the planet. Obviously not. But December is 6 months away, if it drops it probably won't drop below 414.00 ppm."
+91347,2020-06-13T21:42:34Z,1,"[20.0, 30.0, 30.0, 20.0]","[20.0, 30.0, 30.0, 20.0]",
+62808,2020-06-13T20:46:03Z,6,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+28899,2020-06-13T09:28:34Z,3,"[0.0, 40.0, 60.0, 0.0]","[0.0, 18.0, -14.0, -4.0]",
+90901,2020-06-13T08:36:10Z,1,"[20.0, 30.0, 40.0, 10.0]","[20.0, 30.0, 40.0, 10.0]",
+90748,2020-06-12T22:37:07Z,1,"[0.0, 5.0, 80.0, 15.0]","[0.0, 5.0, 80.0, 15.0]",
+14107,2020-06-11T21:44:21Z,9,"[0.0, 50.0, 50.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",
+22689,2020-06-11T18:19:02Z,1,"[0.0, 30.0, 70.0, 0.0]","[0.0, 30.0, 70.0, 0.0]",
+1333,2020-06-11T15:41:52Z,45,"[1.0, 62.0, 36.0, 1.0]","[0.0, 1.0, -1.0, 0.0]",
+88452,2020-06-10T22:55:44Z,2,"[0.0, 94.0, 6.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+66742,2020-06-10T12:12:15Z,16,"[7.0, 44.0, 47.0, 2.0]","[-1.0, 0.0, 1.0, 0.0]",
+691,2020-06-09T12:51:13Z,24,"[0.0, 48.0, 52.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+28899,2020-06-09T12:04:38Z,2,"[0.0, 22.0, 74.0, 4.0]","[0.0, 7.0, -6.0, -1.0]",
+66692,2020-06-09T08:05:04Z,10,"[0.0, 20.0, 80.0, 0.0]","[0.0, 10.0, -10.0, 0.0]","As of a couple of days ago the level was 0.338 above the ten-year trend, giving me a median projection of about 414.3, with still a fair bit of uncertainty."
+1333,2020-06-08T13:30:59Z,44,"[1.0, 61.0, 37.0, 1.0]","[0.0, 1.0, -1.0, 0.0]",
+86678,2020-06-07T18:24:41Z,7,"[0.0, 22.0, 77.0, 1.0]","[0.0, 0.0, 0.0, 0.0]",
+62808,2020-06-07T17:03:19Z,5,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+28899,2020-06-07T11:50:39Z,1,"[0.0, 15.0, 80.0, 5.0]","[0.0, 15.0, 80.0, 5.0]",
+31802,2020-06-06T14:15:37Z,10,"[0.0, 20.0, 80.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+86233,2020-06-06T02:53:46Z,3,"[1.0, 40.0, 58.0, 1.0]","[-4.0, -15.0, 20.0, -1.0]",
+89017,2020-06-06T00:23:50Z,1,"[1.0, 58.0, 40.0, 1.0]","[1.0, 58.0, 40.0, 1.0]",
+66742,2020-06-05T21:29:55Z,15,"[8.0, 44.0, 46.0, 2.0]","[1.0, 1.0, -2.0, 0.0]",
+86678,2020-06-05T17:08:17Z,6,"[0.0, 22.0, 77.0, 1.0]","[0.0, -9.0, 8.0, 1.0]",
+88766,2020-06-05T06:56:05Z,2,"[0.0, 24.0, 76.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+19127,2020-06-05T01:16:22Z,16,"[1.0, 48.0, 50.0, 1.0]","[-1.0, -3.0, 4.0, 0.0]",
+86678,2020-06-04T21:42:31Z,5,"[0.0, 31.0, 69.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+85449,2020-06-04T16:32:00Z,21,"[0.0, 1.0, 96.0, 3.0]","[0.0, -4.0, 11.0, -7.0]",Model based on previous years + swings & roundabouts of industrial cessation vs industrial acceleration + polar melt-out/dark water increase/effect of rising temperatures on CO2 plant absorption/wildfires etc. = still on track for standard rise or greater.
+691,2020-06-04T15:52:49Z,23,"[0.0, 50.0, 50.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+4577,2020-06-04T15:30:40Z,6,"[0.0, 58.0, 42.0, 0.0]","[0.0, 24.0, -24.0, 0.0]",
+38094,2020-06-04T14:58:34Z,11,"[0.0, 7.0, 85.0, 8.0]","[0.0, -8.0, 0.0, 8.0]",It appears that humanity can only pause in their habits and not actually break them no matter what the forcing function.
+86678,2020-06-03T21:03:30Z,4,"[0.0, 31.0, 69.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+77516,2020-06-03T18:24:25Z,3,"[55.0, 30.0, 15.0, 0.0]","[15.0, 0.0, -5.0, -10.0]",
+53391,2020-06-03T17:10:57Z,4,"[0.0, 0.0, 100.0, 0.0]","[0.0, -100.0, 100.0, 0.0]",It still will come in around 414. Now i am going to the higher side
+31679,2020-06-03T03:14:26Z,4,"[0.0, 54.0, 46.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",Adjusting for trendline; it's looking more likely that we'll bust 414.
+57400,2020-06-03T02:54:49Z,1,"[7.0, 44.0, 48.0, 1.0]","[7.0, 44.0, 48.0, 1.0]",
+86678,2020-06-02T15:43:29Z,3,"[0.0, 31.0, 69.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+88766,2020-06-01T22:32:40Z,1,"[0.0, 27.0, 73.0, 0.0]","[0.0, 27.0, 73.0, 0.0]",
+40584,2020-06-01T14:38:42Z,11,"[0.0, 20.0, 78.0, 2.0]","[0.0, 10.0, -10.0, 0.0]",
+14237,2020-05-31T21:53:53Z,2,"[0.0, 4.0, 96.0, 0.0]","[-3.0, -80.0, 83.0, 0.0]",
+87064,2020-05-31T18:39:21Z,5,"[0.0, 42.0, 58.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+87064,2020-05-30T20:16:45Z,4,"[0.0, 40.0, 60.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+85774,2020-05-28T22:10:35Z,5,"[0.0, 40.0, 57.0, 3.0]","[-55.0, -3.0, 56.0, 2.0]",
+86678,2020-05-27T17:02:41Z,2,"[0.0, 33.0, 67.0, 0.0]","[0.0, -14.0, 14.0, 0.0]",
+86678,2020-05-26T11:32:15Z,1,"[0.0, 47.0, 53.0, 0.0]","[0.0, 47.0, 53.0, 0.0]",
+80662,2020-05-25T16:16:56Z,3,"[10.0, 80.0, 10.0, 0.0]","[10.0, 50.0, -50.0, -10.0]","Most recent report is about 413. Covid has slowed the economy in the most polluting countries and northern summer will take CO2 out of the atmosphere. If economy runs 70-90% of “normal, level may even drop slightly."
+87064,2020-05-25T15:08:29Z,3,"[0.0, 38.0, 62.0, 0.0]","[0.0, 22.0, -18.0, -4.0]",
+79461,2020-05-25T01:18:51Z,9,"[0.0, 28.0, 72.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+66742,2020-05-24T20:30:32Z,14,"[7.0, 43.0, 48.0, 2.0]","[-2.0, -2.0, 3.0, 1.0]",
+40584,2020-05-24T20:00:23Z,10,"[0.0, 10.0, 88.0, 2.0]","[-3.0, -38.0, 41.0, 0.0]",
+80367,2020-05-23T15:14:07Z,2,"[5.0, 35.0, 55.0, 5.0]","[0.0, -15.0, 15.0, 0.0]","Having dug into the data in more detail, including the trend this year, the current level of PPM and it's trend so far suggests a level above 414 at the end of the year - most likely around 414.5. Even a correction such that the trend matches of that of the most recent low of the last 10 years (2011) would still result in a ppm by end year of 414.2. Also, while the lockdowns globally will reduce economic activity and, by extension, carbon emissions; that is somewhat offset by the likely increase in the use of cars as an alternative to public transport."
+62808,2020-05-22T11:55:13Z,4,"[0.0, 0.0, 100.0, 0.0]","[0.0, -49.0, 49.0, 0.0]",
+66742,2020-05-21T20:20:05Z,13,"[9.0, 45.0, 45.0, 1.0]","[-1.0, -2.0, 3.0, 0.0]",
+691,2020-05-21T14:32:02Z,22,"[0.0, 55.0, 45.0, 0.0]","[-1.0, 3.0, -2.0, 0.0]",
+19127,2020-05-20T15:55:36Z,15,"[2.0, 51.0, 46.0, 1.0]","[0.0, 0.0, 0.0, 0.0]",
+79591,2020-05-19T23:35:15Z,4,"[0.0, 0.0, 100.0, 0.0]","[-15.0, -70.0, 85.0, 0.0]",The numbers are not moving downward the way I expected. Not ready to predict over 416.
+20504,2020-05-19T17:42:34Z,5,"[0.0, 57.0, 43.0, 0.0]","[0.0, 3.0, -3.0, 0.0]","+3% to 412-414, -3% to 414-416"
+1333,2020-05-18T12:44:39Z,43,"[1.0, 60.0, 38.0, 1.0]","[0.0, 1.0, -1.0, 0.0]",
+15414,2020-05-15T17:24:32Z,2,"[5.0, 49.0, 45.0, 1.0]","[0.0, 11.0, -3.0, -8.0]","We are around the peak of the yearly cycle so above 416 is vanishingly unlikely but that 414 figure is still looking good, especially if lockdowns are lifted soon."
+27661,2020-05-15T16:32:09Z,2,"[0.0, 45.0, 55.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+87064,2020-05-14T13:01:25Z,2,"[0.0, 16.0, 80.0, 4.0]","[-8.0, -24.0, 36.0, -4.0]",
+85449,2020-05-13T09:42:08Z,20,"[0.0, 5.0, 85.0, 10.0]","[0.0, -10.0, 0.0, 10.0]","If emissions follow usual trajectory they'll drop around 7.5˚ as foliage absorbs CO2 then go up again with foliage reduction at the end of the year, however current record high may have several different combinations of causes and consequences, including the possibility that we won't see the usual absorption process this year and that emissions will remain high or possibly go even higher than the current level. This would be devastatingly bad news, but then the news we've hit a new high despite the massive drop in industry is devastating already. Meanwhile far-right leaders have used the pandemic to increase deforestation and carbon emitting industries, the bushfires have destroyed vast swathes of Australia's carbon sink, the ice caps have continued melting and so on. I regret taking my eye off the ball on this question because of other activities and am returning to something closer to my February position while allowing for an optimistic 5% in the 412-414 category in case the drop in industry has a delayed knock-on effect. I fear it's likelier that current effects, further fires, loss of the aerosol masking effect and so on keep the figure high, though."
+66692,2020-05-13T06:48:36Z,9,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, -10.0, 0.0]","As of today we are plotting about 0.5 above ""best fit"" projections for the same day in prior years, suggesting we'll land about 0.5 above the best fit projection for the end of the year. The average of my two best fits (linear projection ~ 413.64, polynomial projection ~ 414.30 is just a hair under 414, which means my median projection is about 414.5, just about."
+79464,2020-05-12T14:36:01Z,5,"[0.0, 47.0, 53.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+66742,2020-05-12T07:31:21Z,12,"[10.0, 47.0, 42.0, 1.0]","[-2.0, -19.0, 21.0, 0.0]",
+85449,2020-05-11T20:45:55Z,19,"[0.0, 15.0, 85.0, 0.0]","[0.0, -38.0, 38.0, 0.0]","Combined effects overriding temporary loss of industry, much of which is now going again full blast. We're in a terrible place."
+88452,2020-05-11T17:19:42Z,1,"[0.0, 99.0, 1.0, 0.0]","[0.0, 99.0, 1.0, 0.0]",
+19127,2020-05-11T06:41:51Z,14,"[2.0, 51.0, 46.0, 1.0]","[-2.0, -1.0, 3.0, 0.0]",
+1333,2020-05-09T07:52:31Z,42,"[1.0, 59.0, 39.0, 1.0]","[1.0, 1.0, -3.0, 1.0]",
+31251,2020-05-09T07:31:44Z,5,"[0.0, 43.0, 57.0, 0.0]","[-1.0, 0.0, 2.0, -1.0]",
+79591,2020-05-08T23:35:01Z,3,"[15.0, 70.0, 15.0, 0.0]","[15.0, 64.0, -79.0, 0.0]",
+38094,2020-05-08T15:58:58Z,10,"[0.0, 15.0, 85.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",Assuming covid-19 impact on CO2 will be minimal- real but inertia is too great. https://www.bloomberg.com/graphics/2020-how-coronavirus-impacts-climate-change/?srnd=premium&sref=pQP8z0G5
+1333,2020-05-08T13:51:48Z,41,"[0.0, 58.0, 42.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+72737,2020-05-07T20:17:03Z,11,"[0.0, 45.0, 55.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+691,2020-05-07T16:49:59Z,21,"[1.0, 52.0, 47.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+19127,2020-05-07T05:58:06Z,13,"[4.0, 52.0, 43.0, 1.0]","[-3.0, 1.0, 2.0, 0.0]",
+14107,2020-05-06T16:50:54Z,8,"[0.0, 47.0, 53.0, 0.0]","[0.0, -3.0, 3.0, 0.0]",
+75824,2020-05-04T15:27:20Z,4,"[0.0, 50.0, 50.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+691,2020-05-04T13:46:01Z,20,"[1.0, 50.0, 49.0, 0.0]","[-1.0, -7.0, 8.0, 0.0]",
+80367,2020-05-03T19:35:10Z,1,"[5.0, 50.0, 40.0, 5.0]","[5.0, 50.0, 40.0, 5.0]","Taking recent trends in PPM growth, including the typical seasonality where the PPM level outperforms at the start of the year, the typical annual growth is around 0.7% and current trend this year would imply a level just above 414 at 1 December 2020 (based on a level of 411.41 as at 1 December 2019)."
+172,2020-05-03T12:04:45Z,11,"[0.0, 45.0, 55.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+4577,2020-05-02T18:04:08Z,5,"[0.0, 34.0, 66.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",https://www.scientificamerican.com/article/why-co2-isnt-falling-more-during-a-global-lockdown/
+31802,2020-05-02T12:26:35Z,9,"[0.0, 25.0, 75.0, 0.0]","[0.0, -25.0, 25.0, 0.0]",
+4577,2020-05-01T17:23:03Z,4,"[0.0, 34.0, 66.0, 0.0]","[-4.0, -31.0, 35.0, 0.0]",
+77516,2020-05-01T15:33:45Z,2,"[40.0, 30.0, 20.0, 10.0]","[30.0, 10.0, -40.0, 0.0]",
+79464,2020-05-01T13:42:07Z,4,"[0.0, 50.0, 50.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",
+85449,2020-05-01T12:54:39Z,18,"[0.0, 53.0, 47.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+19127,2020-05-01T09:58:31Z,12,"[7.0, 51.0, 41.0, 1.0]","[-2.0, 0.0, 2.0, 0.0]",
+79461,2020-05-01T04:09:17Z,8,"[0.0, 34.0, 66.0, 0.0]","[0.0, -41.0, 41.0, 0.0]",
+38094,2020-04-30T23:14:47Z,9,"[0.0, 35.0, 65.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",Assuming a 8% drop in emissions per https://www.nytimes.com/2020/04/30/climate/global-emissions-decline.html?action=click&module=Top%20Stories&pgtype=Homepage It doesn't appear that there will be much impact on the measurements.
+691,2020-04-30T19:11:34Z,19,"[2.0, 57.0, 41.0, 0.0]","[1.0, -3.0, 2.0, 0.0]",
+14107,2020-04-29T19:01:47Z,7,"[0.0, 50.0, 50.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",
+27661,2020-04-29T10:39:13Z,1,"[0.0, 50.0, 50.0, 0.0]","[0.0, 50.0, 50.0, 0.0]",
+66742,2020-04-29T08:56:05Z,11,"[12.0, 66.0, 21.0, 1.0]","[0.0, 20.0, -20.0, 0.0]",
+19127,2020-04-27T16:25:09Z,11,"[9.0, 51.0, 39.0, 1.0]","[0.0, -1.0, 1.0, 0.0]",
+45594,2020-04-27T15:09:20Z,6,"[80.0, 10.0, 10.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+72737,2020-04-26T21:50:38Z,10,"[0.0, 45.0, 55.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+87748,2020-04-25T21:07:53Z,2,"[0.0, 18.0, 82.0, 0.0]","[0.0, 1.0, -1.0, 0.0]","Updating to add a couple observations based on the ESRL data: - Simple trends give a baseline of the December average breaking 414 PPM in 4/5 scenarios; - 1 December varies from December whole-month mean by an average of -0.127% (+/- .02); accounting for that brings some scenarios back down below 414 PPM; - At a quick look, profile of the 2020 numbers to date (based on month-month change) is dead on trend with the last 10 years; for the very little that it’s worth, thus far the 2020 profile resembles those of 2017 and 2013 more strongly than other recent years, and modifying the baseline with assumptions based on those years brings most scenarios back up well above 414 PPM; - Reaching either the 416 PPM and the 412 PPM levels would require sustained deviations from the average rate of change outside anything that seems likely, something on the order of the month-to-month rate of change running consistently 20-30% outside of normal, and always deviating in the same direction - not impossible certainly, but also not likely - odds run quite a bit less than 1/100; - In general, this CO2 number does not look very sensitive to short-term human changes. By my count, keeping the level below 414 PPM on 1 December from where we are now would require downward deviation of ~3-4% from average in the rate CO2 is added to the atmosphere (from all sources, not just human, and assuming that CO2 fixation during N hemisphere summer stays right on average); easily within the realm of natural variation, but a heavy lift indeed for human factors alone; - Quick look at the general outlook for northern hemisphere summer doesn’t give much reason to think that CO2 fixation will increase, but this is something that could have a dramatic impact on the probabilities; - One or more of the below would seriously change my estimate of the probabilities: - 1) Weather - N hemisphere (or ocean) having an unexpectedly productive (or poor) growing season; also, if one of the strong Nino/Nina effects comes into play (NOAA estimate is 60% chance of remaining in neutral Nino effect for this year), would have to look at effect of changing Pacific H2O temps on marine CO2 sequestration as well as effect on terrestrial growing season; - 2) Major natural CO2 emitting event; - 3) Strong deviations from expectation in NOAA CO2 observational data from coming months; - 4) Much stronger than expected change in human CO2 emissions because of... whatever might cause something this big (back of the envelope math suggests that absent significant movement in the natural factors, this would have to be REAL serious - something on the order of a 60% reduction)."
+19127,2020-04-23T16:44:09Z,10,"[9.0, 52.0, 38.0, 1.0]","[1.0, 1.0, -1.0, -1.0]",
+85626,2020-04-23T04:32:11Z,1,"[1.0, 28.0, 71.0, 0.0]","[1.0, 28.0, 71.0, 0.0]",
+73674,2020-04-23T03:32:01Z,1,"[0.0, 5.0, 87.0, 8.0]","[0.0, 5.0, 87.0, 8.0]",
+87748,2020-04-23T00:04:33Z,1,"[0.0, 17.0, 83.0, 0.0]","[0.0, 17.0, 83.0, 0.0]",
+1333,2020-04-22T14:59:15Z,40,"[0.0, 57.0, 43.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+87799,2020-04-21T20:08:00Z,1,"[10.0, 35.0, 40.0, 15.0]","[10.0, 35.0, 40.0, 15.0]","May readings highest, currently 412-414. End December readings often similar to May readings: however covid-19 will lead to reduction greenhouse gas emissions this year. Difficult one to call."
+691,2020-04-21T19:16:25Z,18,"[1.0, 60.0, 39.0, 0.0]","[1.0, 0.0, 3.0, -4.0]",
+87744,2020-04-20T09:27:33Z,1,"[70.0, 20.0, 10.0, 0.0]","[70.0, 20.0, 10.0, 0.0]",
+16727,2020-04-19T18:29:19Z,1,"[2.0, 3.0, 60.0, 35.0]","[2.0, 3.0, 60.0, 35.0]",
+87628,2020-04-19T18:01:47Z,1,"[20.0, 80.0, 0.0, 0.0]","[20.0, 80.0, 0.0, 0.0]",
+87691,2020-04-19T08:37:20Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+68294,2020-04-18T15:41:28Z,3,"[1.0, 3.0, 89.0, 7.0]","[1.0, 2.0, -5.0, 2.0]",Updated my forecast based on most recent CO2 data.
+87652,2020-04-18T10:53:01Z,1,"[5.0, 5.0, 80.0, 10.0]","[5.0, 5.0, 80.0, 10.0]",
+1333,2020-04-18T10:04:12Z,39,"[0.0, 56.0, 44.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+77404,2020-04-17T13:50:24Z,3,"[0.0, 95.0, 5.0, 0.0]","[0.0, 35.0, -35.0, 0.0]",
+87545,2020-04-16T10:02:59Z,1,"[0.0, 40.0, 60.0, 0.0]","[0.0, 40.0, 60.0, 0.0]",
+85449,2020-04-15T18:31:01Z,17,"[0.0, 51.0, 49.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+20504,2020-04-15T03:30:28Z,4,"[0.0, 54.0, 46.0, 0.0]","[-6.0, 0.0, 6.0, 0.0]",
+20504,2020-04-14T13:30:33Z,3,"[6.0, 54.0, 40.0, 0.0]","[1.0, 5.0, -5.0, -1.0]",
+79464,2020-04-13T21:18:22Z,3,"[0.0, 46.0, 54.0, 0.0]","[0.0, -9.0, 9.0, 0.0]",
+45594,2020-04-13T07:17:32Z,5,"[80.0, 10.0, 10.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+86233,2020-04-13T06:04:11Z,2,"[5.0, 55.0, 38.0, 2.0]","[-10.0, 5.0, 8.0, -3.0]",
+8826,2020-04-12T17:59:22Z,1,"[80.0, 5.0, 10.0, 5.0]","[80.0, 5.0, 10.0, 5.0]",depression will dampen energy use
+172,2020-04-11T21:49:18Z,10,"[0.0, 65.0, 35.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+59881,2020-04-10T21:17:51Z,1,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, 90.0, 0.0]",
+67246,2020-04-10T09:05:19Z,3,"[0.0, 50.0, 49.0, 1.0]","[0.0, 10.0, -10.0, 0.0]",
+85449,2020-04-09T20:19:54Z,16,"[0.0, 50.0, 50.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+691,2020-04-09T14:33:43Z,17,"[0.0, 60.0, 36.0, 4.0]","[0.0, 41.0, -41.0, 0.0]",
+85449,2020-04-08T21:28:41Z,15,"[0.0, 45.0, 55.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+14107,2020-04-08T17:14:22Z,6,"[0.0, 46.0, 54.0, 0.0]","[0.0, 13.0, -13.0, 0.0]",
+33035,2020-04-08T16:11:41Z,3,"[1.0, 39.0, 56.0, 4.0]","[0.0, 35.0, -4.0, -31.0]",
+1333,2020-04-08T14:45:54Z,38,"[0.0, 55.0, 45.0, 0.0]","[0.0, 10.0, -5.0, -5.0]",
+87064,2020-04-08T11:25:00Z,1,"[8.0, 40.0, 44.0, 8.0]","[8.0, 40.0, 44.0, 8.0]",
+1333,2020-04-08T05:09:01Z,37,"[0.0, 45.0, 50.0, 5.0]","[0.0, 15.0, -15.0, 0.0]",
+72737,2020-04-07T20:34:53Z,9,"[0.0, 50.0, 50.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+1646,2020-04-07T01:52:07Z,5,"[0.0, 60.0, 40.0, 0.0]","[0.0, 25.0, -24.0, -1.0]",
+40959,2020-04-06T10:41:46Z,1,"[18.0, 46.0, 33.0, 3.0]","[18.0, 46.0, 33.0, 3.0]",
+68,2020-04-06T09:43:26Z,3,"[0.0, 50.0, 50.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+79464,2020-04-05T23:37:55Z,2,"[0.0, 55.0, 45.0, 0.0]","[0.0, 22.0, -22.0, 0.0]",
+40584,2020-04-05T21:36:37Z,9,"[3.0, 48.0, 47.0, 2.0]","[0.0, 3.0, -3.0, 0.0]",
+75824,2020-04-05T20:25:12Z,3,"[0.0, 45.0, 55.0, 0.0]","[0.0, 8.0, -8.0, 0.0]",
+31679,2020-04-05T17:54:06Z,3,"[0.0, 57.0, 43.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",Adjusting a bit because of lower air travel.
+23999,2020-04-05T08:57:13Z,6,"[24.0, 40.0, 35.0, 1.0]","[11.0, 0.0, -10.0, -1.0]",
+45594,2020-04-05T08:41:53Z,4,"[80.0, 10.0, 10.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+38094,2020-04-04T18:52:01Z,8,"[0.0, 55.0, 45.0, 0.0]","[0.0, 35.0, -35.0, 0.0]","Hattip @smitch15 for providing a compelling argurment to move my forecast. NYT today April 4 ""Analysts estimate that because of the fallout from the coronavirus pandemic, demand for oil is likely to fall by as much as 25 million barrels a day, or about a quarter of consumption in normal times"""
+57797,2020-04-04T18:06:33Z,8,"[0.0, 45.0, 55.0, 0.0]","[0.0, 16.0, -16.0, 0.0]",
+86946,2020-04-04T03:14:58Z,1,"[8.0, 92.0, 0.0, 0.0]","[8.0, 92.0, 0.0, 0.0]",
+20504,2020-04-03T15:02:12Z,2,"[5.0, 49.0, 45.0, 1.0]","[5.0, 0.0, -5.0, 0.0]",
+62808,2020-04-03T02:45:41Z,3,"[0.0, 49.0, 51.0, 0.0]","[0.0, 15.0, -14.0, -1.0]",
+79464,2020-04-02T13:33:29Z,1,"[0.0, 33.0, 67.0, 0.0]","[0.0, 33.0, 67.0, 0.0]",
+77404,2020-04-02T08:23:48Z,2,"[0.0, 60.0, 40.0, 0.0]","[0.0, 15.0, -15.0, 0.0]",
+86296,2020-04-02T04:12:56Z,1,"[0.0, 50.0, 50.0, 0.0]","[0.0, 50.0, 50.0, 0.0]",
+79461,2020-04-02T02:45:54Z,7,"[0.0, 75.0, 25.0, 0.0]","[0.0, 37.0, -37.0, 0.0]","Question has become much more difficult in light of the economic decline as a result of the coronavirus. Makes for more fun forecasting I guess. As of 3/31/2020 we are at 413.90. 3/31/2019 was at 411.16 and ended up at 411.36. So, this seems to suggest that were we are right now is a good prediction of where we will end up. So, that suggests we will be right around that 414 boundary. I will air on below side because in this environment I expect less co2 going forward over the next two months."
+12591,2020-04-02T01:35:14Z,6,"[0.0, 55.0, 45.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+4577,2020-04-01T18:25:59Z,3,"[4.0, 65.0, 31.0, 0.0]","[3.0, 20.0, -20.0, -3.0]",
+172,2020-04-01T12:24:18Z,9,"[0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Input...Glen Peters (Norwegian Centre for International Climate Research) forecasting if world GDP is up 1.5% (per OECD) would result in 1.2% decline of CO2 emissions. With cheap oil, measurement on one specific day, and potential rebound later in year...still a tough one to be definitive on."
+66742,2020-04-01T08:08:58Z,10,"[12.0, 46.0, 41.0, 1.0]","[5.0, 5.0, -4.0, -6.0]",
+78366,2020-04-01T01:21:54Z,1,"[0.0, 90.0, 10.0, 0.0]","[0.0, 90.0, 10.0, 0.0]",
+14107,2020-03-31T17:04:52Z,5,"[0.0, 33.0, 67.0, 0.0]","[0.0, 4.0, -4.0, 0.0]",
+1333,2020-03-30T16:47:23Z,36,"[0.0, 30.0, 65.0, 5.0]","[-49.0, 0.0, 45.0, 4.0]",
+56,2020-03-30T14:48:54Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",
+53391,2020-03-30T14:21:54Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 50.0, -40.0, -10.0]",Adjusting the above 416 from 10 to 0. Mainly because drilling activities are ceasing and trend in jan and feb does not support it. I am perplexed with 414 cut off between the two possible. I guess the value will be 414 plus or minus .5. I am weighting more to the downside ( 412 to 414) because covid 19 may circulate back north in November and once again impact CO2 emmissions with reduced air travel and cruise ships. I am all in only because i see no use in hedging 80/20 because covid 19 returns or don't and i have no information on that probability. This seemed like such an easy forecast back in December. Oh well.
+1333,2020-03-30T14:09:03Z,35,"[49.0, 30.0, 20.0, 1.0]","[-1.0, 0.0, 5.0, -4.0]",
+38094,2020-03-28T19:05:38Z,7,"[0.0, 20.0, 80.0, 0.0]","[0.0, 5.0, -5.0, 0.0]","Hattip @jtrommel for insights into the forecasting model, I'll add a pinch more of salt to mine. Less demand and ultralow prices could force some wells to stop pumping and close for good. This could be a positive impact."
+66742,2020-03-28T17:35:50Z,9,"[7.0, 41.0, 45.0, 7.0]","[-6.0, -6.0, 6.0, 6.0]",
+1333,2020-03-28T07:42:49Z,34,"[50.0, 30.0, 15.0, 5.0]","[5.0, 0.0, -5.0, 0.0]",
+85449,2020-03-25T19:38:37Z,14,"[0.0, 30.0, 70.0, 0.0]","[-15.0, -40.0, 55.0, 0.0]",
+66742,2020-03-25T16:56:01Z,8,"[13.0, 47.0, 39.0, 1.0]","[1.0, -25.0, 25.0, -1.0]",
+66692,2020-03-25T13:29:43Z,8,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Near the end of February, I'm seeing the value ~ 0.74 above the trend from the same day in past years, suggesting either the year is on track for higher values or the data have been / are being adjusted to give higher values, but in any event this has my best fits projecting above 414 with very high confidence now. And I'm still all in... :-)"
+14107,2020-03-24T19:07:44Z,4,"[0.0, 29.0, 71.0, 0.0]","[0.0, -6.0, 6.0, 0.0]",
+19127,2020-03-24T11:37:59Z,9,"[8.0, 51.0, 39.0, 2.0]","[-1.0, 0.0, 1.0, 0.0]",
+31802,2020-03-24T09:26:18Z,8,"[0.0, 50.0, 50.0, 0.0]","[0.0, 35.0, -35.0, 0.0]",The effect of corona is already clearly visible in a drop of the CO2 Daily Global Seasonal Cycle in the month of March. The slowdown in Europe and the US still has to come.
+67844,2020-03-24T08:04:19Z,1,"[0.0, 40.0, 60.0, 0.0]","[0.0, 40.0, 60.0, 0.0]",
+1333,2020-03-23T19:05:34Z,33,"[45.0, 30.0, 20.0, 5.0]","[-10.0, 5.0, 5.0, 0.0]",
+66742,2020-03-23T09:10:44Z,7,"[12.0, 72.0, 14.0, 2.0]","[-6.0, 2.0, 3.0, 1.0]",
+86334,2020-03-23T06:40:49Z,1,"[0.0, 20.0, 40.0, 40.0]","[0.0, 20.0, 40.0, 40.0]",
+18318,2020-03-23T03:18:19Z,1,"[15.0, 45.0, 15.0, 25.0]","[15.0, 45.0, 15.0, 25.0]",
+84741,2020-03-23T02:54:29Z,2,"[0.0, 35.0, 63.0, 2.0]","[0.0, 10.0, -7.0, -3.0]","The current slow down in the economy has caused a decrease in ppm levels which is uncharacteristic for the first 3 months in the year, statistically levels spike and then drop in the warmer months. The ongoing pandemic may keep levels consistent and lessen the increase from the start of 2020 to the end."
+29980,2020-03-23T01:03:10Z,1,"[95.0, 5.0, 0.0, 0.0]","[95.0, 5.0, 0.0, 0.0]",
+56,2020-03-22T18:22:34Z,6,"[0.0, 10.0, 90.0, 0.0]","[0.0, -30.0, 30.0, 0.0]",
+57797,2020-03-22T18:17:46Z,7,"[0.0, 29.0, 71.0, 0.0]","[0.0, -8.0, 8.0, 0.0]",Both of my models have shifted up with the latest data.
+54646,2020-03-22T16:48:17Z,1,"[35.0, 55.0, 10.0, 0.0]","[35.0, 55.0, 10.0, 0.0]",will be illustrative to see how much the level declines with extremely low industrial levels for many months and how elastic the atmospheric responses will be - is it self healing without increasing discharges or is there another scientific equation at work????
+12591,2020-03-22T00:57:06Z,5,"[0.0, 45.0, 55.0, 0.0]","[0.0, 25.0, -20.0, -5.0]",
+23999,2020-03-21T17:24:58Z,5,"[13.0, 40.0, 45.0, 2.0]","[13.0, 0.0, -5.0, -8.0]",
+23999,2020-03-21T17:22:29Z,4,"[0.0, 40.0, 50.0, 10.0]","[0.0, 30.0, -30.0, 0.0]",
+85774,2020-03-21T16:14:27Z,4,"[55.0, 43.0, 1.0, 1.0]","[49.0, 0.0, -49.0, 0.0]",
+691,2020-03-21T12:49:32Z,16,"[0.0, 19.0, 77.0, 4.0]","[0.0, 3.0, -1.0, -2.0]",
+85449,2020-03-21T09:59:51Z,13,"[15.0, 70.0, 15.0, 0.0]","[-30.0, 20.0, 10.0, 0.0]",
+85449,2020-03-21T09:51:21Z,12,"[45.0, 50.0, 5.0, 0.0]","[-15.0, 15.0, 0.0, 0.0]",
+80662,2020-03-21T04:08:05Z,2,"[0.0, 30.0, 60.0, 10.0]","[0.0, 25.0, 5.0, -30.0]","Less economic activity due to pandemic, warmer winter than normal both cut energy use. Atmospheric increase will slow."
+19127,2020-03-20T18:41:18Z,8,"[9.0, 51.0, 38.0, 2.0]","[7.0, 6.0, -13.0, 0.0]",
+75824,2020-03-20T17:30:07Z,2,"[0.0, 37.0, 63.0, 0.0]","[0.0, 9.0, -7.0, -2.0]",Expecting lower CO2 emissions due to coronavirus.
+45594,2020-03-20T17:26:38Z,3,"[80.0, 10.0, 10.0, 0.0]","[15.0, -15.0, 0.0, 0.0]",
+31802,2020-03-20T16:01:14Z,7,"[0.0, 15.0, 85.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",There is a noticeable dip in the data for March. An STL-model (the one I use) is too hard wired by previous years in the trend and the seasonality. It does not react to changes in recent date points. Another model is due. But the impression is that corona has an effect on CO2 emissions worldwide.
+85449,2020-03-20T07:44:51Z,11,"[60.0, 35.0, 5.0, 0.0]","[30.0, -5.0, -25.0, 0.0]",
+85449,2020-03-20T07:41:05Z,10,"[30.0, 40.0, 30.0, 0.0]","[-10.0, 10.0, 0.0, 0.0]",
+59147,2020-03-19T20:17:33Z,1,"[100.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0]","With the corona virus crisis the industry production will massively decrease, this year will be one of the lowest years with carbon dioxide."
+85449,2020-03-19T10:42:58Z,9,"[40.0, 30.0, 30.0, 0.0]","[40.0, -20.0, -20.0, 0.0]",
+1333,2020-03-18T22:27:37Z,32,"[55.0, 25.0, 15.0, 5.0]","[20.0, 0.0, -22.0, 2.0]",
+38094,2020-03-18T22:17:33Z,6,"[0.0, 15.0, 85.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",Headed to the deep freeze.
+86233,2020-03-18T03:53:59Z,1,"[15.0, 50.0, 30.0, 5.0]","[15.0, 50.0, 30.0, 5.0]",
+57797,2020-03-17T21:53:33Z,6,"[0.0, 37.0, 63.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+14107,2020-03-17T19:38:45Z,3,"[0.0, 35.0, 65.0, 0.0]","[0.0, 2.0, 2.0, -4.0]",
+79461,2020-03-17T13:18:36Z,6,"[0.0, 38.0, 62.0, 0.0]","[0.0, 13.0, -11.0, -2.0]","Decreasing forecast in light of decline of economic activity due to the coronavirus. Sadly, this dataset does not include 2007 so it's hard to know how much to cut predictions due to coronavirus."
+1333,2020-03-17T07:40:19Z,31,"[35.0, 25.0, 37.0, 3.0]","[18.0, 0.0, -18.0, 0.0]",
+62808,2020-03-16T18:40:05Z,2,"[0.0, 34.0, 65.0, 1.0]","[0.0, 0.0, 0.0, 0.0]",
+578,2020-03-16T17:39:49Z,4,"[0.0, 11.0, 89.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Hello fellow forecasters, I am trying to study the effect of the coronavirus outbreak and lockdowns on the CO2 emission. I have two sets of data from NOAA, one ends on 12 Jan 2020, and the other 12 March 2020, both start on 1 Jan 2010. The data on dates common to the two datasets are different. I understand that since the entire dataset is updated/revised everyday using the additional data and the smoothing and filtering methodology described in [1]."
+1333,2020-03-16T07:29:07Z,30,"[17.0, 25.0, 55.0, 3.0]","[10.0, 0.0, -10.0, 0.0]",
+691,2020-03-15T13:39:26Z,15,"[0.0, 16.0, 78.0, 6.0]","[-1.0, 1.0, 0.0, 0.0]",
+56,2020-03-14T16:26:02Z,5,"[0.0, 40.0, 60.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+85449,2020-03-14T00:20:25Z,8,"[0.0, 50.0, 50.0, 0.0]","[0.0, 15.0, -10.0, -5.0]",Colossal fall in industry & mass transportation systems. Increasingly likely figure could fall below 414.00.
+1646,2020-03-13T21:58:27Z,4,"[0.0, 35.0, 64.0, 1.0]","[0.0, 11.0, -10.0, -1.0]",
+86162,2020-03-13T20:58:28Z,1,"[5.0, 25.0, 65.0, 5.0]","[5.0, 25.0, 65.0, 5.0]",
+31251,2020-03-13T06:22:04Z,4,"[1.0, 43.0, 55.0, 1.0]","[0.0, 12.0, -12.0, 0.0]",
+40584,2020-03-12T19:55:40Z,8,"[3.0, 45.0, 50.0, 2.0]","[2.0, 6.0, -9.0, 1.0]",
+31679,2020-03-12T18:03:25Z,2,"[0.0, 53.0, 47.0, 0.0]","[0.0, 3.0, -3.0, 0.0]",Updating based on lower emissions in China and air travel; I expect it will take months for supply chains to start back again.
+72737,2020-03-12T12:25:49Z,8,"[0.0, 50.0, 50.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",Shifting lower due to COVID
+19127,2020-03-12T12:23:33Z,7,"[2.0, 45.0, 51.0, 2.0]","[0.0, 3.0, -3.0, 0.0]",
+81157,2020-03-12T11:42:48Z,5,"[10.0, 62.0, 26.0, 2.0]","[4.0, 20.0, -23.0, -1.0]",
+81157,2020-03-12T11:41:13Z,4,"[6.0, 42.0, 49.0, 3.0]","[5.0, 7.0, -10.0, -2.0]",Lowering due to expected aftermath of COVID-19 pandemic.
+33035,2020-03-10T23:48:53Z,2,"[1.0, 4.0, 60.0, 35.0]","[-15.0, -13.0, 27.0, 1.0]",
+66742,2020-03-10T22:06:29Z,6,"[18.0, 70.0, 11.0, 1.0]","[18.0, 37.0, -55.0, 0.0]",My model seems to have gone a little haywire ... but I am sticking to it :-)
+77404,2020-03-09T20:38:47Z,1,"[0.0, 45.0, 55.0, 0.0]","[0.0, 45.0, 55.0, 0.0]",
+81287,2020-03-08T23:01:14Z,1,"[1.0, 49.0, 49.0, 1.0]","[1.0, 49.0, 49.0, 1.0]","Point est = 411.36 + 3.08 (last year's ppm growth +/- 0.08) = 414.44. But +3.08 is high end of growth in recent years. Global GDP is likely lower 2020 (2.9 now cut to 2.5% by OECD) than 2019, and C-virus will likely bring in growth lower again. Electricity + Land then industry, transport buildings make up most of CO2 driven by humans. Fires, also a bit unknown (they put more co2 in air, also volcanoes). But putting altogether suggests a little below 414.4 is most likely but might not be my much. To show no growth is very very hard. Never happened in last 50 years despite recessions - and much of CO2 s baked in from what has happened from a long while back. As of March figs = 413.9 and previous years the Dec fig is a little higher than the March Fig.... So a lot will depend on how hard COVID hits over the year. I split it across the two mid figures. ( I had expected to see a strong dip in March given the China shut down, but the data doesn't quite agree, so maybe industrial shut down not making such a large impact)"
+57797,2020-03-08T19:20:32Z,5,"[0.0, 35.0, 65.0, 0.0]","[0.0, 7.0, -5.0, -2.0]",Shifting down on COVID-19 risks.
+79142,2020-03-08T18:35:57Z,3,"[0.0, 54.0, 46.0, 0.0]","[0.0, -1.0, 1.0, 0.0]","The value for 1 December 2020 was 411.36, by today calculation. The Global Seasonal Cycle value had changed from 1,87 to 2.87 in the last ten years, with the median around 2,46. The difference them was 2,48 to what was 12 moths before. So, everything the same, it should be expected to be from, 413,4 to 414,1, with the most probable value 413,9. But nothing stays the same.... There came the Australian fires and the gap grew to 3,56 in the beginning of February, and them the slowing China that brought the gap back to 3,00. So... it´s too early to see the outcomes. Let´s see how much Carbon the growing forests, and agriculture in the North´s Spring will take from the atmosphere."
+1333,2020-03-08T11:28:18Z,29,"[7.0, 25.0, 65.0, 3.0]","[2.0, 0.0, -2.0, 0.0]",
+85449,2020-03-08T06:40:38Z,7,"[0.0, 35.0, 60.0, 5.0]","[0.0, 25.0, -20.0, -5.0]",Moderation to reflect hypothetical uncertainty.
+40584,2020-03-08T05:02:41Z,7,"[1.0, 39.0, 59.0, 1.0]","[1.0, 4.0, -5.0, 0.0]",
+74903,2020-03-06T16:06:12Z,2,"[0.0, 30.0, 60.0, 10.0]","[-30.0, 0.0, 30.0, 0.0]",
+53391,2020-03-06T16:05:20Z,2,"[0.0, 50.0, 40.0, 10.0]","[0.0, -30.0, 20.0, 10.0]",Based on first two months I am going more to higher than 414.
+85119,2020-03-06T14:47:37Z,2,"[0.0, 44.0, 55.0, 1.0]","[0.0, 21.0, -20.0, -1.0]",Reduction in activity and travel due to coronavirus.
+19127,2020-03-06T11:19:11Z,6,"[2.0, 42.0, 54.0, 2.0]","[0.0, -1.0, 1.0, 0.0]",
+85449,2020-03-06T08:24:23Z,6,"[0.0, 10.0, 80.0, 10.0]","[0.0, -15.0, 13.0, 2.0]","Shifting back up to the 'normal' trajectory since extended drop in industry leads to greater loss of aerosol masking effect which in turn may lead to rapid heating & expulsion of more CO2 via wildfires & accelerated die-offs. Should know within the next couple of months whether this theory has begun to realise or not, in which case will move accordingly."
+72737,2020-03-05T17:25:59Z,7,"[0.0, 40.0, 60.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+85774,2020-03-05T04:06:40Z,3,"[6.0, 43.0, 50.0, 1.0]","[0.0, -1.0, 0.0, 1.0]",
+85774,2020-03-04T00:05:43Z,2,"[6.0, 44.0, 50.0, 0.0]","[4.0, 16.0, -20.0, 0.0]",
+72737,2020-03-03T16:00:38Z,6,"[0.0, 35.0, 65.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+85449,2020-03-03T14:58:54Z,5,"[0.0, 25.0, 67.0, 8.0]","[0.0, -5.0, 2.0, 3.0]","Slight adjustment as China shows signs of recovery from coronavirus & much of Europe & the USA attempt a ""business as usual"" strategy that blatantly counts on Covid19 becoming endemic to spare them having to restrict commerce. Maintaining business = maintaining emissions, so all else being equal I expect ppm to hover around the last few years' trajectory with a slightly increased possibility of overspill due to increase in incineration & doubling up of manufacturing to compensate for consumer rejection of goods from affected areas. Maintaining a 25% investment in ppm dipping below 414.00 since global public may simply stop consuming at previous levels due to fear & income loss. Liable to revise if reduction in global dimming effect translates to greater no. of fires & release of carbon stores than per 2019, and if the 6% Covid19 mortality rate persists - in effect a mass human die-off with the short term effect of increasing CO2 & the longer term effect of slowing the current trajectory."
+1333,2020-03-02T18:19:04Z,28,"[5.0, 25.0, 67.0, 3.0]","[1.0, 0.0, 0.0, -1.0]",
+38094,2020-03-02T15:58:52Z,5,"[0.0, 10.0, 90.0, 0.0]","[0.0, 5.0, -5.0, 0.0]","Assuming drastically reduced travel and transport may have a measureable impact on emissions. However, we need to keep an eye on @petequinn model when we get March results."
+72737,2020-03-02T11:41:36Z,5,"[0.0, 30.0, 70.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+45594,2020-03-01T08:41:39Z,2,"[65.0, 25.0, 10.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+172,2020-03-01T02:59:01Z,8,"[0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",Staying pat. Not certain how to factor in covid19 impact - still playing out. Slight skew to 412-414.
+85774,2020-03-01T01:17:39Z,1,"[2.0, 28.0, 70.0, 0.0]","[2.0, 28.0, 70.0, 0.0]",
+4577,2020-02-29T21:00:05Z,2,"[1.0, 45.0, 51.0, 3.0]","[-1.0, 5.0, -2.0, -2.0]",Monthly update of algorithmic forecast using end-of-month data.
+66692,2020-02-28T17:29:26Z,7,"[0.0, 0.0, 100.0, 0.0]","[0.0, -5.0, 5.0, 0.0]","End February, I'm seeing the value ~ 0.58 above the trend from the same day in past years, suggesting either the year is on track for higher values or the data have been / are being adjusted to give higher values, but in any event this has my best fits projecting above 414 with very high confidence now. And I'm going all in... :-)"
+56,2020-02-28T17:02:30Z,4,"[0.0, 35.0, 65.0, 0.0]","[0.0, 30.0, -30.0, 0.0]",
+12591,2020-02-28T16:25:44Z,4,"[0.0, 20.0, 75.0, 5.0]","[0.0, 20.0, 0.0, -20.0]",
+1333,2020-02-28T15:19:41Z,27,"[4.0, 25.0, 67.0, 4.0]","[1.0, 0.0, 0.0, -1.0]",
+1333,2020-02-28T12:40:33Z,26,"[3.0, 25.0, 67.0, 5.0]","[1.0, 0.0, -1.0, 0.0]",
+19127,2020-02-27T19:45:24Z,5,"[2.0, 43.0, 53.0, 2.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-02-26T09:36:57Z,25,"[2.0, 25.0, 68.0, 5.0]","[0.0, 1.0, -1.0, 0.0]",
+85449,2020-02-26T09:34:34Z,4,"[0.0, 30.0, 65.0, 5.0]","[0.0, 15.0, -5.0, -10.0]",Covid19 adjustment.
+1646,2020-02-26T04:10:30Z,3,"[0.0, 24.0, 74.0, 2.0]","[0.0, 9.0, -5.0, -4.0]",
+40584,2020-02-24T21:48:39Z,6,"[0.0, 35.0, 64.0, 1.0]","[0.0, 5.0, -5.0, 0.0]",
+19127,2020-02-24T16:53:09Z,4,"[2.0, 43.0, 53.0, 2.0]","[0.0, 2.0, -1.0, -1.0]",
+31251,2020-02-24T16:32:18Z,3,"[1.0, 31.0, 67.0, 1.0]","[0.0, 5.0, -5.0, 0.0]",
+81484,2020-02-24T16:16:14Z,2,"[5.0, 16.0, 73.0, 6.0]","[0.0, -16.0, 20.0, -4.0]",averaging predicted probabilities between 4 different types of model with 100 instances each.
+85449,2020-02-24T15:48:32Z,3,"[0.0, 15.0, 70.0, 15.0]","[0.0, 5.0, -5.0, 0.0]",Slight adjustment due to the effect of coronavirus reducing anthropogenic activity.
+85624,2020-02-23T23:46:27Z,1,"[5.0, 15.0, 55.0, 25.0]","[5.0, 15.0, 55.0, 25.0]",
+73050,2020-02-23T22:14:30Z,2,"[1.0, 39.0, 56.0, 4.0]","[-12.0, -6.0, 17.0, 1.0]",
+85449,2020-02-22T22:27:42Z,2,"[0.0, 10.0, 75.0, 15.0]","[0.0, 10.0, -5.0, -5.0]",Re-calibrated to account for potentially extended industrial pause due to coronavirus. Still allowing for possibility that climate effects will push ppm higher than expected.
+23999,2020-02-22T15:29:59Z,3,"[0.0, 10.0, 80.0, 10.0]","[0.0, -10.0, 5.0, 5.0]",
+23999,2020-02-22T15:28:52Z,2,"[0.0, 20.0, 75.0, 5.0]","[-1.0, -26.0, 23.0, 4.0]",
+78501,2020-02-22T03:15:59Z,1,"[0.0, 2.0, 95.0, 3.0]","[0.0, 2.0, 95.0, 3.0]",
+691,2020-02-20T14:25:49Z,14,"[1.0, 15.0, 78.0, 6.0]","[0.0, 0.0, 0.0, 0.0]",
+85449,2020-02-20T09:55:01Z,1,"[0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 80.0, 20.0]","December-to-December average global increase in ppm = 2.558 p.a. over the last 5 years with no more than 0.5 -/+ variance until last year when the variable increase went from negative to +0.51. Balancing reduction in industrial activity due to coronavirus & shift towards green consumer concerns against the continued expansion of CO2 emitting projects, climate breakdown, impending departure of the US from the Paris agreement and the possibility that China will cut prices and increase manufacturing output to improve economy in wake of COV19, it seems likely that ppm to Dec 1st 2020 will follow 5 year trend and fall between 414 and 416, but am allowing for a greater than average increase due to acceleration of the big polluters, increasing likelihood of CO2-emitting wildfires & growing inability of forests & oceans to absorb CO2."
+81642,2020-02-20T03:58:11Z,1,"[0.0, 10.0, 30.0, 60.0]","[0.0, 10.0, 30.0, 60.0]",
+77502,2020-02-20T02:05:12Z,1,"[40.0, 30.0, 30.0, 0.0]","[40.0, 30.0, 30.0, 0.0]",
+55706,2020-02-19T22:01:02Z,1,"[25.0, 25.0, 25.0, 25.0]","[25.0, 25.0, 25.0, 25.0]",
+46339,2020-02-19T14:41:33Z,1,"[10.0, 40.0, 50.0, 0.0]","[10.0, 40.0, 50.0, 0.0]",
+85297,2020-02-19T09:08:33Z,1,"[0.0, 80.0, 20.0, 0.0]","[0.0, 80.0, 20.0, 0.0]",
+40584,2020-02-18T22:55:38Z,5,"[0.0, 30.0, 69.0, 1.0]","[0.0, 0.0, 0.0, 0.0]",Reiterating forecast
+84741,2020-02-18T19:33:22Z,1,"[0.0, 25.0, 70.0, 5.0]","[0.0, 25.0, 70.0, 5.0]","The average for January 2020 was about 413.1ppm. Trends also show that CO2 measurements peak at around March each year and are at their lowest around December. In the past 5 years, the growth rate from January to December has averaged about 1.9. It should also be taken into account that historically, the growth rate drops for about 2 years following UN conferences or other signs of increased world interest in climate change, because of this, the 2.9-3+ ppm growth rate required to reach 416+ is unlikely for 2020. The growth rate will more likely resemble that of 2018 following the Paris Climate Agreement of 2017 and the value will be around 414.5-415."
+85119,2020-02-18T13:17:17Z,1,"[0.0, 23.0, 75.0, 2.0]","[0.0, 23.0, 75.0, 2.0]",General trend would predict somewhere above 414 ppm. Coronavirus slowing early year economic growth in East Asia could reduce emissions somewhat. Depending how quickly growth rebounds this could take this years emissions a bit lower than trend into the high 413s.
+68294,2020-02-18T04:18:34Z,2,"[0.0, 1.0, 94.0, 5.0]","[0.0, -3.0, 1.0, 2.0]",Updated forecast based on most recent numbers. Made only minor changes.
+81023,2020-02-18T01:41:03Z,1,"[56.0, 14.0, 20.0, 10.0]","[56.0, 14.0, 20.0, 10.0]",
+81675,2020-02-18T00:33:48Z,1,"[55.0, 45.0, 0.0, 0.0]","[55.0, 45.0, 0.0, 0.0]",
+1333,2020-02-17T20:38:30Z,24,"[2.0, 24.0, 69.0, 5.0]","[1.0, 0.0, -1.0, 0.0]",
+19127,2020-02-17T06:56:56Z,3,"[2.0, 41.0, 54.0, 3.0]","[0.0, 4.0, -3.0, -1.0]",
+76674,2020-02-16T05:33:59Z,1,"[0.0, 20.0, 70.0, 10.0]","[0.0, 20.0, 70.0, 10.0]",It is going up a pretty consistent 3ppm / year right now
+172,2020-02-15T21:41:27Z,7,"[0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","Per this article from The Economist, “International Energy Agency (IEA), an intergovernmental organisation which collects such data, announced that emissions of carbon dioxide in 2019 which were related to energy had remained the same (33.3bn tonnes) as the previous year’s. Energy-related emissions, which include those produced by electricity generation, heating and transport, account for more than 70% of the world’s industrial CO2 pollution.” https://www.economist.com/node/21779912?frsc=dg%7Ce"
+79142,2020-02-15T15:34:00Z,2,"[0.0, 55.0, 45.0, 0.0]","[-5.0, -10.0, 15.0, 0.0]","The Daily Global Seasonal Cycle value for 1 December 2019 is 411.41ppm. In the last 10 years the Annual Mean Global Carbon Dioxide Growth Rates for the Seasonal Cycle has been between 1.87 (2011) and 2.87 (2016). At 1st December 2020 it was 2.48. Repeated, the Global Seasonal Cycle value will go to 413,89. But it seams that some extraordinary events is increasing the growth rate, that today is 3.03. Therefore it may increase to 414.44 but this trend is lowering. I would say that there is 100% chance the value will be more than 413.00 ppm but less than 415.00 ppm"
+45594,2020-02-15T09:52:51Z,1,"[65.0, 25.0, 10.0, 0.0]","[65.0, 25.0, 10.0, 0.0]",
+79474,2020-02-15T09:34:06Z,1,"[5.0, 35.0, 30.0, 30.0]","[5.0, 35.0, 30.0, 30.0]",
+83651,2020-02-15T02:05:38Z,1,"[2.0, 38.0, 60.0, 0.0]","[2.0, 38.0, 60.0, 0.0]","Anything is possible with Trump possibly corrupting the reporting to serve his purposes. Especially after the way, he interfered with hurricane reporting."
+77516,2020-02-14T20:10:12Z,1,"[10.0, 20.0, 60.0, 10.0]","[10.0, 20.0, 60.0, 10.0]",
+72737,2020-02-14T13:37:37Z,4,"[0.0, 20.0, 80.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+81157,2020-02-14T01:30:52Z,3,"[1.0, 35.0, 59.0, 5.0]","[0.0, -18.0, 20.0, -2.0]",Updating in light of Australia fires and top comments here.
+691,2020-02-13T14:47:13Z,13,"[1.0, 15.0, 78.0, 6.0]","[0.0, 0.0, 0.0, 0.0]",
+81450,2020-02-13T06:54:36Z,1,"[5.0, 25.0, 35.0, 35.0]","[5.0, 25.0, 35.0, 35.0]",
+19127,2020-02-12T18:12:54Z,2,"[2.0, 37.0, 57.0, 4.0]","[0.0, -3.0, 3.0, 0.0]",
+40584,2020-02-12T16:24:19Z,4,"[0.0, 30.0, 69.0, 1.0]","[0.0, 0.0, 0.0, 0.0]",Re-affirming my estimate.
+767,2020-02-11T22:08:46Z,2,"[35.0, 55.0, 10.0, 0.0]","[5.0, 0.0, 0.0, -5.0]",
+66742,2020-02-11T18:47:38Z,5,"[0.0, 33.0, 66.0, 1.0]","[-5.0, 5.0, 1.0, -1.0]",Made a new model based on the average of - a linear regression of 5 days surrounding December 1 for the past 6 years and - an arima model.
+14107,2020-02-11T17:46:22Z,2,"[0.0, 33.0, 63.0, 4.0]","[0.0, -3.0, 3.0, 0.0]",
+38094,2020-02-11T17:12:11Z,4,"[0.0, 5.0, 95.0, 0.0]","[0.0, -10.0, 10.0, 0.0]",Looks like we are heading higher.
+767,2020-02-10T21:58:47Z,1,"[30.0, 55.0, 10.0, 5.0]","[30.0, 55.0, 10.0, 5.0]",
+26846,2020-02-09T21:12:08Z,1,"[0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 20.0, 80.0]","Daily CO2 site indicates we're at 414 today and the increase was 3+ over the last year, ergo in all probability we'll exceed 416 by December."
+1333,2020-02-09T19:25:22Z,23,"[1.0, 24.0, 70.0, 5.0]","[0.0, -1.0, 1.0, 0.0]",
+75824,2020-02-09T14:12:15Z,1,"[0.0, 28.0, 70.0, 2.0]","[0.0, 28.0, 70.0, 2.0]",
+1333,2020-02-08T21:46:29Z,22,"[1.0, 25.0, 69.0, 5.0]","[0.0, -1.0, 0.0, 1.0]",
+79461,2020-02-08T17:51:34Z,5,"[0.0, 25.0, 73.0, 2.0]","[0.0, -7.0, 7.0, 0.0]",
+38094,2020-02-07T20:10:59Z,3,"[0.0, 15.0, 85.0, 0.0]","[0.0, 5.0, -5.0, 0.0]","With less fuel being used this quarter, there may be some presssure off the unrelenting rise in carbon dioxide."
+1333,2020-02-07T19:29:55Z,21,"[1.0, 26.0, 69.0, 4.0]","[0.0, -1.0, 0.0, 1.0]",
+1333,2020-02-07T19:26:46Z,20,"[1.0, 27.0, 69.0, 3.0]","[0.0, -1.0, 0.0, 1.0]",
+691,2020-02-06T19:29:35Z,12,"[1.0, 15.0, 78.0, 6.0]","[0.0, -7.0, 7.0, 0.0]",
+1333,2020-02-06T13:45:16Z,19,"[1.0, 28.0, 69.0, 2.0]","[0.0, -1.0, 0.0, 1.0]",
+66742,2020-02-05T08:51:07Z,4,"[5.0, 28.0, 65.0, 2.0]","[0.0, -15.0, 13.0, 2.0]",
+67246,2020-02-05T08:29:58Z,2,"[0.0, 40.0, 59.0, 1.0]","[0.0, -5.0, 5.0, 0.0]",
+1333,2020-02-04T19:30:08Z,18,"[1.0, 29.0, 69.0, 1.0]","[0.0, -1.0, 1.0, 0.0]",
+66692,2020-02-04T17:52:10Z,6,"[0.0, 5.0, 95.0, 0.0]","[0.0, -10.0, 10.0, 0.0]","Early February, I'm seeing the value ~ 0.44 above the trend from the same day in past years, suggesting either the year is on track for higher values or the data have been / are being adjusted to give higher values, but in any event this has my best fits projecting above 414 with very high confidence now."
+31802,2020-02-04T14:24:46Z,6,"[0.0, 5.0, 95.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+4577,2020-02-03T19:39:15Z,1,"[2.0, 40.0, 53.0, 5.0]","[2.0, 40.0, 53.0, 5.0]",Probabilities derived from forecast produced with 'forecast' function from R package of the same name.
+80790,2020-02-02T23:24:03Z,1,"[10.0, 30.0, 20.0, 40.0]","[10.0, 30.0, 20.0, 40.0]",
+22147,2020-02-02T21:13:18Z,2,"[0.0, 20.0, 80.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",I re-ran my previous model. Results below.
+29054,2020-02-02T18:49:07Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, -100.0, 100.0]","There was an incremental variance of 0.024 per reading cycle for 2019 that tells me that my past forecast of .018 it was too low, it seems that it has held that range for the first 2020 reading, I will assume the same pattern of increments for the rest of year."
+81484,2020-02-02T00:37:40Z,1,"[5.0, 32.0, 53.0, 10.0]","[5.0, 32.0, 53.0, 10.0]","Creating 100 sample paths using facebook's prophet model, I calculated estimated probabilities for each interval."
+38094,2020-02-01T18:18:30Z,2,"[0.0, 10.0, 90.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",Given the Q1 lockdown in China and reduced travel of all kinds I assume there will be a slight bias to this year's data as a result. Also I appreciate the approach offered by @dlaiocean in his more complete analysis of trends.
+68,2020-02-01T17:16:39Z,2,"[0.0, 35.0, 65.0, 0.0]","[0.0, -20.0, 20.0, 0.0]",
+1333,2020-01-30T14:28:10Z,17,"[1.0, 30.0, 68.0, 1.0]","[0.0, -1.0, 1.0, 0.0]",
+66742,2020-01-29T21:17:18Z,3,"[5.0, 43.0, 52.0, 0.0]","[-10.0, -32.0, 42.0, 0.0]",
+40584,2020-01-29T14:13:15Z,3,"[0.0, 30.0, 69.0, 1.0]","[0.0, 1.0, -1.0, 0.0]",maintaining my estimate below the crowd to reflect risks from Wuhan virus.
+81377,2020-01-29T10:19:49Z,1,"[0.0, 11.0, 88.0, 1.0]","[0.0, 11.0, 88.0, 1.0]",
+578,2020-01-29T00:31:27Z,3,"[0.0, 11.0, 89.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",I am going to elaborate my approach and forecast done in [3].
+80843,2020-01-28T21:25:55Z,1,"[5.0, 5.0, 60.0, 30.0]","[5.0, 5.0, 60.0, 30.0]",
+4645,2020-01-27T23:09:11Z,4,"[10.0, 45.0, 30.0, 15.0]","[0.0, 5.0, -5.0, 0.0]",
+80662,2020-01-26T23:32:20Z,1,"[0.0, 5.0, 55.0, 40.0]","[0.0, 5.0, 55.0, 40.0]","The2017 value was 407 and emissions have been increasing for a decade. Oil is cheap, China’s power output is rising, trade is not down that much. Economies are mostly growing and government/company promises are unenforced. Gas may be cleaner than coal, but it still contributes plenty."
+72737,2020-01-26T22:51:02Z,3,"[0.0, 10.0, 90.0, 0.0]","[0.0, -25.0, 25.0, 0.0]",
+72737,2020-01-26T20:22:13Z,2,"[0.0, 35.0, 65.0, 0.0]","[0.0, -35.0, 35.0, 0.0]",
+1646,2020-01-26T20:13:20Z,2,"[0.0, 15.0, 79.0, 6.0]","[0.0, 10.0, -3.0, -7.0]",
+12591,2020-01-26T00:44:32Z,3,"[0.0, 0.0, 75.0, 25.0]","[0.0, -10.0, 40.0, -30.0]",
+57797,2020-01-25T23:57:50Z,4,"[0.0, 28.0, 70.0, 2.0]","[0.0, -10.0, 10.0, 0.0]","Among the inputs my forecast is based on (ARIMA, ETS, UK Met office forecast on natural sinks), I am also incorporating @jtrommel's model results based on an STL approach."
+31802,2020-01-25T16:55:15Z,5,"[0.0, 10.0, 90.0, 0.0]","[0.0, -15.0, 15.0, 0.0]","I checked an STL-model using the historical record. The STL-predictions seem to be very robust, if slightly (on average -0.2 ppm) underestimating the observed value at December 1st. The seasonal pattern is very stable and the seasonally adjusted component is approximated with the Loess-method. This can cause the trend line to ""wobble"" a bit when new data become available and we get closer to the prediction date. This is the case with these data and in general the result is that when the CO2-value drops after the month of May, the STL-model tends to underpredict the value for December 1st. On average this is 0.2 ppm, so this is not critical given that the differences between the levels is 2 ppm. At present (2020-01-25) the prediction is 414.6 ppm with a sigma of 0.166 ppm. The region 414-416 seems the most likely."
+57797,2020-01-25T15:09:37Z,3,"[0.0, 38.0, 60.0, 2.0]","[0.0, -2.0, 2.0, 0.0]",~~~ Digest ~~~
+14107,2020-01-25T12:47:06Z,1,"[0.0, 36.0, 60.0, 4.0]","[0.0, 36.0, 60.0, 4.0]",
+56,2020-01-25T10:58:35Z,3,"[0.0, 5.0, 95.0, 0.0]","[0.0, -15.0, 20.0, -5.0]","The value on December 1 of this year is 411.45. Dec 1st to Dec 1st increases in last 10 years average 2.44. Range is 1.25. Highest increase is 3.11. Now, consider:"
+691,2020-01-24T15:13:58Z,11,"[1.0, 22.0, 71.0, 6.0]","[0.0, 0.0, 1.0, -1.0]",
+73813,2020-01-23T00:58:49Z,2,"[0.0, 0.0, 51.0, 49.0]","[0.0, -42.0, 3.0, 39.0]",
+56,2020-01-22T23:51:04Z,2,"[0.0, 20.0, 75.0, 5.0]","[0.0, -10.0, 10.0, 0.0]",
+578,2020-01-22T21:30:32Z,2,"[0.0, 9.0, 91.0, 0.0]","[0.0, -18.0, 19.0, -1.0]","After interchange with @Emil and reviewing my approach [1], I decided to calculate the probabilities more precisely, and modify the probabilities accordingly."
+84367,2020-01-22T14:11:56Z,1,"[0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 5.0, 95.0]","The concerns about CO2 will be swamped by the inevitable destruction caused by CH4. Once the permafrost melts ""The Great Migration"" will take place with globally tragic results."
+84364,2020-01-22T11:10:36Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",Time to buckle up.
+4645,2020-01-21T15:46:15Z,3,"[10.0, 40.0, 35.0, 15.0]","[0.0, 20.0, -5.0, -15.0]",
+4645,2020-01-20T23:15:50Z,2,"[10.0, 20.0, 40.0, 30.0]","[0.0, 0.0, 0.0, 0.0]",
+82381,2020-01-20T06:52:13Z,1,"[5.0, 45.0, 45.0, 5.0]","[5.0, 45.0, 45.0, 5.0]","With a starting point of 411.56 on January 18, 2020 and an increase projected along the same trajectory as has been seen since 2010, one could reasonably estimate the CO2 values for December 1, 2020 to lie between 411.77 ppm and 414.11 ppm. Confidence levels for the lower side of the range is very low and presumes significant action toward limiting climate change by the major world economies, including the US. As this has obviously not been the case the likelihood of the lower end of the scale is very low. The impact of the climate change related fires in Australia and other locations around the planet might accelerate CO2 values significantly, however no data is available to extrapolate so confidence levels are again kept very low. Modeling suggests the CO2 value will be very near or exceed 414 ppm by December 1, 2020, therefore I allocated the remaining probability evenly between the 2 choices that contain the 414 value."
+80475,2020-01-20T02:36:08Z,1,"[0.0, 17.0, 82.0, 1.0]","[0.0, 17.0, 82.0, 1.0]",
+83615,2020-01-19T22:49:01Z,1,"[44.0, 33.0, 15.0, 8.0]","[44.0, 33.0, 15.0, 8.0]",
+691,2020-01-19T19:59:15Z,10,"[1.0, 22.0, 70.0, 7.0]","[0.0, 0.0, 0.0, 0.0]",
+31802,2020-01-18T19:41:15Z,4,"[0.0, 25.0, 75.0, 0.0]","[-3.0, -5.0, 13.0, -5.0]",
+31251,2020-01-18T14:17:45Z,2,"[1.0, 26.0, 72.0, 1.0]","[-1.0, -7.0, 8.0, 0.0]",
+4645,2020-01-17T22:56:07Z,1,"[10.0, 20.0, 40.0, 30.0]","[10.0, 20.0, 40.0, 30.0]",Spreadsheet here: https://docs.google.com/spreadsheets/d/1r8Ko8I_KKMhG6-F14bUJ23Mz5-oewDh8pfLAYxNgaOI/edit?usp=sharing Linear regression gives point estimate just a hair under 414.
+40584,2020-01-17T13:26:55Z,2,"[0.0, 29.0, 70.0, 1.0]","[-5.0, -35.0, 40.0, 0.0]","Less than 412 seems like it would require a recession in the US and China starting early in the year, which seems unlikely. China is slowing but the US seems to be going strong for now. 416 or more would be a major event that released a bunch of CO2 into the atmosphere. Not zero but unlikely at ~3 sigma ."
+1333,2020-01-16T14:26:57Z,16,"[1.0, 31.0, 67.0, 1.0]","[0.0, -1.0, 1.0, 0.0]",
+19127,2020-01-15T11:58:22Z,1,"[2.0, 40.0, 54.0, 4.0]","[2.0, 40.0, 54.0, 4.0]",
+578,2020-01-15T06:29:30Z,1,"[0.0, 27.0, 72.0, 1.0]","[0.0, 27.0, 72.0, 1.0]","The pattern of CO2 measurements around the globe show basically a combination of three signals; a long-term trend, a non-sinusoidal yearly cycle (note the yearly cycle is non-sinusoidal), and short term variations that can last from several hours to several weeks, which are due to local and regional influences. It has been shown that a second-degree polynomial plus 4 yearly harmonics model the long-term and seasonal variation of CO2 pretty well (1). I implemented this model and perform a least squares regression using the available data from NOAA (2). Implementation of the model is straightforward if you use the matrix approach."
+691,2020-01-14T21:36:47Z,9,"[1.0, 22.0, 70.0, 7.0]","[0.0, -9.0, 10.0, -1.0]",
+172,2020-01-14T12:20:59Z,6,"[0.0, 55.0, 45.0, 0.0]","[-5.0, -5.0, 10.0, 0.0]","I keep crunching the numbers on this one and continue to come up with something in the 414,5 - 415,0 range (larger hits at 414,5). Despite my own data (which only scratches surface complexity) still heavy on 412-414 range (call it naïve optimism)."
+81526,2020-01-14T09:27:47Z,1,"[0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 80.0, 20.0]",
+81510,2020-01-13T16:24:37Z,1,"[15.0, 15.0, 35.0, 35.0]","[15.0, 15.0, 35.0, 35.0]",
+66742,2020-01-13T15:39:05Z,2,"[15.0, 75.0, 10.0, 0.0]","[15.0, 0.0, -15.0, 0.0]","I started with a linear regression of 10 days surrounding December 1 for every year in the data. I was surprised the coefficients for this model are very significant and the R-sq is 99%. Fitting the bins, there is a 93% chance of falling between 412 and 414ppm and 6% chance of falling between 414 and 416ppm. In order to be able to evolve my numbers in the course of the year, I also made an ETS model which resulted in a higher spread 31%,55%,13%,0%. I see that the crowd has come up with bigger numbers for the higher intervals, I'll check my methods again ... For now, I averaged the results of both models."
+19106,2020-01-12T23:10:05Z,1,"[0.0, 9.0, 90.0, 1.0]","[0.0, 9.0, 90.0, 1.0]",
+29054,2020-01-12T19:51:17Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+79118,2020-01-12T03:24:49Z,14,"[0.0, 1.0, 99.0, 0.0]","[0.0, -2.0, 2.0, 0.0]",
+79461,2020-01-11T18:19:12Z,4,"[0.0, 32.0, 66.0, 2.0]","[0.0, -2.0, 2.0, 0.0]","Now that we some 2020, I reran the model and got very similar predictions. Increasing my density in the 414-416 category by a little bit in response to the model making the same predictions."
+1333,2020-01-11T14:20:55Z,15,"[1.0, 32.0, 66.0, 1.0]","[0.0, -1.0, 1.0, 0.0]",
+172,2020-01-11T00:54:18Z,5,"[5.0, 60.0, 35.0, 0.0]","[0.0, 10.0, -10.0, 0.0]",
+172,2020-01-11T00:53:16Z,4,"[5.0, 50.0, 45.0, 0.0]","[0.0, -15.0, 15.0, 0.0]",
+57797,2020-01-10T20:43:00Z,2,"[0.0, 40.0, 58.0, 2.0]","[-1.0, -5.0, 6.0, 0.0]",I previously used a SARIMA model [1] but I do not want to rely on a single methodology.
+1333,2020-01-10T19:42:33Z,14,"[1.0, 33.0, 65.0, 1.0]","[0.0, -5.0, 5.0, 0.0]",
+691,2020-01-10T15:17:54Z,8,"[1.0, 31.0, 60.0, 8.0]","[0.0, 0.0, 0.0, 0.0]",
+19801,2020-01-10T11:42:09Z,1,"[0.0, 20.0, 75.0, 5.0]","[0.0, 20.0, 75.0, 5.0]",There has been a trend for carbon dioxide levels to increase by at least 2 ppm for th last 7 years.
+79118,2020-01-10T07:30:14Z,13,"[0.0, 3.0, 97.0, 0.0]","[0.0, -4.0, 4.0, 0.0]",
+79118,2020-01-10T07:27:43Z,12,"[0.0, 7.0, 93.0, 0.0]","[0.0, -12.0, 12.0, 0.0]",
+79118,2020-01-10T07:23:56Z,11,"[0.0, 19.0, 81.0, 0.0]","[0.0, -44.0, 44.0, 0.0]",
+79118,2020-01-10T07:14:35Z,10,"[0.0, 63.0, 37.0, 0.0]","[0.0, 35.0, -34.0, -1.0]",
+79118,2020-01-10T06:50:43Z,9,"[0.0, 28.0, 71.0, 1.0]","[0.0, -2.0, 2.0, 0.0]",
+79118,2020-01-10T06:20:24Z,8,"[0.0, 30.0, 69.0, 1.0]","[0.0, -10.0, 10.0, 0.0]",
+1646,2020-01-09T15:38:32Z,1,"[0.0, 5.0, 82.0, 13.0]","[0.0, 5.0, 82.0, 13.0]","Most recent data doesn´t support a change in the trend, so the statistical analysis others have been making seems strong. However, thinking if the case could not be made stronger by combining the NOAA data with satellite measurement data, such as OCO-2, OCO-3, and specially the more precise data from GOSAT-2. I tried to take a look ath the GOSAT data but it seems too much hassle for me. Perhaps those more inclined would offer an assesment of its usefulness? I did however find some interesting papers. Apparently this data can be more useful than the NOAA ground station data in identifying seasonality trends, in a more precise way than ARIMA estimations: https://www.atmos-meas-tech.net/12/2611/2019/amt-12-2611-2019.pdf Also some chinese researchers have used the data to feed it into a neural network : An Assessment of Anthropogenic CO2 Emissions by Satellite-Based Observations in China https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6427755/"
+31802,2020-01-09T09:37:41Z,3,"[3.0, 30.0, 62.0, 5.0]","[3.0, 30.0, 22.0, -55.0]",The STL-model is in fact performing very well! I made a coding error which resulted in an apparent underprediction. This is now corrected. Linear regression model (trend + seasonal) or (trend + Fourier) are worse than the STL. ETS and ARIMA will be tried later.
+66742,2020-01-08T21:48:37Z,1,"[0.0, 75.0, 25.0, 0.0]","[0.0, 75.0, 25.0, 0.0]",First position
+79118,2020-01-08T14:02:12Z,7,"[0.0, 40.0, 59.0, 1.0]","[0.0, 31.0, -31.0, 0.0]",
+79118,2020-01-08T14:00:06Z,6,"[0.0, 9.0, 90.0, 1.0]","[0.0, 1.0, 0.0, -1.0]",
+20504,2020-01-07T21:01:24Z,1,"[0.0, 49.0, 50.0, 1.0]","[0.0, 49.0, 50.0, 1.0]","Setting a base rate. Numbers for 2017, 2018, and 2019 were roughly 406.5, 409, and 411.5. Assuming 414 as a reasonable median forecast and maybe over a little more likely than under."
+79489,2020-01-07T18:54:47Z,1,"[20.0, 70.0, 5.0, 5.0]","[20.0, 70.0, 5.0, 5.0]",
+74903,2020-01-07T16:49:13Z,1,"[30.0, 30.0, 30.0, 10.0]","[30.0, 30.0, 30.0, 10.0]",
+691,2020-01-07T15:21:38Z,7,"[1.0, 31.0, 60.0, 8.0]","[0.0, -15.0, 13.0, 2.0]",
+71701,2020-01-07T13:50:32Z,1,"[0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 90.0, 10.0]",
+31802,2020-01-06T16:21:10Z,2,"[0.0, 0.0, 40.0, 60.0]","[-3.0, -42.0, -10.0, 55.0]","Checked my STL-model with the historical record and it showed that it consistently underestimated the observed values by about 2ppm. That does not seem much, but the margins of the question are in steps of 2ppm. I will shift my forecast to the higher values, but no so far as to put everything in the upper region, until I have a better idea why the model underpredicts. I was thinking about the Australian bushfires. But Wikipedia tells me that 1ppm is equivalent to 7.82Gtonnes of CO2 (7820Mtonnes). The bushfires in Australia add (on average) 380Mtonnes per year. If this doubles it would mean an extra 380Mtonnes or +0.05 ppm. Even if the damage is 10 times more than the yearly average it would only increase 0.5 ppm. This is not nothing, but not too large. Yet, it points towards an increase, so I am moving into the higher percentages."
+81324,2020-01-06T13:53:05Z,1,"[0.0, 20.0, 75.0, 5.0]","[0.0, 20.0, 75.0, 5.0]","As it was commented before, approaching this question statically makes sense. You have to appreciate the use of python and C by @Emil and @Petequinn - beautiful :)."
+26553,2020-01-06T09:19:08Z,2,"[0.0, 50.0, 50.0, 0.0]","[0.0, 5.0, -5.0, 0.0]","adjusting downward. eyeballing it looks like around 412. Wildfires notwithstanding but I'm leaning away from the smart crowd toward the second, not third bucket"
+172,2020-01-06T03:46:36Z,3,"[5.0, 65.0, 30.0, 0.0]","[-5.0, 0.0, 5.0, 0.0]",
+68294,2020-01-06T02:56:12Z,1,"[0.0, 4.0, 93.0, 3.0]","[0.0, 4.0, 93.0, 3.0]","Given the strong, consistent seasonality of the data I chose to go simple and use Triple Exponential Smoothing. I thought about using ARIMA and I see that several colleagues have chosen that. However, I find the simple smoothers work almost as good. I've been burned so many times by using a normal prediction interval that I used a variant of the Cauchy function to capture longer tails than the gaussian distribution. My results suggest that the cyclical data will be between 414 and 416 ppm at that time of the year."
+12591,2020-01-05T21:35:43Z,2,"[0.0, 10.0, 35.0, 55.0]","[0.0, 0.0, -10.0, 10.0]",
+38094,2020-01-05T18:43:49Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]","What will be the Estimated CO2 (carbon dioxide) Daily Global Seasonal Cycle value for 1 December 2020, according to NOAA's Earth System Research Laboratory? Hattip to @petequinn and @Emil for their thoughtful analysis. And I sincerely hope my Brier gets killed by my overly pessimistic estimate."
+66692,2020-01-05T15:08:17Z,5,"[0.0, 15.0, 85.0, 0.0]","[0.0, -20.0, 20.0, 0.0]","I've spent a fair bit more time on this today, running in circles to a large degree. It would be very difficult for me to easily explain how I've landed on this split, but it is based on a certain logic and I can update it at any particular day over the next year by comparing how the actual daily value is tracking against my linear and polynomial best fit projections. Accounting for actuals early in the new year, I'm getting a projection of 13.95 from my slightly weaker linear best fit and 14.24 from my polynomial best fit. If I give the two ""best fits"" equal weight, I land on the polynomial projection having about 5 times more likelihood (+0.24) than the linear one (-0.5), which I've rounded to 85/15."
+23999,2020-01-05T10:01:44Z,1,"[1.0, 46.0, 52.0, 1.0]","[1.0, 46.0, 52.0, 1.0]",
+66692,2020-01-05T06:46:51Z,4,"[0.0, 35.0, 65.0, 0.0]","[0.0, -14.0, 14.0, 0.0]",
+73050,2020-01-04T20:07:10Z,1,"[13.0, 45.0, 39.0, 3.0]","[13.0, 45.0, 39.0, 3.0]",
+57797,2020-01-04T19:12:40Z,1,"[1.0, 45.0, 52.0, 2.0]","[1.0, 45.0, 52.0, 2.0]",One way to approach this is statistically since we have good data. Particularly suitable is time series modeling that extends past trend and seasonality to estimate future values. Specifically I use an autoregressive integrated moving average modeling with seasonality.
+66692,2020-01-04T16:59:33Z,3,"[0.0, 49.0, 51.0, 0.0]","[0.0, 49.0, -49.0, 0.0]","Changing my mind. When I use the linear best fit with the same general approach, I get a most likely value of 413.64, and 6% chance (based on variability of nine years' date from the linear best fit) to be above 414.0. So One result gives me 94% chance of being below 414, the other gives me 96% chance being above. This is basically a draw, with a slight tip in favour of > 414."
+66692,2020-01-04T16:53:26Z,2,"[0.0, 0.0, 100.0, 0.0]","[0.0, -4.0, 4.0, 0.0]","I'm gonna go all in based on the strength of the result I described previously, what the heck, roll the dice... yippee!"
+66692,2020-01-04T16:43:52Z,1,"[0.0, 4.0, 96.0, 0.0]","[0.0, 4.0, 96.0, 0.0]","This is a tricky one, because our ability to predict won't improve as time draws closer. The data have strong annual variation. I've plotted the values for 1 December each year and then drawn a second order polynomial best fit (I started with linear and got R^2 ~ 0.983, then moved to the polynomial and got 0.999). I then used that best fit to project to 1 December 2020, and get a most likely value of 414.299. However, the variability between actual values and the best fit ranges between - 0.346 to + 0.372, and I get + 0.299 (the amount needed to get below 414.0) has a percentile rank of about 2.5%, which means a 3% probability, based on a naïve look at the data. Typing 4% in my forecast rather than 3 was a typo."
+31802,2020-01-04T16:00:41Z,1,"[3.0, 42.0, 50.0, 5.0]","[3.0, 42.0, 50.0, 5.0]","The patterns of the trend and seasonality are very steady. Decomposing the data and using a random walk drift model I get these results. December 1st 2020 lies on a very steep part of the curve but in previous years this part was very steady. However: the limits (412, 414, 416) in this question are VERY close together. I will need to find out how this model would have worked in the past. I have no idea if events like the spectacular fires in Australia have an impact on these measurements."
+22147,2020-01-04T08:25:27Z,1,"[0.0, 25.0, 75.0, 0.0]","[0.0, 25.0, 75.0, 0.0]",Using seasonal linear regression [1]:
+77557,2020-01-04T05:56:35Z,1,"[5.0, 25.0, 65.0, 5.0]","[5.0, 25.0, 65.0, 5.0]",https://www.kaggle.com/kikun1234/noaac02
+233,2020-01-03T17:48:07Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+16093,2020-01-03T13:11:08Z,1,"[10.0, 80.0, 10.0, 0.0]","[10.0, 80.0, 10.0, 0.0]",
+67246,2020-01-03T11:25:43Z,1,"[0.0, 45.0, 54.0, 1.0]","[0.0, 45.0, 54.0, 1.0]",
+40584,2020-01-03T05:00:41Z,1,"[5.0, 64.0, 30.0, 1.0]","[5.0, 64.0, 30.0, 1.0]",Basing this estimate off the trendline of recent years. I basically eyeballed it. I plan to put more effort into this when I get a minute.
+4412,2020-01-02T18:39:55Z,1,"[3.0, 35.0, 35.0, 27.0]","[3.0, 35.0, 35.0, 27.0]",
+81157,2020-01-02T17:25:00Z,2,"[1.0, 53.0, 39.0, 7.0]","[-1.0, 13.0, -9.0, -3.0]",
+1333,2020-01-02T14:58:32Z,13,"[1.0, 38.0, 60.0, 1.0]","[1.0, 0.0, -2.0, 1.0]",
+691,2020-01-02T13:18:46Z,6,"[1.0, 46.0, 47.0, 6.0]","[0.0, 0.0, 0.0, 0.0]",
+68,2020-01-02T08:31:20Z,1,"[0.0, 55.0, 45.0, 0.0]","[0.0, 55.0, 45.0, 0.0]",
+12591,2020-01-01T23:45:05Z,1,"[0.0, 10.0, 45.0, 45.0]","[0.0, 10.0, 45.0, 45.0]",
+172,2020-01-01T17:22:04Z,2,"[10.0, 65.0, 25.0, 0.0]","[5.0, 5.0, -10.0, 0.0]","Everything I do seems to point to something shy of 414 (specifically closer to 413). . Under 412 seems possible if there is an economic malaise/slowdown and wildfires aren’t large contributors on this date. . Over 416 currently seems to be a stretch. . Last 5 years on Dec 1: 401,36 (2015); 404,23 (2016); 406,47 (2017); 408,93 (2018); 411,44 (2019) . I realize on a standard trend line (prior bullet) would point strongly to 414 . I’m forecasting limited growth generally in 2019 and increasing (from low base in many countries) focus on green policies"
+691,2019-12-31T13:42:25Z,5,"[1.0, 46.0, 47.0, 6.0]","[0.0, 1.0, 1.0, -2.0]",
+44308,2019-12-31T13:01:07Z,1,"[0.0, 35.0, 65.0, 0.0]","[0.0, 35.0, 65.0, 0.0]",
+79591,2019-12-30T23:30:42Z,2,"[0.0, 6.0, 94.0, 0.0]","[0.0, -24.0, 24.0, 0.0]",
+79591,2019-12-30T23:16:12Z,1,"[0.0, 30.0, 70.0, 0.0]","[0.0, 30.0, 70.0, 0.0]",
+72737,2019-12-30T21:51:38Z,1,"[0.0, 70.0, 30.0, 0.0]","[0.0, 70.0, 30.0, 0.0]",
+75093,2019-12-30T15:20:38Z,1,"[0.0, 14.0, 35.0, 51.0]","[0.0, 14.0, 35.0, 51.0]",
+79142,2019-12-30T13:56:17Z,1,"[5.0, 65.0, 30.0, 0.0]","[5.0, 65.0, 30.0, 0.0]",
+1333,2019-12-30T12:44:23Z,12,"[0.0, 38.0, 62.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+79461,2019-12-30T05:54:50Z,3,"[0.0, 34.0, 64.0, 2.0]","[0.0, -1.0, 4.0, -3.0]",@Emil @Anneinak @danielharan Thank you all for the suggestions. I've revised a bit and updated my predictions a bit. I now make my methods a little more clear.
+593,2019-12-29T18:23:59Z,2,"[0.0, 55.0, 45.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+1333,2019-12-29T18:04:41Z,11,"[0.0, 37.0, 63.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+593,2019-12-29T14:02:55Z,1,"[0.0, 60.0, 40.0, 0.0]","[0.0, 60.0, 40.0, 0.0]",
+73813,2019-12-29T09:30:41Z,1,"[0.0, 42.0, 48.0, 10.0]","[0.0, 42.0, 48.0, 10.0]",
+1333,2019-12-29T08:10:59Z,10,"[0.0, 36.0, 64.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+1333,2019-12-29T08:04:12Z,9,"[0.0, 35.0, 65.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+691,2019-12-28T20:01:23Z,4,"[1.0, 45.0, 46.0, 8.0]","[0.0, -4.0, 0.0, 4.0]",
+14237,2019-12-28T19:08:46Z,1,"[3.0, 84.0, 13.0, 0.0]","[3.0, 84.0, 13.0, 0.0]",
+79958,2019-12-28T19:02:32Z,1,"[0.0, 25.0, 33.0, 42.0]","[0.0, 25.0, 33.0, 42.0]",
+33035,2019-12-28T05:05:07Z,1,"[16.0, 17.0, 33.0, 34.0]","[16.0, 17.0, 33.0, 34.0]",
+1333,2019-12-27T23:47:57Z,8,"[0.0, 34.0, 66.0, 0.0]","[0.0, 5.0, 0.0, -5.0]",
+31679,2019-12-27T22:10:35Z,1,"[0.0, 50.0, 50.0, 0.0]","[0.0, 50.0, 50.0, 0.0]","So, in 10 years we've added 355.1 gigatonnes in the atmosphere, and the CO2 concentration has increased by 24.43 ppm? Let's say we add another 37.2 gigatonnes this coming year... that gets us to 414.01 ppm, right in the middle of the options."
+15414,2019-12-27T20:07:43Z,1,"[5.0, 38.0, 48.0, 9.0]","[5.0, 38.0, 48.0, 9.0]","Setting priors: The most likely event that will have a significant downward effect on the rate of CO² increase would be a global recession. The 2007-8 crisis flattened the curve but in this case, it would have to be early in the year to have that outcome in 2020. In the absence of an economic downturn, business-as-usual would result in a figure straddling the 414 mark, with a tendency to be slightly over. Another factor to take into consideration is the passing of a significant tipping point, which would increase the rate of CO² emmissions by an incalculable amount, but taking us over the 416 level."
+50395,2019-12-27T11:17:21Z,1,"[1.0, 32.0, 62.0, 5.0]","[1.0, 32.0, 62.0, 5.0]",
+1333,2019-12-26T22:59:39Z,7,"[0.0, 29.0, 66.0, 5.0]","[0.0, -1.0, 1.0, 0.0]",
+75790,2019-12-26T21:38:01Z,1,"[0.0, 85.0, 15.0, 0.0]","[0.0, 85.0, 15.0, 0.0]",
+1333,2019-12-26T19:09:59Z,6,"[0.0, 30.0, 65.0, 5.0]","[0.0, 5.0, 0.0, -5.0]",staying high on 2d and 3rd bins because this is the first year of a new fuel standard in the shipping industry requiring the use of low sulpher fuels.
+1333,2019-12-26T19:07:34Z,5,"[0.0, 25.0, 65.0, 10.0]","[0.0, -5.0, 10.0, -5.0]",
+1333,2019-12-26T07:38:25Z,4,"[0.0, 30.0, 55.0, 15.0]","[-2.0, -35.0, 24.0, 13.0]",
+1333,2019-12-23T19:26:30Z,3,"[2.0, 65.0, 31.0, 2.0]","[-3.0, 0.0, 6.0, -3.0]",
+53391,2019-12-23T14:45:44Z,1,"[0.0, 80.0, 20.0, 0.0]","[0.0, 80.0, 20.0, 0.0]",
+1333,2019-12-23T14:41:30Z,2,"[5.0, 65.0, 25.0, 5.0]","[-10.0, 0.0, 10.0, 0.0]",
+691,2019-12-23T13:46:54Z,3,"[1.0, 49.0, 46.0, 4.0]","[0.0, -1.0, 1.0, 0.0]",
+79118,2019-12-23T01:18:36Z,5,"[0.0, 8.0, 90.0, 2.0]","[0.0, -7.0, 5.0, 2.0]",
+79118,2019-12-23T01:11:14Z,4,"[0.0, 15.0, 85.0, 0.0]","[-37.0, -45.0, 82.0, 0.0]",
+79118,2019-12-23T00:58:18Z,3,"[37.0, 60.0, 3.0, 0.0]","[17.0, 0.0, -12.0, -5.0]",
+79118,2019-12-23T00:44:52Z,2,"[20.0, 60.0, 15.0, 5.0]","[5.0, 0.0, -5.0, 0.0]",
+79118,2019-12-23T00:40:18Z,1,"[15.0, 60.0, 20.0, 5.0]","[15.0, 60.0, 20.0, 5.0]",
+26553,2019-12-23T00:11:09Z,1,"[0.0, 45.0, 55.0, 0.0]","[0.0, 45.0, 55.0, 0.0]",
+62808,2019-12-22T21:47:29Z,1,"[0.0, 34.0, 65.0, 1.0]","[0.0, 34.0, 65.0, 1.0]",
+1333,2019-12-22T19:13:57Z,1,"[15.0, 65.0, 15.0, 5.0]","[15.0, 65.0, 15.0, 5.0]",
+27692,2019-12-22T18:30:34Z,1,"[5.0, 10.0, 30.0, 55.0]","[5.0, 10.0, 30.0, 55.0]","The number of species human being is growing exponentially compared with all other species on limited eco-system earth. The middle class on earth is growing. It’s income and consume is growing. The need of growing energy is therefore necessary. About 1500 coal power station are under construction on earth. China and USA generating about 80% of CO2 or so. Both burning about one billions ton coal per year besides millions of barrels oil per day. China is allowed by all climate contracts to increase its CO2 output per year until 2030 and India, too, as far as I know."
+31251,2019-12-22T12:28:05Z,1,"[2.0, 33.0, 64.0, 1.0]","[2.0, 33.0, 64.0, 1.0]","@smitch15 and @cafebedouin have done a great job already looking over the past few years of increases. I would add that there seems to be a smaller increase in years where there is a decreased economic activity, and therefore I am going to bear in mind the chances of a US recession (which would then affect the global economy, at roughly around 15%) which would drop the increase into the second bucket of options."
+691,2019-12-22T12:06:01Z,2,"[1.0, 50.0, 45.0, 4.0]","[0.0, -6.0, 3.0, 3.0]",
+81157,2019-12-21T20:43:08Z,1,"[2.0, 40.0, 48.0, 10.0]","[2.0, 40.0, 48.0, 10.0]",
+79461,2019-12-21T18:15:35Z,2,"[0.0, 35.0, 60.0, 5.0]","[0.0, 0.0, 5.0, -5.0]",
+79461,2019-12-21T18:11:29Z,1,"[0.0, 35.0, 55.0, 10.0]","[0.0, 35.0, 55.0, 10.0]","I see two challenges with this question. First, predicting a series that displays a broad trend (upward sloping) but also cycles. The cycles seem to peak in early May and reach their minimum in late August. The cycles are very constant over time. The trend also seems pretty constant, but may be increasing as global warming becomes more and more of a problem."
+691,2019-12-21T15:08:23Z,1,"[1.0, 56.0, 42.0, 1.0]","[1.0, 56.0, 42.0, 1.0]",
+172,2019-12-21T00:50:27Z,1,"[5.0, 60.0, 35.0, 0.0]","[5.0, 60.0, 35.0, 0.0]",
+56,2019-12-20T22:12:21Z,1,"[0.0, 30.0, 65.0, 5.0]","[0.0, 30.0, 65.0, 5.0]",

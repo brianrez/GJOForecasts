@@ -1,0 +1,638 @@
+"When will the 14-day average of COVID-19 hospitalized patients in California next reach or exceed 12,000?",2021-08-06T17:00:52Z,2022-01-18T23:00:19Z,Between 16 December 2021 and 31 January 2022,"['Before 15 September 2021', 'Between 15 September 2021 and 31 October 2021', 'Between 1 November 2021 and 15 December 2021', 'Between 16 December 2021 and 31 January 2022', 'Not before 1 February 2022']","['Technology', 'Health', 'US Politics']",637,653,89,236,"COVID-19 hospitalizations have been increasing in California with the advent of new variants (Guardian, KTLA). The data can be found under the plot titled ""COVID-19 hospitalized patients in California"" with the ""Hospitalized"" option selected (COVID19.ca.gov). The 14-day average, which can be accessed by hovering over the plot, was 3,906.6 on 3 August 2021.",https://www.gjopen.com/questions/2094-when-will-the-14-day-average-of-covid-19-hospitalized-patients-in-california-next-reach-or-exceed-12-000
+103429,2022-01-19T16:24:20Z,3,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 95.0, -95.0]",
+95112,2022-01-18T23:57:51Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]",
+38,2022-01-18T23:40:52Z,18,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","# hospitalized as of 1/7 = 14,639."
+529,2022-01-18T22:39:34Z,30,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+99857,2022-01-18T17:41:18Z,12,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+100653,2022-01-18T08:09:43Z,16,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+96953,2022-01-18T04:02:26Z,10,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+38,2022-01-18T01:21:12Z,17,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",@belikewater has been ahead of the curve on this from the get-go
+87897,2022-01-18T00:40:14Z,6,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]","Based on recent data, hospitalizations would need to fall by more than 10% per day for the next several days in order to avoid resolving for bin 4, and I think that's very unlikely to happen (I estimate there is a small fraction of a percent chance based on something I didn't anticipate like a data issue). It does look like hospitalizations are almost done climbing though."
+96828,2022-01-17T23:14:03Z,37,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+79461,2022-01-17T20:01:23Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]",
+79069,2022-01-17T18:55:14Z,43,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","I'm still on target with forecast from Dec 30th, but sadly (only for me) I expected 9.5 - 14K hospitalisation peak, meaning that the date would just tip into February rather than January. I've been accurate since Jan 4th, but that's too late to recover from I think. Oh well, I'm still learning, lol. Still on for 18th - 19th Jan close. Almost certainly the 14-day average will be slowing rapidly by the time we get there, and the peak may not be far over 12k in the end. Not that that will help my Brier score, but it's been an interesting one to gauge how it will close out."
+99993,2022-01-17T18:10:42Z,20,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+529,2022-01-17T17:23:33Z,29,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+104011,2022-01-17T13:54:33Z,5,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+40636,2022-01-17T05:52:40Z,25,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+96828,2022-01-17T01:27:06Z,36,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 1.0, -1.0]","Since California looks to be coming down from the peak imminently, I'm saying there is a small, small probability that somehow the 7-day average comes shy of 12k. But I think this is anxiety more than reality."
+99857,2022-01-16T18:06:02Z,11,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+22689,2022-01-16T17:26:33Z,5,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 50.0, -50.0]",
+96953,2022-01-16T15:32:30Z,9,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+98345,2022-01-16T03:02:26Z,11,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+38,2022-01-14T21:27:49Z,16,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 8.0, -8.0]","new cases = 119,264, up 1.9% from yesterday in hospital = 13,349, up 422 = 3.3% from yesterday 14 day avg in hospital = 9,603.2, up 560.8 from yesterday"
+529,2022-01-14T18:00:55Z,28,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+34959,2022-01-14T15:49:04Z,12,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+60944,2022-01-14T15:29:56Z,3,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 94.0, -94.0]",
+99375,2022-01-14T13:10:25Z,10,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+100653,2022-01-14T13:02:59Z,15,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 24.0, -24.0]","Current hospitalisations >12k, so even if it stays level for 2 weeks now, we'll hit >12k on '14 day average' around 25th Jan However, cases still increasing, plus hospitalisation tends to lag cases anyway, so current hospitalisations should continue to grow. So looking pretty likely now."
+104011,2022-01-14T12:42:43Z,4,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+13086,2022-01-14T11:53:22Z,3,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",Trend has been definitive
+103878,2022-01-14T10:32:18Z,7,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+86607,2022-01-14T03:38:20Z,31,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",Cases still up over a week ago -> hospitalizations will go up with 100% certainty for the next week
+99857,2022-01-14T02:43:51Z,10,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 11.0, -11.0]",
+96953,2022-01-14T02:31:10Z,8,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+38,2022-01-13T23:44:17Z,15,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 2.0, -2.0]","new cases = 108,040, up 1.7% in hospital = 12,927, up 610 over yesterday and up 5% 14 day average in hospital = 9,042.4, up 557 from yesterday"
+99943,2022-01-13T22:09:43Z,37,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Just repeating my forecast. With the data for Jan 12, the question could resolve with data from either Jan 16 or 17. It'll be right on the edge. Update Jan 14: Today's forecast is that it'll resolve with Jan 17 data, and it might slide into Jan 18 data."
+99993,2022-01-13T21:48:30Z,19,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",
+35,2022-01-13T16:17:25Z,2,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, -70.0, -30.0, 100.0, 0.0]",
+104011,2022-01-13T13:14:54Z,3,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",No signs of the increase slowing down...
+29646,2022-01-13T07:00:13Z,4,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 95.0, -95.0]",
+80667,2022-01-13T06:29:24Z,8,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",2 consecutive days of over 12K and increasing...
+96953,2022-01-13T04:47:38Z,7,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 35.0, -35.0]",
+96953,2022-01-13T04:41:47Z,6,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 50.0, -50.0]",
+38,2022-01-13T01:51:53Z,14,"[0.0, 0.0, 0.0, 88.0, 12.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","102,310 new cases, up 1.7%. . . .recently, the % increase has been around 6% 12,317 hospitalized, up 502/4.2% . . recently, the daily increase has been around 600"
+99857,2022-01-12T20:47:05Z,9,"[0.0, 0.0, 0.0, 84.0, 16.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","Checked out the article from @mattlerner (https://deadline.com/2022/01/omicron-surge-forecast-california-30000-hospitalizations-1234907730/). It looks like the percent hospitalized (4.5%) and the length of stay (3.6 days) are lining up with the data out of South Africa and the UK. 12,317 were hospitalized Jan 11. And officially are forecasting that the worst is yet to come by a big margin. What I'm still wondering about is if the hospitalization peak will line up with what appears to be the case peak on Jan 3/4/5. Since we still have incomplete data the case load could still rise this week or, if this article (https://abcnews.go.com/Health/wireStory/omicron-headed-rapid-drop-us-britain-82206037) is correct, that could have been the peak, meaning hospitalizations should be near peak too (The UK seems to have peaked a week ago and is steady since.) @paulm pointed out the discrepancy in booster doses is likely a major help to the UK, especially given the low effectiveness of 2 doses... so there are a lot of complicating factors. Even if the current daily increase continues (~612/day over the last week) It could go up for 3 more days, then peak, and still not push the 14 day avg over 12k."
+99993,2022-01-12T19:50:47Z,18,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+99943,2022-01-12T17:48:24Z,36,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Repeating forecast; just noting that with the Jan 12 data update, my expected date of resolution is now Jan 17-18. Also see CA ensemble forecasts, news article h/t @mattlerner: https://deadline.com/2022/01/omicron-surge-forecast-california-30000-hospitalizations-1234907730/ Forecasts: https://calcat.covid19.ca.gov/cacovidmodels/ The ensemble forecast predicts a peak in hospital census on Jan 28 at ~31k. I wrote in a late Dec forecast that hospitalizations could potentially reach 30k, but that number seemed shockingly high at the time: https://www.gjopen.com/comments/1375649"
+104011,2022-01-12T14:27:18Z,2,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 40.0, -40.0]","On the 10th, 12K people were hospitalized, and given the number is still rising, the chance seems small we won't reach a 14-day average of 12K+ within 2 weeks."
+86785,2022-01-12T12:58:46Z,7,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+37379,2022-01-12T12:49:44Z,1,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 99.0, 1.0]","A Cromwell's Rule forecast, as I ""feel"" certain it is 100% likely before the end of January. So because Cromwell, 99% for before, 1% for after and that the Moon is made of green cheese. https://www.statisticshowto.com/cromwells-rule/ http://lawrencecrocker.blogspot.com/2015/09/nothing-is-certain-cromwells-rule.html"
+88452,2022-01-12T10:51:07Z,19,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",Current growth path speaks for 4.46 per cent average growth for 16k cases as of 20 January 2022.
+96828,2022-01-12T08:14:01Z,35,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+96828,2022-01-12T07:21:53Z,34,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+80667,2022-01-12T06:14:49Z,7,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","Concerns raised by @Anneinak about whether a 14-day average of 12k will be sustained are valid. However what are we to conclude from observation of daily cases > 12K - this seems to imply at least a marginal uptick in our bayesian priors. While it is true that peaking could imply otherwise, but that is just *one possible path* in the distribution - other paths could include *still not peaking*, *flattening* etc- which is why I think @belikewater specific prediction of Jan 18 ish is likely to be correct."
+86607,2022-01-12T05:02:55Z,30,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","I fell pray to massive cognitive bias on this market. All the way from September - December I was (accurately) predicting a large winter wave leading to >12k hospitalizations in this bracket. Then Omicron somehow convinced me to throw out that logic, because a country in the middle of summer (South Africa) was doing well and I wanted to believe that was a good sign. Then discussion with other players on this market who were correctly predicting an Omicron wave of hospitalizations just caused me to reactively dig in further on the optimistic side, rather than listen closely to them and to my own former argument in favor of a seasonal wave. Lesson learned I guess"
+86785,2022-01-12T04:09:43Z,6,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",Updating way up here (https://deadline.com/2022/01/omicron-surge-forecast-california-30000-hospitalizations-1234907730/) and feeling pretty dumb about my initial skepticism on this front.
+86607,2022-01-12T03:34:11Z,29,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+38,2022-01-11T23:35:32Z,13,"[0.0, 0.0, 0.0, 88.0, 12.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","New cases = 143,380 In hospital = 11,815, up 767 from yesterday 14 day average in hospital = 7946.3, up 532 from yesterday"
+529,2022-01-11T22:43:38Z,27,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",https://calcat.covid19.ca.gov/cacovidmodels/
+87897,2022-01-11T21:55:01Z,5,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 2.0, -2.0]","Counts are up almost 7% for the 10th and expect that when today's data are released tomorrow, I expect the counts will be well above 12,000 (with the 14-day average being around 8.5k). From the most recently reported increase, I now think it's likely that the 14-day average will cross 12,000 threshold on the 17th (estimated ~60% chance), a day earlier than I expected in my previous forecast. In order for this question not to resolve in the penultimate bin, something very unexpected would have to happen."
+99993,2022-01-11T21:54:55Z,17,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+20504,2022-01-11T21:05:42Z,11,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 50.0, -50.0]","+50% to Jan, -50% to 'Not before'"
+101989,2022-01-11T20:44:41Z,19,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+691,2022-01-11T20:03:08Z,30,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+40636,2022-01-11T19:01:57Z,24,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+40636,2022-01-11T18:58:52Z,23,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+3024,2022-01-11T18:44:10Z,12,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+99993,2022-01-11T18:17:36Z,16,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+103878,2022-01-11T17:11:07Z,6,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+86785,2022-01-11T16:19:23Z,5,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 12.0, -12.0]",
+101187,2022-01-11T14:24:37Z,4,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+96828,2022-01-11T10:58:00Z,33,"[0.0, 0.0, 0.0, 96.0, 4.0]","[0.0, 0.0, 0.0, 8.0, -8.0]",
+79069,2022-01-11T09:33:20Z,42,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","Sticking with 18th, but it could be late as the 20th perhaps... Looking at figures from 10th Jan I think this is case closed. I needed to check the most recent two days figures to rule out any caveats."
+96828,2022-01-11T05:38:41Z,32,"[0.0, 0.0, 0.0, 88.0, 12.0]","[0.0, 0.0, 0.0, -4.0, 4.0]",
+99993,2022-01-11T03:14:45Z,15,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, -11.0, 11.0]",
+767,2022-01-11T03:05:59Z,6,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 10.0, -10.0]","""Today, the state reported 11,048 patients with the virus. Gov. Newsom said hospitalizations are projected to increase to 23,000 COVID-19 patients by Feb. 2, surpassing the current record of 21,938 hospitalizations set during January 2021"" Read more at: https://www.sacbee.com/news/politics-government/capitol-alert/article257197477.html#storylink=cpy"
+80667,2022-01-10T23:46:16Z,6,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",Seems very likely that the penultimate bin will end up winning...
+38,2022-01-10T21:04:45Z,12,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, -10.0, 10.0]","I'm trying to not get freaked-out by the latest data, and not over-react."
+87897,2022-01-10T20:53:17Z,4,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 7.0, -7.0]","Slim chance that the counts peak in the next few days and decline before the 14 day average moves past the 12,000 threshold, but agree with @belikewater 's assessment that this question will likely resolve for the penultimate bin based on the January 18th data. Even if the growth rate slows to only 1% for the remainder of the month, this question will still resolve as the penultimate bin. A growth rate of 3.5% or higher (which I expect for the coming days) means the threshold will be reached on January 18th or earlier."
+22689,2022-01-10T20:15:16Z,4,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 50.0, -50.0]",
+79069,2022-01-10T19:49:54Z,41,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, -5.0, 5.0]","Still very likely before end of Jan, but I think there is a realistic (and remote) scenario where we just miss the end of Jan. I'll rule this out over the next two days. Otherwise, if cases keep climbing I’m still expecting 18th Jan (as from comment on 7th)"
+99943,2022-01-10T19:00:17Z,35,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","With the latest data update, the date is still Jan 18. Jan 17 and 19 aren't completely out of the question, but Jan 18 is extremely likely at this point."
+86607,2022-01-10T18:45:01Z,28,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+34151,2022-01-10T18:05:21Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]","11,200 as of 1.10.2022. Given current rate increase, should reach that nu,ber in the next 5 or 6 days,"
+40636,2022-01-10T17:37:04Z,22,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, -100.0]",
+99375,2022-01-10T14:37:21Z,9,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 6.0, -6.0]",
+104011,2022-01-10T14:31:16Z,1,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 50.0, 50.0]","Extrapolating the curve upward suggests 12K would be reached before Feb 1, but will it?"
+21884,2022-01-10T06:12:54Z,16,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 80.0, -80.0]",
+98345,2022-01-10T01:45:29Z,10,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 62.0, -62.0]",
+86607,2022-01-10T00:55:35Z,27,"[0.0, 0.0, 0.0, 81.0, 19.0]","[0.0, 0.0, 0.0, -10.0, 10.0]",
+29646,2022-01-09T21:55:39Z,3,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -2.0, 2.0, 0.0]",
+13086,2022-01-09T21:42:05Z,2,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 98.0, -98.0]",
+691,2022-01-09T19:48:50Z,29,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",
+99857,2022-01-09T19:43:16Z,8,"[0.0, 0.0, 0.0, 81.0, 19.0]","[0.0, 0.0, 0.0, -15.0, 15.0]","I'm questioning the high certainty I've given. This will be some fuzzy logic but I'm putting it down and looking for feedback. Looking at the South Africa data the curve follows a ~5 week spike. If California follows a similar trend this should be week 3 in Cali and the highest infection numbers. South Africa's numbers in the peak week were ~20% higher than the previous week. If California follows a similar trend that would mean current hospitalizations should still come up 20-30% before peaking (week lag). Since they're at 9279 Jan 6, we should see peak numbers around the 12k mark and they'll stay there for a week. I think we're all confident it'll cross 12k at this point. But it's not the peak, its the average over 14 days. Even if it peaks at 15k it may not bring the 14 day average over 12k. I recall seeing an article that said public health officials were bracing for a 20k peak, which would certainly resolve this yes. The UK seems to be a week or so ahead and is showing signs of stabilizing (Their highest admissions in the last month was Dec 29). I'm still thinking it's more likely than not, but don't have the high confidence I had a few days ago."
+20504,2022-01-09T15:43:48Z,10,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 30.0, -30.0]","+30% to Jan, -30% to 'Not before'."
+99375,2022-01-09T15:08:43Z,8,"[0.0, 0.0, 0.0, 93.0, 7.0]","[0.0, 0.0, 0.0, 11.0, -11.0]",
+86607,2022-01-09T12:22:55Z,26,"[0.0, 0.0, 0.0, 91.0, 9.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+101989,2022-01-09T11:54:08Z,18,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+80667,2022-01-09T02:42:27Z,5,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",the penultimate bin highly likely at this point
+96828,2022-01-09T00:25:48Z,31,"[0.0, 0.0, 0.0, 92.0, 8.0]","[0.0, 0.0, 0.0, 7.0, -7.0]",
+97302,2022-01-08T23:00:21Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]",
+78629,2022-01-08T22:21:26Z,1,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 95.0, 5.0]",
+529,2022-01-08T22:17:15Z,26,"[0.0, 0.0, 0.0, 86.0, 14.0]","[0.0, 0.0, 0.0, 26.0, -26.0]",https://calcat.covid19.ca.gov/cacovidmodels/
+103878,2022-01-08T22:03:14Z,5,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",
+87897,2022-01-08T19:56:33Z,3,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","The situation is progressing approximately as anticipated in my previous forecast, so increasing the confidence in the penultimate bin. I still feel like there are factors I may not have accounted for, but if things continue progressing at this rate, they will soon be irrelevant."
+101989,2022-01-08T16:53:45Z,17,"[0.0, 0.0, 0.0, 98.0, 2.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+101989,2022-01-08T16:41:07Z,16,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+34959,2022-01-08T15:16:18Z,11,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+12694,2022-01-08T14:55:28Z,17,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+12694,2022-01-08T14:53:13Z,16,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+86607,2022-01-08T05:40:09Z,25,"[0.0, 0.0, 0.0, 86.0, 14.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+529,2022-01-08T05:00:23Z,25,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+3024,2022-01-08T02:14:24Z,11,"[0.0, 0.0, 0.0, 97.0, 3.0]","[0.0, 0.0, 0.0, 7.0, -7.0]",
+100273,2022-01-08T01:55:46Z,4,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",All in
+86785,2022-01-08T00:19:31Z,4,"[0.0, 0.0, 0.0, 78.0, 22.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+29054,2022-01-07T22:44:29Z,1,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 75.0, 25.0]",
+103629,2022-01-07T22:21:34Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+38,2022-01-07T20:05:02Z,11,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",The website noted that today's numbers reflected some corrections from previous days . . .
+3024,2022-01-07T18:16:45Z,10,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 80.0, -80.0]",
+86607,2022-01-07T17:56:18Z,24,"[0.0, 0.0, 0.0, 83.0, 17.0]","[0.0, 0.0, 0.0, 8.0, -8.0]","17% just to account for either 1) cases/hospitalizations peak and decline so quickly that we somehow don't break in the 14 day average, or 2) some unknown unknown that I'm not considering"
+691,2022-01-07T16:39:18Z,28,"[0.0, 0.0, 0.0, 88.0, 12.0]","[0.0, 0.0, 0.0, -4.0, 4.0]",
+100653,2022-01-07T15:33:03Z,14,"[0.0, 0.0, 0.0, 74.0, 26.0]","[0.0, 0.0, 0.0, 70.0, -70.0]",
+96828,2022-01-07T11:31:58Z,30,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+96828,2022-01-07T10:49:26Z,29,"[0.0, 0.0, 0.0, 84.0, 16.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+79069,2022-01-07T10:34:44Z,40,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",I now have this closing by 18th. Quite surprising.
+34959,2022-01-07T05:31:29Z,10,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 50.0, -50.0]",
+12694,2022-01-07T03:55:28Z,15,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+80667,2022-01-07T00:24:30Z,4,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",Hospitalizations inching up steadily...
+14266,2022-01-07T00:23:03Z,13,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 16.0, -16.0]",
+14266,2022-01-07T00:22:22Z,12,"[0.0, 0.0, 0.0, 84.0, 16.0]","[0.0, 0.0, 0.0, 34.0, -34.0]",
+86607,2022-01-07T00:13:56Z,23,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+86607,2022-01-06T23:50:06Z,22,"[0.0, 0.0, 0.0, 65.0, 35.0]","[0.0, 0.0, 0.0, -15.0, 15.0]",
+103878,2022-01-06T23:19:25Z,4,"[0.0, 0.0, 0.0, 81.0, 19.0]","[0.0, 0.0, 0.0, 14.0, -14.0]",
+86785,2022-01-06T22:20:49Z,3,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 15.0, -15.0]","Updating toward the crowd here thanks to @belikewater. This is not very systematic, but I'm not updating all the way because a scan of NYT's tracker (https://www.nytimes.com/interactive/2021/us/covid-cases.html) seems to indicate a leveling-off in some places of hospitalizations (as well as cases). If this happen sooner in CA rather than later, then we may not pass 12k."
+86785,2022-01-06T21:13:28Z,2,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+96541,2022-01-06T20:44:33Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]","Unfortunately we haven't seen the peak for cases after the New Year. This combined with people being tired of the precautions to prevent COVID infections, and the rapid ability of Omicron to spread leads me to believe that within the next 2 weeks the average will be greater than 12000 per day."
+99993,2022-01-06T19:30:09Z,14,"[0.0, 0.0, 0.0, 71.0, 29.0]","[0.0, 0.0, 0.0, 71.0, -71.0]",
+3024,2022-01-06T18:05:36Z,9,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, -30.0, 30.0]",
+691,2022-01-06T17:43:54Z,27,"[0.0, 0.0, 0.0, 92.0, 8.0]","[0.0, 0.0, 0.0, 12.0, -12.0]","I have been really impressed with the quality and detail of this discussion. Can't remember the last time I changed my numbers so often in such a short time. (Full disclosure: I can't remember the last time I did anything, at least not clearly.) I would have upvoted almost everybody for almost everything but I am prone to repetitive stress injury and didn't want my upvoting trigger finger to freeze up. Thanks to all who have contributed so far."
+99857,2022-01-06T17:23:01Z,7,"[0.0, 0.0, 0.0, 96.0, 4.0]","[0.0, 0.0, 0.0, 29.0, -29.0]","After a lot of great discussion it seems there's a very high chance of this happening. Hopefully we're all wrong, but it looks like we're watching the water go out before the tsunami arrives"
+691,2022-01-06T16:19:45Z,26,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+103799,2022-01-06T15:46:05Z,1,"[0.0, 0.0, 0.0, 45.0, 55.0]","[0.0, 0.0, 0.0, 45.0, 55.0]",
+13657,2022-01-06T14:53:49Z,7,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 96.0, -96.0]",
+104069,2022-01-06T14:34:04Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]","Omikron leads in the short run not to more hospitalised patients and is spreading faster than Delta. So, more people will be infected by the less severe (for younger people at least) Omikron. When it will reach the more elderly, it will be after March 1."
+96828,2022-01-06T10:21:27Z,28,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+38,2022-01-06T07:52:22Z,10,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","Thanks to @belikewater who reminded me of something that I had realized some time ago, and forgotten."
+34815,2022-01-06T07:44:14Z,3,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, -100.0]",
+38,2022-01-06T07:11:13Z,9,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 7.0, -7.0]","If the positivity rate is 10% and the doubling rate is 2-4 days, then the peak of the curve will be in 6-12 days."
+99375,2022-01-06T04:37:02Z,7,"[0.0, 0.0, 0.0, 82.0, 18.0]","[0.0, 0.0, 0.0, 7.0, -7.0]",
+86785,2022-01-06T01:23:01Z,1,"[0.0, 0.0, 0.0, 45.0, 55.0]","[0.0, 0.0, 0.0, 45.0, 55.0]","At present, we're at a 14-day hospitalization average of 4800, or 12 per 100,000, with a 7-day average case rate of 118.4 per 100,000, or about 47,000 people. Let's just suppose this ratio holds constant. How many people would need to be sick in order to get a hospitalization average of 12,000? Well, about 117,000, or about 350 per 100k. Important to note, I think, that not even New York is that high- they seem to be at around 200 per 100k right now."
+96828,2022-01-05T23:45:52Z,27,"[0.0, 0.0, 0.0, 82.0, 18.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","'A small percentage of a really big number is still a really big number.' I think this may apply here to Omicron, where even though the cases are less severe relative to those who get Omicron, there are just so many people getting infected than ever before that there will be a relatively large amount of people getting severely sick or hospitalized during the wave of cases that seems to be peaking still. Further, it would make sense that the fallout of a rise in hospitalizations and deaths are lagged several days after the peak. I project the trend to reach near 12k around January 22 and like @Dillyweed has said, I don't see many reasons to significantly change the trend soon."
+55987,2022-01-05T23:43:59Z,19,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 27.0, -27.0]",
+80667,2022-01-05T21:54:48Z,3,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",Updated the odds in favor of the penultimate bucket to 3:1
+38,2022-01-05T21:00:50Z,8,"[0.0, 0.0, 0.0, 83.0, 17.0]","[0.0, 0.0, 0.0, -2.0, 2.0]","Reducing forecast for during the current period. As I suspected yesterday, the numbers yesterday were dodgy. For all I know, today's may be, as well."
+103878,2022-01-05T18:59:42Z,3,"[0.0, 0.0, 0.0, 67.0, 33.0]","[0.0, 0.0, 0.0, 46.0, -46.0]",
+99943,2022-01-05T17:28:42Z,34,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",Looking at NY...
+691,2022-01-05T17:03:57Z,25,"[0.0, 0.0, 0.0, 78.0, 22.0]","[0.0, 0.0, 0.0, 58.0, -58.0]",
+12694,2022-01-05T16:31:40Z,14,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 30.0, -30.0]",
+12694,2022-01-05T16:25:30Z,13,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 20.0, -20.0]",
+12694,2022-01-05T16:24:24Z,12,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+12694,2022-01-05T14:15:34Z,11,"[0.0, 0.0, 0.0, 30.0, 70.0]","[0.0, 0.0, 0.0, 27.0, -27.0]",
+12694,2022-01-05T14:14:23Z,10,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+20504,2022-01-05T11:57:44Z,9,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 10.0, -10.0]","+10% Dec to Jan, -10% to 'Not before'"
+96828,2022-01-05T08:19:53Z,26,"[0.0, 0.0, 0.0, 82.0, 18.0]","[0.0, 0.0, 0.0, 9.0, -9.0]","Going up based on @Dillyweed's confidence, which I cannot refute. I'm also in line with @Anneinak's analysis."
+40584,2022-01-05T05:23:25Z,16,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+40584,2022-01-05T05:04:45Z,15,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 40.0, -40.0]","Hospitalizations have been increasing exponentially, with the daily hospitalizations growing at a recent rate of ~452 / day. 600 yesterday. At 450 it will take 9 days to get to 12k on a daily basis. 7 days after that for the 14-day average to hit 12k. That's 16 days after Jan 4, or about Jan 20th. If it continues exponentially, then it will be sooner. If it continues linearly, it will be Jan 20. Cases continue to go straight up and with a 20% positivity rate I assume we are grossly undercounting cases and hospitalizations lag cases; I see no reason to believe trends will slow sharply in the next 16 days."
+14266,2022-01-05T04:35:24Z,11,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 27.0, -27.0]",
+87897,2022-01-05T03:25:23Z,2,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 30.0, -30.0]","It looks to me like @belikewater is correct as usual. I expect case counts to grow at between 2.5% - 7.5% per day. If case counts grow at 5% per day (as I expect they probably will), that would mean that hospitalizations will exceed 12,000 on January 12th and the 14-day average will exceed 12,000 on January 18th. If case counts grow at only 2.5%, hospitalizations will exceed 12,000 on January 20th and the 14-day average will exceed 12,000 on January 27th. For the present, I'm only going up to 85% on the penultimate bin because I still wouldn't be surprised to find out I'm missing something important."
+101187,2022-01-05T02:35:44Z,3,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 60.0, -60.0]",
+96828,2022-01-05T02:22:03Z,25,"[0.0, 0.0, 0.0, 73.0, 27.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+96828,2022-01-05T02:21:40Z,24,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+96828,2022-01-05T02:21:10Z,23,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+38,2022-01-05T01:17:38Z,7,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 40.0, -40.0]","I just read in a NYT summary that about 15% of omicron cases result in hospitalization, and that hospitalization occurs 7-10 days after infection."
+99943,2022-01-04T23:57:53Z,33,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 9.0, -9.0]","Inspired to ""go polar"" by @paulm. Don't look at me - it's all his fault."
+99857,2022-01-04T23:08:15Z,6,"[0.0, 0.0, 0.0, 67.0, 33.0]","[0.0, 0.0, 0.0, 46.0, -46.0]","I'm struggling on this. Cases look weirdly stable but I'd still expect a post-Christmas bump. What might be more challenging is ""While new infections were astronomically higher with omicron than beta or delta, the percentage of those hospitalized was far lower -- just 4.9%, almost 10 percentage points lower than the delta wave [and] the median hospital stay with omicron was just 4 days, versus 7-8 days in the prior waves."", which could also keep the numbers lower."
+767,2022-01-04T22:21:02Z,5,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 30.0, -30.0]",https://covid19.ca.gov/state-dashboard/
+86607,2022-01-04T21:16:39Z,21,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 35.0, -35.0]","https://coronavirus.data.gov.uk/details/healthcare https://coronavirus.health.ny.gov/daily-hospitalization-summary UK hospitalizations seem only 1/3 of last winter's peak, even though they got hit earlier, but cases are still skyrocketing so that's going to shoot up. New York's are already above last winter."
+96828,2022-01-04T21:14:32Z,22,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, -4.0, 4.0]",Hard to go ahead past this forecast confidence due to a top forecaster forecasting more than 96% in the last bin. But I think they're wrong. Respecting whatever wisdom this individual has until the trend materializes further.
+96828,2022-01-04T21:11:53Z,21,"[0.0, 0.0, 0.0, 64.0, 36.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+96828,2022-01-04T21:11:13Z,20,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+96828,2022-01-04T21:10:49Z,19,"[0.0, 0.0, 0.0, 56.0, 44.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+79069,2022-01-04T20:48:57Z,39,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 34.0, -34.0]","Still expecting 11-14k, but I have been a little light on bin 4"
+101989,2022-01-04T20:30:07Z,15,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 80.0, -80.0]","At the current rate, likely to get to 12K by the end of January."
+80667,2022-01-04T19:37:06Z,2,"[0.0, 0.0, 0.0, 65.0, 35.0]","[0.0, 0.0, 0.0, 55.0, -55.0]",Major revision based on a insightful nudge from @belikewater
+87897,2022-01-04T19:28:14Z,1,"[0.0, 0.0, 0.0, 55.0, 45.0]","[0.0, 0.0, 0.0, 55.0, 45.0]",knee-jerk forecast at the prompting of @belikewater who has earned my respect with some very bold but correct forecasts previously; will circle back with a more refined forecast when I get time to run the numbers.
+40584,2022-01-04T18:39:00Z,14,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 45.0, -45.0]",
+691,2022-01-04T16:20:11Z,24,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+55987,2022-01-04T16:17:04Z,18,"[0.0, 0.0, 0.0, 73.0, 27.0]","[0.0, 0.0, 0.0, 51.0, -51.0]",
+86607,2022-01-04T15:23:16Z,20,"[0.0, 0.0, 0.0, 45.0, 55.0]","[0.0, 0.0, 0.0, 20.0, -20.0]",
+103878,2022-01-04T13:06:13Z,2,"[0.0, 0.0, 0.0, 21.0, 79.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+101187,2022-01-04T10:46:41Z,2,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, 35.0, -35.0]",
+79069,2022-01-04T10:08:32Z,38,"[0.0, 0.0, 0.0, 65.0, 35.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",Perhaps better to be cautious about case rates at this point.
+79069,2022-01-04T10:04:52Z,37,"[0.0, 0.0, 0.0, 55.0, 45.0]","[0.0, 0.0, 0.0, 25.0, -25.0]","Similar forecast to before, although the lower end of he range has moved up. Est: 11-14k. It all depends now on whether cases start to plateau, or the daily increase slows significantly. Otherwise we will go over 12k by end of month."
+80667,2022-01-04T06:28:50Z,1,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, 90.0]","Whenever I disagreed with @belikewater on Covid, I paid dearly- clearly I haven't learnt my lesson :-) Reasons for my forecast : a) There is a reasonably high consensus among the scientific circles that Omicron is appreciably milder than Delta, specifically for hospitalizations/deaths b) The previous occasion when > 12K was in Jan-Feb 2021 - peak delta + pre-vaccinations. Given a very high degree of vaccinations + boosters in CA, I would wager that it's quite unlikely in the next 4 weeks or so,"
+14266,2022-01-04T06:18:46Z,10,"[0.0, 0.0, 0.0, 23.0, 77.0]","[0.0, 0.0, 0.0, 12.0, -12.0]",
+99375,2022-01-04T06:08:24Z,6,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+20504,2022-01-04T05:26:02Z,8,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","+5% to bin 4, -5% to 'Not before'"
+529,2022-01-04T04:51:00Z,24,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 27.0, -27.0]",
+99943,2022-01-04T02:22:39Z,32,"[0.0, 0.0, 0.0, 90.0, 10.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+99943,2022-01-04T02:09:48Z,31,"[0.0, 0.0, 0.0, 88.0, 12.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","14-day average of hospitalized patients at 5009 on Jan 2, 7 days after 51.5 cases/100k population on Dec 26. Hospitalizations lag cases by approx 7-10 days, so estimating the number hospitalized as a fraction of cases 7 days ago will underestimate hospitalizations as a fraction of cases. So 5009/51.5 = 97.3 is an underestimate of hospitalizations per 1 case/100k population. 12000 / 97.3 = 123 cases per 100k population; thus, if CA sees 123 cases per 100k population, a 14-day average of 12k hospitalizations is all but assured. Moreover, in addition to this being an underestimate based on assuming 7 days between cases and hospitalizations, it's also likely an underestimate because cases to date have been skewed towards younger segments of the population. Because US cases are currently 1.6x last year's peak but have not yet peaked, I don't see how CA can escape seeing more than 123 cases per 100k population = 1.1x last year's peak and hence a 14-day average of 12k hospitalizations. And I don't see how this won't happen before Feb 1, as cases are soaring and will likely reach a 7-day average of 123 per 100k population in about 1 week. And I can't imagine hospital capacity precluding 12k being reached, because >22k was reached last year. I'm still trying to force myself to be at least a little cautious in this forecast, but my real instinct is to put this forecast at 99%. It's almost done, imo. Also worth looking at hospitalizations in the US: https://ourworldindata.org/covid-hospitalizations @Anneinak"
+99943,2022-01-04T01:57:31Z,30,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",Just repeating my forecast. Also worth looking at hospitalizations in the US: https://ourworldindata.org/covid-hospitalizations
+3024,2022-01-03T21:33:15Z,8,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, 0.0, 0.0, 20.0, -20.0]","Hospitalized on Jan 2 are about 7,400. 4,600 incremental hospitalizations will result from 66k to 80k more cases assuming that 5.75-7% of cases results in hospitalization."
+88198,2022-01-03T18:59:05Z,1,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 50.0, 50.0]",
+55987,2022-01-03T16:03:36Z,17,"[0.0, 0.0, 0.0, 22.0, 78.0]","[0.0, 0.0, 0.0, 21.0, -21.0]",
+86607,2022-01-02T19:34:57Z,19,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+98345,2022-01-02T18:46:39Z,9,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+79069,2022-01-02T18:18:13Z,36,"[0.0, 0.0, 0.0, 30.0, 70.0]","[0.0, 0.0, 0.0, -20.0, 20.0]",
+99993,2022-01-02T16:55:04Z,13,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+103878,2022-01-01T15:39:28Z,1,"[0.0, 0.0, 0.0, 11.0, 89.0]","[0.0, 0.0, 0.0, 11.0, 89.0]",
+96828,2022-01-01T00:10:52Z,18,"[0.0, 0.0, 0.0, 41.0, 59.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+96828,2022-01-01T00:06:46Z,17,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, 0.0, 0.0, 4.0, -4.0]","Had a second look at US hospitalizations in general and saw California ticking up. Even though Omicron is less lethal, it infects more people, which touches more people to become candidates to be hospitalized. A relatively small percentage of a large group of infected is still a large number. California is still peaking."
+96828,2022-01-01T00:05:47Z,16,"[0.0, 0.0, 0.0, 36.0, 64.0]","[0.0, 0.0, 0.0, 18.0, -18.0]",
+691,2021-12-31T18:29:18Z,23,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+101989,2021-12-31T09:44:08Z,14,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+40584,2021-12-31T04:11:45Z,13,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, -14.0, 14.0]",
+38,2021-12-31T03:00:33Z,6,"[0.0, 0.0, 0.0, 45.0, 55.0]","[0.0, 0.0, 0.0, -10.0, 10.0]","Because this asks about a 14 day average, it stretches out the time period over which the counts need to be high. The daily totals will need to be consistently over 12k per day for 2 whole weeks, beginning in 2 weeks, for the average to be over 12k before the end of January. Possible, but how likely? The current daily total is 5.5k. It will have to double in 2 weeks and then stay high for 2 more weeks to resolve as ""Yes"" by the end of January."
+99943,2021-12-31T01:11:02Z,29,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 2.0, -2.0]","I'm constraining myself from putting even more weight on bin 4. The US reported 500k cases today. I don't see how CA is going to avoid having a surge in cases at least double that seen last winter and consequently, even with Omicron's reduced severity in terms of hospitalization risk, >12k 14-day average hospitalizations."
+99943,2021-12-31T00:40:28Z,28,"[0.0, 0.0, 0.0, 83.0, 17.0]","[0.0, 0.0, 0.0, 3.0, -3.0]","I wasn't going to raise my forecast on bin 4 yet, but I saw NY data: https://twitter.com/DrWilliamKu/status/1474349707233267715 Hospitalizations are already about half last winter's peak there. Hospitalizations are almost at last winter's peak in Ohio, too: https://twitter.com/DrWilliamKu/status/1474706501138800640"
+99943,2021-12-31T00:07:04Z,27,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","5516 total hospitalized patients on Dec 29; ~30 cases/100k population on Dec 22; expecting actual cases to exceed and potentially far exceed last winter's peak of ~109/100k population. A crude calculation, 5516 isn't a 14-day average, and there are still Delta cases in there as @MrLittleTexas points out, but 5516/30*109 = 20k. And that's if Omicron's peak is only as high as last winter's. It could be a lot higher. There's gigantic room for error in this forecast; if Omicron cases reach 1-3x the peak of cases last winter, then I think a 14-day average hospital census of 12k is extremely likely by the end of January. I'm probably not going to change my forecast for a while now until I see substantial movement in cases and hospitalizations."
+86607,2021-12-30T15:43:06Z,18,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, -6.0, 6.0]",https://www.telegraph.co.uk/news/2021/12/28/covid-hospital-data-should-treated-caution-many-patients-admitted/ 80% of covid hospitalizations in Britain at the moment are 'incidental' apparently?
+86607,2021-12-30T15:25:01Z,17,"[0.0, 0.0, 0.0, 26.0, 74.0]","[0.0, 0.0, 0.0, 24.0, -24.0]","Large # of British cases probably transfers to California. Even with double cases of last winter's peak, 70% reduction in hospitalization plus shorter hospitalization times means we should still be in the final bracket. Also the strange lack of any country on the planet having a big enough spike in hospitalization/death after omicron is around for 1.5 months makes me think that California will not be the first, although if we start seeing it in the UK in the next two weeks then we should expect it in California. And if we're seeing >2x last winter's cases then it's time to worry"
+79069,2021-12-30T09:48:31Z,35,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 34.0, -34.0]","Still expecting just under 12k by end of month, but there’s too high a margin of error to have confidence in the date. Est: 9.5-14k."
+88452,2021-12-30T01:34:00Z,18,"[0.0, 0.0, 0.0, 99.0, 1.0]","[0.0, 0.0, 0.0, 20.0, -20.0]",
+99943,2021-12-30T00:46:02Z,26,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+99943,2021-12-30T00:27:54Z,25,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 30.0, -30.0]","14-day average of hospitalizations at 4137 on Dec 28. 7-day average of cases/day at about 30 per 100k population on Dec 21. Assume hospitalizations lag cases by at least 7 days. Base on England's experience so far, it's likely that the 7-day average of cases/day will peak at more than double last winter's peak of ~109 per 100k population. So if the hospital census at 30/100k is 4137, and if cases do reach double last year's cases, then it would not be unreasonable to expect the peak number hospitalized to reach at least 4137 / 30 * 109 * 2 = 30k. Will cases rise so high? I don't know, but I don't see why CA should be so special as to escape at least very high cases. And I do think it will happen very soon, perhaps within a couple weeks. As hospitalizations generally lag case by 7-10 days, I think a peak in hospitalizations should be reached in late January, possibly early February. Last year, the 7-day average of hospitalizations peaked on Jan 14, and cases peaked January 9 (at the tail end of a data reporting issue, so the actual peak could have been a couple days earlier). I think it's reasonable to expect Omicron cases to peak by mid Jan at the latest and then hospitalizations to peak most likely in the 2nd half of January. There's a lot of uncertainty in my mind about how high hospitalizations will go, but somewhere in the range 12k-30k+ seems possible to me."
+38,2021-12-30T00:05:27Z,5,"[0.0, 0.0, 0.0, 55.0, 45.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","It took about 3 weeks (Nov 17 to Dec 8) for the 14 day average of hospitalizations to increase from about what it is now to over 12k. The Omicron variant seems to be spreading faster, so it's curve will be steeper. But the rate of hospitalizations for Omicron seems to be less than for Delta. So, there's time . . . IF Omicron spreads enough faster than Delta did to offset its lower rate of serious illness/hospitalizations @belikewater"
+50981,2021-12-29T22:57:26Z,1,"[0.0, 0.0, 0.0, 11.0, 89.0]","[0.0, 0.0, 0.0, 11.0, 89.0]",
+79069,2021-12-29T21:14:14Z,34,"[0.0, 0.0, 0.0, 16.0, 84.0]","[0.0, 0.0, 0.0, -2.0, 2.0]","Dec 31st: 4,500-4,580 Jan 4th: 4,990-5,175 Jan 30th: 9,300-12,200"
+529,2021-12-29T19:40:57Z,23,"[0.0, 0.0, 0.0, 23.0, 77.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+767,2021-12-29T19:18:32Z,4,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, -25.0, -55.0, 20.0, 60.0]",
+103822,2021-12-29T12:03:36Z,1,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, 2.0, 98.0]",
+96828,2021-12-29T01:30:38Z,15,"[0.0, 0.0, 0.0, 18.0, 82.0]","[0.0, 0.0, 0.0, -7.0, 7.0]",
+96828,2021-12-29T01:29:22Z,14,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, -10.0, 10.0]",
+14266,2021-12-29T00:04:56Z,9,"[0.0, 0.0, 0.0, 11.0, 89.0]","[0.0, 0.0, 0.0, -4.0, 4.0]",
+79069,2021-12-28T19:42:51Z,33,"[0.0, 0.0, 0.0, 18.0, 82.0]","[0.0, 0.0, 0.0, -7.0, 7.0]","I’ll risk moving back a little further based on previous assessment. I still have around 8.5k by end of Jan, but there is quite a margin of error."
+88452,2021-12-28T19:40:27Z,17,"[0.0, 0.0, 0.0, 79.0, 21.0]","[0.0, 0.0, 0.0, 44.0, -44.0]","If the current d-o-d growth rate (""increase to prior day"" percentage) remains steady, this question could resolve in less than two weeks, i.e. 11 January 2022 or earlier."
+79069,2021-12-28T19:18:48Z,32,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, -35.0, 35.0]","Still too uncertain to be sure, but recent JHU data shows hospitalisation is moving up noticeably slower against cases than it did with Delta, seeming to confirm that fewer cases are leading to hospitalisation, and those that do are requiring shorter stays. The next two weeks are critical but I’m suspecting we may only reach 7-9k on the moving average."
+99943,2021-12-28T17:08:35Z,24,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, 0.0, 0.0, -10.0, 10.0]","Here's Ontario data: https://covid19-sciencetable.ca/ontario-dashboard/#riskbyvaccinationstatus Still too early to tell what's going on, but I'm increasingly optimistic."
+100653,2021-12-28T09:08:21Z,13,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+96828,2021-12-28T01:42:00Z,13,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, -9.0, 9.0]",
+691,2021-12-27T23:58:55Z,22,"[0.0, 0.0, 0.0, 12.0, 88.0]","[0.0, 0.0, 0.0, -8.0, 8.0]",
+86607,2021-12-27T23:48:06Z,16,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Study says omicron gives immunity for delta, further proof that earlier fears of combined delta + omicron surge are over"
+38,2021-12-27T20:17:25Z,4,"[0.0, 0.0, 0.0, 55.0, 45.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+99857,2021-12-27T17:33:27Z,5,"[0.0, 0.0, 0.0, 21.0, 79.0]","[0.0, 0.0, 0.0, -29.0, 29.0]","UK has 8240 in hospital and admissions have been steady for a few days (~1150/day) with over 100k cases a week ago in 67.22m people. California has 39.51m, or ~60% of the UK. Using the UK as the benchmark, unless they crack ~20k in hospital it seems unlikely California would cross 12k given similar profiles. That said, the UK has a higher vaccination rate (76.8% vs 70.7%), and higher booster rate (48% vs 44.3%) whereas the average age in the UK is 40.4 vs in California its 36.5, so those factors may cancel each other out. The UK data over the next week will reveal more but as of current it looks promising for keeping people out of hospitals"
+99943,2021-12-27T17:21:19Z,23,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, -20.0, 20.0]",
+22689,2021-12-27T16:05:36Z,3,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -10.0, 10.0]",
+40636,2021-12-27T13:53:56Z,21,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -20.0, 20.0]",
+691,2021-12-26T21:25:27Z,21,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 12.0, -12.0]",
+98850,2021-12-25T21:21:17Z,6,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",
+86607,2021-12-24T20:43:55Z,15,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",https://www.nytimes.com/2021/12/24/world/africa/south-africa-covid-quarantine.html
+99943,2021-12-24T17:29:28Z,22,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 50.0, -50.0]","I'm confused. I'm raising my forecast on bin 4 because it appears that cases in London have *not* peaked. Some were reporting that they had peaked, but the appearance of a peak seems to have related to day of the week fluctuations. Cases with specimen collection dates this week, which are not fully reported yet, appear to be equally high. And if London cases are still growing, then CA cases may also grow quite high, high enough for hospitalizations to reach 12k. https://data.london.gov.uk/dataset/coronavirus--covid-19--cases"
+88452,2021-12-24T09:17:42Z,16,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, -54.0, 54.0]",
+38,2021-12-24T06:16:19Z,3,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, -20.0, 20.0]","Cases are soaring, but not hospitalizations. That's great news for people!"
+99943,2021-12-24T04:47:52Z,21,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, -50.0, 50.0]","Things aren't adding up. Initial estimates of R0 for Omicron made it look almost as contagious as measles. However, for this calculation, it was assumed that the serial interval (time between cases in a chain of transmission) is the same for Delta and Omicron. However, evidence is mounting that the serial interval for Omicron is actually shorter (~3d) for Omicron than that of Delta (~4.3d): https://twitter.com/trvrb/status/1474143598476083201 That means that R0 for Omicron will be lower than initial estimates, which is good for humanity. It also means that the peak of the wave will be lower and earlier than previously anticipated. Indeed, the fact that SA cases peaked early and fairly low compared to what one would have expected with an R0 almost as high as that of measles is what made me wonder about this possibility. It appears that London cases may already have peaked, too."
+14266,2021-12-24T04:12:12Z,8,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+96828,2021-12-23T09:37:17Z,12,"[0.0, 0.0, 0.0, 44.0, 56.0]","[0.0, 0.0, 0.0, -8.0, 8.0]",
+99375,2021-12-23T05:32:15Z,5,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 25.0, -25.0]",
+86607,2021-12-23T03:50:38Z,14,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, 0.0, 0.0, -5.0, 5.0]","https://www.nytimes.com/2021/12/22/health/covid-omicron-delta-hospitalizations.html South Africa and Scotland find 70% reduction in actual hospital admissions. Imperial finds 20% reduction because they measured anyone walking into a hospital rather than people getting admitted and given a bed, which is what we care about for this question."
+86607,2021-12-23T03:47:02Z,13,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+99943,2021-12-23T01:40:18Z,20,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+99943,2021-12-22T19:06:43Z,19,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, -5.0, 5.0]","New Imperial College report out looking at hospitalizations in England. There's enough data this week to make preliminary estimates of the relative risk of hospitalization with Omicron vs. Delta: ""Table 2 shows the hazard ratio (HR) for hospitalisation for Omicron vs Delta cases and for reinfections vs primary infections computed over all vaccination categories, for five data subsets. Estimates, uncorrected for under ascertainment of reinfection status, show that Omicron cases have a 15-20% reduced risk of any hospitalisation and a 41% (95% CI: 37%-45%) reduced risk of a hospitalisation resulting in a stay of 1 or more nights. Reinfection is associated with approximately a 50-60% reduction in hospitalisation risk compared with primary infections. However, assuming only 33% of true reinfections are identified as such, corrected estimates suggest lower reduction in Omicron hospitalisation compared with Delta (ranging from approximately 0-30% depending on the data subset), and a higher reduction in the risk of hospitalisation associated with reinfection (of approximately 55-70%)."" https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2021-12-22-COVID19-Report-50.pdf"
+12694,2021-12-22T18:32:34Z,9,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 0.0, -13.0, 13.0]",
+99993,2021-12-22T17:02:24Z,12,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -19.0, 19.0]",
+86607,2021-12-22T15:47:16Z,12,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, -15.0, 15.0]",https://www.bloomberg.com/news/articles/2021-12-22/omicron-has-80-lower-risk-of-hospitalization-new-study-shows?srnd=premium
+34959,2021-12-22T15:44:51Z,9,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, 19.0, -19.0]",
+101187,2021-12-22T11:15:13Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+103429,2021-12-22T04:47:16Z,2,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -23.0, -72.0, 95.0]","Despite The WHO’s December 17th Technical Brief on the Omicron variant, South Africa is still the strongest model of future outcomes. South African appears to have passed its peak in hospitalizations and reports are that hospitalizations are 18-30% lower than Delta. This percentage alone would cause me to think it’s unlikely that the 14 day average hospitalization rate in California will reach 12,000. However, there are still a lot of conflicting variables that still make this a potential toss-up for me:"
+96828,2021-12-21T23:36:47Z,11,"[0.0, 0.0, 0.0, 52.0, 48.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+529,2021-12-21T22:01:34Z,22,"[0.0, 0.0, 0.0, 28.0, 72.0]","[0.0, 0.0, 0.0, 20.0, -20.0]",
+88452,2021-12-21T21:03:59Z,15,"[0.0, 0.0, 0.0, 89.0, 11.0]","[0.0, 0.0, 0.0, 6.0, -6.0]","~15k new cases as of 20 Dec '21 and rising, 7d-average at ~7.5k with a slope slowly turning upwards. Despite intense testing, the wave is getting more inertia in California, which speaks for a high omicron share. The dark field in CA is small, which speaks for an early hospitalization in the process if necessary. With a time lag of 7 to 12 days, the number of hospitalizations is going to catch up average case counts. There will be 35 more days to double afterwards, which shouldn't be too difficult for omicron, even if the average symptoms are milder."
+13657,2021-12-21T15:01:33Z,6,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+12694,2021-12-21T14:14:02Z,8,"[0.0, 0.0, 0.0, 18.0, 82.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+12694,2021-12-21T14:13:37Z,7,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+12694,2021-12-21T14:13:03Z,6,"[0.0, 0.0, 0.0, 16.0, 84.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+53382,2021-12-21T04:03:41Z,1,"[0.0, 0.0, 3.0, 60.0, 37.0]","[0.0, 0.0, 3.0, 60.0, 37.0]",
+86607,2021-12-21T03:56:33Z,11,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, -11.0, 11.0]","Cases in S.A. have peaked at about 17.5% above the previous delta peak (https://ourworldindata.org/coronavirus/country/south-africa). Estimates tending to put hospitalization/case for omicron at least 70% relative to delta. Combined, we might expect hospitalization to be about 82% of the previous peak of 22k = 18k. Exacerbating this is the fact that it is winter in California but summer in S.A., and that California's population is older than S.A.. Mitigating it is the fact that California's vax rate is 2-3x as high, and that omicron hospital stays are discharged faster than in previous waves."
+38,2021-12-21T01:59:07Z,2,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 20.0, -20.0]",
+22689,2021-12-21T00:49:52Z,2,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+96828,2021-12-20T20:42:49Z,10,"[0.0, 0.0, 0.0, 47.0, 53.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",Slight step to just above a consensus aid and below my previous forecast. Current forecast lies in between these two.
+96828,2021-12-20T20:41:18Z,9,"[0.0, 0.0, 0.0, 48.0, 52.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+79069,2021-12-20T18:42:23Z,31,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 20.0, -20.0]","This is certainly looking much more likely to happen before 31st January than it did a few weeks ago, but not yet a certainty imo (although that could change in a matter of days). During the Delta wave it took 50 days for hospitalisation to climb 7k and peak at over 8.5k on the 14-day average. In the current Omicron wave it would need to climb 8k within 35 days. So roughly 14% higher and 60% faster. The main uncertainty for me is not whether it will happen (I think it will) but whether it will be a few days earlier or later than 31st Jan. If hospitalised cases involve lengthy stays and cases climb very quickly, then it looks like the last week of Jan will be met, but a slower rise and shorter stays should smooth the curve and delay the peak a week or so. It now seems established that full vaccination plus a booster is the only way to maintain significant immunity against Omicron. California opened boosters to all residents in mid-November after prioritising the elderly for 2 months, but uptake has actually been better among younger age groups, and generally far lower than hoped and expected (something like 15-20%). So as a generalisation the more elderly with lower immunity are now more likely to need longer hospitalisation. Comparing with Canada's current situation of escalating cases within the context of much higher vaccination levels (76.2% of total population full dosed, compared to 67.4% in California), and increasing booster uptake, the speed of hospitalisation in California could change very rapidly. Median age may be a few years younger in California (36.5 against 40.1 in Ontario for example), but the lower immunity is perhaps more critical. Mask wearing is mandated but California has quite diverse mix of communities, vax rates, and health, so the key probably lies with factoring the speed of spread with age, immunity, and length of hospitalisation. I'll refine the forecast over next few days."
+55987,2021-12-20T16:18:37Z,16,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+40636,2021-12-20T10:57:11Z,20,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, -5.0, 0.0, 5.0]",
+100653,2021-12-20T08:33:47Z,12,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+99943,2021-12-20T06:37:54Z,18,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+3024,2021-12-20T00:55:23Z,7,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",
+40584,2021-12-19T22:12:51Z,12,"[0.0, 0.0, 0.0, 29.0, 71.0]","[0.0, 0.0, 0.0, 17.0, -17.0]",
+99857,2021-12-19T19:53:59Z,4,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 49.0, -49.0]","It's still very early but given the rises we're seeing in the UK it could be very different in 6 weeks. Currently 3874, positivity rate and total cases appear stable but omicron accounts for a very small percentage of the current total. It seems a question of when rather than if now. While I'm not certain it will happen before Feb 1, as @Anneinak pointed out, delta only took 30days from this point to cross 12k so it's certainly more than possible. I'll go 50/50 and watch as the next week evolves the situation."
+99943,2021-12-19T19:33:57Z,17,"[0.0, 0.0, 0.0, 85.0, 15.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","Ok, I'm constraining myself from making a more extreme forecast in favor of bin 4. I'd say I'm actually 95% certain that hospitalizations will reach >12k. My 5% uncertainty primarily stems from not knowing how big the wave of cases will get. I anticipate that the risk of hospitalization will be 50-100% of that of Delta, probably somewhere in the 70-90% range."
+99943,2021-12-19T19:31:39Z,16,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Same forecast. Just adding a new article: https://www.latimes.com/california/story/2021-12-18/california-covid19-hospitalizations-rise-amid-fears-of-omicron-variant ""... L.A. County, which on Saturday reported 3,730 new cases of the coronavirus, its highest single-day total in months and more than double the number of new cases reported Wednesday. As of Thursday, the county was averaging just over 1,587 daily cases over the past week, an increase of nearly 19% from two weeks before, according to The Times’ tracker. The county’s daily positivity rate for those who seek testing also has crept upward, from a seven-day average of 1.2% Sunday to 1.7% Saturday, health officials said."" It's starting."
+691,2021-12-19T19:16:18Z,20,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+20504,2021-12-19T16:54:45Z,7,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 0.0, 4.0, -4.0]","+4% to between 12/16 - 1/31, -4% to 'Not before'"
+99375,2021-12-19T16:35:38Z,4,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Hospitalizations at 3.9k, with a slight trend upwards."
+86607,2021-12-19T02:27:01Z,10,"[0.0, 0.0, 0.0, 36.0, 64.0]","[0.0, 0.0, 0.0, 15.0, -15.0]",Increasing uncertainty as I see lots of conflicting information and am not sure what to make of it
+96828,2021-12-19T00:00:07Z,8,"[0.0, 0.0, 0.0, 46.0, 54.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+98345,2021-12-18T22:39:41Z,8,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 18.0, -18.0]",
+79069,2021-12-18T20:20:56Z,30,"[0.0, 0.0, 0.0, 40.0, 60.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+88452,2021-12-18T19:26:52Z,14,"[0.0, 0.0, 0.0, 83.0, 17.0]","[0.0, 0.0, 0.0, 19.0, -19.0]",
+691,2021-12-18T16:26:36Z,19,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+79069,2021-12-18T15:51:34Z,29,"[0.0, 0.0, 0.0, 30.0, 70.0]","[0.0, 0.0, 0.0, 22.0, -22.0]",
+38,2021-12-18T08:31:01Z,1,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 60.0, 40.0]","The 14-day average is 3,930 today. Comparison class: Delta Back on Nov 10th it was 3987. By Dec 9th it was over 12,000. . . .30 days. From all I've read about omicron, the rate of infection will be much faster than with Delta. . . I'm estimating at least twice as fast. However, omicron seems to be more mild, so the rate of hospitalization will be less. . reports are 1/10th to 1/4th of delta"
+86607,2021-12-18T04:44:53Z,9,"[0.0, 0.0, 0.0, 21.0, 79.0]","[0.0, 0.0, 0.0, -3.0, 3.0]","https://www.bloomberg.com/news/articles/2021-12-17/s-africa-says-hospitalizations-in-omicron-wave-much-lower ""Only 1.7% of identified Covid-19 cases were admitted to hospital in the second week of infections in the fourth wave, compared with 19% in the same week of the third delta-driven wave, South African Health Minister Joe Phaahla said at a press conference."""
+99943,2021-12-17T20:50:55Z,15,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",People's modeling is showing the expectation of a big hospital surge in Jan-Feb.
+99943,2021-12-17T04:57:06Z,14,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+12694,2021-12-17T03:04:34Z,5,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+12694,2021-12-17T03:04:19Z,4,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+99943,2021-12-17T01:25:43Z,13,"[0.0, 0.0, 0.0, 80.0, 20.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","I'm just going to put these here: https://twitter.com/thenewsoncnbc/status/1471646641769918472 https://twitter.com/wesleychadli/status/1471435576322797571 https://twitter.com/wraggem/status/1471621460414418950 https://twitter.com/rid1tweets/status/1471273037655912450 https://twitter.com/rid1tweets/status/1471273719825899527 https://twitter.com/pompelur/status/1471481053005164547 https://twitter.com/EdTubb/status/1471514770662731776 https://twitter.com/EdTubb/status/1471516266699571200 https://twitter.com/EricTopol/status/1471673689338888194 @JonathanMann, here's another underpriced position. :)"
+96828,2021-12-16T23:57:01Z,7,"[0.0, 0.0, 0.0, 45.0, 55.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+96828,2021-12-16T23:13:35Z,6,"[0.0, 0.0, 0.0, 47.0, 53.0]","[0.0, 0.0, -2.0, 1.0, 1.0]",
+99943,2021-12-16T17:28:24Z,12,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+100836,2021-12-16T17:05:16Z,7,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",Hedging in case Omicron causes a spike.
+99375,2021-12-16T16:04:20Z,3,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, -5.0, -5.0, 10.0]",
+99943,2021-12-16T16:02:00Z,11,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 20.0, -20.0]","Sometimes, it feels like my brain takes a long time to make a turn. Inertia is a powerful thing. Let me try to shake off all of my previous thinking and look anew. If someone showed me the graphs of cases and hospitalizations for CA and told me it was for, say, some province in Canada, a completely new question, what would I think? I would think, Omicron is coming. The wave will be higher than last year's winter wave. It will likely peak around the third week in January nationally. It will peak in different places at different times, but Omicron is so contagious that it likely won't peak anywhere in ""Canada"" later than the first week of Feb or so. Aside from the question of when cases will peak, with exponential case growth, even if slowed a bit with some mitigations, cases will get really high in January. I can't imagine it going otherwise. I could easily imagine 80 cases/100k population by Jan 21, and I can't easily imagine how that wouldn't lead to 12k+ hospitalizations by the end of January. There is, of course, a huge amount of uncertainty here."
+99943,2021-12-16T15:45:29Z,10,"[0.0, 0.0, 0.0, 50.0, 50.0]","[0.0, 0.0, 0.0, 35.0, -35.0]","I'm not sure when exactly Omicron will hit California. I'm expecting a national peak in cases around the third week in January; CA cases could peak before or after that. Hospitalizations lag cases by 1 week, of course. Also, what level of Omicron cases will correspond to 12k hospitalizations? Too many unknowns right now. But I do expect CA's peak to be much higher than its Delta peak because 1) Omicron is more contagious, 2) it will be winter, and 3) the population has very little immunity. But looking at this more closely, I don't see how Omicron cases won't reach ~50 cases/100k population, which, if this were Delta, would correspond to ~12k hospitalizations. And cases will likely go far higher than that, so that even if Omicron does end up having a lower hospitalization rate than Delta because of prior immunity, it'll still end up causing more hospitalizations. It's hard to picture this many hospitalizations from here, but it's starting to look likely to me."
+86607,2021-12-14T21:18:08Z,8,"[0.0, 0.0, 0.0, 24.0, 76.0]","[0.0, 0.0, -2.0, -56.0, 58.0]",Most likely Omicron beats Delta and fewer people will end up in hospital
+79069,2021-12-14T20:38:45Z,28,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+99943,2021-12-14T16:54:46Z,9,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, 5.0, -5.0]","I'm concerned about Omicron but not sure what it's going to do in California, as the state implements restrictions more than most places."
+99943,2021-12-14T03:47:28Z,8,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 5.0, -5.0]",
+99375,2021-12-12T15:18:52Z,2,"[0.0, 0.0, 5.0, 40.0, 55.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Hospitalizations at 3.8k, and mostly flat (up by 300 from last week)"
+79069,2021-12-11T11:03:04Z,27,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+40584,2021-12-11T03:01:49Z,11,"[0.0, 0.0, 0.0, 12.0, 88.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+90560,2021-12-11T02:34:24Z,1,"[0.0, 0.0, 0.0, 75.0, 25.0]","[0.0, 0.0, 0.0, 75.0, 25.0]",
+100653,2021-12-10T10:45:52Z,11,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+99943,2021-12-09T16:00:09Z,7,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 0.0, -28.0, 28.0]","Rethinking. If Omicron really has a lower hospitalization rate, then 12k would likely not be reached before Feb. 1."
+99943,2021-12-09T15:58:46Z,6,"[0.0, 0.0, 0.0, 33.0, 67.0]","[0.0, 0.0, 0.0, -27.0, 27.0]","Watching the Omicron situation closely, but more data are needed."
+100653,2021-12-09T09:54:59Z,10,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+691,2021-12-08T20:20:39Z,18,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -3.0, 3.0]",
+103625,2021-12-08T04:02:28Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+100653,2021-12-07T09:47:26Z,9,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+99943,2021-12-07T02:56:44Z,5,"[0.0, 0.0, 0.0, 60.0, 40.0]","[0.0, 0.0, 0.0, 52.0, -52.0]","Omicron. If ~4% of cases are currently Omicron, then with a doubling time of 4 days, CA would get to ~40k cases/day in the 4th week of Jan. And that's very (very) roughly the caseload needed to reach 12k hospitalized during growth in cases. Lots of uncertainty, but bin 4 is looking very possible. I should have updated this question a few days ago...."
+96828,2021-12-07T01:10:32Z,5,"[0.0, 0.0, 2.0, 46.0, 52.0]","[0.0, 0.0, 0.0, -6.0, 6.0]",
+99375,2021-12-05T16:17:43Z,1,"[0.0, 0.0, 5.0, 40.0, 55.0]","[0.0, 0.0, 5.0, 40.0, 55.0]",Hospitalizations at 3.5k and mostly flat
+691,2021-12-05T14:25:38Z,17,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, -6.0, 6.0]",
+88452,2021-12-04T17:44:09Z,13,"[0.0, 0.0, 0.0, 64.0, 36.0]","[0.0, 0.0, 0.0, -13.0, 13.0]",
+45594,2021-12-04T16:00:47Z,2,"[5.0, 0.0, 10.0, 15.0, 70.0]","[0.0, -55.0, 0.0, 0.0, 55.0]",
+691,2021-12-04T15:50:42Z,16,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 9.0, -9.0]",
+96828,2021-12-02T11:17:41Z,4,"[0.0, 0.0, 2.0, 52.0, 46.0]","[0.0, 0.0, 1.0, 0.0, -1.0]","Update based on South Africa's COVID daily count doubling in just a single day, amidst Omicron spreading. Omicron has been detected in California as well."
+88452,2021-12-02T09:07:14Z,12,"[0.0, 0.0, 0.0, 77.0, 23.0]","[0.0, 0.0, 0.0, 30.0, -30.0]",
+96828,2021-12-02T03:14:36Z,3,"[0.0, 0.0, 1.0, 52.0, 47.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",@jayb's previous rationale nudges me back to last bin.
+96828,2021-12-02T02:59:20Z,2,"[0.0, 0.0, 1.0, 54.0, 45.0]","[0.0, 0.0, 0.0, 11.0, -11.0]","Upon detection of the Omicron variant in California, I think it's more likely than not."
+529,2021-12-01T22:22:50Z,21,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, 1.0, -1.0]","For a rough comparison it appears that it took about 50 days during 2020's winter COVID 'spike' for the (CA) 14-day hospitalizations average to grow from a low of around 3,032 (10/26/20) to over 12,000, on 12/15/20. (https://covid19.ca.gov/state-dashboard/) Vaccines were not generally available during this period."
+96828,2021-12-01T10:46:05Z,1,"[0.0, 0.0, 1.0, 43.0, 56.0]","[0.0, 0.0, 1.0, 43.0, 56.0]","Still think it's unlikely right now because California may have learned from the past and Omicron variant seems to be less deadly and less hospitilizations should thus be expected. However, the US hospitilizations have gone up and California may lag one month based on historical data. I'm factoring the crowd median favoring Not before ""1 February 2022"" due to the number of updates per user, on average, which is between 4 and 5—which is pretty good!"
+103429,2021-12-01T05:03:49Z,1,"[0.0, 0.0, 23.0, 77.0, 0.0]","[0.0, 0.0, 23.0, 77.0, 0.0]","Based on historical trends around transmission of upper-respiratory viruses increasing in colder months. Despite vaccination, rates of hospitalization in California are similar to those from this time last year. While overall hospitalizations may decrease compared to last year this winter, the likelihood of reaching 12,000 in the next month (after thanksgiving and other holiday gatherings) is likely. California reached about 8,000 in September (after school was back in session) with most adults fully vaccinated and not in a colder month, so 12,000 seems like a number that could be reached during higher transmission months. Additionally, with vaccine efficacy waning and gaps in when/if people get booster shots decreases my faith in keeping transmission down."
+13086,2021-11-29T18:57:48Z,1,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, 1.0, 99.0]",
+40636,2021-11-29T16:28:51Z,19,"[0.0, 0.0, 5.0, 20.0, 75.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+99943,2021-11-28T04:02:54Z,4,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+99943,2021-11-28T04:01:53Z,3,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Allowing 5% on bin 4 for Omicron. Much depends on the number of cases in CA right now, its unknown transmissibility, and government responses. It's possible that hospitalizations could just reach 12k in late Jan."
+103384,2021-11-28T03:09:07Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+99993,2021-11-27T23:14:25Z,11,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 10.0, -10.0]",
+529,2021-11-27T20:43:11Z,20,"[0.0, 0.0, 0.0, 7.0, 93.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",Waiting for more info. on possible effects of the Omicron variant. https://www.youtube.com/watch?v=8TiN5Xihr-k
+529,2021-11-24T23:20:31Z,19,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, -1.0, 1.0]","Most recent reported 14-day average of hospitalized patients = 3,722. CA test positivity = 1.9%, 78% of population at least partially vaccinated. https://covid19.ca.gov/state-dashboard/,https://www.usnews.com/news/best-states/articles/these-states-have-the-best-covid-19-vaccination-rates"
+86607,2021-11-22T13:32:17Z,7,"[0.0, 0.0, 2.0, 80.0, 18.0]","[0.0, 0.0, 1.0, 20.0, -21.0]",Still seems to me like a Florida sized spike in cases is highly likely and now we're seeing it in Europe
+88452,2021-11-21T13:00:50Z,11,"[0.0, 0.0, 0.0, 47.0, 53.0]","[0.0, 0.0, -15.0, 15.0, 0.0]",
+99993,2021-11-20T17:42:43Z,10,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, -1.0, 0.0, 1.0]",
+86607,2021-11-19T16:37:03Z,6,"[0.0, 0.0, 1.0, 60.0, 39.0]","[0.0, 0.0, -2.0, 1.0, 1.0]",
+103290,2021-11-19T00:09:17Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+98345,2021-11-18T15:50:44Z,7,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, -3.0, 3.0]",
+101989,2021-11-17T14:11:31Z,13,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -1.0, 1.0]","Hospitalizations continue to be stable well below 12,000. California is pushing for all adults to take the booster shots. No new variant on the horizon yet."
+40584,2021-11-17T13:44:38Z,10,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+86607,2021-11-16T05:27:48Z,5,"[0.0, 0.0, 3.0, 59.0, 38.0]","[0.0, 0.0, -30.0, -4.0, 34.0]",
+86607,2021-11-11T03:17:59Z,4,"[0.0, 0.0, 33.0, 63.0, 4.0]","[0.0, 0.0, 32.0, -14.0, -18.0]","Last winter we hit 12k around December 8. My assumption had been that we would hit 12k later this year due to increased immunity but looking at the Florida seasonal spike, it's evident that the spike could happen incredibly rapidly. It's just a question of how fast the onset is. Hospitalizations are already quite a bit higher than they were this time last year."
+691,2021-11-09T21:06:36Z,15,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+20504,2021-11-08T17:54:05Z,6,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, -1.0, -2.0, 3.0]","Cases and deaths continue to trend downward, vaccinations continue to increase. -1 to Nov thru Dec 15, -2% to Dec 16 thru Jan 31st 2022, +3% to 'Not before'."
+529,2021-11-08T17:24:37Z,18,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -1.0, -1.0, 2.0]","Statewide test positivity rate and hospitalizations have very slightly moved upward over the last couple of weeks but are still comparatively low. Hospitalized recent 14-day average is about 4,179. Maintaining forecast. https://covid19.ca.gov/state-dashboard/"
+88452,2021-11-08T13:01:45Z,10,"[0.0, 0.0, 15.0, 32.0, 53.0]","[0.0, 0.0, 6.0, 6.0, -12.0]",
+12694,2021-11-08T01:43:34Z,3,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, -4.0, -8.0, -10.0, 22.0]",
+101989,2021-11-07T13:48:02Z,12,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+55987,2021-11-05T15:35:04Z,15,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -3.0, 3.0]",
+60944,2021-11-04T02:44:35Z,2,"[0.0, 0.0, 0.0, 4.0, 96.0]","[-5.0, -10.0, -1.0, 2.0, 14.0]",
+55987,2021-11-03T15:31:57Z,14,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, 0.0, -1.0, -1.0, 2.0]",
+40584,2021-11-03T13:13:57Z,9,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+21884,2021-11-03T09:25:50Z,15,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -1.0, -3.0, 4.0]",
+99857,2021-11-03T05:37:37Z,3,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, -5.0, -14.0, 19.0]",Currently 4257 and seems to have hit a trough. Doesn't look likely to happen again in the timeframe unless a new variant arrives.
+422,2021-11-03T02:50:04Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+96953,2021-11-02T21:57:30Z,5,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -8.0, 8.0]",
+55987,2021-11-01T16:07:40Z,13,"[0.0, 0.0, 1.0, 4.0, 95.0]","[0.0, 0.0, 1.0, 4.0, -5.0]",
+101989,2021-10-30T17:38:08Z,11,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, -5.0, -10.0, 15.0]",
+40584,2021-10-28T12:54:04Z,8,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, -10.0, 10.0]",
+99943,2021-10-26T22:47:54Z,2,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -1.0, 2.0, -1.0]",
+529,2021-10-26T18:58:23Z,17,"[0.0, 0.0, 1.0, 6.0, 93.0]","[0.0, 0.0, -1.0, 0.0, 1.0]",Passage of time update. https://covid19.ca.gov/vaccination-progress-data/
+55987,2021-10-26T15:48:53Z,12,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+98345,2021-10-26T03:12:23Z,6,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, -1.0, -3.0, -1.0, 5.0]",
+88452,2021-10-24T19:04:29Z,9,"[0.0, 0.0, 9.0, 26.0, 65.0]","[0.0, 0.0, -10.0, 9.0, 1.0]",
+34959,2021-10-24T14:19:59Z,8,"[0.0, 0.0, 0.0, 6.0, 94.0]","[0.0, 0.0, -1.0, -2.0, 3.0]",
+40584,2021-10-20T12:15:10Z,7,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, -2.0, 0.0, 2.0]",
+100273,2021-10-20T00:11:51Z,3,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, -10.0, 70.0, -60.0]",All in.
+86607,2021-10-19T22:51:55Z,3,"[0.0, 0.0, 1.0, 77.0, 22.0]","[0.0, -1.0, -21.0, 7.0, 15.0]",Passage of time. Remains highly likely during the next winter wave
+88452,2021-10-19T08:23:18Z,8,"[0.0, 0.0, 19.0, 17.0, 64.0]","[0.0, -16.0, 6.0, 0.0, 10.0]",
+88452,2021-10-18T19:32:19Z,7,"[0.0, 16.0, 13.0, 17.0, 54.0]","[0.0, -71.0, 0.0, 17.0, 54.0]",
+98850,2021-10-18T18:40:23Z,5,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",Raising percentage chance of this being after 2/1/22 to 99% from 98%. Cases dropping precipitously and we have about a 2 month lag before the hospitalizations increase. This means we'd need to see a major outbreak starting around early to mid December and I'm not seeing any conditions that would suggest this given more people are now vaccinated or have been infected.
+21884,2021-10-18T07:49:23Z,14,"[0.0, 0.0, 1.0, 8.0, 91.0]","[0.0, 0.0, -2.0, 0.0, 2.0]",
+58028,2021-10-18T06:25:58Z,2,"[0.0, 0.0, 1.0, 6.0, 93.0]","[0.0, 0.0, -1.0, 0.0, 1.0]",
+34959,2021-10-18T01:10:19Z,7,"[0.0, 0.0, 1.0, 8.0, 91.0]","[0.0, 0.0, -1.0, -2.0, 3.0]",
+13551,2021-10-15T06:30:22Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+40636,2021-10-15T04:29:20Z,18,"[0.0, 0.0, 5.0, 25.0, 70.0]","[0.0, 0.0, 0.0, -40.0, 40.0]",
+40584,2021-10-12T14:43:15Z,6,"[0.0, 0.0, 2.0, 25.0, 73.0]","[0.0, 0.0, 0.0, -3.0, 3.0]",
+99993,2021-10-11T16:34:53Z,9,"[0.0, 0.0, 1.0, 10.0, 89.0]","[0.0, 0.0, -4.0, -10.0, 14.0]",
+34959,2021-10-11T06:32:43Z,6,"[0.0, 0.0, 2.0, 10.0, 88.0]","[0.0, -1.0, -4.0, -3.0, 8.0]",
+21884,2021-10-11T04:22:01Z,13,"[0.0, 0.0, 3.0, 8.0, 89.0]","[0.0, 0.0, -1.0, -2.0, 3.0]",
+58028,2021-10-08T20:47:32Z,1,"[0.0, 0.0, 2.0, 6.0, 92.0]","[0.0, 0.0, 2.0, 6.0, 92.0]",
+79069,2021-10-07T08:19:50Z,26,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+40636,2021-10-06T09:51:20Z,17,"[0.0, 0.0, 5.0, 65.0, 30.0]","[0.0, 0.0, -20.0, 15.0, 5.0]",
+40584,2021-10-06T03:06:39Z,5,"[0.0, 0.0, 2.0, 28.0, 70.0]","[0.0, -2.0, -16.0, 10.0, 8.0]",
+100653,2021-10-05T07:58:04Z,8,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+99993,2021-10-04T19:40:58Z,8,"[0.0, 0.0, 5.0, 20.0, 75.0]","[0.0, -1.0, -7.0, 3.0, 5.0]",
+79069,2021-10-04T09:57:12Z,25,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+21884,2021-10-04T08:53:30Z,12,"[0.0, 0.0, 4.0, 10.0, 86.0]","[0.0, -2.0, -4.0, 0.0, 6.0]",
+529,2021-10-03T16:39:47Z,16,"[0.0, 0.0, 2.0, 6.0, 92.0]","[0.0, -1.0, -3.0, -2.0, 6.0]",https://www.healthline.com/health-news/how-california-has-achieved-the-lowest-covid-19-transmission-rate-during-the-delta-su
+691,2021-10-03T13:42:18Z,14,"[0.0, 0.0, 0.0, 2.0, 98.0]","[0.0, 0.0, 0.0, -8.0, 8.0]",
+102177,2021-10-02T14:17:02Z,2,"[0.0, 2.0, 2.0, 16.0, 80.0]","[-5.0, -8.0, -3.0, 1.0, 15.0]",
+40636,2021-10-01T12:18:33Z,16,"[0.0, 0.0, 25.0, 50.0, 25.0]","[0.0, -5.0, -10.0, 10.0, 5.0]",
+3024,2021-09-30T20:51:11Z,6,"[0.0, 0.0, 0.0, 5.0, 95.0]","[-2.0, 0.0, 0.0, -14.0, 16.0]",
+79069,2021-09-30T12:41:18Z,24,"[0.0, 0.0, 0.0, 4.0, 96.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+9799,2021-09-30T05:28:31Z,2,"[0.0, 0.0, 0.0, 0.0, 100.0]","[-100.0, 0.0, 0.0, 0.0, 100.0]",
+9799,2021-09-30T05:26:28Z,1,"[100.0, 0.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0, 0.0]",
+96953,2021-09-30T02:30:06Z,4,"[0.0, 0.0, 0.0, 8.0, 92.0]","[0.0, 0.0, -27.0, -23.0, 50.0]",
+98850,2021-09-29T21:04:10Z,4,"[0.0, 0.0, 0.0, 2.0, 98.0]","[-4.0, -10.0, 0.0, 2.0, 12.0]","Removed any likelihood of this happening before early next year. If this wave is dying off and more people are vaccinated there is a very low chance that we see the required increase to hit 12,000 before 2/1/22. There'd have to be a new strain that spreads well and hospitalizes either those who have already had COVID or those who got vaccinated. Possible, but highly unlikely."
+20504,2021-09-29T12:38:01Z,5,"[0.0, 0.0, 1.0, 3.0, 96.0]","[0.0, -1.0, -2.0, 0.0, 3.0]","-1% to 9/15-10/31, -2% to 11/1-12/15, +3% to 'Not before'"
+79069,2021-09-28T10:32:54Z,23,"[0.0, 0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, -1.0, 0.0, 1.0]",
+34959,2021-09-28T04:47:20Z,5,"[0.0, 1.0, 6.0, 13.0, 80.0]","[0.0, -1.0, -1.0, 0.0, 2.0]",
+691,2021-09-25T16:03:37Z,13,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, -1.0, 0.0, 1.0]",
+79069,2021-09-24T20:38:15Z,22,"[0.0, 0.0, 1.0, 5.0, 94.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+102728,2021-09-24T14:14:34Z,1,"[0.0, 1.0, 4.0, 15.0, 80.0]","[0.0, 1.0, 4.0, 15.0, 80.0]","Increasing vaccination rates should prevent another serious wave of the pandemic and cases are currently in a rapid decline despite a relative lack of social distancing rules in the state. However, a peak this winter cannot be entirely ruled out with possible variants and seasonality of the virus."
+98345,2021-09-24T02:22:00Z,5,"[0.0, 1.0, 3.0, 6.0, 90.0]","[-15.0, -34.0, -2.0, -4.0, 55.0]",
+99943,2021-09-23T17:34:35Z,1,"[0.0, 0.0, 1.0, 3.0, 96.0]","[0.0, 0.0, 1.0, 3.0, 96.0]",
+29646,2021-09-22T17:05:14Z,2,"[0.0, 0.0, 2.0, 3.0, 95.0]","[0.0, 0.0, -3.0, -12.0, 15.0]",Modeling shows case levels dropping through March. Hospitalization trends should follow. https://www.npr.org/sections/health-shots/2021/09/22/1039272244/is-the-worst-over-modelers-predict-a-steady-decline-in-covid-cases-through-march
+529,2021-09-22T10:58:19Z,15,"[0.0, 1.0, 5.0, 8.0, 86.0]","[0.0, -5.0, -3.0, -1.0, 9.0]",https://news.yahoo.com/california-now-nations-lowest-virus-231844047.html
+102143,2021-09-21T21:38:35Z,7,"[0.0, 0.0, 5.0, 10.0, 85.0]","[-1.0, -5.0, 0.0, 5.0, 1.0]",14 day average H is dropping in CA. https://covid19.ca.gov/state-dashboard/
+40584,2021-09-21T14:24:01Z,4,"[0.0, 2.0, 18.0, 18.0, 62.0]","[-2.0, -9.0, 1.0, 1.0, 9.0]",
+55987,2021-09-20T19:25:04Z,11,"[0.0, 0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 0.0, -11.0, 11.0]",
+99993,2021-09-20T16:54:30Z,7,"[0.0, 1.0, 12.0, 17.0, 70.0]","[0.0, 0.0, 2.0, 3.0, -5.0]",
+767,2021-09-20T13:09:04Z,3,"[0.0, 25.0, 55.0, 20.0, 0.0]","[-40.0, -15.0, 45.0, 20.0, -10.0]",
+21884,2021-09-20T09:03:53Z,11,"[0.0, 2.0, 8.0, 10.0, 80.0]","[0.0, 0.0, -2.0, -2.0, 4.0]",
+100653,2021-09-20T06:56:49Z,7,"[0.0, 0.0, 0.0, 3.0, 97.0]","[0.0, -2.0, -2.0, -7.0, 11.0]",
+87691,2021-09-20T03:46:57Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+96953,2021-09-20T01:25:04Z,3,"[0.0, 0.0, 27.0, 31.0, 42.0]","[0.0, 0.0, -47.0, 18.0, 29.0]",
+691,2021-09-19T19:16:32Z,12,"[0.0, 0.0, 1.0, 10.0, 89.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+40636,2021-09-19T14:52:33Z,15,"[0.0, 5.0, 35.0, 40.0, 20.0]","[0.0, -5.0, -5.0, 0.0, 10.0]",
+21884,2021-09-17T09:18:50Z,10,"[0.0, 2.0, 10.0, 12.0, 76.0]","[0.0, -4.0, 0.0, 0.0, 4.0]",
+100653,2021-09-17T07:07:37Z,6,"[0.0, 2.0, 2.0, 10.0, 86.0]","[0.0, 0.0, 0.0, -1.0, 1.0]",
+691,2021-09-16T17:17:50Z,11,"[0.0, 0.0, 1.0, 12.0, 87.0]","[0.0, 0.0, 0.0, -2.0, 2.0]",
+81061,2021-09-16T04:40:09Z,2,"[0.0, 2.0, 13.0, 6.0, 79.0]","[-5.0, -18.0, 3.0, 1.0, 19.0]",
+102681,2021-09-15T17:04:35Z,1,"[0.0, 20.0, 50.0, 25.0, 5.0]","[0.0, 20.0, 50.0, 25.0, 5.0]",It is definitely going to get worse before it gets better. It has been slowly rising but I think by February it will be more contained.
+86607,2021-09-15T15:51:06Z,2,"[0.0, 1.0, 22.0, 70.0, 7.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+40636,2021-09-15T14:26:07Z,14,"[0.0, 10.0, 40.0, 40.0, 10.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+99993,2021-09-13T17:11:02Z,6,"[0.0, 1.0, 10.0, 14.0, 75.0]","[0.0, 0.0, 5.0, 3.0, -8.0]",
+55987,2021-09-13T15:43:54Z,10,"[0.0, 0.0, 0.0, 12.0, 88.0]","[0.0, 0.0, -1.0, -4.0, 5.0]",
+100653,2021-09-13T07:44:38Z,5,"[0.0, 2.0, 2.0, 11.0, 85.0]","[0.0, -2.0, -2.0, 0.0, 4.0]",
+86607,2021-09-13T01:56:48Z,1,"[0.0, 1.0, 19.0, 73.0, 7.0]","[0.0, 1.0, 19.0, 73.0, 7.0]",Delta wave over the winter highly likely to hit this level judging by how the sun belt did this summer
+34815,2021-09-13T00:44:42Z,2,"[0.0, 0.0, 0.0, 0.0, 100.0]","[-100.0, 0.0, 0.0, 0.0, 100.0]",
+691,2021-09-12T16:51:51Z,10,"[0.0, 0.0, 1.0, 14.0, 85.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+99857,2021-09-11T20:27:15Z,2,"[0.0, 0.0, 5.0, 15.0, 80.0]","[0.0, -25.0, 0.0, -4.0, 29.0]",Looks like the crowd is on track based on recent data so am moving to that
+529,2021-09-11T17:09:41Z,14,"[0.0, 6.0, 8.0, 9.0, 77.0]","[0.0, -6.0, 0.0, 0.0, 6.0]","https://covid19.ca.gov/state-dashboard/, plus increasing vaccine mandates"
+34959,2021-09-11T14:24:16Z,4,"[0.0, 2.0, 7.0, 13.0, 78.0]","[-2.0, -3.0, 1.0, 1.0, 3.0]",
+79069,2021-09-11T09:54:25Z,21,"[0.0, 0.0, 1.0, 7.0, 92.0]","[0.0, 0.0, 0.0, 3.0, -3.0]",
+96953,2021-09-11T03:09:07Z,2,"[0.0, 0.0, 74.0, 13.0, 13.0]","[0.0, -13.0, 0.0, 0.0, 13.0]",
+20504,2021-09-10T13:09:31Z,4,"[0.0, 1.0, 3.0, 3.0, 93.0]","[0.0, -1.0, 0.0, 0.0, 1.0]","At ~7k, trending down. -1% to 9/15-10/31, +1% to 'not before'"
+3024,2021-09-10T02:52:28Z,5,"[2.0, 0.0, 0.0, 19.0, 79.0]","[-3.0, -5.0, -10.0, -1.0, 19.0]",
+79069,2021-09-09T13:33:23Z,20,"[0.0, 0.0, 1.0, 4.0, 95.0]","[0.0, -1.0, -1.0, 2.0, 0.0]",
+529,2021-09-08T17:50:40Z,13,"[0.0, 12.0, 8.0, 9.0, 71.0]","[-1.0, -2.0, 1.0, 0.0, 2.0]",
+21884,2021-09-08T02:19:40Z,9,"[0.0, 6.0, 10.0, 12.0, 72.0]","[-2.0, -5.0, -1.0, 2.0, 6.0]",
+99993,2021-09-07T21:33:07Z,5,"[0.0, 1.0, 5.0, 11.0, 83.0]","[-2.0, -4.0, 3.0, 3.0, 0.0]",
+40636,2021-09-07T14:13:00Z,13,"[0.0, 10.0, 40.0, 45.0, 5.0]","[0.0, -5.0, 0.0, 5.0, 0.0]",
+34959,2021-09-07T13:38:03Z,3,"[2.0, 5.0, 6.0, 12.0, 75.0]","[0.0, 0.0, 0.0, 2.0, -2.0]",
+100836,2021-09-07T02:17:28Z,6,"[0.0, 0.0, 0.0, 0.0, 100.0]","[-30.0, -10.0, 0.0, 0.0, 40.0]","COVID cases have plateaued, as have hospitalizations."
+79069,2021-09-06T18:23:26Z,19,"[0.0, 1.0, 2.0, 2.0, 95.0]","[0.0, -1.0, 0.0, 0.0, 1.0]",
+20504,2021-09-06T14:14:43Z,3,"[0.0, 2.0, 3.0, 3.0, 92.0]","[0.0, -2.0, 0.0, 0.0, 2.0]","-2% to 9/15-10/30, +2% to 'Not before'. 8,132 currently, trending down."
+88452,2021-09-06T08:57:23Z,6,"[0.0, 87.0, 13.0, 0.0, 0.0]","[-7.0, -1.0, 8.0, 0.0, 0.0]",
+100653,2021-09-06T07:21:39Z,4,"[0.0, 4.0, 4.0, 11.0, 81.0]","[-1.0, -2.0, -2.0, 0.0, 5.0]",
+102143,2021-09-05T19:43:03Z,6,"[1.0, 5.0, 5.0, 5.0, 84.0]","[0.0, -6.0, -15.0, -23.0, 44.0]","Given that the highest 14-day average hospitalized was ~21,000 in Jan before impact of vaccine and I was not sure what to do with the percent values because the effectiveness of vaccine is good and the likelihood of a new super variant is low in the Feb 22 timeline. Lowering all dates before 1 Feb 2022."
+102143,2021-09-05T19:12:59Z,5,"[1.0, 11.0, 20.0, 28.0, 40.0]","[-4.0, -4.0, 1.0, 2.0, 5.0]","We are seeing 14 day hospitalizations dropping (Aug 26 2046), (high Aug 30 2172), (Sep 4 2051), Death rate is also dropping. ICU beds nearly linear neg slope. https://covid19.ca.gov/state-dashboard/ Will download data set in one week https://data.ca.gov/group/covid-19"
+691,2021-09-05T17:11:27Z,9,"[0.0, 0.0, 2.0, 13.0, 85.0]","[-1.0, -4.0, -4.0, -1.0, 10.0]",
+79069,2021-09-05T10:46:41Z,18,"[0.0, 2.0, 2.0, 2.0, 94.0]","[0.0, -1.0, -1.0, -1.0, 3.0]",
+20504,2021-09-05T05:38:43Z,2,"[0.0, 4.0, 3.0, 3.0, 90.0]","[0.0, -2.0, 0.0, 0.0, 2.0]","8454 Hospitalized (14-day avg) trending down. -2% to between 9/15-10/31, +2% to 'Not before'."
+12694,2021-09-05T05:07:24Z,2,"[0.0, 4.0, 8.0, 10.0, 78.0]","[0.0, -1.0, -2.0, 0.0, 3.0]",
+14266,2021-09-05T04:01:59Z,7,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, -9.0, -3.0, -3.0, 15.0]",
+529,2021-09-05T01:40:51Z,12,"[1.0, 14.0, 7.0, 9.0, 69.0]","[0.0, -6.0, -2.0, 1.0, 7.0]",https://covid19.ca.gov/state-dashboard/
+101989,2021-09-04T11:56:54Z,10,"[0.0, 0.0, 5.0, 12.0, 83.0]","[0.0, -3.0, -2.0, 2.0, 3.0]",
+40636,2021-09-03T15:39:25Z,12,"[0.0, 15.0, 40.0, 40.0, 5.0]","[-5.0, 5.0, 0.0, 0.0, 0.0]",
+21884,2021-09-03T10:51:20Z,8,"[2.0, 11.0, 11.0, 10.0, 66.0]","[-4.0, -1.0, -4.0, 0.0, 9.0]",
+100653,2021-09-03T10:31:01Z,3,"[1.0, 6.0, 6.0, 11.0, 76.0]","[-9.0, 1.0, 1.0, 6.0, 1.0]",
+29646,2021-09-03T04:16:07Z,1,"[0.0, 0.0, 5.0, 15.0, 80.0]","[0.0, 0.0, 5.0, 15.0, 80.0]","Daily new cases have been trending down for three weeks and hospitalizations appear to have peaked for the current surge. Both vaccinations and infections will continue to build immunity, making infections and hospitalizations less likely."
+88452,2021-09-03T03:52:24Z,5,"[7.0, 88.0, 5.0, 0.0, 0.0]","[-11.0, 8.0, 3.0, 0.0, 0.0]",
+34959,2021-09-03T02:33:29Z,2,"[2.0, 5.0, 6.0, 10.0, 77.0]","[-2.0, -2.0, -4.0, -2.0, 10.0]",
+100273,2021-09-03T02:06:50Z,2,"[0.0, 0.0, 10.0, 30.0, 60.0]","[0.0, -10.0, -50.0, 0.0, 60.0]",Flattening the curve.
+20504,2021-09-03T00:14:45Z,1,"[0.0, 6.0, 3.0, 3.0, 88.0]","[0.0, 6.0, 3.0, 3.0, 88.0]",Initial guess. Currently Hospitalizations at 8700 and not increasing from prior day.
+529,2021-09-02T21:17:45Z,11,"[1.0, 20.0, 9.0, 8.0, 62.0]","[-5.0, -2.0, 0.0, 0.0, 7.0]",https://covid19.ca.gov/state-dashboard/
+14266,2021-09-02T18:44:00Z,6,"[0.0, 9.0, 3.0, 3.0, 85.0]","[0.0, -8.0, 0.0, 0.0, 8.0]",
+55987,2021-09-02T15:19:14Z,9,"[0.0, 0.0, 1.0, 16.0, 83.0]","[0.0, 0.0, 0.0, 4.0, -4.0]",
+3024,2021-09-02T11:52:15Z,4,"[5.0, 5.0, 10.0, 20.0, 60.0]","[0.0, 0.0, -20.0, -10.0, 30.0]",
+98850,2021-09-01T18:40:38Z,3,"[4.0, 10.0, 0.0, 0.0, 86.0]","[-61.0, -25.0, 0.0, 0.0, 86.0]","The curve is flattening and looking like a bit of a peak here. We're around 70% of the way there, but it does not look like we are going to make it."
+21884,2021-09-01T15:33:35Z,7,"[6.0, 12.0, 15.0, 10.0, 57.0]","[-3.0, -15.0, 5.0, 1.0, 12.0]",
+84453,2021-09-01T12:47:37Z,5,"[3.0, 8.0, 0.0, 0.0, 89.0]","[-7.0, -7.0, 0.0, 0.0, 14.0]",
+40584,2021-09-01T04:53:06Z,3,"[2.0, 11.0, 17.0, 17.0, 53.0]","[-38.0, -14.0, 12.0, 7.0, 33.0]",
+34959,2021-09-01T04:35:53Z,1,"[4.0, 7.0, 10.0, 12.0, 67.0]","[4.0, 7.0, 10.0, 12.0, 67.0]",
+98345,2021-09-01T03:09:01Z,4,"[15.0, 35.0, 5.0, 10.0, 35.0]","[-25.0, 0.0, 0.0, 5.0, 20.0]",
+99993,2021-08-31T16:31:44Z,4,"[2.0, 5.0, 2.0, 8.0, 83.0]","[-13.0, 0.0, 0.0, 0.0, 13.0]",
+79069,2021-08-31T09:09:52Z,17,"[0.0, 3.0, 3.0, 3.0, 91.0]","[0.0, -2.0, -2.0, -2.0, 6.0]",
+3024,2021-08-30T21:38:05Z,3,"[5.0, 5.0, 30.0, 30.0, 30.0]","[0.0, -25.0, 0.0, 20.0, 5.0]",
+691,2021-08-30T20:06:11Z,8,"[1.0, 4.0, 6.0, 14.0, 75.0]","[0.0, -1.0, -2.0, 2.0, 1.0]",
+79069,2021-08-30T19:23:28Z,16,"[0.0, 5.0, 5.0, 5.0, 85.0]","[0.0, 0.0, 0.0, -5.0, 5.0]",
+101989,2021-08-30T18:44:46Z,9,"[0.0, 3.0, 7.0, 10.0, 80.0]","[0.0, -2.0, -3.0, 0.0, 5.0]",
+14266,2021-08-30T18:19:34Z,5,"[0.0, 17.0, 3.0, 3.0, 77.0]","[-2.0, 0.0, 0.0, 0.0, 2.0]",
+100653,2021-08-30T16:25:29Z,2,"[10.0, 5.0, 5.0, 5.0, 75.0]","[-30.0, -5.0, 0.0, 0.0, 35.0]",
+21884,2021-08-30T15:32:48Z,6,"[9.0, 27.0, 10.0, 9.0, 45.0]","[0.0, -14.0, 1.0, 3.0, 10.0]",
+40636,2021-08-30T13:41:55Z,11,"[5.0, 10.0, 40.0, 40.0, 5.0]","[-15.0, -20.0, 5.0, 30.0, 0.0]",
+88452,2021-08-30T00:43:34Z,4,"[18.0, 80.0, 2.0, 0.0, 0.0]","[-81.0, 79.0, 2.0, 0.0, 0.0]",
+100836,2021-08-30T00:31:05Z,5,"[30.0, 10.0, 0.0, 0.0, 60.0]","[-20.0, 0.0, 0.0, 0.0, 20.0]",
+102363,2021-08-29T09:40:35Z,1,"[5.0, 55.0, 5.0, 5.0, 30.0]","[5.0, 55.0, 5.0, 5.0, 30.0]",
+14266,2021-08-29T03:09:46Z,4,"[2.0, 17.0, 3.0, 3.0, 75.0]","[-20.0, -10.0, 0.0, 0.0, 30.0]",
+529,2021-08-28T20:40:55Z,10,"[6.0, 22.0, 9.0, 8.0, 55.0]","[-3.0, -3.0, 1.0, 0.0, 5.0]",https://covid19.ca.gov/state-dashboard/
+691,2021-08-28T19:29:52Z,7,"[1.0, 5.0, 8.0, 12.0, 74.0]","[-2.0, -7.0, 0.0, 5.0, 4.0]",
+12694,2021-08-27T16:50:49Z,1,"[0.0, 5.0, 10.0, 10.0, 75.0]","[0.0, 5.0, 10.0, 10.0, 75.0]",
+79069,2021-08-27T10:03:50Z,15,"[0.0, 5.0, 5.0, 10.0, 80.0]","[0.0, -5.0, 0.0, 10.0, -5.0]",
+92690,2021-08-27T03:14:20Z,1,"[94.0, 5.0, 0.0, 1.0, 0.0]","[94.0, 5.0, 0.0, 1.0, 0.0]",
+529,2021-08-26T18:22:20Z,9,"[9.0, 25.0, 8.0, 8.0, 50.0]","[-1.0, 0.0, 0.0, 1.0, 0.0]",Reduction in COVID hospitalized patients (-48) reported in 8/25/21 data. https://covid19.ca.gov/state-dashboard/
+102143,2021-08-26T18:06:35Z,4,"[5.0, 15.0, 19.0, 26.0, 35.0]","[-85.0, 5.0, 19.0, 26.0, 35.0]","Given that the covid-19 mortality rate seems to have passed the hump in CA, 15 Sep is highly unlikely. Odds are more in favor of later than earlier with the probability increasing with seasonal variance and the risk of a new variant."
+40636,2021-08-26T14:43:48Z,10,"[20.0, 30.0, 35.0, 10.0, 5.0]","[-20.0, -10.0, 20.0, 5.0, 5.0]",
+79069,2021-08-26T11:11:42Z,14,"[0.0, 10.0, 5.0, 0.0, 85.0]","[0.0, 5.0, 0.0, 0.0, -5.0]",
+3024,2021-08-26T10:44:25Z,2,"[5.0, 30.0, 30.0, 10.0, 25.0]","[-80.0, 15.0, 30.0, 10.0, 25.0]",
+98345,2021-08-26T03:47:11Z,3,"[40.0, 35.0, 5.0, 5.0, 15.0]","[-30.0, 15.0, 2.0, 2.0, 11.0]",
+100836,2021-08-26T00:27:31Z,4,"[50.0, 10.0, 0.0, 0.0, 40.0]","[-35.0, 10.0, 0.0, 0.0, 25.0]",Switching to NYT data because it is updated more reliably/frequently than the California state data. New reported cases are decelerating. Noticeable deceleration in hospitalized growth over the past week. https://www.nytimes.com/interactive/2021/us/california-covid-cases.html
+529,2021-08-25T19:30:56Z,8,"[10.0, 25.0, 8.0, 7.0, 50.0]","[-3.0, -8.0, -3.0, 2.0, 12.0]",
+79069,2021-08-25T18:12:14Z,13,"[0.0, 5.0, 5.0, 0.0, 90.0]","[0.0, -5.0, 0.0, 0.0, 5.0]",
+79069,2021-08-25T18:11:34Z,12,"[0.0, 10.0, 5.0, 0.0, 85.0]","[-3.0, -20.0, -5.0, -5.0, 33.0]",
+691,2021-08-25T17:30:24Z,6,"[3.0, 12.0, 8.0, 7.0, 70.0]","[-3.0, -20.0, 0.0, -1.0, 24.0]",
+99993,2021-08-25T16:07:10Z,3,"[15.0, 5.0, 2.0, 8.0, 70.0]","[-10.0, -8.0, 0.0, -2.0, 20.0]",
+83135,2021-08-25T14:35:50Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",Vaccination rates are continuing to rise and now that a booster is required we should see hospitalization to continually remain in check or lower
+21884,2021-08-25T08:58:31Z,5,"[9.0, 41.0, 9.0, 6.0, 35.0]","[-11.0, 0.0, 1.0, 0.0, 10.0]",
+60944,2021-08-25T01:54:18Z,1,"[5.0, 10.0, 1.0, 2.0, 82.0]","[5.0, 10.0, 1.0, 2.0, 82.0]",
+28103,2021-08-25T00:54:48Z,1,"[0.0, 0.0, 7.0, 10.0, 83.0]","[0.0, 0.0, 7.0, 10.0, 83.0]",
+81061,2021-08-25T00:37:41Z,1,"[5.0, 20.0, 10.0, 5.0, 60.0]","[5.0, 20.0, 10.0, 5.0, 60.0]",
+13657,2021-08-24T21:12:42Z,5,"[0.0, 0.0, 0.0, 0.0, 100.0]","[-10.0, -30.0, 0.0, 0.0, 40.0]",
+13657,2021-08-24T19:01:53Z,4,"[10.0, 30.0, 0.0, 0.0, 60.0]","[-20.0, 10.0, 0.0, 0.0, 10.0]",
+13657,2021-08-24T19:01:15Z,3,"[30.0, 20.0, 0.0, 0.0, 50.0]","[28.0, 19.0, -1.0, -1.0, -45.0]",
+55987,2021-08-24T14:43:08Z,8,"[0.0, 0.0, 1.0, 12.0, 87.0]","[0.0, 0.0, 0.0, 1.0, -1.0]",
+79069,2021-08-23T20:30:55Z,11,"[3.0, 30.0, 10.0, 5.0, 52.0]","[-2.0, -20.0, 0.0, 0.0, 22.0]",
+691,2021-08-23T20:21:44Z,5,"[6.0, 32.0, 8.0, 8.0, 46.0]","[-28.0, 10.0, 4.0, 4.0, 10.0]",
+529,2021-08-23T18:02:30Z,7,"[13.0, 33.0, 11.0, 5.0, 38.0]","[-11.0, 1.0, 5.0, 1.0, 4.0]","Approx. average of hospitalizations per day over the last eight days is plus 145/day. Hypothetically if this average jumps after today (8/23/21) to +200/day -- with few-to-no discharges subtracted -- it would take 18 days to exceed 12,000 total hospitalizations, or by around Sept. 10th. It would then take the 14-day average additional time to 'catch up' (in that scenario)."
+21884,2021-08-23T02:58:54Z,4,"[20.0, 41.0, 8.0, 6.0, 25.0]","[-20.0, 11.0, 2.0, 1.0, 6.0]",
+40636,2021-08-22T13:21:54Z,9,"[40.0, 40.0, 15.0, 5.0, 0.0]","[0.0, -10.0, 5.0, 5.0, 0.0]",
+40636,2021-08-22T13:21:07Z,8,"[40.0, 50.0, 10.0, 0.0, 0.0]","[-5.0, 5.0, 0.0, 0.0, 0.0]",
+35,2021-08-22T12:33:45Z,1,"[0.0, 70.0, 30.0, 0.0, 0.0]","[0.0, 70.0, 30.0, 0.0, 0.0]","We are close to the same trajectory as last Dec, It took 24 days to go from 7k to 15k. By my math it will take about 35 days on the low side. It is possible ""herd"" immunity will kick in and the curve gets flattened earlier."
+96953,2021-08-22T04:35:50Z,1,"[0.0, 13.0, 74.0, 13.0, 0.0]","[0.0, 13.0, 74.0, 13.0, 0.0]",
+14266,2021-08-22T00:58:37Z,3,"[22.0, 27.0, 3.0, 3.0, 45.0]","[-16.0, -4.0, 3.0, 3.0, 14.0]",
+101989,2021-08-21T17:15:25Z,8,"[0.0, 5.0, 10.0, 10.0, 75.0]","[0.0, -5.0, -10.0, 0.0, 15.0]",
+79069,2021-08-21T12:00:12Z,10,"[5.0, 50.0, 10.0, 5.0, 30.0]","[4.0, 21.0, 0.0, -5.0, -20.0]",
+99993,2021-08-21T02:27:19Z,2,"[25.0, 13.0, 2.0, 10.0, 50.0]","[10.0, 5.0, 0.0, -12.0, -3.0]",
+529,2021-08-20T20:05:15Z,6,"[24.0, 32.0, 6.0, 4.0, 34.0]","[-5.0, 1.0, 0.0, 1.0, 3.0]","FWIW, hospitalizations have slowed the last couple of days but new cases are generally back above 14,000/day. Test positivity staying around 6% right now (https://covid19.ca.gov/state-dashboard/) Staying close to the 'crowd' forecast for the moment."
+55987,2021-08-20T15:58:08Z,7,"[0.0, 0.0, 1.0, 11.0, 88.0]","[-1.0, -1.0, 0.0, -4.0, 6.0]",
+40636,2021-08-20T14:21:42Z,7,"[45.0, 45.0, 10.0, 0.0, 0.0]","[-10.0, 0.0, 10.0, 0.0, 0.0]",
+691,2021-08-19T18:58:53Z,4,"[34.0, 22.0, 4.0, 4.0, 36.0]","[-2.0, 2.0, 0.0, 0.0, 0.0]",
+79069,2021-08-19T18:52:09Z,9,"[1.0, 29.0, 10.0, 10.0, 50.0]","[-14.0, -10.0, 5.0, 4.0, 15.0]",
+55987,2021-08-19T15:59:11Z,6,"[1.0, 1.0, 1.0, 15.0, 82.0]","[-5.0, 0.0, -7.0, 0.0, 12.0]",
+13657,2021-08-19T03:11:34Z,2,"[2.0, 1.0, 1.0, 1.0, 95.0]","[2.0, 0.0, 0.0, 0.0, -2.0]",Resetting timer
+21884,2021-08-19T01:36:48Z,3,"[40.0, 30.0, 6.0, 5.0, 19.0]","[12.0, 0.0, 0.0, -1.0, -11.0]",
+529,2021-08-18T19:36:52Z,5,"[29.0, 31.0, 6.0, 3.0, 31.0]","[2.0, -3.0, -1.0, 0.0, 2.0]","https://covid19.ca.gov/state-dashboard/. Also, https://www.latimes.com/california/story/2021-08-17/california-sees-signs-delta-surge-is-slowing-but-a-new-challenge-looms -- but noting that CA reported new cases rose again on 8/17/21 to 14,317."
+40636,2021-08-18T18:44:42Z,6,"[55.0, 45.0, 0.0, 0.0, 0.0]","[5.0, -5.0, 0.0, 0.0, 0.0]",https://www.nytimes.com/interactive/2021/08/17/us/covid-delta-hospitalizations.html?referringSource=articleShare
+40636,2021-08-18T10:50:46Z,5,"[50.0, 50.0, 0.0, 0.0, 0.0]","[-25.0, 25.0, 0.0, 0.0, 0.0]",
+102278,2021-08-18T07:42:36Z,1,"[0.0, 33.0, 46.0, 21.0, 0.0]","[0.0, 33.0, 46.0, 21.0, 0.0]",
+691,2021-08-17T19:05:38Z,3,"[36.0, 20.0, 4.0, 4.0, 36.0]","[8.0, -10.0, -1.0, -1.0, 4.0]",
+101989,2021-08-17T18:46:55Z,7,"[0.0, 10.0, 20.0, 10.0, 60.0]","[0.0, -20.0, -5.0, 10.0, 15.0]",
+102259,2021-08-17T12:19:24Z,1,"[20.0, 5.0, 5.0, 5.0, 65.0]","[20.0, 5.0, 5.0, 5.0, 65.0]","There is a low but non null possibility that this wave of cases will lead to this number of hospitalisations. After, I believe that mass vaccination can ensure this is never the case anymore, but the probability is not null nevertheless"
+21884,2021-08-17T09:22:22Z,2,"[28.0, 30.0, 6.0, 6.0, 30.0]","[8.0, 15.0, 1.0, 1.0, -25.0]",
+100836,2021-08-16T18:45:25Z,3,"[85.0, 0.0, 0.0, 0.0, 15.0]","[10.0, -15.0, -5.0, -5.0, 15.0]","Made my original estimate a week ago, so updating for new data. The hospitalization trend continues to look exponential, and therefore points to a pre-15SEP21 breach of the 12000 number. I realized that hospitalizations is a LAGGING indicator though, and that I should rely on the leading indicators: # tests; confirmed cases; and positivity rate (although the hospitalization numbers are available on a 1 day lag while these other indicators are on a 1 week lag, so there is still some effort to align the time periods). 1) 7 day average positive test rate per 100k increased 25% over the past week, which would mean we'll breach 12000 even earlier than my original estimate of 02SEP1. 2) 7 day average case rate per 100k is stable at 25. 3) Positivity rate is down from 7.1% of all tests to 6.5% over the last few days, but that's still more than enough to reach 12000 before 02SEP21 (and it may just be a data quality issue). 4) # of total tests looks exponential."
+101989,2021-08-16T17:04:34Z,6,"[0.0, 30.0, 25.0, 0.0, 45.0]","[-5.0, -20.0, 0.0, 0.0, 25.0]",
+55987,2021-08-16T15:15:00Z,5,"[6.0, 1.0, 8.0, 15.0, 70.0]","[-9.0, -2.0, -5.0, -6.0, 22.0]",
+101989,2021-08-15T19:45:17Z,5,"[5.0, 50.0, 25.0, 0.0, 20.0]","[0.0, 0.0, 0.0, -20.0, 20.0]",
+101989,2021-08-15T19:44:22Z,4,"[5.0, 50.0, 25.0, 20.0, 0.0]","[-70.0, 25.0, 25.0, 20.0, 0.0]",
+529,2021-08-14T20:03:07Z,4,"[27.0, 34.0, 7.0, 3.0, 29.0]","[-6.0, 0.0, -1.0, 1.0, 6.0]","Reported Covid hospitalizations have increased from 5,953 on 8/6/21 to 7,222 on 8/13, an average increase of about 159/day. The latest available 14-day average is 5,833 (8/12/21). (https://covid19.ca.gov/state-dashboard/) If daily hospitalizations increased a significant 50% starting today 8/14/21 it would take about 20-21 days to accumulate 12,000 total hospitalizations. (Estimated avg. of about 238 new hospitalizations/day.) Unsure if relevant discharges (+ deaths) are subtracted from this figure but since it's an ""average of hospitalized patents"" we're looking at, it's possible that they are (eventually) subtracted. It would take additional daily increases of a similar (or higher) magnitude over more time (i.e., in the big-jump +50% scenario) for the 14-day hospitalized patients average to reach ( or ""catch up to"") 12,000."
+99857,2021-08-14T16:37:22Z,1,"[0.0, 25.0, 5.0, 19.0, 51.0]","[0.0, 25.0, 5.0, 19.0, 51.0]","""Research has shown the Delta variant now makes up more than 84% of all California cases, while California’s statewide reopening on 15 June meant greater social contact. Recent research shows that vaccinated people can spread the Delta virus, although they are less likely to get it and become seriously ill."" ""Hospitalization rates for unvaccinated patients who get the virus are eight times higher."" https://www.theguardian.com/us-news/2021/aug/02/no-ones-invincible-fresh-mask-mandates-and-rising-delta-cases-hit-california"
+40636,2021-08-14T07:26:31Z,4,"[75.0, 25.0, 0.0, 0.0, 0.0]","[15.0, -5.0, -10.0, 0.0, 0.0]",
+40636,2021-08-14T07:19:11Z,3,"[60.0, 30.0, 10.0, 0.0, 0.0]","[35.0, -5.0, -20.0, -5.0, -5.0]",
+84453,2021-08-14T06:10:17Z,4,"[10.0, 15.0, 0.0, 0.0, 75.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+102143,2021-08-13T23:49:34Z,3,"[90.0, 10.0, 0.0, 0.0, 0.0]","[65.0, -65.0, 0.0, 0.0, 0.0]",
+102143,2021-08-13T23:43:46Z,2,"[25.0, 75.0, 0.0, 0.0, 0.0]","[15.0, -5.0, -10.0, 0.0, 0.0]",
+529,2021-08-13T21:53:00Z,3,"[33.0, 34.0, 8.0, 2.0, 23.0]","[7.0, 6.0, -1.0, -3.0, -9.0]",https://deadline.com/2021/08/california-covid-cases-biggest-jump-of-pandemic-4000-1234814527/
+79069,2021-08-13T15:40:58Z,8,"[15.0, 39.0, 5.0, 6.0, 35.0]","[-5.0, 0.0, 0.0, 0.0, 5.0]",
+46339,2021-08-13T15:09:32Z,1,"[60.0, 30.0, 0.0, 0.0, 10.0]","[60.0, 30.0, 0.0, 0.0, 10.0]",
+55987,2021-08-13T14:48:11Z,4,"[15.0, 3.0, 13.0, 21.0, 48.0]","[-3.0, -1.0, -1.0, -1.0, 6.0]",
+101989,2021-08-13T11:49:16Z,3,"[75.0, 25.0, 0.0, 0.0, 0.0]","[9.0, -9.0, 0.0, 0.0, 0.0]",
+1667,2021-08-13T11:24:49Z,1,"[99.0, 1.0, 0.0, 0.0, 0.0]","[99.0, 1.0, 0.0, 0.0, 0.0]",
+88452,2021-08-13T05:04:12Z,3,"[99.0, 1.0, 0.0, 0.0, 0.0]","[9.0, -9.0, 0.0, 0.0, 0.0]",
+34815,2021-08-13T03:53:58Z,1,"[100.0, 0.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0, 0.0]",
+102143,2021-08-12T22:43:22Z,1,"[10.0, 80.0, 10.0, 0.0, 0.0]","[10.0, 80.0, 10.0, 0.0, 0.0]",That is what the curve looks looks like.
+691,2021-08-12T18:40:11Z,2,"[28.0, 30.0, 5.0, 5.0, 32.0]","[2.0, 0.0, -1.0, -1.0, 0.0]",
+98850,2021-08-12T18:38:17Z,2,"[65.0, 35.0, 0.0, 0.0, 0.0]","[-29.0, 29.0, 0.0, 0.0, 0.0]",Really like @Aleysia rationale below - https://www.gjopen.com/comments/1320180
+98850,2021-08-12T18:31:55Z,1,"[94.0, 6.0, 0.0, 0.0, 0.0]","[94.0, 6.0, 0.0, 0.0, 0.0]",
+100273,2021-08-12T15:48:50Z,1,"[0.0, 10.0, 60.0, 30.0, 0.0]","[0.0, 10.0, 60.0, 30.0, 0.0]",Swag.
+98345,2021-08-12T15:33:04Z,2,"[70.0, 20.0, 3.0, 3.0, 4.0]","[0.0, -5.0, -2.0, 3.0, 4.0]",Hedging my estimates slightly.
+98345,2021-08-12T15:29:42Z,1,"[70.0, 25.0, 5.0, 0.0, 0.0]","[70.0, 25.0, 5.0, 0.0, 0.0]","The last time we were at these numbers (late Nov 2020), it took about 2 weeks to go from 7k to >12k. Now, with over 60% of the population having received at least one dose of the vaccine, and ignoring the increased transmissibility of the delta variant, we could do a very rough estimate of how long it would take assuming 40% of the rate of increase from Nov 2020. That brings us to Aug 10 + 33 days, or just before the Sept 15th cutoff."
+3024,2021-08-12T11:53:03Z,1,"[85.0, 15.0, 0.0, 0.0, 0.0]","[85.0, 15.0, 0.0, 0.0, 0.0]",
+79069,2021-08-12T07:41:56Z,7,"[20.0, 39.0, 5.0, 6.0, 30.0]","[-5.0, -6.0, 0.0, 1.0, 10.0]",
+14266,2021-08-12T04:59:12Z,2,"[38.0, 31.0, 0.0, 0.0, 31.0]","[10.0, -5.0, 0.0, 0.0, -5.0]",
+767,2021-08-12T03:04:51Z,2,"[40.0, 40.0, 10.0, 0.0, 10.0]","[-30.0, 10.0, 10.0, 0.0, 10.0]","Now at 7,007 https://covid19.ca.gov/state-dashboard/"
+529,2021-08-11T20:13:52Z,2,"[26.0, 28.0, 9.0, 5.0, 32.0]","[11.0, 5.0, 1.0, -3.0, -14.0]","Hospitalizations have increased from 4,772 on 8/1/21 to 7,007 on 8/11/21 (over eight days reported), an average increase of about 203 per calendar day (and about 280 per reporting day). The most-recently reported 14-day hospitalization average is 5,171 (8/9/21). Too soon to say if new COVID cases in Calif. have definitively started dropping from recent 8/1/21 and 8/5/21 surges of 33,407 and 14,402 respectively, but the most recent reported new cases numbers were 9,925 (8/10) and 10,425 (8/8). (https://covid19.ca.gov/state-dashboard/)"
+102177,2021-08-11T20:11:53Z,1,"[5.0, 10.0, 5.0, 15.0, 65.0]","[5.0, 10.0, 5.0, 15.0, 65.0]",Test positivity is just over 6% which lowers concern over coming spikes.
+79069,2021-08-11T10:16:50Z,6,"[25.0, 45.0, 5.0, 5.0, 20.0]","[5.0, 5.0, 0.0, 0.0, -10.0]",
+100836,2021-08-11T04:09:12Z,2,"[75.0, 15.0, 5.0, 5.0, 0.0]","[5.0, -5.0, 0.0, 0.0, 0.0]","6687 Hospitalized on 09AUG21, 6123 on 07AUG21, 5953 on 06AUG2, 5551 on 04AUG21, 5282 on 03AUG21, 5120 on 02AUG21, 4561 on 31JUL21, 4374 on 30JUL21, 4103 on 29JUL21. Linear trend implies we'll reach 12000 in 23 days which is 02SEP21. https://covid19.ca.gov/state-dashboard/#todays-update"
+691,2021-08-10T18:11:34Z,1,"[26.0, 30.0, 6.0, 6.0, 32.0]","[26.0, 30.0, 6.0, 6.0, 32.0]",
+55987,2021-08-10T15:18:55Z,3,"[18.0, 4.0, 14.0, 22.0, 42.0]","[-2.0, -13.0, -5.0, 1.0, 19.0]",
+79069,2021-08-10T06:58:33Z,5,"[20.0, 40.0, 5.0, 5.0, 30.0]","[5.0, 0.0, -5.0, 0.0, 0.0]",
+21884,2021-08-10T02:14:19Z,1,"[20.0, 15.0, 5.0, 5.0, 55.0]","[20.0, 15.0, 5.0, 5.0, 55.0]",
+92079,2021-08-10T00:36:31Z,1,"[94.0, 6.0, 0.0, 0.0, 0.0]","[94.0, 6.0, 0.0, 0.0, 0.0]",
+27334,2021-08-09T22:59:01Z,2,"[15.0, 30.0, 10.0, 5.0, 40.0]","[15.0, 15.0, 0.0, 0.0, -30.0]","Latest numbers show somewhat absurd spikes across various CA counties. Still think it's pretty likely that it doesn't get over 12,000, but definitely revising my priors on this based on the numbers from 8/8."
+101989,2021-08-09T17:00:18Z,2,"[66.0, 34.0, 0.0, 0.0, 0.0]","[1.0, -1.0, 0.0, 0.0, 0.0]",
+100653,2021-08-09T16:49:29Z,1,"[40.0, 10.0, 5.0, 5.0, 40.0]","[40.0, 10.0, 5.0, 5.0, 40.0]",
+88452,2021-08-09T16:39:43Z,2,"[90.0, 10.0, 0.0, 0.0, 0.0]","[4.0, -2.0, -2.0, 0.0, 0.0]",
+79069,2021-08-09T12:49:11Z,4,"[15.0, 40.0, 10.0, 5.0, 30.0]","[0.0, 0.0, 0.0, -5.0, 5.0]","While its a tough call, I still think hospitalisation looks likeliest to peak around the end of September/early October, given the current linear rise in cases which look likely to continue given existing mandates, vaccination levels and a quick comparison with UK. While Delta transmissibility is very high, the hospitalisation rate may ease off marginally if a larger proportion of younger unvaccinated age groups are being affected, with the peak lagging ~12 days behind case rates. I'm edging towards it passing the 12K point, but if that doesn't happen by October 31st, then Bin 5 looks the second option."
+40636,2021-08-09T09:09:26Z,2,"[25.0, 35.0, 30.0, 5.0, 5.0]","[0.0, 0.0, -10.0, 5.0, 5.0]",
+14266,2021-08-09T05:32:57Z,1,"[28.0, 36.0, 0.0, 0.0, 36.0]","[28.0, 36.0, 0.0, 0.0, 36.0]","Tough one to call, but I'm betting on it hitting 12,000 by the end of October, or not at all."
+27334,2021-08-09T02:09:17Z,1,"[0.0, 15.0, 10.0, 5.0, 70.0]","[0.0, 15.0, 10.0, 5.0, 70.0]",
+40584,2021-08-08T23:27:02Z,2,"[40.0, 25.0, 5.0, 10.0, 20.0]","[25.0, 10.0, -10.0, -5.0, -20.0]",
+79069,2021-08-08T17:32:10Z,3,"[15.0, 40.0, 10.0, 10.0, 25.0]","[5.0, 5.0, 0.0, 0.0, -10.0]",
+101989,2021-08-08T14:28:02Z,1,"[65.0, 35.0, 0.0, 0.0, 0.0]","[65.0, 35.0, 0.0, 0.0, 0.0]",
+45594,2021-08-08T09:37:23Z,1,"[5.0, 55.0, 10.0, 15.0, 15.0]","[5.0, 55.0, 10.0, 15.0, 15.0]",
+101422,2021-08-08T09:23:54Z,1,"[0.0, 15.0, 40.0, 40.0, 5.0]","[0.0, 15.0, 40.0, 40.0, 5.0]",
+79069,2021-08-08T08:48:23Z,2,"[10.0, 35.0, 10.0, 10.0, 35.0]","[0.0, -3.0, -2.0, -2.0, 7.0]",
+79069,2021-08-08T08:30:43Z,1,"[10.0, 38.0, 12.0, 12.0, 28.0]","[10.0, 38.0, 12.0, 12.0, 28.0]","Hospitalisation looks likeliest to peak around the end of September into October to me, given the current linear rise in cases, existing mandates, vaccination levels and comparison with UK. But I can’t tell if the peak will get close to 12K or reach past it. If not, then Bin 5 looks the second option."
+40584,2021-08-07T22:22:36Z,1,"[15.0, 15.0, 15.0, 15.0, 40.0]","[15.0, 15.0, 15.0, 15.0, 40.0]",
+529,2021-08-07T19:59:35Z,1,"[15.0, 23.0, 8.0, 8.0, 46.0]","[15.0, 23.0, 8.0, 8.0, 46.0]","A few factors, some also mentioned in other forecasters' comments:"
+99993,2021-08-07T18:06:15Z,1,"[15.0, 8.0, 2.0, 22.0, 53.0]","[15.0, 8.0, 2.0, 22.0, 53.0]",
+55987,2021-08-07T17:43:25Z,2,"[20.0, 17.0, 19.0, 21.0, 23.0]","[19.0, 13.0, 5.0, -6.0, -31.0]",
+88452,2021-08-07T14:27:27Z,1,"[86.0, 12.0, 2.0, 0.0, 0.0]","[86.0, 12.0, 2.0, 0.0, 0.0]",
+84453,2021-08-07T13:18:04Z,3,"[10.0, 15.0, 0.0, 0.0, 75.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+84453,2021-08-07T12:58:52Z,2,"[10.0, 15.0, 0.0, 0.0, 75.0]","[-38.0, -37.0, 0.0, 0.0, 75.0]",
+84453,2021-08-07T12:56:22Z,1,"[48.0, 52.0, 0.0, 0.0, 0.0]","[48.0, 52.0, 0.0, 0.0, 0.0]",
+100664,2021-08-07T06:59:12Z,1,"[1.0, 14.0, 25.0, 30.0, 30.0]","[1.0, 14.0, 25.0, 30.0, 30.0]",
+40636,2021-08-07T06:23:09Z,1,"[25.0, 35.0, 40.0, 0.0, 0.0]","[25.0, 35.0, 40.0, 0.0, 0.0]",
+102116,2021-08-07T04:51:50Z,1,"[40.0, 50.0, 10.0, 0.0, 0.0]","[40.0, 50.0, 10.0, 0.0, 0.0]",
+100836,2021-08-07T02:11:12Z,1,"[70.0, 20.0, 5.0, 5.0, 0.0]","[70.0, 20.0, 5.0, 5.0, 0.0]","California bottom to peak took 76 days the only time the state hospitalization rate exceeded the 12K threshold previously. Looks like we're already 32 days into the delta spike, although we're starting from half the # hospitalized as last time."
+102133,2021-08-06T23:54:28Z,1,"[5.0, 20.0, 30.0, 40.0, 5.0]","[5.0, 20.0, 30.0, 40.0, 5.0]","To start of, we don't know how accurate this statistics are, there are many factors that could influence the findings, e.g, late reporting by hospitals, how many people accutaly go to hospital when they are sick and can we trust the findings on the internet. Then we also need to consider, if more people get vaccinated, if it could slow down the spread of the virus. And if there is such an massive increase if the government might, issue another lock down oder. If the virus is seasonal, that should also be taken into consideration, meaning that the numbers will increase during the winter months and Xmas holidays, when more people spend time with family and social gatherings."
+22689,2021-08-06T21:17:40Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+55987,2021-08-06T20:10:16Z,1,"[1.0, 4.0, 14.0, 27.0, 54.0]","[1.0, 4.0, 14.0, 27.0, 54.0]",
+60695,2021-08-06T19:00:55Z,1,"[0.0, 30.0, 50.0, 20.0, 0.0]","[0.0, 30.0, 50.0, 20.0, 0.0]",
+767,2021-08-06T18:14:33Z,1,"[70.0, 30.0, 0.0, 0.0, 0.0]","[70.0, 30.0, 0.0, 0.0, 0.0]","Covid hospitalizations in California up 97% in the past 10 days. Total 5,282 as of Wednesday. Number of Covid patients in state ICUs up 88%."
+13657,2021-08-06T17:54:56Z,1,"[0.0, 1.0, 1.0, 1.0, 97.0]","[0.0, 1.0, 1.0, 1.0, 97.0]",
+10952,2021-08-06T17:19:01Z,1,"[100.0, 0.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0, 0.0]",Delta spike will happen soon

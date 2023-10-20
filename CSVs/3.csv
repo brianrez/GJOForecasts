@@ -1,0 +1,159 @@
+"Between 18 January 2023 and 28 February 2023, will 60 or more countries in the UN General Assembly either vote against or abstain from voting on a resolution in any way condemning Russia by name?",2023-01-18T22:00:00Z,2023-03-01T08:01:00Z,No,"['Yes', 'No']","['Foreign Policy', 'Security and Conflict', 'Non-US Politics']",158,369,72,167,,https://www.gjopen.com/questions/2720-between-18-january-2023-and-28-february-2023-will-60-or-more-countries-in-the-un-general-assembly-either-vote-against-or-abstain-from-voting-on-a-resolution-in-any-way-condemning-russia-by-name
+84880,2023-03-01T00:07:33Z,2,[0.0],[-1.0],
+37693,2023-02-28T22:50:26Z,1,[0.0],[0.0],
+109873,2023-02-28T22:32:44Z,1,[0.0],[0.0],
+108925,2023-02-28T20:10:47Z,3,[0.0],[0.0],
+109842,2023-02-27T20:56:23Z,1,[0.0],[0.0],
+109391,2023-02-27T17:11:28Z,2,[0.0],[-1.0],
+109418,2023-02-26T23:24:14Z,3,[8.0],[-2.0],"I have lowered the probability of 60 or more countries voting against or abstaining from voting on a resolution in any way condemning Russia by name. I believe there is an 8% chance that this will happen. This is because the anniversary of the Ukraine invasion has caused the UN to take stronger action against Russia. There was a call for the withdrawal of troops and a ceasefire. In this vote, only 32 countries abstained and seven voted against the resolution. This makes me confident that there will not be 60 countries that vote against or abstain in a resolution to condemn Russia by name. In addition, when I ran a regression test on how a country's polyarchy score affects the way they vote, it helped my prediction because I got the results that as votes against the resolution increase, the polyarchy score decreases. This is consistent with the historical context as well as current events."
+108522,2023-02-26T22:56:11Z,1,[0.0],[0.0],"In the most recent resolution, 32 abstained and seven voted against."
+109391,2023-02-26T20:14:19Z,1,[1.0],[1.0],
+109378,2023-02-26T17:17:57Z,3,[12.0],[2.0],
+109493,2023-02-26T15:52:28Z,4,[0.0],[-2.0],The latest vote just happened and it had 6 Nos and something like 41 abstentions.
+34959,2023-02-26T15:10:14Z,5,[0.0],[-1.0],
+80790,2023-02-26T09:56:01Z,3,[0.0],[-1.0],
+80790,2023-02-25T23:50:36Z,2,[1.0],[-6.0],
+14133,2023-02-25T17:11:08Z,3,[0.0],[0.0],
+34959,2023-02-25T14:52:12Z,4,[1.0],[-1.0],
+83,2023-02-25T02:53:23Z,2,[0.0],[-2.0],Yesterday's vote results: https://www.ibtimes.com/these-6-countries-vote-against-un-resolution-demanding-russia-withdraw-troops-ukraine-3671333:
+109427,2023-02-25T02:28:42Z,3,[10.0],[-10.0]
+109427,2023-02-24T23:58:26Z,2,[20.0],[-10.0]
+109396,2023-02-24T21:22:55Z,4,[12.0],[-13.0],"I believe that there is a 12% chance that 60 or more countries will vote against or abstain from voting on a resolution condemning Russia. I lowered the probability from my other guesses in part because of the vote a few days ago which called for a withdrawal of troops and a ceasefire on the anniversary of the beginning of the war in Ukraine and only 32 abstained and 7 voted against. It seems that it is highly unlikely the number would reach 60. Additionally, just as an added note, my regression was not statistically significant which is why I am not including it in the reasoning behind my prediction."
+49838,2023-02-24T20:13:51Z,3,[100.0],[100.0],
+1646,2023-02-24T19:10:02Z,2,[0.0],[-1.0],
+81431,2023-02-24T17:43:58Z,5,[0.0],[0.0],
+109424,2023-02-24T17:37:11Z,3,[1.0],[-8.0],"On February 23rd, the UN had a vote to condemn Russia where 32 countries abstained from voting and 7 voted against the resolution. It is incredibly unlikely that in the next 4 days, the UN will hold another resolution on the same topic and 21 countries will change their opinions."
+86554,2023-02-24T14:20:56Z,3,[0.0],[-2.0],
+96828,2023-02-24T13:09:07Z,16,[3.0],[-1.0],
+49249,2023-02-24T11:12:14Z,4,[0.0],[-3.0],Doubt there will be another vote
+107732,2023-02-24T08:38:03Z,3,[2.0],[-8.0],
+109785,2023-02-24T06:06:55Z,1,[1.0],[1.0],
+104344,2023-02-24T03:30:16Z,2,[0.0],[0.0],32 abstentions and 7 against today. https://www.bbc.com/news/world-europe-64748349
+86607,2023-02-24T02:38:40Z,3,[0.0],[-5.0],
+96828,2023-02-23T22:46:39Z,15,[4.0],[-1.0],
+96828,2023-02-23T22:43:28Z,14,[5.0],[-10.0],
+104874,2023-02-23T21:20:26Z,2,[0.0],[-1.0],
+108211,2023-02-23T20:42:50Z,9,[0.0],[-5.0],
+104874,2023-02-23T20:35:54Z,1,[1.0],[1.0],Last year only 40 countries voted against or abstained. Don’t see this changing much again. It is also not clear if any resolution will be voted at all.
+108211,2023-02-23T09:26:34Z,8,[5.0],[0.0],The lack of any concrete actions in this draft resolution means it is likely to see similar vote counts to ES-11/1 ES-11/2 and ES-11/4. Therefore well short of the threshold.
+84698,2023-02-23T00:03:24Z,2,[0.0],[-2.0],
+88452,2023-02-22T21:38:31Z,2,[0.0],[0.0],"“Principles underlying a comprehensive, just and lasting peace in Ukraine.”"
+49838,2023-02-22T20:45:12Z,2,[0.0],[-5.0],
+619,2023-02-22T16:43:19Z,1,[10.0],[10.0],
+34959,2023-02-22T15:56:48Z,3,[2.0],[-2.0],
+79461,2023-02-22T15:03:21Z,2,[0.0],[-10.0],
+107093,2023-02-22T13:02:01Z,1,[1.0],[1.0],
+691,2023-02-21T22:38:57Z,5,[0.0],[-2.0],
+33418,2023-02-21T20:07:11Z,1,[10.0],[10.0],
+81431,2023-02-21T14:03:06Z,4,[0.0],[-5.0],
+1333,2023-02-20T12:00:29Z,2,[0.0],[-1.0],
+59590,2023-02-20T07:42:43Z,2,[31.0],[0.0],
+691,2023-02-19T19:24:59Z,4,[2.0],[-2.0],
+691,2023-02-18T20:06:13Z,3,[4.0],[-2.0],
+49249,2023-02-18T09:25:12Z,3,[3.0],[-1.0],
+109418,2023-02-17T20:53:19Z,2,[10.0],[-5.0],"I believe the likelihood has dropped that there will be 60 or more countries in the UN General Assembly either vote against or abstain from voting on a resolution in any way condemning Russia. The likelihood has dropped because, with the one-year anniversary of the war coming up on February 20th, there is a greater sense of urgency to condemn Russia and stop the destruction of Ukraine. Additionally, based on the past two resolutions, it is unlikely that countries that voted for the resolution would change their votes in the next resolution."
+109396,2023-02-17T19:09:34Z,3,[25.0],[-5.0],"I still believe that there is a relatively low chance that 60 or more countries in the UN General Assembly will vote against or abstain from voting on a resolution in any way condemning Russia by name. I think that I would lower my percentage down to 25% given that little changed between the votes when Ukraine first invaded Russia and the vote in October, and both of those were at least 20 votes away from reaching that mark. From the research I have conducted, it seems that the more severe the resolution is in condemning Russia (ie. one that sought to suspend Russia from the U.N.’s Geneva-based Human Rights and have them pay reparations), the less countries that will vote for the resolution. However, simply condemning Russia by name has not reached too much opposition, though more than I initially had expected. The resolution that will be voted on next Friday which asks for peace and ceasefire will be very telling and I am interested to see those results."
+109424,2023-02-17T16:02:37Z,2,[9.0],[-1.0],"I amended my prediction and now believe that it is less likely that 60 or more countries will abstain from voting or vote against condemning Russia, due to the new UN resolution drafted that stressed ""the need to reach, as soon as possible, a comprehensive, just and lasting peace"" in recognition of the 1 year anniversary of the initial Russian invasion of Ukraine. Due to this resolution, I doubt that a significant number of countries would be willing to side with Russia publicly so shortly after, unless they already had in previous UN votes."
+86554,2023-02-17T02:40:09Z,2,[2.0],[-2.0],
+108211,2023-02-16T18:15:20Z,7,[5.0],[-10.0],
+109378,2023-02-16T16:37:55Z,2,[10.0],[-3.0],
+105209,2023-02-16T14:31:18Z,2,[0.0],[-18.0],
+34959,2023-02-15T15:37:21Z,2,[4.0],[-2.0],
+107392,2023-02-15T05:18:35Z,2,[0.0],[-1.0],
+108211,2023-02-14T16:44:00Z,6,[15.0],[2.0],A letter was sent on 10th February to call a meeting for 22nd February
+108990,2023-02-14T07:32:46Z,2,[95.0],[0.0],
+81431,2023-02-13T16:20:02Z,3,[5.0],[0.0],
+59590,2023-02-12T14:29:30Z,1,[31.0],[31.0]
+109493,2023-02-11T05:04:19Z,3,[2.0],[0.0],"There is actually a General Assembly special session scheduled in the period, some letter dropped today apparently. I can't find contents of letter, and the session was scheduled months ago."
+109427,2023-02-11T02:15:19Z,1,[30.0],[30.0]
+97185,2023-02-10T20:13:40Z,2,[1.0],[-5.0],
+109424,2023-02-10T19:37:19Z,1,[10.0],[10.0],"There is a 10% chance that 60 or more countries will either abstain from or vote against a resolution condemning Russia in the UN General Assembly. This prediction is primarily because in the last UN General Assembly resolution, only 40 countries either voted to condemn Russia or abstained from voting. Because Russia has not scaled back their invasion, and in fact military actions have worsened, it is unlikely that more countries than before will be unwilling to condemn Russia."
+109396,2023-02-10T19:06:26Z,2,[30.0],[-5.0],"I believe that there is a 30% chance that 60 or more countries in the UN General Assembly will either vote against or abstain from voting on a resolution in any way condemning Russia by name. When Russia first invaded Ukraine on February 24th, 2022, the UN voted to condemn Russia, 141 countries voted in favor, 35 abstained, and 5 voted against (of the 193 member states). This means that only 40 states voted against or abstained from voting to condemn Russia. In a recent vote to condemn Russia, a resolution was passed by the UN with 143 in favor, 5 against (Belarus, North Korea, Nicaragua, Russia, Syria), and 34 abstaining (China, India, and some African, Latin American, and Central Asian countries). This means that 39 countries voted against or abstained from voting on this resolution. Between the two votes for these two resolutions, there was not much of a shift. For example, Iraq and Angola abstained in March but voted against the second time. Eritrea moved from voting against to abstaining, and Nicaragua did the opposite. For these reasons, I do not think much will change in a vote for another resolution. Since these votes did not have 60 or more countries voting against or abstaining from voting, I doubt that will change in the near future. However, there is always the possibility that the relationships between these countries and Russia shifts, or Russia takes something a step further which could alter states’ votes. Additionally, a combined total of 87 countries voted against or abstained from voting on a resolution concerning Russia paying war reparations to Ukraine, though this is different from simply condemning them without the addition of reparations."
+109396,2023-02-10T19:04:12Z,1,[35.0],[35.0],
+109418,2023-02-10T17:31:13Z,1,[15.0],[15.0],"It is unlikely that 60 or more countries will vote against or abstain from voting on a resolution in any way condemning Russia by name. This is because, in the last resolution, 40 countries voted against or abstained from this resolution, so it is unlikely that 20 or more countries will now also vote against or abstain from voting on a resolution. It is even more unlikely because now that the war has been intensifying and the US has started providing military aid, there is more reason to vote on the side of the US."
+109378,2023-02-10T16:56:57Z,1,[13.0],[13.0],
+96828,2023-02-10T11:49:15Z,13,[15.0],[2.0],
+96828,2023-02-10T11:49:09Z,12,[13.0],[2.0],
+107732,2023-02-08T19:37:57Z,2,[10.0],[-80.0],
+107732,2023-02-08T19:20:00Z,1,[90.0],[90.0],
+75379,2023-02-08T18:43:45Z,2,[100.0],[0.0],
+108211,2023-02-08T07:41:24Z,5,[13.0],[1.0],"""Intensive work is being done on the adoption of a resolution of the General Assembly — a key step on the way to the establishment of a tribunal capable of bringing the leadership of the aggressor state to justice. Presumably, such a decision may be adopted in February – on the symbolic dates of the anniversary of the full-scale aggression against Ukraine."""
+109493,2023-02-08T05:06:14Z,2,[2.0],[-1.0],Time has passed.
+14133,2023-02-07T23:03:11Z,2,[0.0],[0.0],
+49249,2023-02-07T05:15:35Z,2,[4.0],[-1.0],
+96828,2023-02-06T11:25:52Z,11,[11.0],[1.0],
+96828,2023-02-06T11:25:37Z,10,[10.0],[3.0],
+96828,2023-02-06T11:25:28Z,9,[7.0],[-8.0],
+83,2023-02-06T02:07:52Z,1,[2.0],[2.0],"Per the material provided by @cosaib, considerable preparation will be needed to create a special tribunal composed of enough countries to be effective and also capable of removing ""immunity"" from those charged by the tribunal."
+49838,2023-02-06T01:18:21Z,1,[5.0],[5.0],"It will be difficult to achieve this feat, in my opinion, because of the ""outsized"" influence of Russia on some of the weaker member bodies of the UN. Easily more achievable by not saying ""the name"" of the aggressor. But how this question is worded and the time frame, big doubts."
+81431,2023-02-05T18:37:54Z,2,[5.0],[0.0],
+86607,2023-02-05T16:00:48Z,2,[5.0],[0.0],
+108925,2023-02-04T22:02:02Z,2,[0.0],[0.0],
+96828,2023-02-04T01:47:10Z,8,[15.0],[1.0],
+96828,2023-02-04T01:47:01Z,7,[14.0],[3.0],
+88436,2023-02-03T08:51:13Z,1,[75.0],[75.0],"Humanitarian interest is to end the war, no matter what the outcome, but soon. Economic interests have reached the end of what is militarily possible and justifiable. There is no reason to further aggravate the international situation."
+106682,2023-02-02T19:44:32Z,1,[33.0],[33.0],
+108211,2023-02-01T20:11:57Z,4,[12.0],[-2.0],Some more movement within Europe towards setting up a special tribunal to try the 'crime of aggression'
+109562,2023-02-01T19:26:30Z,2,[32.0],[0.0],
+103826,2023-02-01T15:08:31Z,1,[20.0],[20.0],
+82404,2023-02-01T12:30:00Z,1,[50.0],[50.0],"Russia failing, thus losing support"
+108742,2023-02-01T12:13:57Z,1,[70.0],[70.0],"Yes, US influences more than 60 countries, as demonstrated in the past year."
+68,2023-02-01T11:24:16Z,1,[40.0],[40.0],"With the passage of time, more countries are likely to abstain, as condemnation of Russia at this stage will only make it more difficult for Ukraine and Russia to come to the table. However, I'm presuming that if there's no such resolution, this question will resolve as ""no""."
+108316,2023-02-01T08:46:39Z,1,[0.0],[0.0],
+80790,2023-02-01T08:37:27Z,1,[7.0],[7.0],"Not that likely as there have not been many resolutions so far, so why suddenly now? And plenty of countries don’t want to take sides."
+1071,2023-01-31T23:57:40Z,1,[13.0],[13.0],
+38219,2023-01-31T21:42:26Z,1,[10.0],[10.0],
+75379,2023-01-31T21:25:18Z,1,[100.0],[100.0],"There are over 193 members in the UN. 60 voting against Russia is a minority. A better question might be, will there be a resolution condemning Russia by name be brought up for a vote."
+105532,2023-01-31T21:21:20Z,1,[22.0],[22.0],Money and selfishness are unfortunately stronger than decency …
+108279,2023-01-31T21:09:21Z,1,[0.0],[0.0],
+93409,2023-01-31T21:04:28Z,1,[100.0],[100.0],
+109562,2023-01-30T20:03:11Z,1,[32.0],[32.0],
+100664,2023-01-30T09:51:07Z,1,[0.0],[0.0],
+108211,2023-01-30T07:44:53Z,3,[14.0],[-1.0],Reducing for passing time. But adjusting modifier from 2.0 to 2.5 up due to continued talk of a tribunal and a resolution passed by PACE calling for setting up of a tribunal
+691,2023-01-28T19:05:39Z,2,[6.0],[-4.0],
+49943,2023-01-28T08:54:35Z,1,[10.0],[10.0],
+59499,2023-01-27T22:21:11Z,1,[3.0],[3.0],
+34959,2023-01-25T14:24:06Z,1,[6.0],[6.0],
+3316,2023-01-24T18:52:56Z,1,[0.0],[0.0],
+109493,2023-01-24T18:49:52Z,1,[3.0],[3.0],"The war will only get worse in next 30 days, and the West is united on supplies. There is no planned general assembly session for votes, and no emergency session planned for the next month."
+86607,2023-01-24T17:51:45Z,1,[5.0],[5.0],
+108990,2023-01-24T06:15:19Z,1,[95.0],[95.0],"I think there is little doubt that most of Africa, much of Asia (including the Middle East and perhaps even Turkey) and a few countries in Latin America will refuse to condemn Russian aggression. Resentment seeks company."
+14133,2023-01-23T22:22:42Z,1,[0.0],[0.0],"If they don't have to, most nations don't like to condemn (most) other nations by name at all. In this case, Russia often has something they want, so that is added incentive to refrain. Additionally, China really hates it and has its feelings hurt when a country says anything mean about (almost) any other country at the UN, so it tends to be annoyed at those who do-- and not afraid to tell them so."
+81431,2023-01-23T17:37:01Z,1,[5.0],[5.0],
+1333,2023-01-23T09:15:07Z,1,[1.0],[1.0],
+45594,2023-01-22T07:59:15Z,1,[20.0],[20.0],
+14208,2023-01-22T03:02:20Z,4,[33.0],[29.0],
+96828,2023-01-22T00:14:23Z,6,[11.0],[3.0],
+691,2023-01-21T17:36:34Z,1,[10.0],[10.0],
+108211,2023-01-21T09:34:23Z,2,[15.0],[3.0],Adjusting / correcting initial forecast quite a lot after more research.
+86554,2023-01-21T03:33:06Z,1,[4.0],[4.0],
+96828,2023-01-21T01:53:22Z,5,[8.0],[0.0],
+106773,2023-01-20T19:44:10Z,1,[1.0],[1.0],N/A
+84698,2023-01-20T17:33:53Z,1,[2.0],[2.0],"@cosaib told,that previous 4 resolution condemning Russia in some way. But we see that Putin continue kill peace people in Ukraine. Anti Putin coalition have 50+ most progressive countries, so I think that changes very slim."
+14208,2023-01-20T15:23:59Z,3,[4.0],[4.0],how do non state actors receive funding these days for operations question here does 80% of the worlds illegal “drugs” manufactured come from North Korea through Lotte Mart Seoul station in South Korea
+49249,2023-01-20T05:51:55Z,1,[5.0],[5.0],Splitting between @Polymorpheus and @cosaib. Thanks to you both for sharing good explanations and research.
+79461,2023-01-20T04:05:55Z,1,[10.0],[10.0],@cosaib has fantastic analysis.
+14208,2023-01-20T00:58:40Z,2,[0.0],[0.0],no because the UN received 45 billion dollars from a gazprom account a 15 year oil and gas contract for Middle Africa
+96828,2023-01-20T00:16:59Z,4,[8.0],[1.0],
+87571,2023-01-19T22:43:57Z,1,[98.0],[98.0],
+14208,2023-01-19T16:52:11Z,1,[0.0],[0.0],only nations that don’t want oil and gas how close is the UK and Russia what type of informal agreements do they have
+60695,2023-01-19T16:36:55Z,1,[0.0],[0.0],
+101364,2023-01-19T15:07:00Z,1,[1.0],[1.0],60 is a lot of countries
+29054,2023-01-19T14:49:04Z,1,[0.0],[0.0],60 is too many!
+1646,2023-01-19T14:47:44Z,1,[1.0],[1.0],"hmm, the framing of this question is suspect, as much as we are told to trust the research project behind it."
+108684,2023-01-19T11:59:55Z,1,[5.0],[5.0],
+108211,2023-01-19T11:41:27Z,1,[12.0],[12.0],"My understanding from initial research is that any such resolution is most likely to come through a new meeting of the 11th emergency special session of the UNGA. So far this session has issued 4 resolutions condemning Russia in some way, which have all been passed."
+104344,2023-01-19T11:27:28Z,1,[0.0],[0.0],"I wrote a whole long spiel for this, gutted to have lost it! The long and short of it was, you'll get lots of abstentions/votes against with resolutions that do anything more than reaffirm the UN's commitment to state sovereignty. There were a lot of abstentions when resolutions passed last year to remove Russia from the UN Human rights council, and calling for it to pay reparations."
+107392,2023-01-19T06:53:10Z,1,[1.0],[1.0],
+84880,2023-01-19T04:06:25Z,1,[1.0],[1.0],
+108925,2023-01-19T03:26:47Z,1,[0.0],[0.0],
+34815,2023-01-19T01:58:01Z,1,[0.0],[0.0],
+96828,2023-01-19T01:29:02Z,3,[7.0],[1.0],
+97185,2023-01-19T01:00:43Z,1,[6.0],[6.0],"I expect something to happen to mark anniversary of the invasion, but as other forecasters (@probahilliby) mentioned unlikely that any positions have changed since October."
+96828,2023-01-19T00:42:21Z,2,[6.0],[1.0],That means about 10% of the remaining countries have to change their mind. But that also means a 50% increase compared to the question from October 2022.
+96828,2023-01-19T00:40:24Z,1,[5.0],[5.0],
+92079,2023-01-18T23:34:49Z,1,[0.0],[0.0],
+8826,2023-01-18T23:13:21Z,1,[10.0],[10.0],
+76730,2023-01-18T22:53:40Z,1,[0.0],[0.0],
+105209,2023-01-18T22:22:16Z,1,[18.0],[18.0],I think it is rather unlikely. Russian lobbying as aggressive as it might be probably can't convince that many new countries. Maybe the Caribbean states (which are many) since they might be aligned with Venezuela. But still a long shot.
+88452,2023-01-18T22:16:04Z,1,[0.0],[0.0],.

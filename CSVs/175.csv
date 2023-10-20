@@ -1,0 +1,480 @@
+Will legislation raising the US federal minimum wage from $7.25 an hour become law before 1 March 2023?,2022-04-06T16:00:00Z,2023-03-01T08:01:00Z,No,"['Yes', 'No']","['Business', 'Society', 'US Politics', 'US Policy']",479,654,246,237,,https://www.gjopen.com/questions/2339-will-legislation-raising-the-us-federal-minimum-wage-from-7-25-an-hour-become-law-before-1-march-2023
+13086,2023-03-01T07:39:15Z,2,[0.0],[0.0],
+109873,2023-02-28T22:29:48Z,1,[0.0],[0.0],
+13824,2023-02-28T20:29:10Z,6,[1.0],[0.0],
+109842,2023-02-28T16:40:11Z,2,[0.0],[0.0],
+34959,2023-02-28T15:20:35Z,10,[0.0],[-1.0],
+109132,2023-02-28T13:55:18Z,4,[0.0],[-1.0],
+109115,2023-02-28T13:26:57Z,9,[1.0],[0.0],
+13086,2023-02-28T01:24:38Z,1,[0.0],[0.0],
+109842,2023-02-27T23:20:54Z,1,[0.0],[0.0],
+108917,2023-02-27T17:02:57Z,2,[0.0],[0.0],
+55987,2023-02-27T16:02:00Z,9,[0.0],[-1.0],
+109116,2023-02-27T01:34:51Z,2,[0.0],[-1.0],
+84880,2023-02-26T22:57:14Z,2,[0.0],[-1.0],
+108522,2023-02-26T21:14:16Z,1,[5.0],[5.0],
+961,2023-02-26T16:50:47Z,9,[0.0],[0.0],
+109115,2023-02-26T15:16:08Z,8,[1.0],[0.0],
+79461,2023-02-26T14:58:36Z,2,[0.0],[0.0],
+37520,2023-02-26T11:12:30Z,1,[0.0],[0.0],
+109391,2023-02-26T03:54:18Z,4,[0.0],[0.0],
+109132,2023-02-25T13:16:27Z,3,[1.0],[-1.0],
+109046,2023-02-24T21:37:59Z,3,[1.0],[-1.0],"After running a data regression, I found a statistical significance between GDP and minimum wage. However, that relationship was positive overall (which makes sense), which was different than our hypothesis (As the Gross Domestic Product (GDP) growth rate declines, it is more likely that there will be an increase in the federal minimum wage). I feel that if we had isolated the regression to a specific set of years that demonstrated our hypothesis, it would have been correct. Given my data analysis combined with the lack of time associated with this prediction, I am decreasing the probability to 1%."
+109407,2023-02-24T19:42:57Z,3,[0.0],[0.0],"Legislation raising the US federal minimum wage from $7.25 an hour will not become law before March 1st, 2023, for the reason that while in the past, legislation has been passed to raise the minimum wage, in the US, those were done under a politically united congress with both the house and senate having the same majority ruling party. With the past midterms, the house is now controlled by the Republicans and the senate, the democrats. Most likely, the bill would not pass the house in time for March 1st. Additionally, with the house majority leader Kevin Mcarthy only winning his speakership by a small margin of votes, he is at the expense of the republican party, with members from the party heavily influencing which bills will end up seeing the house floor for voting, which is why I have kept my vote at 0%. With all this information holding true for another week, this upholds the prediction as we get closer to March 1st. With the deadline approaching in less than one week, it would not be very plausible that the bill would be passed or introduced. With recent commotion among the republican party, such as Mitt Romney calling out Margie Taylor Green and George Santos, I find it hard to believe that the party would come together to pass a bill on minimum wage. This issue is typically not favored by the party in general, so it is unlikely that this will even see the light of day in the republican held House. However, following the running of the regression table I conducted proved my initial hypothesis--If GDP decreases, the minimum wage will increase, to be false as the regression had a positive result. Yet since the GDP of the US is not decreasing, the minimum wage will most likely not be raised."
+56974,2023-02-24T15:07:15Z,5,[0.0],[-1.0],
+106866,2023-02-24T07:35:22Z,3,[0.0],[-1.0],
+109115,2023-02-23T23:17:51Z,7,[1.0],[0.0],
+108091,2023-02-23T07:51:50Z,3,[0.0],[0.0],
+109697,2023-02-23T02:22:07Z,1,[0.0],[0.0],"No way the GOP house votes for this, unless part of some huge omnibus must pass package. But given there are only 8 more days, seems very unlikely."
+961,2023-02-23T00:13:26Z,8,[0.0],[0.0],
+109402,2023-02-22T21:43:00Z,3,[0.0],[-2.0],"The observed data shows that while GDP is negatively correlated with an increase in minimum wage, it is also true that minimum wage is mostly likely to increase when there is a majority Democratic House of Representatives. At the moment, there are two session days left in February and a House that is primarily Republican. While things like stimulus packages have been dispersed and there is evidence of a recession, we can reasonably predict that there will not be an increase in federal minimum wage by March 1."
+109380,2023-02-22T21:12:37Z,3,[1.0],[0.0],"There is a 0% chance that legislation raising the US federal minimum age from $7.25 will become law before 1 March 2023. I collected data from the Federal Reserve Bank of St. Louis on the history of the United States’ Gross Domestic Product (GDP) and data from the Princeton University Library on the number of Democrats in the House of Representatives to run a regression with data on increases in federal minimum wage from the Federal Reserve Bank of St. Louis. After running the regression, I found a statistically significant result with 95% confidence between GDP and federal minimum wage. The coefficient for this relationship was positive, indicating that as GDP increases, the likelihood of an increase in federal minimum wage rises. The regression proved my original hypothesis–– if GDP decreases, then the likelihood of federal minimum wage increasing rises–– wrong. Since the GDP has been increasing, there likely will be an increase in federal minimum wage eventually, but as the bill to do so has still only been introduced, with no further progress in Congress, and March 1st is less than one week away, it is highly improbable that the legislation will pass given the timeframe."
+109391,2023-02-22T19:51:38Z,3,[0.0],[-1.0],
+109138,2023-02-22T19:20:38Z,8,[0.0],[0.0],
+25141,2023-02-22T18:02:37Z,2,[0.0],[0.0],
+109763,2023-02-22T14:48:33Z,1,[0.0],[0.0],
+98842,2023-02-22T14:06:36Z,2,[0.0],[-35.0],
+109115,2023-02-22T13:36:15Z,6,[1.0],[0.0],
+109288,2023-02-21T22:01:37Z,3,[1.0],[-2.0]
+109132,2023-02-21T18:58:34Z,2,[2.0],[-1.0],
+46762,2023-02-21T04:51:32Z,1,[0.0],[0.0],
+109138,2023-02-21T01:26:10Z,7,[0.0],[-1.0],only two days left in session for U.S. congress before this question resolves - moving to 0% and comfortable congress will not pass this legislation and send to the president in the next 8 days based simply on schedules and priorities.
+109115,2023-02-20T17:26:23Z,5,[1.0],[-4.0],"Lowered percentage again because there are only 8 days until 1 March and there are no indications on the Senate or House schedule of a vote on any of the bills to increase min wage. At this point it would have to be an emergency vote to get it into law before 1 March, which does not seem likely. Also, there currently is not any big new stories or public push for raising min wage."
+108836,2023-02-19T14:19:41Z,3,[0.0],[0.0],
+38279,2023-02-19T10:36:20Z,1,[10.0],[10.0],
+691,2023-02-18T19:51:38Z,10,[0.0],[0.0],"A plethora of portly and pious plutocrats are the proprietors of the US Congress. Whichever party they own, they are united in the belief that a key teaching of their favourite deity is that people become lazy if you give them access to money they haven't had the wit to inherit, and that the inevitable result of such coddling is the collapse of civilization. We should all be grateful for their steadfastness in preventing this outcome."
+109391,2023-02-18T19:34:24Z,2,[1.0],[-7.0],
+109407,2023-02-18T03:43:16Z,2,[0.0],[0.0],"Legislation raising the US federal minimum wage from $7.25 an hour will not become law before March 1st, 2023, for the reason that while in the past, legislation has been passed to raise the minimum wage, in the US, those were done under a politically united congress with both the house and senate having the same majority ruling party. With the past midterms, the house is now controlled by the Republicans and the senate, the democrats. Most likely, the bill would not pass the house in time for March 1st. Additionally, with the house majority leader Kevin Mcarthyonly winning his speakership by a small margin of votes, he is at the expense of the republican party, with members from the party heavily influencing which bills will end up seeing the house floor for voting. Which is why I have kept my vote at 0%"
+109046,2023-02-17T20:16:23Z,2,[2.0],[-4.0],"Given my last forecast, I decided to decrease the likelihood due to the timeline. Congress only has 2 days in session before the date of the prediction, which makes this nearly impossible. Given the fact that this isn't an initiative on the floor right now in combination with other factors we studied this week like GDP and Congress control, I have lowered my chances to 2%. Also, there is no buzz in the news that would indicate an increase in the federal minimum wage."
+109402,2023-02-17T01:33:02Z,2,[2.0],[-8.0],"In checking various news sources, I have seen multiple reports of individual states increasing or talking of increasing their minimum wage. As times have gotten tougher for many families, states have made efforts to increase their minimum wages. That said, there have been no articles talking of any changes to the federal minimum wage and since there are only two weeks left in February, two of which are in session, there is an extremely low chance this would be passed in the House unless someone brought it to the floor randomly."
+961,2023-02-16T13:30:12Z,7,[0.0],[0.0],
+34959,2023-02-16T04:38:02Z,9,[1.0],[-2.0],
+109138,2023-02-16T03:17:20Z,6,[1.0],[0.0],
+109730,2023-02-15T21:39:18Z,1,[1.0],[1.0],There is only 2 weeks until the deadline and few bills get started and signed that quickly. Additionally this is not a Republican platform and that party is more concerned with other matters.
+21865,2023-02-15T21:33:14Z,2,[0.0],[-10.0],
+109380,2023-02-15T21:31:59Z,2,[1.0],[-1.0],"There is a 1% chance that legislation raising the US federal minimum wage from $7.25 will become law before 1 March 2023. March 1st is only two weeks away, and this short time frame makes it seem unlikely that the federal minimum wage will increase before this date, though an increase in federal minimum wage might come eventually. Utilizing Bayesian updating to change my prior beliefs based on new information, I tried finding recent news articles regarding legislation to increase the federal minimum wage, and the only articles that I could find (from reputable sources) related to state minimum wage. According to the Federal Reserve Bank of St. Louis’ 2022 data on federal minimum wage, there is a relationship between Gross Domestic Product (GDP) and federal minimum wage: for example, from 2007-2009, there was a decrease in GDP and an increase in federal minimum wage. The Bureau of Economic Analysis reports that in the fourth quarter of 2022, there was a steady increase in GDP, as there has been for a number of years, and if we apply the hypothesized relationship between GDP and federal minimum wage to this forecast, it seems that legislation raising the US federal minimum wage from $7.25 an hour will not occur as it (1) might not be deemed a priority in Congress in the given timespan and (2) there is no decrease in GDP."
+96828,2023-02-15T13:53:04Z,8,[0.0],[-11.0],
+102430,2023-02-15T02:43:06Z,3,[0.0],[-2.0],
+109288,2023-02-14T23:32:44Z,2,[3.0],[-2.0],"I think that there is a 3% chance that legislation raising the US federal minimum wage from $7.25 will become law before March 1st, 2023. While the US is headed in the direction of a recession, which is typically an indicator that the federal minimum wage will increase, recent data shows that the economy has not reached that point yet. A recession occurs when there are at least two consecutive quarters of negative GDP. The most recent report of the GDP was +2.9% which is graded ""good"", meaning that the US economy grew at an annualized rate of 2.9% in the fourth and last quarter of 2022. This leads me to believe that the US will not be entering into a recession for at least a few months since this outcome would require the next two quarters to have negative GDP. The fact that the US economy has not experienced even one quarter with a negative GDP this year makes it very unlikely that Congress's first priority will be to raise the federal minimum wage in the next two weeks. In addition, in the current 118th Congress, Republicans hold 222 seats in the US House of Representatives and Democrats hold 212 seats. The last time that federal minimum wage increased was in 2009 when Democrats held more seats than Republicans. Given that Republicans have more control over the House this year, there is a very small chance that they will pass legislation raising the federal minimum wage by March 1st, 2023."
+109115,2023-02-13T17:12:49Z,4,[5.0],[-2.0],Lowered percentage as we get closer to March without any indications of a vote.
+109391,2023-02-12T19:45:37Z,1,[8.0],[8.0],
+56974,2023-02-12T16:49:26Z,4,[1.0],[-5.0],
+641,2023-02-11T15:13:27Z,3,[0.0],[-1.0],
+109407,2023-02-10T23:54:35Z,1,[0.0],[0.0],"The US Federal Minimum wage will not rise from $7.25 an hour before March 1st, 2023. The reason is that while in the past, legislation has been passed to raise the minimum wage, in the US, those were done under a politically united congress with both the house and senate having the same majority ruling party. With the past midterms, the house is now controlled by the Republicans and the House the democrats. Most likely, the bill would not pass the house in time for March 1st."
+109046,2023-02-10T20:00:28Z,1,[6.0],[6.0],"Firstly, the timeline in which the legislation would need to be passed is widely unrealistic. Also, the divided government plays a role in the likelihood of legislation raising the US federal minimum wage, as a Republican-controlled House is problematic for those that would like to see the minimum wage raised. Also, the minimum wage hasn't increased since 2009 (because of the 2008 Recession), and though there are talks about the economic downturn, I don't think there is the level of urgency needed (yet) for a raise in the minimum wage. I chose a 6% chance because while I find it highly improbable, there are unknowns such as ""What bills are going to be brought to the floor?"" or ""Will that bill be proposed within the time frame?"". Overall, while signs could point to yes for an increase in the minimum wage at some point, I don't find it realistic within the timeframe."
+109402,2023-02-10T19:14:27Z,1,[10.0],[10.0],"I think there is a 10% chance of the federal minimum wage being raised from $7.25 by March 1, 2023. Based on current discussions in the news, it has been evident that raising the minimum wage is not a legislative priority for most Members of the House. That said, we are unsure of what will be brought to the House floor in the next month and thus cannot say there is no chance of this happening. Historically, the minimum wage has been raised during times of economic uncertainty, which the US has certainly seen recently, suggesting the minimum wage may be raised soon, it's just highly unlikely that ""soon"" means by March 1."
+97185,2023-02-10T16:45:30Z,5,[0.0],[-1.0],
+109288,2023-02-09T22:01:37Z,1,[5.0],[5.0],"I think that there is a 5% chance that legislation raising the US federal minimum wage from $7.25 an hour will become law before March 1st, 2023 given the current economic state of the US. The last time there was an increase in minimum wage was right after the 2008 recession ended, suggesting that an increase occurs at the end of economic recessions. At this point, even though expected to happen this year, the US is not in an economic recession, which leads me to believe that there is a very small change that an increase will occur before March 1st, 2023."
+109380,2023-02-09T21:58:41Z,1,[2.0],[2.0],"There is a 2% chance that legislation raising the US federal minimum wage from $7.25 will become law before 1 March 2023 because it is too close to March 1st to make it possible. One of the most current bills regarding raising federal minimum wage is the Living Wage Now Act, and it has only been introduced to Congress and still has yet to be passed in both the House of Representatives and the Senate, then signed by the President before becoming a law, all of which is unlikely to be done in three weeks (Congress.gov). Further, looking at the Democrat majority in Senate (by a sliver) and Republican majority in the House, it is unlikely that there would be any massive strides toward this legislation, especially since Republicans have rejected previous minimum wage hikes mentioned above in the question being forecasted (The Hill)."
+34959,2023-02-09T15:13:27Z,8,[3.0],[-2.0],
+25141,2023-02-08T21:07:18Z,1,[0.0],[0.0],
+109138,2023-02-07T01:18:38Z,5,[1.0],[0.0],
+108836,2023-02-06T18:41:13Z,2,[0.0],[0.0],
+80475,2023-02-05T23:09:19Z,2,[0.0],[-8.0],"I can't believe I didn't update this. No, of course not. Republicans control the House."
+108752,2023-02-05T17:53:56Z,1,[0.0],[0.0],Too little time and the Republicans will make it impossible.
+86607,2023-02-05T15:34:23Z,13,[0.0],[0.0],
+14432,2023-02-05T10:16:40Z,2,[0.0],[0.0],
+109612,2023-02-04T16:35:08Z,1,[2.0],[2.0],
+62255,2023-02-03T17:53:35Z,6,[4.0],[-4.0],
+13824,2023-02-03T00:02:41Z,5,[1.0],[0.0],
+56974,2023-02-01T13:58:48Z,3,[6.0],[-9.0],
+961,2023-02-01T13:33:57Z,6,[0.0],[0.0],
+109138,2023-01-31T22:50:14Z,4,[1.0],[0.0],
+34959,2023-01-31T16:39:13Z,7,[5.0],[-2.0],
+109115,2023-01-31T14:30:09Z,3,[7.0],[-8.0],"Looking at the bill tracker a new bill was introduced on 25 Jan but there is not any details on the bill other than ""A legislative analyst in the Congressional Research Service will begin analyzing this legislation after text becomes available."" Also looking at the legislative calendar, there is a meeting of the workforce committee today (1/31) however, their agenda is ""Organizational meeting to introduce new Members, consider and adopt the Rules of the Committee, report and approve Subcommittee Chairs, Ranking Members, and assignments, and present the Committee Oversight Plan and Vice Chair."" It appears they are getting organized so there most likely will not be a lot of progress in the next month."
+109116,2023-01-30T23:53:53Z,1,[1.0],[1.0],
+534,2023-01-30T18:51:09Z,3,[0.0],[-5.0],
+49943,2023-01-28T08:33:05Z,1,[1.0],[1.0],
+109115,2023-01-27T16:22:19Z,2,[15.0],[-15.0],I lowered the probability because March is just over a month away and there are not any indications that this will come up for a vote.
+87175,2023-01-26T19:23:32Z,3,[0.0],[-10.0],
+108638,2023-01-26T15:35:43Z,2,[0.0],[0.0],
+108091,2023-01-25T10:17:09Z,2,[0.0],[-5.0],
+109138,2023-01-23T23:37:43Z,3,[1.0],[0.0],
+13824,2023-01-23T23:10:57Z,4,[1.0],[-4.0],
+99780,2023-01-23T20:54:41Z,13,[0.0],[0.0],
+86607,2023-01-23T18:12:21Z,12,[0.0],[0.0],
+1333,2023-01-23T09:28:35Z,42,[0.0],[0.0],
+14432,2023-01-21T21:13:48Z,1,[0.0],[0.0],
+88452,2023-01-20T18:10:45Z,8,[0.0],[-6.0],.
+108638,2023-01-19T01:19:53Z,1,[0.0],[0.0],"Not enough time left, and too much chaos in Congress (specifically the House of Reps)."
+97185,2023-01-17T20:14:03Z,4,[1.0],[-1.0],
+88452,2023-01-16T00:32:38Z,7,[6.0],[-8.0],.
+100273,2023-01-16T00:04:33Z,3,[0.0],[-2.0],All in
+102121,2023-01-14T13:21:18Z,1,[0.0],[0.0],
+106866,2023-01-13T16:18:42Z,2,[1.0],[0.0],
+55987,2023-01-10T16:12:31Z,8,[1.0],[0.0],
+109138,2023-01-10T01:15:31Z,2,[1.0],[-2.0],"The challenge of narrow margins in the house of representatives and divisions in the Republican caucus makes it very unlikely Congress will take up or pass any legislation that is not critical. Congress is also likely to struggle to pass essential legislation such as the debt ceiling, making it very unlikely they will take up this issue before 1 MAR 2023."
+107770,2023-01-09T14:18:28Z,1,[9.0],[9.0],
+107775,2023-01-09T14:07:49Z,1,[14.0],[14.0],
+88452,2023-01-08T09:43:43Z,6,[14.0],[-20.0],.
+83,2023-01-08T07:06:57Z,1,[0.0],[0.0],GOP now controls the Senate + passage of time.
+691,2023-01-07T13:37:16Z,9,[0.0],[0.0],
+109115,2023-01-06T19:19:35Z,1,[30.0],[30.0],"The article provided is from March 2021 and as far as I can see this has not come up for a vote again. I don't see any indications in the media that this is a short-term goal. Also, with new politicians in office, I anticipate things will move slower as they learn the ropes."
+13824,2023-01-06T17:24:16Z,3,[5.0],[-35.0],
+79461,2023-01-06T04:06:18Z,1,[0.0],[0.0],"Republicans aren't even able to elect a speaker, so believing they would enact legislation that goes against their own wishes seems almost impossible."
+107093,2023-01-05T12:36:29Z,1,[1.0],[1.0],With very narrow Democratic senate control and a majority Republican house it is unlikely that such a major piece of legislation would be enacted before March.
+34959,2023-01-05T05:25:42Z,6,[7.0],[-2.0],
+109138,2023-01-04T19:56:02Z,1,[3.0],[3.0],"With the election of a republican majority in the house of representatives, the likelihood of legislation moving forward to raise the minimum wage will decrease to almost zero during this congressional session. Congress will likely struggle to pass any significant legislation before January 2025 because of the sharp partisan divides, the realities of a divided government, and the narrow margins in both houses of congress that will constrain moderate members' ability to advance legislation and increase the ability of members on the far right and left to obstruct legislation they disagree with."
+109132,2023-01-04T15:55:08Z,1,[3.0],[3.0],"In the short period of time between now (January 4) and March 1 and the other priorities facing Congress, I think it's a low probability that Congress will move on a proposal to increase the federal minimum wage. While Congress can move quickly (at times), there's nothing forcing action on this issue by this deadline."
+1333,2023-01-04T14:25:45Z,41,[0.0],[0.0],
+25601,2023-01-04T13:12:30Z,2,[5.0],[-15.0],
+88452,2023-01-03T13:06:24Z,5,[34.0],[-30.0],.
+641,2023-01-01T17:24:10Z,2,[1.0],[-3.0],
+108917,2022-12-30T00:47:16Z,1,[0.0],[0.0],
+13824,2022-12-29T22:24:26Z,2,[40.0],[-10.0],
+108797,2022-12-28T14:20:57Z,1,[5.0],[5.0],
+108836,2022-12-26T14:09:29Z,1,[0.0],[0.0],"The federal minimum wage is $7.25 an hour and has not changed since 2009. Some states however will increase minimum wage as of Jan 1 2023. https://www.nelp.org/publication/raises-from-coast-to-coast-in-2023/Judging by the US political situation as mentioned by the other forecasters, the increase on federal level seems unlikely."
+95784,2022-12-26T13:46:26Z,3,[0.0],[0.0],
+70711,2022-12-22T03:49:17Z,2,[0.0],[-60.0],
+108684,2022-12-21T04:50:25Z,1,[0.0],[0.0],
+99780,2022-12-20T00:33:23Z,12,[0.0],[-3.0],
+108223,2022-12-19T04:55:28Z,1,[10.0],[10.0],
+641,2022-12-17T20:53:21Z,1,[4.0],[4.0],"No votes until the next session when the Republicans have the House majority, if I understand correctly."
+107392,2022-12-15T02:09:21Z,3,[0.0],[-1.0],
+13824,2022-12-12T21:40:29Z,1,[50.0],[50.0],
+961,2022-12-12T14:43:57Z,5,[0.0],[0.0],
+691,2022-12-10T20:02:33Z,8,[0.0],[0.0],
+99780,2022-12-06T09:33:07Z,11,[3.0],[0.0],
+21865,2022-12-06T06:57:49Z,1,[10.0],[10.0],
+100273,2022-12-05T01:41:36Z,2,[2.0],[-22.0],What
+1333,2022-12-04T08:07:54Z,40,[0.0],[0.0],
+43988,2022-12-03T04:42:28Z,1,[40.0],[40.0]
+54140,2022-12-02T21:59:06Z,1,[0.0],[0.0],
+107799,2022-12-02T15:08:58Z,1,[0.0],[0.0],Given that Republican's control the house of representatives I find this very basically impossible.
+105089,2022-12-01T23:07:23Z,5,[0.0],[-1.0],
+108489,2022-11-30T22:28:37Z,1,[0.0],[0.0],
+105089,2022-11-30T19:32:25Z,4,[1.0],[-4.0],
+691,2022-11-30T18:11:15Z,7,[0.0],[-1.0],In the US we show our deep and abiding respect for hard work by paying workers less than they need to live on and then taxing those earnings at a higher rate than those who have unearned income or large stock and bond holdings or fabulous inherited wealth.
+97185,2022-11-30T17:48:51Z,3,[2.0],[-2.0],
+14208,2022-11-30T16:36:40Z,1,[0.0],[0.0],no it’s going to be 8 dollars in june
+104025,2022-11-29T18:54:59Z,2,[4.0],[-1.0],https://www.msn.com/en-ph/news/national/dbm-raising-minimum-wage-of-gov-e2-80-99t-workers-requires-legislation/ar-AA14uYxy
+961,2022-11-26T14:01:37Z,4,[0.0],[0.0],
+961,2022-11-23T21:08:29Z,3,[0.0],[0.0],
+55987,2022-11-23T16:06:16Z,7,[1.0],[-17.0],
+105089,2022-11-23T05:29:22Z,3,[5.0],[-10.0],
+961,2022-11-20T18:12:28Z,2,[0.0],[-1.0],
+95784,2022-11-18T19:08:42Z,2,[0.0],[-10.0],
+961,2022-11-17T01:24:49Z,1,[1.0],[1.0],
+4531,2022-11-14T22:56:47Z,2,[4.0],[2.0],
+691,2022-11-13T17:56:29Z,6,[1.0],[0.0],
+108179,2022-11-10T18:25:45Z,1,[25.0],[25.0],
+88452,2022-11-10T09:02:34Z,4,[64.0],[13.0],Probably no way around a measure like that to keep things going.
+86607,2022-11-09T06:18:53Z,11,[0.0],[-1.0],
+1333,2022-11-08T08:14:33Z,39,[0.0],[-1.0],
+99780,2022-11-06T05:44:29Z,10,[3.0],[-1.0],
+108091,2022-11-05T13:48:22Z,1,[5.0],[5.0],
+97185,2022-11-04T13:47:54Z,2,[4.0],[-1.0],
+87175,2022-10-24T10:37:15Z,2,[10.0],[-50.0],
+107718,2022-10-23T20:07:42Z,3,[0.0],[-100.0],
+1333,2022-10-22T23:21:30Z,38,[1.0],[1.0],
+86607,2022-10-22T13:41:45Z,10,[1.0],[0.0],
+107718,2022-10-21T09:54:56Z,2,[100.0],[100.0],
+105089,2022-10-20T18:46:26Z,2,[15.0],[5.0],
+96828,2022-10-18T23:07:12Z,7,[11.0],[0.0],
+1333,2022-10-16T11:43:32Z,37,[0.0],[-1.0],
+99780,2022-10-09T09:28:40Z,9,[4.0],[-1.0],
+1333,2022-10-08T15:23:11Z,36,[1.0],[-1.0],
+37555,2022-10-08T15:15:13Z,1,[100.0],[100.0],
+107361,2022-10-07T18:40:39Z,1,[0.0],[0.0],
+691,2022-10-07T13:31:54Z,5,[1.0],[0.0],"Giving money to the people who work hard for a company exacerbates inflation. Giving money to the people who own that company but don't work there does not. Nobody can explain this, but everybody knows it, which is why the US taxes earned income at a higher rate than the other sort. We are all serenely confident that this is unrelated to campaign contributions, though."
+67500,2022-10-07T03:20:33Z,2,[2.0],[0.0],
+107182,2022-10-05T17:37:47Z,3,[60.0],[50.0],
+34959,2022-10-03T15:42:00Z,5,[9.0],[-2.0],
+107718,2022-10-02T19:27:27Z,1,[0.0],[0.0],
+107392,2022-09-29T00:52:38Z,2,[1.0],[1.0],
+1333,2022-09-23T21:35:51Z,35,[2.0],[1.0],
+34959,2022-09-23T07:21:26Z,4,[11.0],[-4.0],
+13657,2022-09-22T07:15:11Z,2,[0.0],[-1.0],
+107558,2022-09-21T19:33:02Z,1,[0.0],[0.0],Good chance Republicans take the House.
+99780,2022-09-21T07:03:19Z,8,[5.0],[0.0],
+55987,2022-09-20T01:04:19Z,6,[18.0],[17.0],
+4531,2022-09-18T17:25:50Z,1,[2.0],[2.0],
+105089,2022-09-17T14:16:14Z,1,[10.0],[10.0],
+1333,2022-09-17T11:49:40Z,34,[1.0],[1.0],
+80475,2022-09-14T04:08:07Z,1,[8.0],[8.0]
+534,2022-09-12T17:28:20Z,2,[5.0],[-15.0],
+107182,2022-09-12T17:26:32Z,2,[10.0],[0.0],
+1333,2022-09-12T09:39:59Z,33,[0.0],[-1.0],
+107392,2022-09-11T00:21:26Z,1,[0.0],[0.0],
+106866,2022-09-05T13:51:58Z,1,[1.0],[1.0],@cdob63 comment https://www.gjopen.com/comments/1499427 made my day. Absolutely agree to that.
+62255,2022-08-30T16:04:02Z,5,[8.0],[0.0],
+24494,2022-08-30T03:16:04Z,1,[0.0],[0.0],"1. Employers are increasing wages without a change in the law, due to worker shortages. Source: https://www.cnbc.com/2021/05/22/wages-rise-at-the-fastest-pace-in-years-firms-profits-could-take-a-hit.html This decreases the urgency for an increase in the federal minimum wage. Fun fact: if employers paid workers the same ""$5 a day"" wage that Henry Ford paid in 1914, workers would earn $18.51/hour for an 8-hour day."
+691,2022-08-29T15:28:22Z,4,[1.0],[0.0],"Everybody knows that rewarding people to work is a tenet of socialism, while rewarding people to stay home and collect dividends is what makes the economy grow. That's one reason why the tax on earned income is higher than the one on unearned income. It just makes sense; ask any Republican Senator or wealthy Democrat."
+107182,2022-08-28T11:23:38Z,1,[10.0],[10.0],
+49937,2022-08-22T03:41:01Z,2,[2.0],[-1.0],
+25601,2022-08-20T20:25:37Z,1,[20.0],[20.0],
+422,2022-08-16T17:52:16Z,4,[0.0],[-10.0],
+99780,2022-08-15T23:31:43Z,7,[5.0],[-5.0],
+62255,2022-08-15T22:18:38Z,4,[8.0],[-7.0],
+62255,2022-08-15T22:06:31Z,3,[15.0],[0.0],
+55987,2022-08-15T14:26:32Z,5,[1.0],[-8.0],
+86607,2022-08-14T23:48:47Z,9,[1.0],[-1.0],"This would require a Dem house majority, filibuster proof Senate majority or a Senate willing to abolish the filibuster, and prioritization by leadership within the first months of the next Congress. I.e., it ain't happening"
+1333,2022-08-14T13:18:38Z,32,[1.0],[1.0],
+106897,2022-08-11T21:40:43Z,4,[50.0],[-25.0],
+107055,2022-08-10T20:00:28Z,1,[10.0],[10.0],inflation vro
+106642,2022-08-07T01:42:19Z,1,[5.0],[5.0],
+422,2022-08-01T15:22:49Z,3,[10.0],[-25.0],
+107019,2022-07-31T22:54:20Z,1,[3.0],[3.0],"While Biden spoke in support of raising the federal minimum wage back in 2021, as far as I can tell, his primary focus now is to bring down inflation. Giving companies more of a reason to raise prices is at the very bottom of his to-do list. A recession on the horizon and uncertainty in how the Dems will perform in the midterms only hurts the chances further."
+105371,2022-07-30T17:33:13Z,2,[7.0],[-3.0],
+106897,2022-07-27T01:11:54Z,3,[75.0],[-15.0],
+97312,2022-07-25T18:47:56Z,3,[1.0],[-4.0],
+106952,2022-07-21T22:31:07Z,1,[25.0],[25.0],
+34959,2022-07-19T13:06:28Z,3,[15.0],[-5.0],
+96828,2022-07-16T20:28:59Z,6,[11.0],[-1.0],"@cdob63 Does a recession with high inflation act as an incentive to increase or to decrease wages? Looking for anybody, really, to chime in. Thanks."
+422,2022-07-14T16:22:01Z,2,[35.0],[-53.0],
+99780,2022-07-14T04:41:09Z,6,[10.0],[-2.0],
+106897,2022-07-13T22:56:21Z,2,[90.0],[-5.0],
+106897,2022-07-13T22:56:07Z,1,[95.0],[95.0],
+55987,2022-07-13T13:55:05Z,4,[9.0],[3.0],
+86607,2022-07-12T20:55:52Z,8,[2.0],[0.0],
+106885,2022-07-12T08:24:15Z,1,[3.0],[3.0],
+67500,2022-07-06T17:23:32Z,1,[2.0],[2.0],
+102430,2022-07-05T21:20:12Z,2,[2.0],[-8.0],
+105457,2022-07-05T10:42:48Z,2,[8.0],[-38.0],
+691,2022-06-30T18:19:41Z,3,[1.0],[-1.0],"Barring a cataclysmic surprise in November, the Ds will not have the votes they need to do anything like this. The putative leaders of my party are, alas, deeply devoted to keeping actual workers in what the current pretend Republicans believe to be their place."
+102047,2022-06-26T05:26:29Z,3,[1.0],[-87.0],
+93,2022-06-26T02:45:59Z,1,[1.0],[1.0],
+104738,2022-06-24T20:22:30Z,2,[10.0],[7.0],
+62538,2022-06-21T02:28:31Z,1,[1.0],[1.0],"I don't think the Democrats would be able to get this past the Republicans. I could see the Republicans doing it to take the wind out of the Democrats' sail, should the Republicans win. However, I don't think the Republicans would be very likely to do this at all."
+96828,2022-06-17T12:22:44Z,5,[12.0],[2.0],
+100664,2022-06-16T21:35:53Z,1,[0.0],[0.0],
+1333,2022-06-12T21:48:45Z,31,[0.0],[-2.0],
+86607,2022-06-10T13:17:18Z,7,[2.0],[-1.0],
+1333,2022-06-09T14:45:22Z,30,[2.0],[-1.0],
+88452,2022-06-07T17:26:44Z,3,[51.0],[-16.0],
+206,2022-06-06T19:21:44Z,2,[10.0],[-5.0],
+1333,2022-06-06T16:23:42Z,29,[3.0],[-1.0],
+1333,2022-06-02T13:55:53Z,28,[4.0],[1.0],
+99780,2022-06-01T07:54:27Z,5,[12.0],[-3.0],
+106523,2022-05-28T13:25:17Z,1,[3.0],[3.0],
+1333,2022-05-26T09:58:07Z,27,[3.0],[1.0],
+1333,2022-05-24T18:07:28Z,26,[2.0],[1.0],
+1333,2022-05-21T13:03:11Z,25,[1.0],[1.0],
+106120,2022-05-20T18:11:29Z,2,[7.0],[-8.0],"Absolute gridlock, abortion and baby formula will be the issues not money"
+88452,2022-05-16T18:33:54Z,2,[67.0],[-33.0],
+691,2022-05-14T14:21:34Z,2,[2.0],[-3.0],
+83393,2022-05-13T00:22:48Z,1,[5.0],[5.0],
+34959,2022-05-07T04:21:06Z,2,[20.0],[-13.0],
+1333,2022-05-06T16:19:49Z,24,[0.0],[0.0],
+1333,2022-05-05T22:09:03Z,23,[0.0],[-79.0],
+1333,2022-05-05T22:08:41Z,22,[79.0],[-1.0],
+1333,2022-05-04T15:20:18Z,21,[80.0],[-1.0],
+1333,2022-05-04T13:49:47Z,20,[81.0],[-1.0],
+106013,2022-05-03T12:44:08Z,1,[60.0],[60.0],
+99780,2022-05-02T04:41:46Z,4,[15.0],[-3.0],
+1333,2022-05-01T19:52:28Z,19,[82.0],[-1.0],
+96828,2022-04-30T11:02:16Z,4,[10.0],[-7.0],
+1333,2022-04-28T20:52:03Z,18,[83.0],[-1.0],
+1333,2022-04-28T14:32:07Z,17,[84.0],[-1.0],
+88848,2022-04-28T07:19:42Z,2,[22.0],[-34.0],
+86607,2022-04-26T18:29:04Z,6,[3.0],[-1.0],
+105371,2022-04-26T04:31:23Z,1,[10.0],[10.0],
+95548,2022-04-25T21:20:12Z,2,[8.0],[-1.0],
+106180,2022-04-25T17:19:17Z,1,[0.0],[0.0],I feel like the Government should allow an increase in the minimum work wage to 15 because it will give a reason to people to go back to work and have the economy get back to how it was before quarantine hit.
+1333,2022-04-25T13:44:15Z,16,[85.0],[-1.0],
+1333,2022-04-23T18:29:20Z,15,[86.0],[-1.0],
+87175,2022-04-23T11:44:04Z,1,[60.0],[60.0],
+103878,2022-04-23T11:02:19Z,4,[15.0],[-7.0],
+1333,2022-04-23T09:39:55Z,14,[87.0],[-1.0],
+106146,2022-04-22T17:03:54Z,1,[5.0],[5.0],"Although there may be a possibility that the minimum wage is raised before the end of Biden's term, I am doubtful that this will be achieved before 1 March 2023. It is in Biden's agenda, but in 2019, multiple committees refused to vote, and the bill died. There was a Raise the Wage Act of 2021 introduced in early 2021, but it was referred to the House Committee on Education and Labor on January 28, 2021, and still hasn't made any progress since then. If there is a federal raise, I don't think it likely it would occur before 1 March 2023. A lot more work will need to be done. Employees might need to depend more on individual employers or states raising the minimum wage rather than the government."
+55987,2022-04-22T14:48:07Z,3,[6.0],[-2.0],
+32258,2022-04-21T22:28:43Z,1,[0.0],[0.0],Trends on all sorts of issues are going local whether states or cities so I expect nothing Federal on this either.
+97312,2022-04-21T18:42:59Z,2,[5.0],[0.0],
+1333,2022-04-21T18:05:28Z,13,[88.0],[-1.0],
+1333,2022-04-21T18:05:13Z,12,[89.0],[-1.0],
+1333,2022-04-21T08:51:50Z,11,[90.0],[-1.0],
+106120,2022-04-21T01:37:26Z,1,[15.0],[15.0],
+1333,2022-04-20T20:38:36Z,10,[91.0],[-1.0],
+56974,2022-04-20T15:53:00Z,2,[15.0],[5.0],
+99780,2022-04-19T22:59:54Z,3,[18.0],[-1.0],
+56974,2022-04-19T17:39:00Z,1,[10.0],[10.0],
+1333,2022-04-19T12:27:56Z,9,[92.0],[-1.0],
+1333,2022-04-18T21:50:20Z,8,[93.0],[-1.0],
+49937,2022-04-18T05:27:21Z,1,[3.0],[3.0],Its been a long time (2009) since the Federal minimum wage increased. I suspect they'll leave this to states and cities to sort.
+84956,2022-04-17T17:25:25Z,1,[70.0],[70.0],
+1333,2022-04-17T16:16:26Z,7,[94.0],[-1.0],
+106085,2022-04-16T18:01:39Z,1,[30.0],[30.0],
+1333,2022-04-16T15:10:18Z,6,[95.0],[-1.0],
+101512,2022-04-16T03:12:12Z,1,[27.0],[27.0],
+1333,2022-04-15T19:05:33Z,5,[96.0],[-1.0],
+96828,2022-04-15T12:32:57Z,3,[17.0],[-1.0],
+99780,2022-04-15T11:16:11Z,2,[19.0],[-11.0],
+1333,2022-04-14T22:59:23Z,4,[97.0],[-1.0],
+86607,2022-04-14T19:25:06Z,5,[4.0],[-1.0],
+62255,2022-04-14T18:39:21Z,2,[15.0],[-33.0],
+104025,2022-04-14T12:40:54Z,1,[5.0],[5.0],"H.R.603 - Raise the Wage Act of 2021 was introduced Jan 2021 to raise the minimum wage over a period of several years - however, there has been zero movement on this bill after being referred to committe (per congressional website) - being that its been 15 months since bill was introducted and mid-term elections rapidly approaching (bias being that should republicans regain the house and/or senate this won't pass) - its a low probability that this will be passed in time"
+1333,2022-04-13T20:01:43Z,3,[98.0],[-1.0],
+97312,2022-04-13T18:41:06Z,1,[5.0],[5.0],
+103878,2022-04-13T16:24:58Z,3,[22.0],[-9.0],
+106048,2022-04-13T14:53:26Z,1,[0.0],[0.0],"My answer is no, there is zero probability of a minimum wage increase. Fortunately employers aren't waiting for the government to take action and those that can afford the living wage for their current and potential future employees are making changes in their compensation structures. There are small and medium businesses that cannot afford the living wage minimum of $15 per hour which results in the hesitancy of legislative mandates for this increase."
+56170,2022-04-13T13:54:40Z,2,[12.0],[-53.0],
+34815,2022-04-13T01:59:46Z,1,[0.0],[0.0],
+104738,2022-04-12T16:35:48Z,1,[3.0],[3.0],"1) This has not been agreed by the current Congress, despite the appeal in the current circumstances. 2) Expectations are currently that the next Congress will be more Republican. 3) If the Congress became more Democratic, it's unlikely to be filibuster-proof, and seems unlikely to be delivered in the short period between the new Congress and the end of February. 4) States minded to support this can and are taking their own action so the political 'upside' for increase-minded federal politicians in 'safe' seats is not as great as it may seem. 5) Continued inflation will make the current minimum risible but the easier pressure valve is at the State / territory level. 6) Even the executive order to impose a min wage of $15 p/h for federal contractors was immediately challenged so scope for presidential action looks limited too. https://www.mayerbrown.com/en/perspectives-events/publications/2022/02/minimum-wage-for-us-federal-contractors-raised-to-$15-on-january-30-immediately-challenged-by-several-states"
+96828,2022-04-12T10:53:18Z,2,[18.0],[-2.0],
+1333,2022-04-11T23:13:34Z,2,[99.0],[-1.0],
+534,2022-04-11T17:18:36Z,1,[20.0],[20.0],
+55987,2022-04-11T14:47:06Z,2,[8.0],[-1.0],
+34959,2022-04-11T08:46:35Z,1,[33.0],[33.0],
+50981,2022-04-10T15:00:52Z,1,[14.0],[14.0],
+103878,2022-04-10T13:37:06Z,2,[31.0],[-19.0],
+45594,2022-04-10T06:52:55Z,1,[20.0],[20.0],
+102430,2022-04-09T17:58:46Z,1,[10.0],[10.0],Highly unlikely unless dems hold on to both house and senate. If they do I will move this up.
+1667,2022-04-09T15:20:58Z,1,[2.0],[2.0],
+103878,2022-04-09T10:14:42Z,1,[50.0],[50.0],
+99780,2022-04-08T23:15:23Z,1,[30.0],[30.0],
+86784,2022-04-08T18:27:58Z,1,[5.0],[5.0],"First, the minimum wage was last increased in 2009 (https://www.dol.gov/agencies/whd/minimum-wage/history/chart). With no other information, one would guess based on the Lindy effect that we're halfway to the next increase. So we can expect to wait another 12+ years."
+56170,2022-04-08T16:37:54Z,1,[65.0],[65.0],
+22689,2022-04-08T16:05:27Z,1,[0.0],[0.0],
+55987,2022-04-08T14:43:50Z,1,[9.0],[9.0],"Honestly, I think this question is really asking ""what are the odds that the Democratic Party controls both chambers after the next election?"""
+104925,2022-04-08T13:44:39Z,1,[0.0],[0.0],This issue is too politicized to make change in a two-party system and I don't see politicians needing to move this with speed in the next year given the overall labor market.
+745,2022-04-08T02:33:32Z,1,[0.0],[0.0],There is no way Republicans let this happen
+100273,2022-04-08T01:30:06Z,1,[24.0],[24.0],Post election is possible.
+89134,2022-04-07T20:38:35Z,1,[100.0],[100.0],there is enough pressure from every direction to get it up over $7.25 and there are enough votes willing to call this 'their win' that it'll go somewhere; probably 8-8.50. The progressive caucus will have a break point on it and it might even yield some 'no's' but it'll still get through.
+691,2022-04-07T20:33:23Z,1,[5.0],[5.0],"One thing the conservatives among my fellow Republicans have always been terrified of is upward mobility. This comes from a zero-sum view of such matters--if minimum wage earners are getting more, that leaves less in the pot for my Rolexes (Rolices?) and the library I have to donate so my kid can get into the college of my choice."
+206,2022-04-07T20:13:46Z,1,[15.0],[15.0],Not with this Senate.
+97185,2022-04-07T19:42:21Z,1,[5.0],[5.0],dems are too dysfunctional to compromise amongst themselves and time is running out
+105981,2022-04-07T19:24:52Z,1,[100.0],[100.0],
+105979,2022-04-07T18:27:34Z,1,[31.0],[31.0],
+105933,2022-04-07T18:17:16Z,1,[20.0],[20.0],
+105901,2022-04-07T18:14:51Z,1,[25.0],[25.0],I expect this must be rushed and require approval from a more difficult Senate. It’ll be hard to get out after mid-terms as well…so this really needs to happen within a few months. It isn’t currently a big news event…especially with other competing financial policy issues. I think that this is happening by default though and a Las isn’t as necessary to get the impact of the law change
+105937,2022-04-07T18:02:02Z,1,[58.0],[58.0],
+105968,2022-04-07T18:00:15Z,1,[30.0],[30.0],
+105962,2022-04-07T17:58:10Z,1,[20.0],[20.0],
+105960,2022-04-07T17:57:05Z,1,[20.0],[20.0],
+105950,2022-04-07T17:56:17Z,1,[50.0],[50.0],
+105942,2022-04-07T17:53:38Z,1,[5.0],[5.0],
+99574,2022-04-07T17:50:02Z,1,[70.0],[70.0],
+105902,2022-04-07T17:49:54Z,1,[78.0],[78.0],
+105642,2022-04-07T17:37:27Z,1,[5.0],[5.0],Very unlikely. Joe Manchin and the other Republicans are quite against this.
+70711,2022-04-07T16:06:57Z,1,[60.0],[60.0],
+27967,2022-04-07T16:02:03Z,1,[66.0],[66.0],
+105368,2022-04-07T15:52:26Z,1,[5.0],[5.0],
+31854,2022-04-07T15:09:51Z,1,[5.0],[5.0],
+95548,2022-04-07T14:46:28Z,1,[9.0],[9.0],
+105930,2022-04-07T14:13:08Z,1,[33.0],[33.0],a guess!
+105782,2022-04-07T14:00:37Z,1,[5.0],[5.0],
+105926,2022-04-07T13:47:39Z,1,[95.0],[95.0],
+105925,2022-04-07T13:36:04Z,1,[15.0],[15.0],
+105924,2022-04-07T13:32:02Z,1,[50.0],[50.0],
+105915,2022-04-07T13:27:03Z,1,[80.0],[80.0],
+97672,2022-04-07T13:23:53Z,1,[90.0],[90.0],
+105921,2022-04-07T13:21:44Z,1,[10.0],[10.0],
+105835,2022-04-07T13:18:08Z,1,[67.0],[67.0],
+105718,2022-04-07T13:14:06Z,1,[75.0],[75.0],
+105914,2022-04-07T13:08:31Z,1,[80.0],[80.0],The traditional industries are challenged to get employees. So some hurdles might be released.
+105916,2022-04-07T13:07:08Z,1,[0.0],[0.0],
+105528,2022-04-07T12:58:29Z,1,[10.0],[10.0],I'll reassess to 0% if not done before November 22 election.
+105910,2022-04-07T12:55:53Z,1,[10.0],[10.0],Dems may use this to boost election chances at midterms. Republicans will block it supporting small biz. Lobbyists will work against it for big biz too.
+105793,2022-04-07T12:55:07Z,1,[54.0],[54.0],
+105909,2022-04-07T12:44:19Z,1,[80.0],[80.0],
+105907,2022-04-07T12:38:05Z,1,[45.0],[45.0],
+98842,2022-04-07T12:32:50Z,1,[35.0],[35.0],
+105903,2022-04-07T12:00:48Z,1,[60.0],[60.0],There will continue to be enough pressure on democrats to demonstrate their professed interest in helping disadvantaged people that they will push through this legislation.
+96828,2022-04-07T10:34:44Z,1,[20.0],[20.0],
+88452,2022-04-07T10:28:02Z,1,[100.0],[100.0],
+103965,2022-04-07T10:23:27Z,1,[50.0],[50.0],
+105897,2022-04-07T09:27:51Z,1,[75.0],[75.0],
+88848,2022-04-07T08:32:57Z,1,[56.0],[56.0],
+105890,2022-04-07T07:31:41Z,1,[100.0],[100.0],
+78396,2022-04-07T06:55:08Z,1,[82.0],[82.0],
+105880,2022-04-07T06:26:06Z,1,[0.0],[0.0],Unlikely to get necessary support
+105879,2022-04-07T06:24:41Z,2,[75.0],[10.0],
+105879,2022-04-07T06:24:10Z,1,[65.0],[65.0],
+105871,2022-04-07T04:05:19Z,1,[8.0],[8.0],The composition of the Congress will be ~unchanged over most of this year period. I think this could only happen after the new congress is formed in Jan.
+105867,2022-04-07T03:50:28Z,1,[85.0],[85.0],
+105870,2022-04-07T03:43:15Z,1,[25.0],[25.0],
+103745,2022-04-07T03:13:38Z,1,[88.0],[88.0],
+31848,2022-04-07T03:01:45Z,1,[80.0],[80.0],
+105864,2022-04-07T02:43:51Z,1,[98.0],[98.0],
+81328,2022-04-07T02:43:15Z,1,[75.0],[75.0],The democrats will need to do something before the mid terms and this seems a likely vote winning measure
+105863,2022-04-07T02:38:06Z,1,[100.0],[100.0],
+105859,2022-04-07T01:45:11Z,1,[35.0],[35.0],
+105853,2022-04-07T01:24:17Z,1,[49.0],[49.0],
+105570,2022-04-07T01:19:22Z,1,[33.0],[33.0],
+105855,2022-04-07T00:50:24Z,1,[18.0],[18.0],
+35405,2022-04-07T00:20:44Z,1,[5.0],[5.0],"Inflation will make any increase in the minimum wage balance out to virtually the same hourly rate of $7.25, if not pushed as high as $12 an hour. If the U.S. gets into a long ordeal supporting Ukraine, a minimum wage increase may be needed to satisfy a general public fatigued from the steady stream of conflicts supported by their government. Since the House will flip back to Republican control in the midterms, the window of opportunity should close before 1 March 2023."
+103582,2022-04-07T00:00:02Z,1,[100.0],[100.0],Because with inflation there will be a revolution if it’s not raised
+105847,2022-04-06T23:51:17Z,1,[90.0],[90.0],"With the rise of inflation, I think the actual minimum wage will be higher - so legislation will follow (although I don't know what the final wage will be for)."
+105799,2022-04-06T23:41:26Z,1,[0.0],[0.0],
+92079,2022-04-06T23:20:55Z,1,[50.0],[50.0],
+105845,2022-04-06T23:18:59Z,1,[65.0],[65.0],
+137,2022-04-06T23:16:22Z,1,[72.0],[72.0],
+89336,2022-04-06T23:04:04Z,1,[25.0],[25.0],Market will drive up wages and make this less necessary.
+62255,2022-04-06T22:57:07Z,1,[48.0],[48.0],
+46339,2022-04-06T22:56:36Z,1,[46.0],[46.0],
+103484,2022-04-06T22:55:10Z,1,[100.0],[100.0],
+105841,2022-04-06T22:48:19Z,1,[10.0],[10.0],"Minimum wage will be increased in heavily Democratic states, relieving pressure at the Federal level and enabling Republican Senators to block any proposed legislation."
+95784,2022-04-06T22:26:48Z,1,[10.0],[10.0],
+94737,2022-04-06T22:24:53Z,1,[100.0],[100.0],
+37425,2022-04-06T22:18:07Z,1,[70.0],[70.0],
+651,2022-04-06T22:17:13Z,1,[25.0],[25.0],"Raising the minimum wage makes good economic sense but would face strong political headwinds. While support for eventual changes will grow leading to ultimate success, the odds of this occurring in less than a year, given the paucity of any substance of any kind in Congress, is low."
+105457,2022-04-06T22:16:07Z,1,[46.0],[46.0],
+105831,2022-04-06T22:06:06Z,1,[90.0],[90.0],"I think there will be some increase, but the amount I cannot guess at this time"
+105819,2022-04-06T22:00:01Z,2,[80.0],[0.0],
+105834,2022-04-06T21:58:37Z,1,[10.0],[10.0],
+105679,2022-04-06T21:56:57Z,1,[40.0],[40.0],
+12969,2022-04-06T21:54:20Z,1,[5.0],[5.0],"Do not think legislation like this will be passed in an election year. Further, if the democrats gain full control of all branches of government this will not be a priority in the current inflationary environment."
+51221,2022-04-06T21:53:04Z,1,[40.0],[40.0],
+64966,2022-04-06T21:52:55Z,2,[9.0],[-1.0],"If the House becomes Republican, as now seems likely, there will be no chance of this happening."
+64966,2022-04-06T21:50:19Z,1,[10.0],[10.0],
+13657,2022-04-06T21:48:27Z,1,[1.0],[1.0],
+88476,2022-04-06T21:47:36Z,1,[36.0],[36.0],
+105826,2022-04-06T21:42:43Z,1,[60.0],[60.0],"The federal government will attempt to pull various levers over the next year to contend with inflation, including raising the federal minimum wage as one intervention because few others may have as direct an impact on wages."
+105787,2022-04-06T21:41:36Z,1,[33.0],[33.0],"There is more support for some amount of increase, but not for more than doubling the minimum wage. With inflation pressures reducing buying power, there will be more demand from workers to increase the minimum wage."
+105833,2022-04-06T21:41:17Z,1,[50.0],[50.0],
+105827,2022-04-06T21:33:57Z,1,[35.0],[35.0],"No action will take place in 2022, a mid-term election year, and with the shift in the Senate and House to the republican party in 2023 any minimum wage increase will be dead on arrival."
+105821,2022-04-06T21:24:30Z,1,[76.0],[76.0],
+105819,2022-04-06T21:14:44Z,1,[80.0],[80.0],
+105816,2022-04-06T21:07:29Z,1,[15.0],[15.0],
+105813,2022-04-06T21:01:04Z,1,[80.0],[80.0],
+105724,2022-04-06T20:56:21Z,1,[30.0],[30.0],
+105811,2022-04-06T20:52:37Z,1,[50.0],[50.0],
+105739,2022-04-06T20:48:29Z,1,[2.0],[2.0],
+105805,2022-04-06T20:48:02Z,1,[90.0],[90.0],
+86607,2022-04-06T20:41:44Z,4,[5.0],[-2.0],"Senate GOP will not let it happen and especially will not want to give Dems a legislative ""win"" before midterms"
+105804,2022-04-06T20:33:02Z,1,[70.0],[70.0],
+105802,2022-04-06T20:32:57Z,1,[12.0],[12.0],
+84880,2022-04-06T20:25:15Z,1,[1.0],[1.0],
+105795,2022-04-06T20:11:11Z,1,[0.0],[0.0],
+105791,2022-04-06T20:04:40Z,1,[50.0],[50.0],I don't have high hopes that Congress can get to a decision on this
+105792,2022-04-06T20:03:34Z,1,[20.0],[20.0],
+105696,2022-04-06T20:02:01Z,1,[75.0],[75.0],
+105786,2022-04-06T19:54:39Z,1,[70.0],[70.0],
+105780,2022-04-06T19:45:06Z,1,[46.0],[46.0],
+105777,2022-04-06T19:39:26Z,1,[70.0],[70.0],
+105774,2022-04-06T19:38:53Z,1,[20.0],[20.0],
+105775,2022-04-06T19:37:21Z,1,[80.0],[80.0],
+105773,2022-04-06T19:34:16Z,1,[40.0],[40.0],
+105762,2022-04-06T19:33:19Z,1,[10.0],[10.0],"Too many other policy priorities for progressives, and Republicans will likely regain control of the Senate and potentially the House in November."
+105776,2022-04-06T19:32:40Z,1,[60.0],[60.0],
+105695,2022-04-06T19:19:01Z,1,[22.0],[22.0],
+105758,2022-04-06T19:17:34Z,1,[75.0],[75.0],"The current labor market is taking care of this one for Congress. They can raise the minimum wage to $8.00 and businesses wouldn't even feel it since most have to pay more now anyway. So will they raise it? Sure, why not. Will is be meaningful or just symbolic? Time will tell."
+105742,2022-04-06T19:17:26Z,1,[55.0],[55.0],
+105729,2022-04-06T19:12:55Z,1,[20.0],[20.0],"It's possible - especially with the energy around this topic and ~20 states geared to raise their own minimum wages, but I believe that it's telling that the federal minimum wage hasn't changed in over a decade and given the split in the Senate I wouldn't want to bet on it happening this year."
+105673,2022-04-06T19:12:50Z,1,[0.0],[0.0],
+105753,2022-04-06T19:11:18Z,1,[80.0],[80.0],
+105752,2022-04-06T19:05:33Z,1,[51.0],[51.0],"@CareerFixer | It hurts my soul to see people working so hard and barely able to afford basic human necessities like food, shelter, etc. I am not very optimistic with this one, but I'm trying to put the good vibes out there and clinging on to hope."
+105740,2022-04-06T18:56:16Z,1,[77.0],[77.0],
+105735,2022-04-06T18:55:47Z,1,[70.0],[70.0],
+105741,2022-04-06T18:55:46Z,1,[51.0],[51.0],
+105726,2022-04-06T18:50:15Z,1,[75.0],[75.0],
+105732,2022-04-06T18:46:49Z,1,[95.0],[95.0],
+105715,2022-04-06T18:46:19Z,1,[60.0],[60.0],
+105727,2022-04-06T18:45:41Z,1,[15.0],[15.0],
+105704,2022-04-06T18:39:48Z,1,[65.0],[65.0],
+105713,2022-04-06T18:38:31Z,1,[100.0],[100.0],
+105708,2022-04-06T18:37:57Z,1,[40.0],[40.0],
+105709,2022-04-06T18:37:10Z,1,[100.0],[100.0],
+105682,2022-04-06T18:33:13Z,1,[100.0],[100.0],Politics
+105678,2022-04-06T18:33:09Z,1,[100.0],[100.0],
+105700,2022-04-06T18:32:11Z,1,[74.0],[74.0],
+105694,2022-04-06T18:31:29Z,1,[100.0],[100.0],
+102047,2022-04-06T18:29:14Z,2,[88.0],[8.0],
+105686,2022-04-06T18:28:07Z,1,[18.0],[18.0],
+102047,2022-04-06T18:27:51Z,1,[80.0],[80.0],
+86607,2022-04-06T18:13:34Z,3,[7.0],[-3.0],"Manchin supports some form of minimum wage hike, but the parliamentarian has ruled that this change is subject to filibuster. It's very unlikely that Republicans would let it through"
+86607,2022-04-06T17:31:34Z,2,[10.0],[10.0],
+86607,2022-04-06T17:28:13Z,1,[0.0],[0.0],
+422,2022-04-06T16:56:31Z,1,[88.0],[88.0],
+60695,2022-04-06T16:38:31Z,1,[100.0],[100.0],
+1333,2022-04-06T16:07:12Z,1,[100.0],[100.0],

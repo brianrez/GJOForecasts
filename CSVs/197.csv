@@ -1,0 +1,79 @@
+"Between 10 March 2022 and 29 April 2022, will the average interest rate for 30-year fixed-rate mortgages in the US be higher than 4.15%?",2022-03-15T17:00:00Z,2022-03-17T16:00:16Z,Yes,"['Yes', 'No']",['Open'],78,654,55,237,,https://www.gjopen.com/questions/2307-between-10-march-2022-and-29-april-2022-will-the-average-interest-rate-for-30-year-fixed-rate-mortgages-in-the-us-be-higher-than-4-15
+33873,2022-03-17T17:20:58Z,2,[100.0],[81.0],Outside view:
+12694,2022-03-17T16:34:10Z,3,[100.0],[20.0],
+99993,2022-03-17T16:23:54Z,2,[100.0],[90.0],
+74864,2022-03-17T16:05:55Z,1,[100.0],[100.0],Hit on 3/17
+103878,2022-03-17T15:52:46Z,1,[53.0],[53.0],
+88513,2022-03-17T15:18:33Z,2,[45.0],[5.0],"Rates topped 4%, clearing moving up. 10 year treasuries down a bit today. Adjusting forecast up a bit"
+105412,2022-03-17T15:02:12Z,1,[55.0],[55.0],"While rates are going up, I'm skeptical they will increase these quickly, and naively think that lenders could be concerned about suppressing demand if higher interest rates are coupled with the rapid rise in real estate values."
+103928,2022-03-17T14:52:51Z,1,[95.0],[95.0],
+12694,2022-03-17T14:31:18Z,2,[80.0],[35.0],"Looks like this might already have happened, I'll wait for the official FRED readout before I go to 100%"
+13306,2022-03-17T14:11:22Z,1,[60.0],[60.0],
+29583,2022-03-17T11:23:45Z,2,[53.0],[3.0],
+1667,2022-03-17T11:21:59Z,1,[60.0],[60.0],
+33873,2022-03-17T08:09:30Z,1,[19.0],[19.0],"Leaving for posterity, but ignore the below, I calculated using 4.5% by accident. New post further up"
+96828,2022-03-17T06:20:30Z,2,[51.0],[1.0],
+18679,2022-03-17T04:07:56Z,1,[65.0],[65.0],
+104640,2022-03-17T02:31:34Z,1,[70.0],[70.0],
+37566,2022-03-17T02:04:37Z,4,[84.0],[3.0],
+37566,2022-03-17T02:03:21Z,3,[81.0],[-3.0],"[oops, wrong forecast]"
+37566,2022-03-17T01:58:24Z,2,[84.0],[3.0],
+22690,2022-03-17T00:54:02Z,2,[54.0],[8.0],Bumping on prospects of a Ukraine peace deal
+88783,2022-03-16T22:27:28Z,2,[60.0],[20.0],
+101227,2022-03-16T20:14:39Z,1,[71.0],[71.0],
+84880,2022-03-16T19:06:29Z,2,[51.0],[-4.0],
+14603,2022-03-16T18:40:05Z,3,[66.0],[66.0],switching probability to what I would say for a data point as this is clearly how everyone else interpreted this question!
+1333,2022-03-16T18:33:41Z,4,[51.0],[3.0],
+20646,2022-03-16T18:33:03Z,1,[85.0],[85.0],30 year mortgage rates are generally accepted to roughly follow the US 10 year bond yield. With historic 30-year mortgage typically having a spread slightly below 2% above the 10-year yields. (I will note there has been a recent slight deviation from this trend with the spread increasing recently to ~3%).
+99943,2022-03-16T17:30:52Z,1,[75.0],[75.0],"The last time the rate was above 4.15% was in April, 2019. But, the rate has been rising a bit recently, and the most current data point is 3.85% on March 10. There are 7 more data points in the forecast period, and 0.3% higher to go to reach 4.15%. Monthly movements have been up to +0.23% recently. With inflation and the Fed expected to raise interest rates even a little, I think rates above 4.15% are likely in the forecast period."
+14603,2022-03-16T17:15:20Z,2,[0.0],[-50.0],I found the wording for this confusing - I answered it in the noise challenge as 0% on the basis the average has to be 4.15 and so the rate needs to rise well above this quite soon.
+104609,2022-03-16T17:07:20Z,1,[27.0],[27.0],"4.15% seems out of reach as a 4/29 target. Usually, moves as drastic as this dont happen very often. Market reaction to tighter monetary policy should push it up nonetheless. The details of the Fed announcement and especially clarity over the pace of rate hikes will be essential for this outcome. However, the nature of the considered instrument, makes this event relatively unlikely."
+103527,2022-03-16T16:31:56Z,1,[39.0],[39.0],"Last time we saw 4.15% was May 2019, so well before COVID. Given the recent move in yields higher -- likely on the back of the expectation of significant FED tightening -- I'm not as confident that we'll see sustained moves higher from here, at least in the short-term. So I give this a 39% chance."
+86367,2022-03-16T16:25:28Z,1,[60.0],[60.0],
+1333,2022-03-16T16:07:43Z,3,[48.0],[-1.0],
+79069,2022-03-16T15:43:27Z,2,[60.0],[20.0],"Currently 3.85% and with another expected 0.25% now the Fed has lifted interest rates. Inflation running at ~7.9%. This is looking more likely, but may well end up just under... or over."
+691,2022-03-16T15:13:57Z,1,[42.0],[42.0],
+29583,2022-03-16T15:08:26Z,1,[50.0],[50.0],
+48709,2022-03-16T15:01:43Z,2,[0.0],[0.0],"No according to to the data not since, 1980 did the rate reach (4.15%)."
+14603,2022-03-16T14:41:09Z,1,[50.0],[50.0],
+60695,2022-03-16T13:28:51Z,1,[0.0],[0.0],
+1646,2022-03-16T12:44:41Z,1,[91.0],[91.0],
+86554,2022-03-16T12:38:23Z,1,[65.0],[65.0],
+30074,2022-03-16T12:21:59Z,1,[37.0],[37.0],
+25400,2022-03-16T11:03:56Z,2,[0.0],[-100.0],
+25400,2022-03-16T11:01:36Z,1,[100.0],[100.0],
+68,2022-03-16T09:25:11Z,2,[65.0],[-20.0],
+100664,2022-03-16T09:10:11Z,1,[30.0],[30.0],
+41612,2022-03-16T07:46:33Z,1,[45.0],[45.0],
+1333,2022-03-16T07:20:21Z,2,[49.0],[-1.0],
+104874,2022-03-16T06:44:36Z,2,[35.0],[5.0],
+104874,2022-03-16T06:44:11Z,1,[30.0],[30.0],
+30936,2022-03-16T06:37:38Z,1,[9.0],[9.0],With data from 2011 to now I got a 7% chance of a shift that large in 50 days. I added a couple of percent as there is likely to be worse inflation news and the start of a Fed hiking cycle which conditionally shift the probability higher.
+68,2022-03-16T06:12:24Z,1,[85.0],[85.0],"3.85% on 10 March and very likely to go higher in the coming weeks, given inflation, the Fed, consumer price and commodities inflation, and the overall geopolitical situation."
+62538,2022-03-16T05:23:03Z,1,[85.0],[85.0],
+81495,2022-03-16T04:31:09Z,1,[86.0],[86.0],"Clear upward trend in recent weeks makes the outside rate near 100%, Fed expected to raise rates tomorrow, it looks like there was a brief dip because of the Ukraine crisis but there's little chance that rates will trend back down. 4.15 is a fairly high target historically though so its not certain, so this will be one to watch very closely in the coming days and weeks."
+69091,2022-03-16T04:00:58Z,1,[60.0],[60.0],With interest rate hikes mortgages will follow
+21884,2022-03-16T02:59:44Z,1,[55.0],[55.0],
+101036,2022-03-16T02:24:57Z,1,[33.0],[33.0],
+37566,2022-03-16T02:05:08Z,1,[81.0],[81.0],Fed rate increase == 30-year mortgage rate spike
+105174,2022-03-16T01:19:26Z,1,[45.0],[45.0],"QT at the Fed, high inflation, 10 year UST under pressure."
+62255,2022-03-16T00:27:31Z,1,[35.0],[35.0],
+22690,2022-03-16T00:18:11Z,1,[46.0],[46.0],
+88513,2022-03-16T00:08:06Z,1,[40.0],[40.0],"10 year treasury, a good proxy for the direction of 30 year mortgages, continues to head northward"
+96828,2022-03-16T00:04:52Z,1,[50.0],[50.0],
+104695,2022-03-16T00:01:34Z,1,[55.0],[55.0],
+92079,2022-03-15T23:48:19Z,1,[47.0],[47.0],
+102737,2022-03-15T23:25:32Z,1,[22.0],[22.0],Currently reporting ~3.85%. It’s possible but would take unusually strong growth over our timeframe.
+12694,2022-03-15T23:03:12Z,1,[45.0],[45.0],
+22689,2022-03-15T22:29:46Z,1,[0.0],[0.0],
+3024,2022-03-15T22:16:03Z,1,[60.0],[60.0],
+79069,2022-03-15T22:15:59Z,1,[40.0],[40.0],
+88783,2022-03-15T22:15:53Z,1,[40.0],[40.0],
+48709,2022-03-15T21:25:51Z,1,[0.0],[0.0],"This is possible as the feds as poised to increase lending rates yet , not since, 1980 were the interest rates above (4.15%)"
+102121,2022-03-15T21:02:03Z,1,[25.0],[25.0],
+99993,2022-03-15T20:35:01Z,1,[10.0],[10.0],
+86607,2022-03-15T19:53:22Z,1,[41.0],[41.0],
+84880,2022-03-15T19:51:52Z,1,[55.0],[55.0],
+104378,2022-03-15T18:17:58Z,1,[37.0],[37.0],Historical trends suggest unlikely to rise that fast from current level
+1333,2022-03-15T18:13:39Z,1,[50.0],[50.0],
+88452,2022-03-15T18:04:46Z,1,[100.0],[100.0],

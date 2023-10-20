@@ -1,0 +1,263 @@
+"Between 2 May 2022 and 27 May 2022, will the 7-day moving average of new daily cases of COVID-19 in the US reach or exceed 120,000?",2022-04-29T20:15:00Z,2022-05-28T07:01:00Z,No,"['Yes', 'No']",['Health'],262,654,64,237,,https://www.gjopen.com/questions/2378-between-2-may-2022-and-27-may-2022-will-the-7-day-moving-average-of-new-daily-cases-of-covid-19-in-the-us-reach-or-exceed-120-000
+105570,2022-05-28T06:02:42Z,4,[0.0],[-88.0],
+94872,2022-05-28T02:42:08Z,17,[2.0],[-3.0],
+105091,2022-05-27T22:48:22Z,7,[0.0],[-85.0],"With May 26 case count at 111,994, my last prediction is kaput. Hooray for the public health situation, not so great for my Brier score..."
+80790,2022-05-27T21:57:35Z,13,[1.0],[-1.0],
+25013,2022-05-27T21:24:46Z,7,[6.0],[-75.0],"There would need to be 224,766 cases on the 27th, judging by the cases in the preceding 6 days."
+105091,2022-05-27T16:21:15Z,6,[85.0],[40.0],"With May 25's 181,345 new cases, there are new statistical possibilities. If May 26 sees 180,000 cases (1,345 fewer than the day before), the new 7 day rolling average will be 119,397. So if the 26th makes it to 180,000 and May 27 has anything over 160,000, our rolling average for May 27 will be 120,500."
+103878,2022-05-27T15:34:54Z,9,[5.0],[-86.0],
+99943,2022-05-27T15:00:34Z,17,[1.0],[-9.0],
+14027,2022-05-27T14:41:26Z,17,[3.0],[-4.0],
+42234,2022-05-27T14:05:55Z,1,[0.0],[0.0],
+25013,2022-05-27T08:35:07Z,6,[81.0],[61.0],.
+94872,2022-05-27T07:31:16Z,16,[5.0],[-10.0],
+767,2022-05-27T04:22:38Z,3,[0.0],[-100.0],"New cases at 181,000 but 7 day moving average at 109,564. Error in data I was using (Google default that feeds from NYT not CDC)"
+99943,2022-05-27T04:19:15Z,16,[10.0],[-25.0],
+95992,2022-05-27T02:48:02Z,13,[20.0],[-5.0],
+80790,2022-05-26T21:28:56Z,12,[2.0],[2.0],
+80790,2022-05-26T21:25:57Z,11,[0.0],[-2.0],
+105091,2022-05-26T18:25:27Z,5,[45.0],[-55.0],"Momentum was lost (thank goodness for the human cost, not so great for my previous predictions), but the drop came sooner than usually comes in waves like this. I still think data could be revised to show us edging past 115,000 and maybe 120,000 by May 27, once all that data is in in early June."
+34959,2022-05-26T16:01:53Z,10,[5.0],[-46.0],
+87897,2022-05-26T15:49:13Z,7,[17.0],[-13.0],
+14027,2022-05-26T14:55:24Z,16,[7.0],[-4.0],
+87177,2022-05-26T13:43:12Z,9,[0.0],[-50.0],
+94737,2022-05-26T12:04:54Z,3,[0.0],[-100.0],
+14603,2022-05-26T06:43:13Z,12,[0.0],[-15.0],
+105633,2022-05-26T05:52:27Z,1,[100.0],[100.0],
+49937,2022-05-26T05:21:57Z,5,[10.0],[-30.0],Low Tues numbers mean this is all but impossible
+106347,2022-05-26T04:19:35Z,8,[10.0],[-70.0],
+34815,2022-05-26T03:14:56Z,3,[0.0],[-100.0],
+99943,2022-05-26T02:19:27Z,15,[35.0],[-30.0],"BNN/Medriva reports ""over 200,000"" cases today. Their numbers seem to be always a bit larger than the CDC numbers - comparing yesterday's numbers, the CDC's number was ~93% of the BNN/Medriva number. This translates into approximately ""more than 185.7k"" cases for today in the CDC data. Last Wednesday, there were 145.8k cases, for a difference of ~40k. This can be expected to increase the 7-day average by ~40k/7 = 5.7k. Currently, the 7-day average is 104.4k, so it's reasonable to think the 7-day average in the CDC data for May 25, as shown tomorrow, will be >= ~110.1k. That would leave 2 days to increase the 7-day average by an additional 10k/day. The total for last Thursday and Friday was 263k, so this total would need to be around 263k + 70k = 333k. If tomorrow and Friday end up with numbers similar to today's (average ~166k), this would be possible. The crowd has moved from 97% to 21% over the past couple days; I think I'll give it a slightly higher chance of yes."
+99943,2022-05-26T01:36:46Z,14,[65.0],[64.0],"Large number of cases today, according to BNO: over 200k."
+106109,2022-05-26T00:41:33Z,3,[5.0],[-70.0],Given the data from Monday I think it is highly unlikely that the remaining days will make up the low daily rates seen this week to date.
+88198,2022-05-26T00:25:31Z,11,[0.0],[-83.0],Ugh...never hit submit a few days ago....
+105209,2022-05-26T00:13:00Z,1,[0.0],[0.0],
+99943,2022-05-25T23:50:14Z,13,[1.0],[-44.0],"Well, here's another question I'm going to get a bad score on. I wonder whether cases have actually peaked or whether testing/reporting have simply lagged before Memorial Day weekend; I suspect it's the latter. We'll soon find out. But it looks clear that 120k/day won't be reached in the remaining days of this question."
+84956,2022-05-25T20:50:48Z,3,[29.0],[-46.0],
+691,2022-05-25T20:02:07Z,9,[52.0],[-45.0],
+95992,2022-05-25T19:53:19Z,12,[25.0],[-5.0],
+104025,2022-05-25T18:17:08Z,3,[0.0],[-5.0],
+14027,2022-05-25T16:53:53Z,15,[11.0],[-12.0],
+87177,2022-05-25T15:29:58Z,8,[50.0],[-50.0],
+25013,2022-05-25T15:25:44Z,5,[20.0],[-29.0],"Readjusting for Monday data. Average daily cases for next four days has to be 161,654 to achieve 120,000 7 day rolling average."
+87897,2022-05-25T15:04:55Z,6,[30.0],[-64.0],
+422,2022-05-25T14:38:35Z,3,[21.0],[-79.0],
+49937,2022-05-25T13:56:28Z,4,[40.0],[-47.0],"Looks like testing is dropping. Perhaps we also hit the peak. Mondays numbers suggest this week will be about the same as last week. I think it all comes down to Tues numbers for me - >150k and I’m back on the high side, lower and I’m dropping to near zero"
+36969,2022-05-25T13:34:19Z,1,[0.0],[0.0],
+20156,2022-05-25T11:06:56Z,4,[51.0],[-30.0],
+88452,2022-05-25T08:13:22Z,8,[52.0],[-48.0],
+94872,2022-05-25T07:13:40Z,15,[15.0],[-45.0],
+14603,2022-05-25T07:08:47Z,11,[15.0],[-25.0],
+105371,2022-05-25T04:58:24Z,3,[35.0],[-25.0],
+95992,2022-05-25T03:18:15Z,11,[30.0],[-20.0],There are some pretty massive case days (like May 18) that are going to fall out of the sample at exactly the wrong time
+95992,2022-05-25T03:16:36Z,10,[50.0],[-50.0],"woof, was way over confident on this one and getting burned. Good point on memorial day."
+94872,2022-05-25T02:06:55Z,14,[60.0],[-6.0],
+34959,2022-05-25T02:00:36Z,9,[51.0],[-46.0],
+99943,2022-05-24T21:30:48Z,12,[45.0],[-15.0],"As @JPH suggests, maybe testing is going down because Memorial Day weekend is coming up. I think the actual number of infections is going up, but I'm starting to think we may not see a 7-day average of 120k/day reported after all."
+14603,2022-05-24T20:25:42Z,10,[40.0],[-10.0],
+80790,2022-05-24T20:19:14Z,10,[2.0],[-71.0],"Rate for remaining 4 days needs to be over 150k per day, which is a nearly 25% increase on last week. As rate over last couple days has not increase by nearly this much compared to last week, I think it’s very unlikely now."
+99943,2022-05-24T20:06:22Z,11,[60.0],[-30.0],"I'm surprised that Monday's data didn't bump up the 7-day average higher. Maybe cases are nearing a peak. With infections underreported by a factor of 7-8 now, cases are now at perhaps close to half the height of the Omicron peak."
+14027,2022-05-24T14:47:46Z,14,[23.0],[-70.0],For whatever reason the data seem to have peaked. If the rate in increase in new cases stays below about 3% we won't get to 120k by the 27th. I certainly didn't foresee this.
+14603,2022-05-24T07:47:21Z,9,[50.0],[-35.0],The daily rate of increase in the 7 day rolling average of cases has fallen from 4% on the 12th to 1.9% now (7 days always including 2 low weekend days). This measure needs to rise to 103% to hit the 120k by the end of this working week. It was last at 3% a week ago.
+94872,2022-05-24T07:24:48Z,13,[66.0],[-22.0],
+99943,2022-05-24T04:54:01Z,10,[90.0],[-8.0],
+94872,2022-05-24T03:53:18Z,12,[88.0],[-8.0],
+106109,2022-05-24T03:36:54Z,2,[75.0],[45.0],"Fitting the CDC 7-day rolling average data from 1 May - 22 may (inclusive) to an exponential trend gives an R2 value of 0.9698 - pretty good fit. Extrapolating from this, the data for the 24th should be ~120,000 when it is released (Appears to be a ~2 calendar day lead time for CDC data), and ~127,000 on the 27th."
+62538,2022-05-24T03:08:47Z,5,[0.0],[0.0],"Between now and the end of the question, I don't see it as likely any day of the question will hit 120k, much more for the 7-day Moving Average to do so.."
+62538,2022-05-24T03:04:58Z,4,[0.0],[-1.0],
+25013,2022-05-24T00:36:29Z,4,[49.0],[-12.0],"The average number of cases per day for the next 5 days would need to be over 155,016 to hit 120,000"
+80790,2022-05-23T21:25:59Z,9,[73.0],[-10.0],"All remaining days now have to be 20% higher than the equivalent last week. But numbers were down over the weekend. Might be some catch ing to do, so Mondays number will be crucial. I’m not as confident as the crowd on this one."
+104025,2022-05-23T21:23:03Z,2,[5.0],[-20.0],"with 4 days to go before the question closes - the most recent 7-day moving average was 102k, down from a peak of 105k - unless there is a huge uptick in the next 4 days (18k+ for multiple days in a row) - i don't know if i see this hitting hte 120k"
+14603,2022-05-23T17:39:35Z,8,[85.0],[-10.0],
+14308,2022-05-23T17:33:41Z,1,[100.0],[100.0],
+88198,2022-05-23T15:49:11Z,10,[83.0],[-12.0],Lowering slightly.
+49937,2022-05-23T15:44:42Z,3,[87.0],[12.0],Weekend trend continues to grow so increasing my figures by a bit. Was at 75% and going to split the difference to 100% and go to 87%
+14027,2022-05-23T14:43:08Z,13,[93.0],[-6.0],
+422,2022-05-23T13:58:44Z,2,[100.0],[100.0],
+94872,2022-05-23T01:40:49Z,11,[96.0],[1.0],
+102421,2022-05-23T00:29:18Z,2,[50.0],[50.0],
+103942,2022-05-22T18:52:22Z,3,[99.0],[14.0],
+14603,2022-05-22T15:59:25Z,7,[95.0],[10.0],
+14027,2022-05-22T14:34:47Z,12,[99.0],[4.0],
+80790,2022-05-22T11:52:17Z,8,[83.0],[-11.0],"To reach 120k on 27th every day of the next week has to be 15% or more higher than the equivalent day to the week before. Yesterday was 26% higher, so numbers look to be in that direction, however it could be very close depending on any one day reporting, especially if there are any historical catch ups added to the numbers."
+88452,2022-05-21T21:18:28Z,7,[100.0],[12.0],"Likely resolved ""YES"" as of 23 May 2022."
+14603,2022-05-21T11:23:07Z,6,[85.0],[-10.0],
+691,2022-05-21T00:29:21Z,8,[97.0],[5.0],
+80790,2022-05-20T21:55:48Z,7,[94.0],[-3.0],
+88452,2022-05-20T20:21:50Z,6,[88.0],[-12.0],
+105091,2022-05-20T16:02:05Z,4,[100.0],[5.0],"The latest data (for May 18) shows 144,840 cases that day and a 7 day average of 101,130. At the current rate we have followed for the last 30 days of growth in that 7 day average, we will reach 120,000 for a 7 day average on May 24."
+14603,2022-05-20T13:31:26Z,5,[95.0],[-5.0],
+25013,2022-05-20T09:23:24Z,3,[61.0],[27.0],
+49937,2022-05-20T03:06:05Z,2,[75.0],[-15.0],"Gosh, this one is going to be close."
+87897,2022-05-20T03:04:52Z,5,[94.0],[4.0],
+105570,2022-05-19T23:32:49Z,3,[88.0],[87.0],
+106322,2022-05-19T17:55:52Z,2,[100.0],[100.0]
+95992,2022-05-19T17:47:35Z,9,[100.0],[5.0],
+87175,2022-05-19T16:49:30Z,2,[100.0],[90.0],
+106437,2022-05-19T16:23:14Z,1,[80.0],[80.0],"During this time period, it will not exceed 120,000 because of new regulations and vaccinations."
+94872,2022-05-19T11:36:26Z,10,[95.0],[5.0],
+14603,2022-05-19T11:32:34Z,4,[100.0],[10.0],
+103878,2022-05-19T09:31:43Z,8,[91.0],[10.0],
+87177,2022-05-19T07:10:22Z,7,[100.0],[50.0],
+87177,2022-05-19T07:09:12Z,6,[50.0],[45.0],
+34959,2022-05-19T06:51:17Z,8,[97.0],[7.0],
+99943,2022-05-19T00:43:11Z,9,[98.0],[3.0],"Growth in cases is on track for 120k to be reached on May 23 or 24. Even if growth slows down, I can't picture 120k not being reached in the forecast period."
+691,2022-05-18T18:41:13Z,7,[92.0],[3.0],
+87897,2022-05-18T18:15:36Z,4,[90.0],[20.0],
+84956,2022-05-18T16:43:46Z,2,[75.0],[4.0],
+14027,2022-05-18T15:47:14Z,11,[95.0],[2.0],
+106322,2022-05-18T13:59:56Z,1,[0.0],[0.0],No.
+14603,2022-05-18T07:23:53Z,3,[90.0],[40.0],
+94872,2022-05-18T06:19:37Z,9,[90.0],[2.0],
+34959,2022-05-18T02:14:35Z,7,[90.0],[10.0],"Daily number has ticked past 120k, and Monday's 7 day ave was 94,199, a number only fractionally above the previously forecasted 93.5k (1)."
+767,2022-05-17T23:17:39Z,2,[100.0],[90.0],"Currently at 127,814 - Cases up 57% nationwide"
+103942,2022-05-17T19:54:29Z,2,[85.0],[65.0],
+1667,2022-05-17T16:31:11Z,3,[50.0],[39.0],
+103878,2022-05-17T13:27:22Z,7,[81.0],[11.0],
+20156,2022-05-17T12:55:46Z,3,[81.0],[26.0],
+95992,2022-05-17T12:16:38Z,8,[95.0],[5.0],
+87177,2022-05-17T04:59:08Z,5,[5.0],[-90.0],
+99943,2022-05-16T23:26:41Z,8,[95.0],[5.0],May 23 or 24. 8 or 9 days left.
+28899,2022-05-16T23:13:10Z,3,[70.0],[-20.0],
+28899,2022-05-16T23:12:55Z,2,[90.0],[40.0],
+94872,2022-05-16T21:47:04Z,8,[88.0],[13.0],
+105091,2022-05-16T16:16:48Z,3,[95.0],[15.0],
+94737,2022-05-16T14:27:28Z,2,[100.0],[100.0],
+95992,2022-05-16T14:20:26Z,7,[90.0],[8.0],
+104025,2022-05-16T13:42:33Z,1,[25.0],[25.0],last four days has seen an increase of 9500 cases - assuming that trajectory continues - potential to exceed is 13ish days (on/about 29May) - keeping low probability right now but will adjust over next day as more data becomes available
+34959,2022-05-16T03:04:42Z,6,[80.0],[13.0],
+106347,2022-05-16T01:17:39Z,7,[80.0],[10.0],
+14027,2022-05-15T15:07:29Z,10,[93.0],[0.0],"@belikewater, it could even happen by the 23rd if the rate of increase remains around 3.5% per day."
+99943,2022-05-15T04:03:45Z,7,[90.0],[10.0],My current forecast is that 120k will be crossed with May 24 data.
+14027,2022-05-14T17:49:10Z,9,[93.0],[6.0],
+34815,2022-05-14T16:54:47Z,2,[100.0],[100.0],
+87177,2022-05-14T15:31:58Z,4,[95.0],[5.0],
+103878,2022-05-14T09:19:12Z,6,[70.0],[30.0],
+14603,2022-05-14T08:18:05Z,2,[50.0],[50.0],
+34959,2022-05-14T08:09:20Z,5,[67.0],[16.0],
+94872,2022-05-14T07:58:45Z,7,[75.0],[9.0],
+691,2022-05-14T06:18:42Z,6,[89.0],[77.0],
+99943,2022-05-14T04:01:18Z,6,[80.0],[3.0],
+99943,2022-05-14T03:57:39Z,5,[77.0],[5.0],"With May 12 data, my projection for May 27 is ~135k, and again, that 120k will likely be crossed May 23-25."
+80790,2022-05-13T22:22:40Z,6,[97.0],[18.0],
+88198,2022-05-13T20:35:52Z,9,[95.0],[8.0],
+106347,2022-05-13T16:36:04Z,6,[70.0],[40.0],
+87897,2022-05-13T14:49:50Z,3,[70.0],[23.0],h/t @belikewater : https://www.gjopen.com/comments/1449899
+14027,2022-05-13T14:42:26Z,8,[87.0],[16.0],
+56170,2022-05-13T14:11:39Z,2,[48.0],[-26.0],
+87177,2022-05-13T14:10:01Z,3,[90.0],[25.0],
+20156,2022-05-13T11:50:20Z,2,[55.0],[42.0],
+88198,2022-05-13T05:33:30Z,8,[87.0],[20.0],
+94872,2022-05-13T05:08:41Z,6,[66.0],[16.0],
+105371,2022-05-13T04:02:42Z,2,[60.0],[52.0],
+95992,2022-05-13T04:01:09Z,6,[82.0],[12.0],
+95992,2022-05-13T04:00:18Z,5,[70.0],[32.0],
+62538,2022-05-13T00:13:07Z,3,[1.0],[-5.0],
+83393,2022-05-12T23:56:19Z,1,[98.0],[98.0],
+25013,2022-05-12T21:57:05Z,2,[34.0],[33.0],Updating forecast due to rapid increase in cases over last 3 days.
+80790,2022-05-12T21:43:59Z,5,[79.0],[32.0],
+87177,2022-05-12T18:36:13Z,2,[65.0],[65.0],
+105091,2022-05-12T18:16:02Z,2,[80.0],[5.0],"Based on growth trends of the last 20 days, the 7-day moving average will reach 120,000 on May 25, 2022. That is literally just a growth trend as described by formulas in Excel though. Reality may yet be different."
+106347,2022-05-12T16:30:13Z,5,[30.0],[20.0],
+103878,2022-05-12T15:54:54Z,5,[40.0],[20.0],
+14027,2022-05-12T15:51:21Z,7,[71.0],[18.0],
+99943,2022-05-12T15:44:08Z,4,[72.0],[4.0],"My current forecast is that 120k/day will be crossed around May 23-25 (probably not May 23), and using data from April 17 onward, I'm still projecting ~128k/day on May 27. So, I think there may only be 12-14 days left to the forecast."
+52131,2022-05-12T15:08:26Z,1,[40.0],[40.0],
+87897,2022-05-12T13:49:51Z,2,[47.0],[12.0],
+88198,2022-05-12T13:42:12Z,7,[67.0],[32.0],
+95784,2022-05-12T10:56:07Z,1,[40.0],[40.0],
+34959,2022-05-12T07:53:03Z,4,[51.0],[18.0],"Trending upwards at ~25%/week for 5 weeks now, data and forecast for the following fortnight;"
+105995,2022-05-12T06:09:58Z,1,[0.0],[0.0],
+95992,2022-05-12T00:58:55Z,4,[38.0],[8.0],
+88198,2022-05-12T00:49:02Z,6,[35.0],[34.0],
+99943,2022-05-12T00:08:56Z,3,[68.0],[3.0],"With May 10 data, I'm projecting ~128k/day on May 27, and crossing 120k/day on May 25 or 26. Growth could still slow down, though."
+80790,2022-05-11T22:47:21Z,4,[47.0],[33.0],
+88452,2022-05-11T19:58:09Z,5,[100.0],[6.0],On track for 130k at maturity.
+88198,2022-05-11T18:59:21Z,5,[1.0],[-35.0],Correcting hard for earlier overshot....
+14027,2022-05-11T14:19:13Z,6,[53.0],[22.0],
+87691,2022-05-11T06:27:13Z,1,[0.0],[0.0],
+88452,2022-05-11T02:39:50Z,4,[94.0],[17.0],
+106347,2022-05-11T01:13:28Z,4,[10.0],[-2.0],Just updating given incoming data...
+80790,2022-05-10T23:15:40Z,3,[14.0],[10.0],
+99943,2022-05-10T22:54:19Z,2,[65.0],[-5.0],"With today's update, my projection is for ~127k/day on 5/27. 18 more days of data."
+84956,2022-05-10T21:41:04Z,1,[71.0],[71.0],
+87897,2022-05-10T18:06:16Z,1,[35.0],[35.0],forecasting based on @belikewater 's analysis [1]. My knee-jerk suspicion is that this will resolve as false due to high levels of existing immunity and warmer weather leading people to congregate more outside where it's safer.
+14027,2022-05-10T15:29:04Z,5,[31.0],[-28.0],"Today the weekly average increase dropped below the level needed to reach 120,000 by May 27, but not by much. I have to reduce the odds."
+36447,2022-05-10T12:26:40Z,1,[5.0],[5.0],It doesn't look like it's trending up fast enough
+28899,2022-05-10T12:13:02Z,1,[50.0],[50.0],
+94872,2022-05-10T07:34:28Z,5,[50.0],[17.0],
+105570,2022-05-10T05:27:27Z,2,[1.0],[-5.0],
+99943,2022-05-10T03:54:41Z,1,[70.0],[70.0],"I just saw this question, so I'm starting it a little late. An exponential projection suggests that the 7-day average will be around 125k/day on May 27 - and that's with incomplete reporting for the past few days, amplified by Mother's Day. At some point, exponential growth will slow, but I think it's very likely that 120k/day will be reached in the forecast period."
+88452,2022-05-10T02:41:34Z,3,[77.0],[-19.0],
+106347,2022-05-09T20:51:19Z,3,[12.0],[-3.0],
+103878,2022-05-09T10:31:34Z,4,[20.0],[-8.0],
+94872,2022-05-09T06:10:41Z,4,[33.0],[8.0]
+106347,2022-05-09T01:43:19Z,2,[15.0],[-15.0],Using CDC data...
+105606,2022-05-08T22:22:56Z,1,[5.0],[5.0],
+14027,2022-05-08T17:39:44Z,4,[59.0],[6.0],"The past week's average daily increase has been 3.3%. We're on track to get to 120,000 with 2-3 days to spare. I'll increase the odds to 59%."
+691,2022-05-08T13:55:21Z,5,[12.0],[4.0],
+34959,2022-05-08T13:49:28Z,3,[33.0],[20.0],
+103878,2022-05-08T12:46:45Z,3,[28.0],[18.0],
+62538,2022-05-08T04:58:39Z,2,[6.0],[-1.0],
+88198,2022-05-08T04:04:18Z,4,[36.0],[-2.0],
+106347,2022-05-08T03:48:15Z,1,[30.0],[30.0],"Current 7-day average number of cases is ~64k, which was a 21.4% increase from the previous 7-day average. If that 7-day average increase stays the same, the 7-day average 1 week from now would be 77,000...in two weeks, it would be ~94,000...three weeks ~114K..139K in four weeks. This is assuming the percentage increase in 7-day average of daily cases is not increasing. I think given BA.2 appears to produce relatively mild infection, a far smaller fraction of people will be symptomatic enough for testing compared to the delta surge in August 2021 (peak 7-day average 165,187). On the other hand, given the recent lifting of mask mandates throughout the country, ""COVID-fatigue"" and a desire to return to normalcy it's possible that rates accelerate, and only a small acceleration is necessary to reach the 120k daily cases. The peak may be close to 120k and hopefully the next few days/coming week makes things clearer."
+88452,2022-05-08T00:27:03Z,2,[96.0],[-4.0],
+691,2022-05-07T13:33:40Z,4,[8.0],[-2.0],
+105528,2022-05-07T06:02:54Z,1,[2.0],[2.0],"People have test fatigue, with vax cards in hand and no testing requirement for the vaccinated, ""reported"" cases will remain under 120,000."
+767,2022-05-07T05:25:58Z,1,[10.0],[10.0],"Currently 67,263 7-day moving average"
+49937,2022-05-07T04:06:43Z,1,[90.0],[90.0],"Last spring we saw a minor peak after the winter one. The question is if this peak goes over that amount and if so, the pace at which it accelerates to it."
+422,2022-05-07T00:14:12Z,1,[0.0],[0.0],
+14603,2022-05-06T13:19:20Z,1,[0.0],[0.0],
+691,2022-05-06T12:53:56Z,3,[10.0],[8.0],
+94872,2022-05-06T03:32:40Z,3,[25.0],[5.0],
+27573,2022-05-05T20:44:13Z,1,[20.0],[20.0],
+88198,2022-05-05T19:54:28Z,3,[38.0],[14.0],
+105091,2022-05-05T18:55:04Z,1,[75.0],[75.0],"As of this writing on May 4, the seven day moving average is 61,000 and has been climbing at a rate of over 1,000 per day for the last seven days. With 23 days remaining, if the rate holds we will only be at 84,000."
+106013,2022-05-05T16:30:46Z,1,[5.0],[5.0],
+56170,2022-05-05T15:03:26Z,1,[74.0],[74.0],
+14027,2022-05-05T14:40:28Z,3,[53.0],[40.0],
+106109,2022-05-05T12:21:53Z,1,[30.0],[30.0],"As at challenge start (2 may), the current 7-day moving average of daily new cases (60,410) increased 27% compared with the 7-day moving average a week earlier (25 may) 47,510. If the 7 day moving average of daily new cases continues to increase week on week by 27%, by 23 may the 7-day moving average will be 123,741."
+94872,2022-05-05T05:01:41Z,2,[20.0],[5.0],
+95992,2022-05-05T03:18:13Z,3,[30.0],[0.0],Not a lot of time but we hit 120k cases today and this variant is looking quite transmissible:
+95992,2022-05-05T03:10:53Z,2,[30.0],[16.0],
+80790,2022-05-04T22:13:03Z,2,[4.0],[-24.0],I think the final outcome on 27 May will be between111k and 129k for the 7d moving average.
+103878,2022-05-04T20:38:30Z,2,[10.0],[9.0],
+62538,2022-05-04T17:02:36Z,1,[7.0],[7.0],
+691,2022-05-04T16:28:05Z,2,[2.0],[2.0],
+87778,2022-05-04T15:52:42Z,1,[60.0],[60.0],
+101422,2022-05-04T10:40:11Z,1,[64.0],[64.0],
+84698,2022-05-04T10:36:19Z,1,[0.0],[0.0],
+20156,2022-05-04T09:36:12Z,1,[13.0],[13.0],
+34959,2022-05-04T08:51:41Z,2,[13.0],[12.0],"It's been ~3 weeks to double from ~30k to 60k. It's not news the spread of covid has been exponential, it's hard to say with confidence that will be the case again."
+95992,2022-05-04T01:31:04Z,1,[14.0],[14.0],"Crowd forecast seems overconfident relative to the ability to forecast. A rise from 95K to 120K is not that much. Against that, it's not like we're seeing a huge rise in the UK or anything like that, so there isn't a specific foreseeable wave coming, and also the prevalance of testing is going down."
+105312,2022-05-03T20:38:02Z,1,[10.0],[10.0],"Walking into my local grocery store in Orange County, Calif, I see about 15% of people still masking-up."
+14027,2022-05-03T16:53:32Z,2,[13.0],[2.0],"Data posted today for May 2 had a 7.5% increase. It could just be the usual Monday bump. But I'll increase the odds a bit, from 11% to 13%."
+88198,2022-05-03T16:50:18Z,2,[24.0],[-39.0],
+105371,2022-05-03T15:10:27Z,1,[8.0],[8.0],
+94872,2022-05-03T11:07:10Z,1,[15.0],[15.0],
+9263,2022-05-02T22:19:22Z,1,[10.0],[10.0],
+1667,2022-05-02T20:48:32Z,2,[11.0],[-49.0],
+1667,2022-05-02T20:47:45Z,1,[60.0],[60.0],
+87155,2022-05-02T18:23:27Z,1,[6.0],[6.0],
+14027,2022-05-02T18:09:39Z,1,[11.0],[11.0],"On the surface this question looks relatively easy: the crowd of 21 forecasters is at 1%. The chosen level of 120,000 is actually very interesting. The seven-day average rate of increase is now about 2.7%. An increase to a rate of 2.93% additional new cases per day would reach 120,000 on May 27. Of course the rate of increase could flatten or even decrease. But it would not take much of an increase in reinfection rates to get to the threshold. The crowd may very well be correct, I'm just less certain. I'll start with an 11% chance."
+7053,2022-05-02T17:13:12Z,1,[1.0],[1.0],
+40636,2022-05-02T16:28:58Z,1,[0.0],[0.0],
+103878,2022-05-02T11:33:18Z,1,[1.0],[1.0],
+25013,2022-05-02T10:09:09Z,1,[1.0],[1.0],"The US daily and 7 day moving average has been consistently below 120,000 during Summer 2020 and Summer 2021. Respiratory diseases like covid and flu tend to thrive in the cool, dry conditions of Winter when coughs and sneezes carry droplets further. Further, there are no new variants to worry about (although we have multiple sub-variants of omicron). I'm allowing the small chance of a statistical blip."
+34959,2022-05-02T05:24:09Z,1,[1.0],[1.0],
+102421,2022-05-02T04:20:06Z,1,[0.0],[0.0],"If you look at the historical numbers of 7-day moving average (7dma) of covid-19 cases in the US, the last three periods when the 7dma reached >=120,000 were in winter 2020, summer 2021 and winter 2021. None of these periods include May so I will put the probability as zero."
+105570,2022-05-01T23:34:58Z,1,[6.0],[6.0],
+87175,2022-05-01T17:13:10Z,1,[10.0],[10.0],
+103942,2022-05-01T15:44:34Z,1,[20.0],[20.0],
+691,2022-05-01T14:12:54Z,1,[0.0],[0.0],
+87177,2022-05-01T08:11:05Z,1,[0.0],[0.0],
+45594,2022-05-01T07:49:19Z,1,[5.0],[5.0],
+34815,2022-05-01T06:52:25Z,1,[0.0],[0.0],
+88198,2022-05-01T01:34:59Z,1,[63.0],[63.0],
+92079,2022-04-30T23:33:27Z,1,[0.0],[0.0],
+106093,2022-04-30T17:14:42Z,1,[75.0],[75.0],
+94737,2022-04-30T16:06:35Z,1,[0.0],[0.0],
+80790,2022-04-30T10:27:58Z,1,[28.0],[28.0],Currently 55k. But will need to double in a week or so.
+60695,2022-04-30T08:40:44Z,1,[0.0],[0.0],
+88452,2022-04-30T07:01:54Z,1,[100.0],[100.0],
+70711,2022-04-29T23:44:34Z,1,[0.0],[0.0],

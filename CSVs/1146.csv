@@ -1,0 +1,602 @@
+"On 24 May 2019, will the FTSE 100 Index closing value be higher than it was on 4 April 2019?",2019-04-05T17:00:18Z,2019-05-24T06:59:18Z,No,"['Yes', 'No']","['Finance', 'Economic Indicators']",601,654,301,237,,https://www.gjopen.com/questions/1184-on-24-may-2019-will-the-ftse-100-index-closing-value-be-higher-than-it-was-on-4-april-2019
+67317,2019-05-24T06:55:39Z,10,[0.0],[0.0],
+38,2019-05-24T05:35:23Z,8,[0.0],[-22.0],"EDIT: Post Mortem . . . . On this question, I not only died, but I was buried over 500 miles under ground zero! Ouch!"
+5002,2019-05-24T05:09:07Z,2,[4.0],[-46.0],
+67515,2019-05-23T20:15:10Z,8,[2.0],[-8.0],UPD7: And the chance practically zero UPD6: Highly unlikely with S&P closing down today UPD5: And up UPD4: Not much support with free fall now. UPD3: Serious correction on trade war. UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+73477,2019-05-23T18:06:03Z,1,[12.0],[12.0],
+35217,2019-05-23T17:19:07Z,6,[10.0],[-39.0],
+41373,2019-05-23T17:13:51Z,10,[0.0],[-8.0],"postmortem edit June 1: it appears results are being recalculated. As @Emil noted the result seemed inaccurate to me too. Still, i died on this one too, @Anneinak, and agree with your analysis. There's a down-side to using an error-squared approach to calculating results: the occasional question where the forecaster and/or the crowd/median get it wrong dominates the scoreboard. Being 10% or 30% off the mark when the crowd is 20% off makes next to no difference, but being 90% or 70% off when the crowd is 80% sure does! I haven't done the math but imagine that forecasting conservatively (closer to 50% than the true probability) would pay off greatly in the long run because it's the questions with the low-probability outcome - like this one - which dominate. I've not encountered error-squared evaluation before. Root-mean-square and mean-average-error are often used for evaluating forecasts for weather, e.g., tornados or solar power; perhaps they would give less punishing/lucky results for this game."
+1333,2019-05-23T16:49:07Z,21,[24.0],[-1.0],
+11885,2019-05-23T15:45:34Z,10,[0.0],[-10.0],
+39937,2019-05-23T15:36:02Z,4,[0.0],[-3.0],
+40848,2019-05-23T14:38:05Z,11,[0.0],[-20.0],
+57797,2019-05-23T14:11:28Z,17,[10.0],[-20.0],"Edit: Post-mortem: Looks like the answer will be 'no'. Assuming that it is, I think I will have done better than I should have done if I had estimated base rate probabilities correctly. My statistical model uses base rates (in the form of historical daily movements) to build distributions for the eventual price level. However, this model assumes that volatility remains constant at its historical average. In reality, volatility varies. In particular, high volatility tends to follow high volatility. In other words, volatility is clustered. That is why economists use GARCH modeling which varies the volatility accordingly. In the case of the FTSE, the level dropped and stayed below the 4 April level, which led my model to assign a relatively high probability of 'no'. However, ideally my model would have used GARCH volatility to account for the fact that the FTSE could have easily bounced back up above the 4 April level."
+70640,2019-05-23T12:21:32Z,4,[5.0],[-65.0],
+21046,2019-05-23T11:44:31Z,5,[15.0],[-15.0],
+128,2019-05-23T11:06:04Z,25,[15.0],[-5.0],
+128,2019-05-23T11:05:11Z,24,[20.0],[-15.0],
+691,2019-05-23T10:53:56Z,28,[4.0],[-24.0],
+74084,2019-05-23T10:36:06Z,1,[31.0],[31.0],
+73710,2019-05-23T10:34:25Z,2,[25.0],[5.0],
+73455,2019-05-23T10:33:55Z,2,[43.0],[4.0],
+73456,2019-05-23T10:33:51Z,2,[4.0],[-39.0],
+73458,2019-05-23T10:33:26Z,1,[25.0],[25.0],I
+73446,2019-05-23T10:32:53Z,2,[35.0],[-15.0],I followed the peoples judgment
+73453,2019-05-23T10:32:43Z,3,[41.0],[18.0],
+73448,2019-05-23T10:32:14Z,2,[25.0],[-20.0],
+73444,2019-05-23T10:32:05Z,3,[5.0],[-20.0],
+73440,2019-05-23T10:31:47Z,4,[24.0],[-10.0],
+73234,2019-05-23T10:31:44Z,2,[10.0],[-15.0],
+73440,2019-05-23T10:31:24Z,3,[34.0],[-13.0],
+73454,2019-05-23T10:31:19Z,4,[15.0],[-17.0],
+25141,2019-05-23T10:31:12Z,17,[0.0],[-10.0],
+73447,2019-05-23T10:30:54Z,3,[10.0],[-15.0],
+73454,2019-05-23T10:30:53Z,3,[32.0],[12.0],
+41922,2019-05-23T10:21:06Z,9,[0.0],[-30.0],
+26551,2019-05-23T09:46:33Z,10,[20.0],[-5.0],
+25141,2019-05-23T07:40:53Z,16,[10.0],[-15.0],
+23006,2019-05-22T22:23:06Z,6,[49.0],[38.0],
+67515,2019-05-22T21:02:18Z,7,[10.0],[-35.0],UPD: Highly unlikely with S&P closing down today UPD5: And up UPD4: Not much support with free fall now. UPD3: Serious correction on trade war. UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+74067,2019-05-22T20:41:19Z,1,[100.0],[100.0],
+39937,2019-05-22T20:03:50Z,3,[3.0],[-8.0],
+61938,2019-05-22T19:20:59Z,5,[5.0],[-5.0],
+41373,2019-05-22T17:02:28Z,9,[8.0],[-23.0],7334; gained 0.07% today; another 0.93% to the mark with only two days left; the Dow slid a bit after FTSE closed. It's been a nail-biter!
+67444,2019-05-22T17:00:07Z,9,[1.0],[-19.0],
+73099,2019-05-22T16:49:37Z,4,[30.0],[10.0],
+691,2019-05-22T16:41:40Z,27,[28.0],[0.0],
+1333,2019-05-22T16:30:56Z,20,[25.0],[-9.0],
+30364,2019-05-22T13:01:59Z,5,[20.0],[-20.0],
+57797,2019-05-22T12:56:53Z,16,[30.0],[-5.0],
+67317,2019-05-22T12:48:08Z,9,[0.0],[-5.0],
+128,2019-05-22T12:45:24Z,23,[35.0],[-10.0],
+21884,2019-05-22T10:47:56Z,9,[30.0],[10.0],
+62808,2019-05-22T09:31:10Z,13,[35.0],[-15.0],
+67317,2019-05-22T06:50:10Z,8,[5.0],[-8.0],"7163,7241,7296,7353,7348,7310,7328 and a Thursday. Chillingly good question this one!"
+63674,2019-05-22T01:35:20Z,2,[41.0],[-13.0],
+23006,2019-05-21T22:32:33Z,5,[11.0],[-29.0],
+61904,2019-05-21T21:45:39Z,2,[45.0],[40.0],
+40848,2019-05-21T21:31:53Z,10,[20.0],[-10.0],
+25141,2019-05-21T21:07:37Z,15,[25.0],[-10.0],
+41373,2019-05-21T16:45:37Z,8,[31.0],[-14.0],Three days and 1.00% to go. All steady on Wall Street following FTSE close today.
+21046,2019-05-21T15:54:03Z,4,[30.0],[5.0],
+11885,2019-05-21T15:50:14Z,9,[10.0],[-10.0],
+61367,2019-05-21T14:48:36Z,3,[50.0],[45.0],
+691,2019-05-21T14:39:42Z,26,[28.0],[-5.0],
+57797,2019-05-21T14:16:19Z,15,[35.0],[-7.0],"Latest results of statistical model: 21%. However, the model underestimates the current volatility as it assumes volatility is what the historical average was. In contrast, the market has shown more volatility in the last week. Since volatile days tend to follow volatile days, the chance of a rebound above the 4 April level is higher than suggested by my model."
+128,2019-05-21T13:18:07Z,22,[45.0],[10.0],
+73877,2019-05-21T12:13:10Z,1,[0.0],[0.0],
+41373,2019-05-21T10:39:35Z,7,[45.0],[20.0],
+73450,2019-05-21T08:13:17Z,2,[20.0],[-25.0],
+73445,2019-05-21T08:12:41Z,2,[10.0],[-35.0],the stock is on a mini downfall and is very unlikely to go past the it's state on the 4th of April
+73449,2019-05-21T08:11:30Z,2,[40.0],[-15.0],
+73710,2019-05-21T08:10:31Z,1,[20.0],[20.0],
+73447,2019-05-21T08:10:27Z,2,[25.0],[-10.0],its dropping again
+73774,2019-05-21T08:10:25Z,1,[22.0],[22.0],
+73453,2019-05-21T08:07:56Z,2,[23.0],[-22.0],
+73444,2019-05-21T08:06:55Z,2,[25.0],[-10.0],"The stock is falling again, even though it was just increasing, but never reached the bar."
+73454,2019-05-21T08:06:53Z,2,[20.0],[-20.0],
+73234,2019-05-21T08:06:46Z,1,[25.0],[25.0],
+73441,2019-05-21T08:06:05Z,2,[40.0],[-5.0],
+73456,2019-05-21T08:05:06Z,1,[43.0],[43.0],
+20156,2019-05-21T05:12:13Z,3,[10.0],[-10.0],
+25141,2019-05-21T04:00:37Z,14,[35.0],[-5.0],
+21884,2019-05-21T01:41:30Z,8,[20.0],[0.0],7310
+57797,2019-05-21T00:00:27Z,14,[42.0],[-3.0],
+21046,2019-05-20T23:46:45Z,3,[25.0],[15.0],
+34369,2019-05-20T21:54:04Z,2,[20.0],[-54.0],
+41922,2019-05-20T20:08:35Z,8,[30.0],[-10.0],
+67317,2019-05-20T17:35:36Z,7,[13.0],[-6.0],3 days to go.
+41373,2019-05-20T17:26:22Z,6,[25.0],[-10.0],Market uncertainty continues - FTSE and DowJones both down today https://reut.rs/2Hqr9ZQ https://www.google.com/search?q=dow+jones+index&oq=do&aqs=chrome.3.69i60l3j69i59j69i57j69i61.4202j0j4&client=ms-android-asus-tpin&sourceid=chrome-mobile&ie=UTF-8
+26551,2019-05-20T15:40:29Z,9,[25.0],[-5.0],
+69317,2019-05-20T15:16:41Z,1,[51.0],[51.0],
+1333,2019-05-20T14:27:08Z,19,[34.0],[-1.0],
+128,2019-05-20T12:53:17Z,21,[35.0],[-10.0],
+62808,2019-05-20T12:14:57Z,12,[50.0],[-50.0],
+21046,2019-05-20T11:29:32Z,2,[10.0],[-25.0],
+62087,2019-05-20T09:58:01Z,10,[0.0],[-50.0],
+67817,2019-05-20T01:01:33Z,2,[0.0],[-2.0],
+71996,2019-05-19T21:59:46Z,1,[11.0],[11.0],Very high on 4th April. EU election results coming in which Brexit Party are likely to win
+128,2019-05-19T20:08:03Z,20,[45.0],[0.0],
+26551,2019-05-19T16:54:51Z,8,[30.0],[-5.0],Updated data.
+172,2019-05-19T14:26:54Z,6,[15.0],[0.0],
+691,2019-05-19T11:33:26Z,25,[33.0],[0.0],
+35217,2019-05-18T20:36:10Z,5,[49.0],[-12.0],
+691,2019-05-18T11:29:17Z,24,[33.0],[0.0],
+41373,2019-05-18T06:27:44Z,5,[35.0],[-15.0],"Closed the week 2349 after steady gains which would project into the 2450+ range at the end of next week. However the slump ten days ago was due to global uncertainty on US/China trade negotiations, and these took a backward step which hit the Dow Jones index hard yesterday. The dispute looks set to go on for at least another week. My forecast would be a confident 50/50 but is adjusted for previous overestimates (not a good habit) https://www.google.com/search?q=ftse100&oq=ftse&aqs=chrome.0.69i59j69i60j69i57j69i60j69i61j69i59.8290j1j4&client=ms-android-asus-tpin&sourceid=chrome-mobile&ie=UTF- https://www.barrons.com/articles/the-dow-jones-industrial-average-fell-99-points-worries-for-a-trade-deal- https://ca.reuters.com/article/topNews/idCAKCN1SN207-OCATP"
+70530,2019-05-18T06:25:14Z,1,[5.0],[5.0],
+20156,2019-05-18T04:59:56Z,2,[20.0],[-50.0],
+15196,2019-05-18T00:19:33Z,2,[5.0],[-75.0],
+62808,2019-05-18T00:01:12Z,11,[100.0],[78.0],
+70634,2019-05-17T22:38:19Z,2,[25.0],[0.0],
+57797,2019-05-17T20:14:04Z,13,[45.0],[25.0],Updating based on latest price. It’s less than a percentage point away.
+691,2019-05-17T19:55:16Z,23,[33.0],[7.0],
+73511,2019-05-17T10:11:55Z,1,[0.0],[0.0],
+41922,2019-05-17T08:36:31Z,7,[40.0],[-30.0],
+73452,2019-05-17T05:22:51Z,1,[45.0],[45.0],
+73448,2019-05-17T05:20:15Z,1,[45.0],[45.0],
+73449,2019-05-17T05:19:37Z,1,[55.0],[55.0],I looked at the consensus trend.
+73455,2019-05-17T05:19:31Z,1,[39.0],[39.0],based on crowd forecasting.
+73454,2019-05-17T05:19:28Z,1,[40.0],[40.0],
+73444,2019-05-17T05:18:01Z,1,[35.0],[35.0],"Right now it is at 7,353.01 and rising, but the stock market is a fickle thing and it can drop just as easily. However, the last few days have had the most consistent rise all month so there is a chance that it will rise enough to reach 7,401.94."
+73450,2019-05-17T05:17:54Z,1,[45.0],[45.0],
+73447,2019-05-17T05:17:25Z,1,[35.0],[35.0],Someone who gave a good source said this
+73445,2019-05-17T05:17:11Z,1,[45.0],[45.0],I went for what Alex-Goodwind said
+73441,2019-05-17T05:16:30Z,1,[45.0],[45.0],
+73451,2019-05-17T05:15:46Z,1,[60.0],[60.0],
+73442,2019-05-17T05:15:14Z,1,[40.0],[40.0],I followed others
+73443,2019-05-17T05:14:19Z,1,[45.0],[45.0],
+73446,2019-05-17T05:13:11Z,1,[50.0],[50.0],
+73453,2019-05-17T05:13:05Z,1,[45.0],[45.0],
+73440,2019-05-17T05:09:10Z,2,[47.0],[29.0],
+73440,2019-05-17T05:08:53Z,1,[18.0],[18.0],
+128,2019-05-16T21:51:44Z,19,[45.0],[7.0],
+62087,2019-05-16T21:05:24Z,9,[50.0],[30.0],
+1333,2019-05-16T20:32:27Z,18,[35.0],[-1.0],
+25141,2019-05-16T20:11:26Z,13,[40.0],[20.0],
+67444,2019-05-16T20:03:04Z,8,[20.0],[19.0],
+67515,2019-05-16T19:00:40Z,6,[45.0],[20.0],UPD5: And up UPD4: Not much support with free fall now. UPD3: Serious correction on trade war. UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+40848,2019-05-16T18:29:08Z,9,[30.0],[15.0],
+41922,2019-05-16T15:14:44Z,6,[70.0],[30.0],
+128,2019-05-16T14:51:34Z,18,[38.0],[8.0],
+41373,2019-05-16T09:18:07Z,4,[50.0],[40.0],
+62808,2019-05-15T23:23:20Z,10,[22.0],[-27.0],
+26551,2019-05-15T21:18:22Z,7,[35.0],[5.0],"Unemployment continues to fall, lowest since 1974. Good reaction in performance, but markets face high uncertainty."
+61938,2019-05-15T19:21:49Z,4,[10.0],[-5.0],
+73099,2019-05-15T18:54:54Z,3,[20.0],[5.0],
+11885,2019-05-15T18:32:13Z,8,[20.0],[20.0],
+57797,2019-05-15T17:48:28Z,12,[20.0],[6.0],
+36132,2019-05-15T17:26:25Z,3,[0.0],[-100.0],
+691,2019-05-15T17:22:08Z,22,[26.0],[-5.0],
+67317,2019-05-15T16:02:10Z,6,[19.0],[10.0],
+62438,2019-05-15T14:54:59Z,2,[7.0],[-8.0],
+41922,2019-05-15T14:53:05Z,5,[40.0],[10.0],
+21884,2019-05-15T07:46:53Z,7,[20.0],[-5.0],
+172,2019-05-15T01:36:14Z,5,[15.0],[-20.0],
+1333,2019-05-14T19:35:48Z,17,[36.0],[1.0],
+11430,2019-05-14T19:10:50Z,1,[15.0],[15.0],"Although the index may well exceed the April 4 levels before the summer of 2019, the rallies up to that time will be muted."
+73202,2019-05-14T16:14:53Z,1,[0.0],[0.0],
+73099,2019-05-14T15:24:59Z,2,[15.0],[-42.0],
+128,2019-05-14T13:22:59Z,17,[30.0],[5.0],
+57797,2019-05-14T13:08:30Z,11,[14.0],[6.0],
+691,2019-05-14T12:14:12Z,21,[31.0],[-13.0],
+67317,2019-05-14T11:41:44Z,5,[9.0],[-3.0],"An upward day for the UKX, now at 7,235.24GBP and +1%. Even so, getting unlikelier by the day, a dozen of reasons why."
+42417,2019-05-14T10:51:53Z,1,[5.0],[5.0],
+62808,2019-05-14T10:42:06Z,9,[49.0],[-2.0],
+39937,2019-05-14T05:57:55Z,2,[11.0],[-88.0],
+62808,2019-05-13T22:45:20Z,8,[51.0],[-24.0],
+26551,2019-05-13T21:44:04Z,6,[30.0],[-10.0],
+67444,2019-05-13T20:51:58Z,7,[1.0],[-9.0],
+67515,2019-05-13T19:13:30Z,5,[25.0],[-30.0],UPD4: Not much support with free fall now. UPD3: Serious correction on trade war. UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+57797,2019-05-13T18:49:32Z,10,[8.0],[-5.0],
+11885,2019-05-13T18:30:35Z,7,[0.0],[-5.0],
+1333,2019-05-13T18:05:21Z,16,[35.0],[-14.0],
+25141,2019-05-13T16:22:26Z,12,[20.0],[-5.0],
+31802,2019-05-13T15:07:03Z,4,[18.0],[-64.0],
+61367,2019-05-13T14:18:13Z,2,[5.0],[-82.0],
+30364,2019-05-13T13:52:37Z,4,[40.0],[-10.0],
+40848,2019-05-13T13:51:58Z,8,[15.0],[-15.0],
+128,2019-05-13T12:51:34Z,16,[25.0],[-5.0],
+691,2019-05-13T11:41:29Z,20,[44.0],[-20.0],
+67312,2019-05-13T09:59:58Z,1,[22.0],[22.0],
+25141,2019-05-13T09:30:21Z,11,[25.0],[-5.0],
+41922,2019-05-13T07:57:48Z,4,[30.0],[-10.0],
+62087,2019-05-13T03:16:31Z,8,[20.0],[-10.0],
+21046,2019-05-13T00:05:08Z,1,[35.0],[35.0],
+26551,2019-05-12T20:44:45Z,5,[40.0],[-5.0],China and Iran.
+1333,2019-05-12T20:23:39Z,15,[49.0],[-1.0],
+61904,2019-05-12T15:01:20Z,1,[5.0],[5.0],
+691,2019-05-12T12:18:26Z,19,[64.0],[0.0],
+23006,2019-05-12T02:06:46Z,4,[40.0],[-9.0],
+1333,2019-05-12T01:23:40Z,14,[50.0],[-4.0],
+23006,2019-05-12T01:15:29Z,3,[49.0],[-51.0],
+1333,2019-05-12T01:14:14Z,13,[54.0],[-1.0],
+63963,2019-05-12T00:29:09Z,3,[15.0],[-75.0],
+30364,2019-05-11T19:01:16Z,3,[50.0],[-10.0],
+73147,2019-05-11T18:18:52Z,1,[10.0],[10.0],Too much political/economic uncertainty in this period.
+691,2019-05-11T16:55:28Z,18,[64.0],[2.0],
+6978,2019-05-11T16:45:28Z,5,[0.0],[-15.0],Omega hedging.
+6978,2019-05-11T16:33:55Z,4,[15.0],[-5.0],"10 trading days remaining, estimating EWU ending range of 31.7-34.1 (vs. 4/4's 33.72 close)."
+57797,2019-05-11T15:56:54Z,9,[13.0],[-11.0],Latest results from Random Walk model that uses historical base rates.
+67317,2019-05-11T15:34:37Z,4,[12.0],[-11.0],"Doubling down one step more, on even more thorough contemplation."
+67444,2019-05-11T10:17:52Z,6,[10.0],[-25.0],
+67317,2019-05-11T09:47:13Z,3,[23.0],[-22.0],"TTT - Trump Trade Taxes, equities don’t like taxes, American or British companies doing business globally and relying on global supply chains, and market prices have not discounted for the uncertainty, until just recently and very slightly. Bearish outlook and 2 weeks time frame is short enough for surprises to occur."
+62438,2019-05-11T09:25:40Z,1,[15.0],[15.0],
+12789,2019-05-10T19:42:28Z,1,[8.0],[8.0],"I predict a market correction/sell-off coming to US markets before the end of May with contagion effect on global markets that will preclude the FTSE 100 closing higher than April 4. The April 4, 2019 close was near its all-time high in May 2018, and I do not believe it will be able to match or beat the April 4, 2019 close on May 24, 2019 because of current global trade woes and the threat of correction."
+128,2019-05-10T13:08:54Z,15,[30.0],[5.0],
+67444,2019-05-10T08:27:44Z,5,[35.0],[-15.0],
+62808,2019-05-10T08:26:13Z,7,[75.0],[-21.0],
+21884,2019-05-10T01:38:36Z,6,[25.0],[-20.0],
+73099,2019-05-09T14:21:22Z,1,[57.0],[57.0],
+57797,2019-05-09T13:48:39Z,8,[24.0],[-1.0],
+128,2019-05-09T13:34:20Z,14,[25.0],[-5.0],
+40848,2019-05-09T13:32:23Z,7,[30.0],[-5.0],
+30364,2019-05-09T11:37:28Z,2,[60.0],[-25.0],
+41922,2019-05-09T07:59:39Z,3,[40.0],[-10.0],
+25141,2019-05-09T07:47:42Z,10,[30.0],[-10.0],
+62087,2019-05-09T07:30:33Z,7,[30.0],[-10.0],
+38,2019-05-08T22:37:55Z,7,[22.0],[-23.0],US-China trade talks going poorly
+19433,2019-05-08T22:15:15Z,1,[85.0],[85.0],Models we use in trading.
+61938,2019-05-08T20:02:15Z,3,[15.0],[-50.0],
+57797,2019-05-08T15:58:31Z,7,[25.0],[-30.0],Latest results from Random Walk model.
+1333,2019-05-08T14:56:55Z,12,[55.0],[-18.0],
+691,2019-05-08T14:51:05Z,17,[62.0],[3.0],
+128,2019-05-08T13:11:39Z,13,[30.0],[-2.0],
+172,2019-05-08T04:12:49Z,4,[35.0],[-50.0],"Sell in May, walk away (I realize outdated but I already did it - sold in April)."
+62087,2019-05-07T23:33:26Z,6,[40.0],[-5.0],
+69936,2019-05-07T21:25:13Z,1,[15.0],[15.0],
+67317,2019-05-07T21:17:20Z,2,[45.0],[-50.0],"Uncertainty raises its head, the UKX has been below 7400 whole of May. Outlook sour, 16d to go."
+25141,2019-05-07T20:26:21Z,9,[40.0],[-10.0],
+26551,2019-05-07T20:00:19Z,4,[45.0],[-10.0],Updated for current value.
+67515,2019-05-07T19:05:04Z,4,[55.0],[-10.0],UPD3: Serious correction on trade war. UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+38,2019-05-07T18:04:57Z,6,[45.0],[-10.0],"7,260 earlier today. YIKES! Time to go below the horizon!"
+128,2019-05-07T16:41:20Z,12,[32.0],[-6.0],
+11885,2019-05-07T16:18:42Z,6,[5.0],[-5.0],
+40848,2019-05-07T16:10:57Z,6,[35.0],[-5.0],
+41373,2019-05-07T16:06:14Z,3,[10.0],[-20.0],"7,260.47 −120.17 (1.63%) May 7, 4:35 p.m. GMT+1"
+2825,2019-05-07T15:03:15Z,1,[60.0],[60.0],
+66744,2019-05-07T13:01:05Z,1,[65.0],[65.0],"On 24 May 2019, will the FTSE 100 close above the place it did on April 4? The crowd forecast has evened out to about 65% consistently and is more likely to be correct given the nearness of this forecast. The FTSE 100 has been and will be greatly impacted by Brexit - in early April the Brexit extension prompted a rise, so it’s likely that the more recent extension could do keep currency factors more stable. on April 4 the closing was 7,401.94, from there it’s been rising pretty steadily (except for the last few days.) Brexit isn’t the only factor, but the extension does support an increase from April barring unforeseen impacts. GDP growth is projected to increase slightly over the next year, but the U.S. China trade war could either positively or negatively impact all markets, depending on the outcome of a trade deal."
+128,2019-05-07T10:14:52Z,11,[38.0],[-7.0],
+70640,2019-05-07T08:41:06Z,3,[70.0],[-10.0],
+62087,2019-05-07T08:24:34Z,5,[45.0],[-5.0],
+12591,2019-05-07T04:28:36Z,2,[60.0],[0.0],
+12591,2019-05-07T01:44:59Z,1,[60.0],[60.0],
+6978,2019-05-07T00:38:09Z,3,[20.0],[-5.0],"Negative (from 4/4) for several trading days now, with monthly momentum sporting a bearish series of lower highs and lower lows. Today's breakdown mostly below key 33.6 pivot: http://schrts.co/yPEaRcET"
+38,2019-05-06T21:23:11Z,5,[55.0],[0.0],It's at 7380 at the moment and rising. It has been below 7401 for 6 days now.
+67444,2019-05-06T18:38:55Z,4,[50.0],[-15.0],
+691,2019-05-06T12:14:11Z,16,[59.0],[-6.0],
+21884,2019-05-06T06:22:57Z,5,[45.0],[-12.0],
+11885,2019-05-06T04:54:51Z,5,[10.0],[-10.0],
+62087,2019-05-05T23:24:59Z,4,[50.0],[-25.0],
+41373,2019-05-05T17:25:47Z,2,[30.0],[-60.0],
+691,2019-05-05T13:09:23Z,15,[65.0],[3.0],
+691,2019-05-04T19:01:23Z,14,[62.0],[0.0],
+1333,2019-05-03T20:48:00Z,11,[73.0],[-1.0],
+691,2019-05-03T19:12:23Z,13,[62.0],[-20.0],
+67817,2019-05-03T01:53:25Z,1,[2.0],[2.0],
+11885,2019-05-02T20:04:55Z,4,[20.0],[-30.0],
+40848,2019-05-02T17:35:56Z,5,[40.0],[-25.0],
+25141,2019-05-02T17:00:52Z,8,[50.0],[-20.0],
+25141,2019-05-02T15:50:48Z,7,[70.0],[-15.0],
+128,2019-05-02T12:49:41Z,10,[45.0],[-9.0],
+57797,2019-05-01T21:02:53Z,6,[55.0],[-10.0],
+11885,2019-05-01T19:55:39Z,3,[50.0],[-10.0],
+1333,2019-05-01T19:08:39Z,10,[74.0],[-1.0],
+67515,2019-05-01T18:55:33Z,3,[65.0],[-15.0],UPD2: Downgrade. Surprisingly huge disparity with S&P500. FTSE the worst performing lagging so far behind. UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+38,2019-05-01T15:53:17Z,4,[55.0],[-30.0],7385 at the moment
+128,2019-05-01T13:08:15Z,9,[54.0],[4.0],
+57766,2019-05-01T00:23:22Z,1,[45.0],[45.0],
+57797,2019-04-30T23:39:49Z,5,[65.0],[-15.0],
+67995,2019-04-30T20:55:55Z,1,[40.0],[40.0],
+25141,2019-04-30T20:37:40Z,6,[85.0],[10.0],
+72704,2019-04-30T15:49:48Z,2,[79.0],[-3.0],
+62808,2019-04-30T15:39:27Z,6,[96.0],[-1.0],
+128,2019-04-30T13:55:10Z,8,[50.0],[-5.0],
+40848,2019-04-29T19:37:52Z,4,[65.0],[8.0],
+691,2019-04-29T18:59:57Z,12,[82.0],[0.0],
+72713,2019-04-29T13:14:34Z,1,[95.0],[95.0],
+61877,2019-04-29T12:35:25Z,1,[20.0],[20.0],
+25141,2019-04-29T11:34:18Z,5,[75.0],[-10.0],
+31802,2019-04-28T18:34:38Z,3,[82.0],[-7.0],
+72719,2019-04-28T17:46:06Z,1,[65.0],[65.0],
+12879,2019-04-28T17:41:57Z,1,[81.0],[81.0],
+37379,2019-04-28T09:05:53Z,2,[80.0],[45.0],
+72707,2019-04-27T22:29:41Z,1,[60.0],[60.0],
+691,2019-04-27T21:02:52Z,11,[82.0],[0.0],
+72704,2019-04-27T17:23:50Z,1,[82.0],[82.0],
+63914,2019-04-27T10:01:47Z,1,[65.0],[65.0],"Two days after European elections, which seem likely to happen, and three weeks after the locals, so a strong indicator of attitudes to EU and likely actions after whatever action comes out about withdrawal/Article 50 etc. There could be a 'relief rally' if staying within the EU market because of the costs and problems of acting only under WTO rules, or whatever deal DT sees fit to impose (which can only be bad for the UK: he never offers any sort where he does not 'win', and he does not do 'win-win') . However, this direction will come late. Not impossible a General Election will be called at or about this date. This does not directly impact the markets but the election rhetoric might do, and could certainly unsettle announcements of major investment in FDI. Any further uncertainty or domestic problems - hate to say so, but Ireland, a hot summer in London, you name it - could affect confidence and a shift out of equities."
+593,2019-04-27T08:19:23Z,1,[85.0],[85.0],
+49359,2019-04-26T22:04:27Z,1,[20.0],[20.0],
+62808,2019-04-26T20:44:40Z,5,[97.0],[-3.0],
+35217,2019-04-26T20:10:09Z,4,[61.0],[8.0],
+21884,2019-04-26T10:17:18Z,4,[57.0],[-13.0],
+21884,2019-04-26T10:14:17Z,3,[70.0],[0.0],
+11885,2019-04-25T19:58:24Z,2,[60.0],[-40.0],
+62166,2019-04-25T14:57:35Z,1,[65.0],[65.0],
+40848,2019-04-25T13:50:12Z,3,[57.0],[-18.0],
+128,2019-04-25T13:19:28Z,7,[55.0],[-5.0],
+61938,2019-04-24T17:38:30Z,2,[65.0],[20.0],
+63498,2019-04-24T17:25:37Z,1,[70.0],[70.0],steady growth and decent economic indicators
+38,2019-04-24T17:09:05Z,3,[85.0],[-1.0],7471 and falling today.
+128,2019-04-24T15:27:49Z,6,[60.0],[-5.0],
+21884,2019-04-24T10:34:24Z,2,[70.0],[15.0],
+70640,2019-04-24T09:15:52Z,2,[80.0],[30.0],
+67258,2019-04-24T07:38:22Z,1,[72.0],[72.0],
+25141,2019-04-24T05:02:26Z,4,[85.0],[10.0],
+12426,2019-04-23T21:43:10Z,1,[25.0],[25.0],I expect a near term correction.
+67444,2019-04-23T20:22:14Z,3,[65.0],[11.0],
+63963,2019-04-23T19:08:22Z,2,[90.0],[30.0],
+691,2019-04-23T16:26:44Z,10,[82.0],[0.0],
+128,2019-04-23T13:08:51Z,5,[65.0],[5.0],
+25141,2019-04-23T08:19:13Z,3,[75.0],[5.0],
+72584,2019-04-23T04:02:04Z,1,[40.0],[40.0],A hard call. Seems to be in a holding pattern waiting for Brexit to be sorted. I feel for the people trying to run businesses in the UK at present.
+72575,2019-04-22T19:11:13Z,1,[68.0],[68.0],"With Brexit being kicked down the road, it is likely the markets will respond positively in the short run. It seems that the EU has no incentive to hold the UK to final deadline that will result in a ""hard brexit"". The more time passes, the more likely a *soft brexit* or *no brexit* solution will be negotiated, which will benefit the FTSE 100."
+128,2019-04-22T12:45:37Z,4,[60.0],[-2.0],
+691,2019-04-22T11:06:12Z,9,[82.0],[0.0],
+72548,2019-04-22T07:58:20Z,1,[67.0],[67.0],recent (5 year) history of this index
+72534,2019-04-21T20:36:05Z,1,[55.0],[55.0],Average
+1333,2019-04-21T11:53:25Z,9,[75.0],[10.0],
+62808,2019-04-21T11:45:46Z,4,[100.0],[0.0],
+72510,2019-04-21T11:14:37Z,1,[100.0],[100.0],Confident in outcome
+172,2019-04-20T21:02:06Z,3,[85.0],[0.0],
+691,2019-04-20T14:11:12Z,8,[82.0],[0.0],
+38,2019-04-19T19:20:40Z,2,[86.0],[20.0],7459
+691,2019-04-19T19:14:33Z,7,[82.0],[3.0],
+1333,2019-04-19T14:23:18Z,8,[65.0],[-10.0],
+62808,2019-04-19T13:05:16Z,3,[100.0],[21.0],
+72427,2019-04-19T10:21:14Z,1,[60.0],[60.0],
+72424,2019-04-19T10:08:38Z,1,[10.0],[10.0],
+31802,2019-04-19T10:06:18Z,2,[89.0],[2.0],
+6978,2019-04-19T03:19:04Z,2,[25.0],[5.0],"ROC(26) IS rolling over from a series of lower highs. Longest streaks > 0 have run 2-3 months, and we're now pushing 3 months. Will most likely end question with several weeks < 0."
+63817,2019-04-18T22:44:37Z,1,[35.0],[35.0],
+70541,2019-04-18T21:12:03Z,1,[85.0],[85.0],
+1333,2019-04-18T18:26:15Z,7,[75.0],[10.0],
+1333,2019-04-18T15:52:53Z,6,[65.0],[5.0],
+67444,2019-04-18T13:57:49Z,2,[54.0],[2.0],
+41373,2019-04-18T08:59:00Z,1,[90.0],[90.0],
+63858,2019-04-18T02:57:47Z,1,[90.0],[90.0],
+61986,2019-04-18T02:34:33Z,1,[90.0],[90.0],
+67632,2019-04-17T23:37:20Z,1,[75.0],[75.0],
+72345,2019-04-17T23:34:32Z,1,[45.0],[45.0],
+30364,2019-04-17T20:35:39Z,1,[85.0],[85.0],
+67515,2019-04-17T19:37:03Z,2,[80.0],[3.0],UPD: Slightly higher as good alignment with forecast below / Good world data pushing up
+67317,2019-04-17T19:34:51Z,1,[95.0],[95.0],"Was not suppose to enter new questions, but what the heck: The markets don't care about Brexit, EP elections on May 26th will have neglectable influence, all things being equal. +0.94% so far in this terrain."
+72327,2019-04-17T18:36:14Z,1,[0.0],[0.0],"The economy already benefited from preparations for Brexit. Also, losses that were scheduled did not take place, so the FTSE is higher than it should be."
+72324,2019-04-17T17:56:47Z,1,[35.0],[35.0],The Muler report will not be as damaging.
+72274,2019-04-17T05:32:09Z,1,[55.0],[55.0],
+15196,2019-04-17T04:15:33Z,1,[80.0],[80.0],
+36132,2019-04-16T22:27:11Z,2,[100.0],[100.0],
+69949,2019-04-16T18:53:04Z,1,[2.0],[2.0],No reason
+57797,2019-04-16T17:51:30Z,4,[80.0],[1.0],
+26551,2019-04-16T17:35:52Z,3,[55.0],[10.0],A round of good indicators and too short to change trend.
+25141,2019-04-16T16:34:46Z,2,[70.0],[15.0],
+40848,2019-04-16T16:00:09Z,2,[75.0],[15.0],
+72219,2019-04-16T15:43:09Z,1,[75.0],[75.0],
+72216,2019-04-16T14:35:45Z,1,[40.0],[40.0],
+522,2019-04-16T14:11:46Z,1,[75.0],[75.0],"Any Brexit damage or inactivity is factored in already, there will be no progress within the period so a slow increase will continue"
+128,2019-04-16T13:20:20Z,3,[62.0],[4.0],
+172,2019-04-16T11:51:37Z,2,[85.0],[0.0],
+41922,2019-04-16T10:41:22Z,2,[50.0],[20.0],
+72192,2019-04-16T10:27:16Z,1,[25.0],[25.0],brexit
+71973,2019-04-16T08:59:05Z,1,[75.0],[75.0],
+62087,2019-04-16T07:54:11Z,3,[75.0],[10.0],
+72180,2019-04-16T07:40:11Z,1,[100.0],[100.0],It will continue to rise.
+72143,2019-04-16T05:54:27Z,1,[100.0],[100.0],I think the prospect of upcoming vacations and warmer weather will influence more positive moods and memories of recent snow will be let go.
+72099,2019-04-16T00:59:45Z,1,[0.0],[0.0],"The stocks which formed FTSE index mainly, such as HSBC holdings, Vodafone Group, British American Tobacco, did not gain a good return in the past year. The energy related stocks are priced-in already, and the oil price has increased 40% since the lowest point in TTM. I expect the momentum of the oil price would slow down, and the profit forecasting of most of the main stocks are still ambiguous."
+72137,2019-04-16T00:32:41Z,1,[65.0],[65.0],
+72136,2019-04-16T00:19:41Z,1,[0.0],[0.0],
+70826,2019-04-15T20:16:46Z,1,[66.0],[66.0],Tax cuts
+70660,2019-04-15T15:26:57Z,1,[75.0],[75.0],
+72033,2019-04-15T13:47:08Z,1,[0.0],[0.0],
+128,2019-04-15T13:03:03Z,2,[58.0],[3.0],
+72010,2019-04-15T11:04:11Z,1,[65.0],[65.0],"There are external factors of course, but by the end of May it will still look like a reasonable solution for the Brexit debacle may be found, which will help."
+72000,2019-04-15T10:06:04Z,1,[95.0],[95.0],
+71960,2019-04-15T06:32:54Z,1,[95.0],[95.0],
+71964,2019-04-15T06:31:43Z,1,[2.0],[2.0],
+71946,2019-04-15T04:49:19Z,1,[50.0],[50.0],
+71927,2019-04-15T02:48:41Z,1,[100.0],[100.0],
+71887,2019-04-14T22:22:30Z,1,[73.0],[73.0],
+71834,2019-04-14T19:43:08Z,1,[99.0],[99.0],
+71818,2019-04-14T19:07:23Z,1,[50.0],[50.0],
+71765,2019-04-14T15:32:22Z,1,[75.0],[75.0],
+71761,2019-04-14T14:59:18Z,1,[85.0],[85.0],reasonable guess. brexit delay probably factored into plans alread
+71752,2019-04-14T14:23:59Z,1,[87.0],[87.0],"With the immediate of rusk of hard brexit easing and the quarterly results out of the office, the FTSE will be in higher bracket trading."
+29980,2019-04-14T13:21:45Z,1,[0.0],[0.0],
+71726,2019-04-14T12:30:21Z,1,[75.0],[75.0],Gutfeeling
+71696,2019-04-14T10:36:00Z,1,[80.0],[80.0],The is certainty that we wont be leaving the EU soon.
+71694,2019-04-14T10:06:07Z,1,[60.0],[60.0],Thete will be a lull in pessimism as the Brexit deadline has been moved back.
+70640,2019-04-14T09:16:59Z,1,[50.0],[50.0],"slow global growth, higher gbp could actually lead to a lower ftse, starting point is actually quite high"
+71644,2019-04-14T06:25:31Z,1,[95.0],[95.0],"Just based on what I've read and seen on news sites. Trade relations between the US and China are getting better, the US economy is chugging along and so this will have a ripple effect around the world. Since Brexit has been postponed again, there is a sense of stability there for the foreseeable future."
+71618,2019-04-14T03:58:23Z,1,[5.0],[5.0],
+71569,2019-04-14T02:01:56Z,1,[62.0],[62.0],
+71571,2019-04-14T01:10:10Z,1,[80.0],[80.0],
+70311,2019-04-14T01:06:29Z,1,[15.0],[15.0],
+62808,2019-04-14T00:32:07Z,2,[79.0],[-21.0],
+71553,2019-04-14T00:28:10Z,1,[35.0],[35.0],
+71539,2019-04-14T00:00:20Z,1,[80.0],[80.0],
+71531,2019-04-13T23:26:36Z,1,[69.0],[69.0],
+63674,2019-04-13T23:17:52Z,1,[54.0],[54.0],"According to BOE data, the option-implied probability is a hair above 50%, so that's a good base rate. The FTSE 100 is a cap-weighted index of the largest cap companies that trade on the London Stock Exchange. This is important, because not all of the companies are neither domiciled or earn a majority of their income in the UK. This is important, because it means the index is ""a weak indicator of the UK economy"" (Wikipedia)."
+71360,2019-04-13T22:16:56Z,1,[55.0],[55.0],
+71486,2019-04-13T22:07:03Z,1,[10.0],[10.0],
+71478,2019-04-13T21:48:35Z,1,[5.0],[5.0],
+71470,2019-04-13T21:41:03Z,1,[80.0],[80.0],
+71415,2019-04-13T20:49:05Z,1,[70.0],[70.0],
+71376,2019-04-13T20:23:41Z,1,[90.0],[90.0],
+71378,2019-04-13T20:20:53Z,1,[96.0],[96.0],
+71369,2019-04-13T20:20:47Z,1,[90.0],[90.0],
+71342,2019-04-13T19:41:44Z,1,[70.0],[70.0],
+71338,2019-04-13T19:31:56Z,1,[100.0],[100.0],
+71335,2019-04-13T18:58:07Z,1,[25.0],[25.0],Brexit will still be weighing on investor’s perception.
+71283,2019-04-13T16:52:40Z,1,[12.0],[12.0],"It's well above it's moving average of 7150 for the year and based on it's RSI of 64, it is closer to being overbought than oversold."
+71279,2019-04-13T15:07:54Z,2,[65.0],[61.0],
+71279,2019-04-13T15:05:08Z,1,[4.0],[4.0],Trend guess
+71260,2019-04-13T14:07:10Z,1,[5.0],[5.0],UK and Europe likely headed for recession.
+71251,2019-04-13T13:40:02Z,1,[0.0],[0.0],Crash
+71221,2019-04-13T11:48:55Z,1,[70.0],[70.0],The probability of America and China coming to the table will influence this
+71220,2019-04-13T11:45:22Z,1,[88.0],[88.0],"The stock market has grown very well for the last many years, and while a correction is expected sooner rather than later, I don't expect that to happen before May 24th which is why I'm pretty certain the market will continue its improvement."
+71196,2019-04-13T09:39:50Z,1,[25.0],[25.0],
+71187,2019-04-13T08:56:17Z,1,[60.0],[60.0],
+71179,2019-04-13T08:37:42Z,1,[60.0],[60.0],"General upward trend over time however we are late in the economic cycle and U.K. slowing down- time period matters, very hard to predict anything in a one month interval"
+71176,2019-04-13T08:36:51Z,1,[25.0],[25.0],
+71174,2019-04-13T08:20:14Z,1,[63.0],[63.0],
+71159,2019-04-13T07:47:53Z,1,[80.0],[80.0],No Brexit then
+71146,2019-04-13T06:57:29Z,1,[70.0],[70.0],"Brexit has been delayed furter, and there's ennui creeping in about the whole idea of leaving. And the EU election will further this."
+71141,2019-04-13T06:37:46Z,1,[80.0],[80.0],
+20156,2019-04-13T05:52:52Z,1,[70.0],[70.0],
+71121,2019-04-13T05:43:02Z,1,[82.0],[82.0],My ignorance is encouraging optimism before the pessimism is to set in at a later date
+71116,2019-04-13T05:32:45Z,1,[60.0],[60.0],continued incremental rising of market prices/values
+71109,2019-04-13T04:22:48Z,1,[75.0],[75.0],
+71101,2019-04-13T03:53:52Z,1,[100.0],[100.0],Trump survived Muller. Lots of IPOs happening driving market ahead of next years expected decline.
+71092,2019-04-13T03:22:13Z,1,[67.0],[67.0],
+71081,2019-04-13T02:45:49Z,1,[80.0],[80.0],
+172,2019-04-13T02:43:10Z,1,[85.0],[85.0],
+71054,2019-04-13T01:18:25Z,1,[25.0],[25.0],
+1333,2019-04-13T00:40:11Z,5,[60.0],[1.0],
+71023,2019-04-13T00:31:55Z,1,[65.0],[65.0],
+71013,2019-04-12T23:58:22Z,1,[15.0],[15.0],
+70979,2019-04-12T22:54:43Z,1,[100.0],[100.0],
+70978,2019-04-12T22:54:32Z,1,[65.0],[65.0],"America is doing better economically, in spite of the challenging political background."
+70963,2019-04-12T22:22:43Z,1,[95.0],[95.0],Brexit has been kicked down the road. Second election is unlikely.
+70924,2019-04-12T21:11:21Z,1,[30.0],[30.0],Just a guess
+70910,2019-04-12T20:52:46Z,1,[95.0],[95.0],
+691,2019-04-12T20:32:29Z,6,[79.0],[0.0],
+70885,2019-04-12T20:12:05Z,1,[73.0],[73.0],
+70884,2019-04-12T20:07:30Z,1,[80.0],[80.0],Low interests on bonds
+70390,2019-04-12T19:55:09Z,2,[45.0],[-15.0],
+70390,2019-04-12T19:49:01Z,1,[60.0],[60.0],
+70867,2019-04-12T19:37:09Z,1,[75.0],[75.0],"The general trend of stock markets is up, and there seems to me a lot of fear around that is not based in anything solid, and I expect Brexit worries to become a little less over the next month or two as signs of a sensible deal emerge."
+57797,2019-04-12T19:35:10Z,3,[79.0],[4.0],
+70810,2019-04-12T18:58:21Z,1,[90.0],[90.0],
+70835,2019-04-12T18:55:18Z,1,[95.0],[95.0],
+70754,2019-04-12T18:32:51Z,1,[70.0],[70.0],Spring then Summer
+70719,2019-04-12T18:30:03Z,1,[75.0],[75.0],
+70779,2019-04-12T18:24:26Z,1,[35.0],[35.0],It is time for a dip. A technical analysis by the eye.
+70484,2019-04-12T18:22:12Z,1,[90.0],[90.0],
+70724,2019-04-12T17:47:17Z,1,[100.0],[100.0],"Extra time for Brexit deal will make markets more optimistic, inspite of the old adage, 'sell in May and go away'"
+70705,2019-04-12T17:29:49Z,1,[0.0],[0.0],
+70711,2019-04-12T17:27:21Z,1,[70.0],[70.0],More clarity on Brexit. US-China trade negotiations clarified more
+70693,2019-04-12T17:10:02Z,1,[25.0],[25.0],
+70642,2019-04-12T16:45:09Z,2,[0.0],[-15.0],
+70642,2019-04-12T16:44:28Z,1,[15.0],[15.0],
+70634,2019-04-12T16:42:41Z,1,[25.0],[25.0],Uncertainty of Brexit
+70637,2019-04-12T16:40:47Z,1,[30.0],[30.0],
+31122,2019-04-12T16:13:54Z,1,[55.0],[55.0],
+70580,2019-04-12T16:11:53Z,1,[85.0],[85.0],based on latest trends
+70549,2019-04-12T15:43:51Z,1,[55.0],[55.0],Short duration and FTSE is already up
+70545,2019-04-12T15:38:24Z,1,[75.0],[75.0],unlikely to see much negativity in the market in this timespan
+70489,2019-04-12T14:48:15Z,1,[90.0],[90.0],"We are still in the final stages of the bull market, which will show significant final growth spurts. Current drops are due to emotion, so there is a small chance of a small correction, but the financial status of organisations remains strong."
+70487,2019-04-12T14:42:35Z,1,[35.0],[35.0],I see moderately positive outlook in eurozone politics
+30477,2019-04-12T13:52:28Z,1,[67.0],[67.0],
+70414,2019-04-12T13:21:26Z,1,[60.0],[60.0],
+70382,2019-04-12T12:44:53Z,1,[80.0],[80.0],Brexit extension Possibility uk spending increases will be announced Recent growth
+70356,2019-04-12T12:22:19Z,1,[85.0],[85.0],The economy is in reasonable shape and companies results are improving year-over-year - this is despite the government's best efforts
+70317,2019-04-12T11:38:42Z,1,[70.0],[70.0],Brexit tormol will stable for time being
+70295,2019-04-12T11:24:03Z,1,[85.0],[85.0],
+70286,2019-04-12T11:12:19Z,1,[90.0],[90.0],Cos
+70274,2019-04-12T10:52:53Z,1,[99.0],[99.0],
+70246,2019-04-12T10:18:39Z,1,[65.0],[65.0],Likely to be more clarity re Brexit
+70171,2019-04-12T05:45:35Z,1,[100.0],[100.0],I know it will
+70138,2019-04-12T02:48:15Z,1,[75.0],[75.0],"Has not yet passed highs of 2018 which could act as resistance, recent political issues in the UK must be resolved by then so pent up demand likely to push index higher."
+70137,2019-04-12T02:36:19Z,1,[65.0],[65.0],
+70104,2019-04-12T00:33:29Z,1,[70.0],[70.0],US economy has generally been doing well in recent months and I think it will likely continue to do so in the short to medium term. Nothing known or anticipated to seriously jeopardize that. Trump is on a roll with the Mueller report; that is likely to have a positive influence on the US economy and hence the FTSE. Brexit status quo given the recent extension
+70098,2019-04-11T23:56:57Z,1,[75.0],[75.0],"Exchange rate volatility will increase the level,of exports the U.K. Engage in, will lead to increased economic output"
+70077,2019-04-11T22:30:49Z,1,[80.0],[80.0],
+23006,2019-04-11T21:55:14Z,2,[100.0],[49.0],longer brexit deadline
+38,2019-04-11T21:34:04Z,1,[66.0],[66.0],"7421 yesterday, 7417 today"
+67515,2019-04-11T20:06:34Z,1,[77.0],[77.0],FTSE 100 is overweight in energy (17%) and miners (11%) sectors. With oil consolidated above $70 and commodities doing fairly well the upcoming earning season will be pretty good. This should push FTSE 100 towards support 7500-7600. With Brexit can kicked 6 months down the road £ will float around $1.30 which should avoid any currency risk surprises for earning reports. With dovish BoE and FED less worries for financials + spectacular rise in world equities since beginning of the year means financials (20%) will show good Q1. At least for now there is a chance to catch up with SP / Dow that are 10% higher than FTSE 100 on 52-week scale.
+35217,2019-04-11T19:34:25Z,3,[53.0],[8.0],"Adjusting up slightly after considering the following possible baseline: When comparing the closing values of 32 day windows (the remaining days until the question closes is about six weeks, assuming weekends as no trading days, but not considering holidays), 47% of these time windows had the index closing higher. With Brexit being delayed after the closing of the question, I see a bullish impact on the index and adjust slightly upwards."
+69904,2019-04-11T19:12:04Z,1,[25.0],[25.0],
+69950,2019-04-11T19:01:01Z,1,[65.0],[65.0],
+69903,2019-04-11T17:35:16Z,1,[75.0],[75.0],It will rise a bit untill 5.24 due to the postponement of Brexit to Fall 2019.
+69853,2019-04-11T16:29:16Z,1,[80.0],[80.0],
+69828,2019-04-11T16:05:13Z,1,[75.0],[75.0],
+31802,2019-04-11T15:46:37Z,1,[87.0],[87.0],Time series of 2019 + delay in Brexit
+1333,2019-04-11T14:13:32Z,4,[59.0],[1.0],
+69657,2019-04-11T14:12:20Z,1,[70.0],[70.0],
+69740,2019-04-11T14:11:28Z,1,[66.0],[66.0],
+69662,2019-04-11T13:33:21Z,1,[65.0],[65.0],Steady rise since beginning of the year despite uncertainties
+69670,2019-04-11T13:09:38Z,1,[0.0],[0.0],Political uncertainty over a labour government and an election will have a counter effect to current brexit initiatives
+68938,2019-04-11T12:56:02Z,1,[74.0],[74.0],FTSE is in an up trend
+691,2019-04-11T12:26:27Z,5,[79.0],[27.0],"One supposes that markets will stabilize based on the extension. One is likely to be wrong, on past form."
+69622,2019-04-11T12:20:14Z,2,[90.0],[-10.0],
+69622,2019-04-11T12:19:11Z,1,[100.0],[100.0],
+69543,2019-04-11T11:16:19Z,1,[75.0],[75.0],
+69538,2019-04-11T11:02:18Z,1,[100.0],[100.0],
+69539,2019-04-11T10:50:27Z,1,[45.0],[45.0],
+69458,2019-04-11T09:24:00Z,1,[0.0],[0.0],Sharp correction
+69467,2019-04-11T09:18:15Z,1,[0.0],[0.0],
+69426,2019-04-11T08:38:58Z,1,[80.0],[80.0],"Brexit has been delayed until October, there’s no need for the market to panic until then - money to be made. However recent manufacturing has increased in the UK due to potential shortages of goods after brexit (12 April) - shortages probably will not take place until at least October therefore demand will be reduced and production might go down too in the next few months so that might pull the index down a bit hence the 80%."
+69418,2019-04-11T08:30:59Z,1,[3.0],[3.0],Policies behind the headlines
+69381,2019-04-11T08:29:47Z,1,[34.0],[34.0],Likely announcement of GE and current disposition of government
+69339,2019-04-11T07:24:15Z,1,[48.0],[48.0],
+69335,2019-04-11T07:17:59Z,1,[75.0],[75.0],Markets more up lately than down
+69309,2019-04-11T06:55:38Z,1,[85.0],[85.0],
+62087,2019-04-11T06:30:28Z,2,[65.0],[5.0],
+69261,2019-04-11T06:19:27Z,1,[63.0],[63.0],
+69065,2019-04-11T05:58:38Z,1,[100.0],[100.0],
+69247,2019-04-11T05:51:20Z,1,[85.0],[85.0],
+69243,2019-04-11T05:46:51Z,1,[95.0],[95.0],Current trends
+26551,2019-04-11T05:43:44Z,2,[45.0],[4.0],
+69216,2019-04-11T05:36:19Z,1,[100.0],[100.0],
+5018,2019-04-11T05:32:19Z,1,[55.0],[55.0],
+69220,2019-04-11T05:26:42Z,1,[60.0],[60.0],Brexit based
+69207,2019-04-11T05:18:34Z,1,[75.0],[75.0],
+69156,2019-04-11T04:16:10Z,1,[100.0],[100.0],"Brexit pushed back to October. Global global sentiment up, albeit declining"
+69139,2019-04-11T03:57:01Z,1,[20.0],[20.0],
+69031,2019-04-11T02:43:20Z,1,[15.0],[15.0],
+69026,2019-04-11T02:05:40Z,1,[20.0],[20.0],Too much uncertainty with Trump
+68992,2019-04-11T01:48:07Z,1,[100.0],[100.0],
+69001,2019-04-11T01:47:48Z,1,[100.0],[100.0],
+68986,2019-04-11T01:34:16Z,1,[75.0],[75.0],
+68981,2019-04-11T01:33:53Z,1,[20.0],[20.0],Equity price gains this year have been anomalous; they will revert toward the mean.
+68931,2019-04-11T00:55:23Z,1,[65.0],[65.0],
+68928,2019-04-11T00:54:51Z,1,[75.0],[75.0],
+68897,2019-04-11T00:39:33Z,3,[65.0],[15.0],
+68897,2019-04-11T00:37:51Z,2,[50.0],[-35.0],
+68897,2019-04-11T00:36:21Z,1,[85.0],[85.0],
+68889,2019-04-11T00:30:31Z,1,[0.0],[0.0],
+68845,2019-04-10T23:55:48Z,1,[0.0],[0.0],It will actually fall 2 points and its possible to gain 7
+68850,2019-04-10T23:54:44Z,1,[10.0],[10.0],It's going to stagnate or fall
+68714,2019-04-10T23:16:52Z,1,[40.0],[40.0],
+57797,2019-04-10T22:51:56Z,2,[75.0],[15.0],Outside view: 52% given latest price and random walk model.
+68716,2019-04-10T22:39:21Z,1,[56.0],[56.0],
+68689,2019-04-10T22:26:35Z,1,[10.0],[10.0],Can’t see why it would be.
+68685,2019-04-10T22:18:59Z,1,[60.0],[60.0],
+68593,2019-04-10T22:13:02Z,1,[50.0],[50.0],Global political uncertainty
+68643,2019-04-10T22:07:58Z,1,[45.0],[45.0],
+68618,2019-04-10T21:54:07Z,1,[75.0],[75.0],Sell in may and go away...
+68620,2019-04-10T21:52:19Z,1,[25.0],[25.0],Economic slowdown
+68568,2019-04-10T21:43:31Z,1,[60.0],[60.0],E pect progress in us china trade talks
+62211,2019-04-10T21:42:55Z,2,[25.0],[0.0],
+68505,2019-04-10T21:41:01Z,1,[10.0],[10.0],Highly feel economy is about to crumble again.
+62211,2019-04-10T21:39:14Z,1,[25.0],[25.0],Uncertainty increases as Theresa May renegotiates for another deadline extension.
+68558,2019-04-10T21:36:32Z,1,[25.0],[25.0],
+68523,2019-04-10T21:33:59Z,1,[10.0],[10.0],I think Brexit uncertainty am a EU recession will dampen ftse performance as well as reflect a drop before a rally in the summer
+68495,2019-04-10T21:28:29Z,1,[5.0],[5.0],"fuse is already too high, it will correct"
+68480,2019-04-10T21:23:28Z,1,[73.0],[73.0],
+68465,2019-04-10T21:20:52Z,1,[60.0],[60.0],
+68445,2019-04-10T21:20:31Z,1,[65.0],[65.0],"Ftse is recovering and in an uptrend. Headwinds will be trade and brexit. Since trends are hard to break, in one months time it should be higher with roughly two thirds accuracy."
+67444,2019-04-10T21:10:09Z,1,[52.0],[52.0],
+1333,2019-04-10T20:45:11Z,3,[58.0],[1.0],
+61938,2019-04-10T19:52:46Z,1,[45.0],[45.0],
+66572,2019-04-10T18:46:09Z,1,[25.0],[25.0],
+25141,2019-04-10T13:43:03Z,1,[55.0],[55.0],
+35217,2019-04-10T07:20:14Z,2,[45.0],[10.0],Extension past the end date of the question seems to become more likely: https://www.reuters.com/article/us-britain-eu/eu-to-agree-brexit-delay-but-france-pushes-for-conditions-idUSKCN1RK2HP
+19801,2019-04-10T07:10:20Z,1,[50.0],[50.0],
+62291,2019-04-10T01:02:54Z,2,[75.0],[20.0],
+62291,2019-04-10T01:02:35Z,1,[55.0],[55.0],
+26551,2019-04-09T21:44:00Z,1,[41.0],[41.0],"Several points: FTSE 100 performance in last 6 years has always been positive in the same period. But, starting point in 2019 is the highest in the same period. Stockmarkets are surprisingly high: ""Pessimism about the world economy has grown throughout 2019. Disappointing data, tumbling bond yields, the trade war between China and America and political crisis in Britain have all played a part. The only bright spot has been mostly buoyant stockmarkets."" [1]."
+36132,2019-04-09T21:32:26Z,1,[0.0],[0.0],
+39937,2019-04-09T18:38:37Z,1,[99.0],[99.0],
+1333,2019-04-09T18:23:20Z,2,[57.0],[1.0],
+63998,2019-04-09T16:25:54Z,1,[35.0],[35.0],
+62356,2019-04-09T15:30:11Z,1,[100.0],[100.0],
+40848,2019-04-09T15:23:24Z,1,[60.0],[60.0],
+61367,2019-04-09T15:14:48Z,1,[87.0],[87.0],
+691,2019-04-09T14:53:12Z,4,[52.0],[4.0],
+32100,2019-04-09T13:44:42Z,1,[87.0],[87.0],
+67642,2019-04-09T02:08:45Z,1,[95.0],[95.0],
+62808,2019-04-08T22:51:14Z,1,[100.0],[100.0],
+68334,2019-04-08T22:33:40Z,1,[100.0],[100.0],"Immediate uncertainty about Brexit now has caused some share prices to drop. I believe that by 4 May 2019, the UK government will have agreed to a long extension to Brexit. This, in turn, will increase the prospect that the UK remains in the EU, which will cause the markets to rally."
+34369,2019-04-08T20:13:37Z,1,[74.0],[74.0],In my base case the positive technical trend continues in the short term: https://www.investtech.com/main/market.php?CompanyID=44100003&product=5
+68134,2019-04-08T18:05:52Z,1,[40.0],[40.0],
+63963,2019-04-08T15:41:43Z,1,[60.0],[60.0],
+67407,2019-04-08T14:12:13Z,1,[38.0],[38.0],
+68324,2019-04-08T12:04:12Z,1,[35.0],[35.0],
+691,2019-04-08T11:58:21Z,3,[48.0],[0.0],
+21884,2019-04-08T05:13:57Z,1,[55.0],[55.0],
+37379,2019-04-08T04:03:59Z,1,[35.0],[35.0],
+41922,2019-04-08T02:51:29Z,1,[30.0],[30.0],
+128,2019-04-07T23:39:29Z,1,[55.0],[55.0],
+5002,2019-04-07T17:14:55Z,1,[50.0],[50.0],
+691,2019-04-07T12:03:50Z,2,[48.0],[0.0],
+62087,2019-04-07T06:53:30Z,1,[60.0],[60.0],
+6978,2019-04-06T22:23:55Z,1,[20.0],[20.0],"Magic 8 Ball says, 'Don't count on it.'"
+35217,2019-04-06T14:13:18Z,1,[35.0],[35.0],Scenarios considered to occur before 24 May: - no deal Brexit (40% probability) - deal Brexit (20%) - extension (40%)
+691,2019-04-06T12:28:41Z,1,[48.0],[48.0],
+67357,2019-04-05T22:32:42Z,1,[50.0],[50.0],
+48104,2019-04-05T20:15:55Z,1,[50.0],[50.0],
+23006,2019-04-05T20:15:50Z,1,[51.0],[51.0],doom and gloom exaggerated
+57797,2019-04-05T20:11:03Z,1,[60.0],[60.0],Historical price movements imply a base rate of 50/50.
+60695,2019-04-05T20:09:09Z,1,[25.0],[25.0],
+1333,2019-04-05T17:29:46Z,1,[56.0],[56.0],
+11885,2019-04-05T17:07:52Z,1,[100.0],[100.0],

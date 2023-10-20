@@ -1,0 +1,1179 @@
+"For any seven consecutive day period between 9 October 2020 and 15 June 2021, will there be fewer than 50,000 combined total confirmed new cases of COVID-19 in the United States?",2020-10-09T17:00:07Z,2021-06-11T18:00:13Z,No,"['Yes', 'No']",['Health'],1178,654,178,237,,https://www.gjopen.com/questions/1806-for-any-seven-consecutive-day-period-between-9-october-2020-and-15-june-2021-will-there-be-fewer-than-50-000-combined-total-confirmed-new-cases-of-covid-19-in-the-united-states
+56,2021-06-14T17:53:50Z,5,[0.0],[-25.0],
+62808,2021-06-14T10:43:22Z,15,[0.0],[0.0],
+754,2021-06-14T01:50:55Z,25,[0.0],[-5.0],
+59635,2021-06-13T19:43:22Z,1,[0.0],[0.0],
+60948,2021-06-13T10:18:29Z,24,[0.0],[-5.0],
+45594,2021-06-13T07:10:59Z,6,[5.0],[-25.0],
+40584,2021-06-12T22:13:05Z,6,[0.0],[-4.0],
+97302,2021-06-12T21:44:18Z,1,[0.0],[0.0],
+88098,2021-06-12T12:32:01Z,15,[3.0],[-2.0],
+87175,2021-06-11T19:08:34Z,4,[0.0],[-5.0],
+100184,2021-06-11T17:16:56Z,5,[0.0],[-1.0],
+88198,2021-06-11T15:12:10Z,20,[0.0],[-3.0],
+88452,2021-06-11T11:50:31Z,13,[0.0],[0.0],"This question could possibly close tomorrow on 12 June 2021 (if the GJO wanted), since the last possible moving 7d window (9 June through 15 June) will have accumulated more than 50k new cases already. It is notable that Florida, which used to report about 2k new cases per day, appears to be not even included in the latest reports, since there seems to be a major testing breakdown from 06 June 2021."
+55987,2021-06-10T21:34:12Z,9,[0.0],[0.0],
+88569,2021-06-10T18:30:15Z,95,[0.0],[-4.0],
+87827,2021-06-10T15:48:57Z,16,[0.0],[-15.0],
+87897,2021-06-10T14:50:15Z,31,[0.0],[-1.0],
+89038,2021-06-10T10:10:43Z,22,[0.0],[-3.0],
+101306,2021-06-10T03:07:20Z,1,[0.0],[0.0],"50K per week is not possible since right now it is at 13K or around that number per day. With this rate, 50K will be reached in 4-5 days."
+1333,2021-06-09T18:22:35Z,83,[0.0],[-2.0],
+80790,2021-06-09T18:14:22Z,11,[0.0],[-1.0],"50k per week is 7.1k per day. WHO still reporting around 13k per day. Can go up and down in a daily basis quite alot, but it has to halve and rates are slightly increasing. So for that to happen in the next week seems a bit difficult."
+75863,2021-06-09T13:32:11Z,31,[0.0],[-5.0],
+20044,2021-06-09T13:17:11Z,26,[0.0],[-1.0],
+86367,2021-06-09T09:49:03Z,16,[1.0],[-6.0],
+783,2021-06-09T04:12:50Z,16,[2.0],[0.0],
+87897,2021-06-09T01:59:45Z,30,[1.0],[-1.0],
+50395,2021-06-08T23:44:53Z,3,[5.0],[-45.0],
+88002,2021-06-08T23:26:08Z,13,[0.0],[-3.0],
+80667,2021-06-08T22:18:17Z,1,[1.0],[1.0],1% ~ possibility of error
+94737,2021-06-08T21:32:22Z,5,[0.0],[-40.0],
+55987,2021-06-08T20:57:11Z,8,[0.0],[-1.0],
+58508,2021-06-08T20:09:57Z,18,[0.0],[-5.0],
+87897,2021-06-08T19:42:49Z,29,[2.0],[-2.0],
+88198,2021-06-08T19:19:39Z,19,[3.0],[-4.0],
+62808,2021-06-08T18:38:14Z,14,[0.0],[-51.0],
+1333,2021-06-08T18:26:44Z,82,[2.0],[-4.0],
+1333,2021-06-08T18:24:49Z,81,[6.0],[-4.0],
+14027,2021-06-08T18:18:52Z,40,[1.0],[-2.0],"Going the wrong way now. Sadly, it ain't gonna happen."
+90882,2021-06-08T16:53:12Z,11,[0.0],[-4.0],
+28899,2021-06-08T13:43:40Z,20,[0.0],[-5.0],
+15471,2021-06-08T13:32:22Z,9,[0.0],[-25.0],
+20044,2021-06-08T13:31:12Z,25,[1.0],[-2.0],
+87897,2021-06-08T11:37:47Z,28,[4.0],[-1.0],
+11817,2021-06-08T06:16:44Z,19,[0.0],[-4.0],
+58508,2021-06-08T04:47:28Z,17,[5.0],[-8.0],
+94435,2021-06-08T04:47:08Z,11,[0.0],[-3.0],
+94837,2021-06-08T04:28:23Z,22,[0.0],[-5.0],
+34959,2021-06-08T03:38:54Z,23,[0.0],[-5.0],
+94872,2021-06-08T03:37:43Z,37,[0.0],[-6.0],
+99943,2021-06-08T03:18:00Z,19,[0.0],[-40.0],"It's over. Preview of today's cases: approx 16,126. Cases are now increasing a bit and moving farther from a trend line than they have since April 14. Even if the decline continues, it can't be steep enough in time for this question. It's been fun, @JonathanMann, @CJH, @cafebedouin, @Okanaganopolis! Thanks for the discussions and for trying to save me from myself. :)"
+31275,2021-06-08T03:15:28Z,32,[0.0],[-2.0],
+754,2021-06-08T03:10:17Z,24,[5.0],[-20.0],
+87897,2021-06-08T02:50:46Z,27,[5.0],[-1.0],
+28899,2021-06-07T22:23:12Z,19,[5.0],[-5.0],
+1333,2021-06-07T19:33:46Z,80,[10.0],[-5.0],
+87827,2021-06-07T19:29:07Z,15,[15.0],[-15.0],Looks like cases may have leveled off a bit. Also could just be a reporting thing. But does seem less likely after the weekend. -15.
+86246,2021-06-07T18:15:07Z,5,[0.0],[0.0],
+60948,2021-06-07T17:56:41Z,23,[5.0],[-2.0],
+58508,2021-06-07T16:33:15Z,16,[13.0],[-12.0],
+90882,2021-06-07T13:44:28Z,10,[4.0],[-6.0],
+87897,2021-06-07T13:34:47Z,26,[6.0],[-2.0],
+96450,2021-06-07T13:29:45Z,15,[0.0],[-5.0],"6 June was below the required average (7143) with 6408 according to worldometers. But it was a sunday, usually by far the lowest number of a week. We would need a miracle to have similar numbers monday-friday this week, and those will be included in the last possible 7-day period for this question. Going all in."
+87897,2021-06-07T13:20:29Z,25,[8.0],[2.0],
+96828,2021-06-07T10:40:00Z,24,[0.0],[-5.0],I can't reason enough time.
+88452,2021-06-07T06:32:02Z,12,[0.0],[0.0],"Florida alone appears to have had approx. 12k new cases in the first six days of June, Texas has had ~9.5k new cases."
+94837,2021-06-07T05:39:48Z,21,[5.0],[-5.0],
+87897,2021-06-07T02:36:02Z,24,[6.0],[-1.0],
+20044,2021-06-07T02:12:17Z,24,[3.0],[-6.0],
+14027,2021-06-07T02:11:14Z,39,[3.0],[-4.0],"50,000 new cases per week equates to 7143 new cases per day, or about 21.5 new cases per million population (2.15 new cases per 100k population). See https://covidactnow.org/?s=1898818 for new cases per 100k population and for the reinfection rates for all 50 states plus DC."
+58508,2021-06-06T22:40:35Z,15,[25.0],[-5.0],Going down slightly after thinking about my full probability distribution for a separate question
+94737,2021-06-06T22:36:07Z,4,[40.0],[20.0],
+691,2021-06-06T19:36:16Z,24,[0.0],[-1.0],
+58508,2021-06-06T15:55:16Z,14,[30.0],[-3.0],
+99943,2021-06-06T15:47:43Z,18,[40.0],[-35.0],"I still think <50k is possible, but it would be very tight. Update 6/6: preview of June 6 cases: approx 5285. The next couple days will likely show where this is going, which almost everyone but me is very certain is not <50k. I recognize that I will probably have a terrible Brier score on this, but this is my honest prediction."
+96828,2021-06-06T07:53:50Z,23,[5.0],[4.0],1. I expect one thing and the trend drops further. 2. Risk averse forecast.
+87897,2021-06-06T01:54:15Z,23,[7.0],[3.0],h/t @elifland
+88569,2021-06-05T19:30:11Z,94,[4.0],[-1.0],
+1333,2021-06-05T19:06:34Z,79,[15.0],[-3.0],
+15471,2021-06-05T19:03:49Z,8,[25.0],[5.0],
+60948,2021-06-05T18:00:27Z,22,[7.0],[2.0],
+60948,2021-06-05T16:15:44Z,21,[5.0],[-5.0],
+80790,2021-06-05T15:55:03Z,10,[1.0],[1.0],"50k per week is 7.1k per day. Down to 14k per day, but only 10 days to go to halve rate, and that is not the rate of decline seen. Also end may holiday yet to manifest in cases."
+34959,2021-06-05T15:53:37Z,22,[5.0],[-10.0],
+1333,2021-06-05T14:49:31Z,78,[18.0],[1.0],
+87897,2021-06-05T14:23:26Z,22,[4.0],[-1.0],
+87897,2021-06-05T14:05:46Z,21,[5.0],[1.0],
+58508,2021-06-05T05:47:57Z,13,[33.0],[3.0],
+94837,2021-06-05T05:34:28Z,20,[10.0],[7.0],
+101239,2021-06-05T03:58:33Z,2,[0.0],[-100.0],Combined total cases - read the question wrong
+101239,2021-06-05T03:56:32Z,1,[100.0],[100.0],It is already 5 June and since trend is already down but have not looked at the numbers (just peeked) but yes
+99943,2021-06-05T03:08:17Z,17,[75.0],[-5.0],"Preview of June 4 cases: approx 17458. The previously linear decline is slowing slightly. Current forecast June 11 for <50k/week by WHO data, assuming WHO cases are a conservative 10% less than jhu cases. I anticipate this date will continue to shift later as time goes on; the outcome will be close, and we might not see <50k in the forecast period."
+94872,2021-06-05T02:32:29Z,36,[6.0],[3.0],
+29680,2021-06-04T23:31:41Z,2,[0.0],[-1.0],
+14027,2021-06-04T20:25:20Z,38,[7.0],[4.0],"The average Rt for the 50 states + DC fell to 0.775 on June 1, and has since risen to 0.789. See https://covidactnow.org/?s=1893813, and find the average of the ""Infection Rate"" column. The oscillating pattern with a minimum mid-week and a maximum over the weekend has continued. But the overall trend since April 20 has been down. A 6.4% per day decline will have to be sustained to get the number of new infections below 50k/wk by June 15. That's only a little faster than the current rate of decrease. The rate could be accelerating downward, but I would note that the holiday weekend caused a glitch in the curve that obscures the trend."
+87827,2021-06-04T19:17:25Z,14,[30.0],[28.0],"Cases dropped by 55,000 in the last week, if the same were to happen over the next week it would be pretty close with 4 days to spare. That's based on Our World in Data though, which looks like it might have different numbers from WHO. But this is looking a lot more plausible than I would have guessed. Going up for now."
+87827,2021-06-04T19:09:33Z,13,[2.0],[-5.0],
+754,2021-06-04T18:18:11Z,23,[25.0],[17.0],"A small few quants in this group are rising fast in their bets. I'm gonna ""hedge"" up from the crowd. however I believe at a certain number, it just won't drop ""below""."
+87897,2021-06-04T12:57:42Z,20,[4.0],[-1.0],
+88569,2021-06-04T07:20:06Z,93,[5.0],[-5.0],
+754,2021-06-04T05:13:36Z,22,[8.0],[5.0],
+99943,2021-06-04T03:42:21Z,16,[80.0],[5.0],"I think we'll likely be under 50k/week according to jhu data by around June 10-13, and according to WHO data by around June 9-12. My line predicts WHO data will be under 50k/week by June 8, but I'm allowing a few more days for the decline to slow. We may just squeak in under 50k, but I think it's likely we'll get there before June 15. (I note that the question closes with June 14 data.) PS I do note that I am perhaps the only one around who is forecasting ""yes"" so high."
+94737,2021-06-04T03:31:24Z,3,[20.0],[20.0],
+698,2021-06-04T02:02:27Z,1,[2.0],[2.0],
+88569,2021-06-03T21:48:19Z,92,[10.0],[-15.0],
+1333,2021-06-03T19:10:09Z,77,[17.0],[-2.0],
+20044,2021-06-03T17:35:01Z,23,[9.0],[-3.0],
+87897,2021-06-03T16:28:21Z,19,[5.0],[2.0],
+88198,2021-06-03T16:24:50Z,18,[7.0],[4.0],
+90882,2021-06-03T12:13:26Z,9,[10.0],[10.0],
+96828,2021-06-03T08:01:54Z,22,[1.0],[1.0],
+28899,2021-06-03T07:50:09Z,18,[10.0],[7.0],
+99943,2021-06-03T05:52:48Z,15,[75.0],[15.0],"I shouldn't forget that the WHO numbers are lower than other numbers. WHO data for the week ending May 24 are 11.6% lower than JHU data, and 16.0% lower for the week ending May 17. A linear forecast has been holding really well for the 7-day average for the past 50 days, although it's possible that the curve has started to turn. (A few days ago, I was worried that the curve might be turning upward, but that seems not to be happening, at least.) Right now, forecasting a conservative 10% undercount by WHO, the WHO should register fewer than 50k cases/week by June 8; that date may well get pushed out a few days, though."
+86367,2021-06-03T05:42:57Z,15,[7.0],[-4.0],
+94837,2021-06-03T05:36:57Z,19,[3.0],[1.0],
+99943,2021-06-03T05:36:26Z,14,[60.0],[10.0],
+58508,2021-06-03T02:43:50Z,12,[30.0],[15.0],
+96828,2021-06-03T01:54:26Z,21,[0.0],[-5.0],I think it's gonna be a matter of days or weeks but the trends say no in terms of the question's criteria. My estimate is aided by my analysis on this question that just opened: https://www.gjopen.com/questions/2025-how-many-confirmed-cases-of-covid-19-in-the-us-will-be-reported-for-the-week-ending-3-july-2021.
+100184,2021-06-02T17:50:17Z,4,[1.0],[-4.0],
+88569,2021-06-02T17:20:07Z,91,[25.0],[10.0],
+99943,2021-06-02T05:36:24Z,13,[50.0],[10.0],"Moving up to 50:50. As discussed in previous comments, a linear forecast fits the past now 49 days of 7-day average cases/day really well and slightly better than an exponential fit. At some point, the curve will turn towards zero, and it's possible that this turn has started. The holiday weekend has obscured trends, but hopefully we will know better what is going on once we have data from June 2 or 3. I choose to base my guess about where the curve will bend based on the example of Israel; if it occurred here at the same case load as in Israel, adjusted for population, it would be at ~11k cases/day. There are various reasons to think it would be different in the US (e.g., slightly higher vaccination rate in Israel would make Israel's numbers lower; later time in spring would make US numbers lower), but it's a start. We will likely be at ~11k/day by June 5 or 6. If cases continue falling linearly past that point, we'll see 50k/week by around June 9 or 10. But it's also possible that there will be an uptick in cases because fewer people are wearing masks or variants are spreading more. We'll soon know."
+88569,2021-06-01T22:11:06Z,90,[15.0],[-5.0],
+1333,2021-06-01T18:13:27Z,76,[19.0],[-8.0],
+34959,2021-06-01T15:52:52Z,21,[15.0],[14.0],
+55987,2021-06-01T14:37:45Z,7,[1.0],[0.0],
+88569,2021-06-01T13:29:31Z,89,[20.0],[13.0],
+20044,2021-06-01T13:04:19Z,22,[12.0],[4.0],
+96450,2021-06-01T10:19:28Z,14,[5.0],[2.0],
+15471,2021-06-01T08:27:56Z,7,[20.0],[0.0],"The US is probably going to miss the target value of this question by a week or so. Still needs a decline of ~14k/day. The past few weeks the decay averaged 1k/day per day, which with 14 days remaining would indicate success, but we should now start seeing pockets of the US where Covid is already eradicated and pockets where there is still a sufficient distribution to sustain community transmission. This will reduce the rate of decline (also: no idea why the case numbers no longer follow exponential growth/decline models) and probably make us miss the deadline for this question."
+99943,2021-06-01T05:30:08Z,12,[40.0],[25.0],"A lot of chaos with testing and reporting because of the holiday weekend, but I am cautiously optimistic."
+94435,2021-05-31T18:26:51Z,10,[3.0],[1.0],
+94435,2021-05-31T18:25:50Z,9,[2.0],[2.0],
+94435,2021-05-31T18:24:05Z,8,[0.0],[-3.0],
+88569,2021-05-31T17:20:59Z,88,[7.0],[3.0],
+88569,2021-05-31T17:15:40Z,87,[4.0],[1.0],
+99943,2021-05-31T14:43:08Z,11,[15.0],[12.0],"If the increase of the few days leading up to the holiday weekend were transient, then I think it's likely we'll see <50k cases in the 2nd week of June. Cases reported for yesterday (jhu data) were 52% of cases 1 week before. Cases reported for the day before were 61% of the week before. But with likely reduced testing and reporting over the holiday weekend, it's hard to know what's really going on right now. Plus, we'll likely see a rebound in reported cases on June 1 and possibly a bit on June 2. Hopefully testing and reporting will settle down by June 2 or 3."
+13086,2021-05-31T14:08:38Z,2,[2.0],[-1.0],
+1333,2021-05-31T11:13:43Z,75,[27.0],[-2.0],
+94837,2021-05-31T06:50:49Z,18,[2.0],[1.0],
+58508,2021-05-31T04:47:35Z,11,[15.0],[5.0],Continued declining trend in https://www.worldometers.info/coronavirus/country/us/ makes this seem plausible
+88569,2021-05-30T19:56:45Z,86,[3.0],[-2.0],
+754,2021-05-30T17:15:54Z,21,[3.0],[-5.0],back with crowd
+20044,2021-05-30T15:43:31Z,21,[8.0],[-2.0],
+90167,2021-05-30T15:18:55Z,7,[0.0],[0.0],"Maintaining 0%. I feel like stating the obvious this morning: the US won’t fall below 50k/week in June because vaccines don’t protect the unvaccinated. The subset of US citizens who remain unvaccinated correlates strongly to the subset who refuse to wear masks and social distance. COVID rates among this group have not declined at all since January. There is still plenty of (obstinate, selfish, misguided) tinder for the virus to burn through. Here’s an analysis from the Washington Post: https://www.washingtonpost.com/health/interactive/2021/covid-rates-unvaccinated-people/?itid=hp_pandemic%20test."
+87827,2021-05-30T13:35:35Z,12,[7.0],[-3.0],
+87897,2021-05-30T12:31:55Z,18,[3.0],[-2.0],"As per my previous comment, we would need to see a pretty steep acceleration in the *rate* of declining cases in order for this question to resolve as true. I created a chart mapping the past trajectory and various outcomes based on a 15%,20%,25%, and 30% rate of decline. I'm expecting the outcome to fall somewhere between the 15% and the 25% projections, but I'll update if any of the weekly numbers along the way resolve higher than expected. Here is the chart: https://raw.githubusercontent.com/jonathanmann/gjopen/master/weekly_covid_cases/weekly_covid_cases.png I'm using the data from the WHO dashboard linked in the question description: https://covid19.who.int/region/amro/country/us"
+94837,2021-05-30T06:49:01Z,17,[1.0],[1.0],
+88569,2021-05-30T00:05:42Z,85,[5.0],[-8.0],
+58508,2021-05-29T17:36:25Z,10,[10.0],[-3.0],
+28899,2021-05-29T17:26:28Z,17,[3.0],[-7.0],
+60948,2021-05-29T17:26:07Z,20,[10.0],[-5.0],
+58508,2021-05-29T16:26:50Z,9,[13.0],[-12.0],Feels unlikely but possible
+87897,2021-05-29T14:45:04Z,17,[5.0],[-1.0],
+99943,2021-05-29T13:20:31Z,10,[3.0],[-2.0],The decline of the past month and a half may be starting to drift from linear. I'll move to the crowd forecast until it's clear which way things are going.
+60948,2021-05-29T11:31:51Z,19,[15.0],[3.0],"A two week halving resolves this question positively, but it still seems fairly unlikely. Going up slightly 12% -> 15%"
+99943,2021-05-28T18:06:50Z,9,[5.0],[-75.0],"I think the decline in cases would likely continue to well under 50k/week in the forecast period, except that there may now be a new upturn in cases. Is this due to the spread of variants and/or people not wearing masks indoors?"
+55987,2021-05-28T14:56:53Z,6,[1.0],[0.0],
+1333,2021-05-28T14:39:28Z,74,[29.0],[7.0],
+87897,2021-05-28T13:15:59Z,16,[6.0],[-1.0],
+99943,2021-05-28T03:12:21Z,8,[80.0],[-10.0],
+99943,2021-05-28T03:03:22Z,7,[90.0],[-10.0],
+88002,2021-05-27T16:47:54Z,12,[3.0],[-1.0],
+87897,2021-05-27T13:51:49Z,15,[7.0],[-1.0],
+88452,2021-05-27T09:47:23Z,11,[0.0],[0.0],"Florida, Colorado, Michigan and probably some other states (NY, NJ, PA) with a rather large scope of premature reopenings could be crucial. CDC's idiotic waiver of masking mandate for vaccinated will protract breakthrough infections. Variants of Concern, B.1.351 and the newly declared VoC B.1.617.2 are still on the table, they are less likely to be inhibited by at least some vaccines, and will thus protract breakthrough infections and new outbreaks. A dozen of states still have a test positivity rate of >5% Two dozens of states still have a high or very high level of community transmission. And, with the relatively low positity rates in the 75% of the states, the number of tests currently is inappropriately low compared to what it should be to become aware of outbreaks early, and will be forced up, once severe outbreaks will occur (perhaps in CA next). In all, the current figures are likely to understate the risk of higher transmission levels; 7-day new cases are unlikely to fall below 70,000 before 01 July 2021, if not longer..."
+96828,2021-05-27T03:57:27Z,20,[5.0],[-2.0],"The decline only has to drop by 7.7% and it'll reach target, on average. However, there is still risk about the raw daily counts that is going to be used. I think if we used the average it may be more likely to reach target since it is less noisy than taking the raw daily counts."
+75863,2021-05-26T13:27:57Z,30,[5.0],[3.0],
+1333,2021-05-25T21:33:46Z,73,[22.0],[12.0],https://coronavirus.jhu.edu/testing/individual-states
+94910,2021-05-25T19:50:29Z,4,[2.0],[-8.0],
+754,2021-05-25T19:47:59Z,20,[8.0],[6.0],"@belikewater You've put a good fear into my thinking. @cafebedouin was strongly on this cause himself and recently stepped back towards No albeit to 25%, still well above the crowd. ."
+55987,2021-05-25T15:10:14Z,5,[1.0],[0.0],
+754,2021-05-25T13:11:21Z,19,[2.0],[-3.0],
+87897,2021-05-25T13:05:10Z,14,[8.0],[2.0],
+99943,2021-05-25T12:01:58Z,6,[100.0],[100.0],
+86367,2021-05-25T06:12:48Z,14,[11.0],[-9.0],
+88198,2021-05-25T05:47:38Z,17,[3.0],[3.0],Coming up off the bottom slightly...
+88569,2021-05-24T16:31:14Z,84,[13.0],[3.0],
+87827,2021-05-24T14:10:58Z,11,[10.0],[6.0],
+87827,2021-05-24T14:09:29Z,10,[4.0],[-3.0],
+20044,2021-05-24T13:16:50Z,20,[10.0],[-2.0],"Decreasing slightly for passage of time. Weekly cases would need to decline by closer to ~40% per week for this question to resolve as a 'Yes'. Seems unlikely given the weekly declines have been roughly half of that (i.e., ~20%) the past few weeks, but exponential dynamics are tricky. We will likely see an acceleration in declines as vaccinations continue to tick up, but unclear if it will happen quickly enough to impact this question."
+60948,2021-05-24T11:25:00Z,18,[12.0],[2.0],Going up slightly; exponential dynamics are difficult
+96450,2021-05-24T09:53:54Z,13,[3.0],[3.0],
+88569,2021-05-23T16:41:15Z,83,[10.0],[3.0],
+87897,2021-05-23T11:38:30Z,13,[6.0],[-1.0],
+87175,2021-05-23T11:19:43Z,3,[5.0],[-15.0],
+1333,2021-05-22T13:14:32Z,72,[10.0],[1.0],
+783,2021-05-22T07:16:59Z,15,[2.0],[0.0],
+101110,2021-05-21T22:33:06Z,1,[0.0],[0.0],
+88569,2021-05-21T21:30:28Z,82,[7.0],[-2.0],
+31275,2021-05-21T19:55:04Z,31,[2.0],[0.0],
+100184,2021-05-21T18:32:56Z,3,[5.0],[-7.0],
+14027,2021-05-21T17:29:32Z,37,[3.0],[-4.0],"New infections are going down fast, just not fast enough to reach 50k/wk. Reducing odds from 7% to 3%."
+34959,2021-05-21T01:34:58Z,20,[1.0],[-4.0],
+90882,2021-05-20T17:36:49Z,8,[0.0],[-5.0],
+1333,2021-05-20T10:48:50Z,71,[9.0],[1.0],
+87897,2021-05-20T03:50:30Z,12,[7.0],[2.0],ticking up again as the numbers are trending toward the optimistic side of my projections.
+96828,2021-05-20T01:04:22Z,19,[7.0],[-13.0],"I tried to use this https://viz.covid19forecasthub.org/ to estimate where it would be. It seems that around closing time, the 7-day moving average of daily cases in the US will be about half its value now—not enough to get to the resolution criteria, I suppose."
+1333,2021-05-19T13:47:18Z,70,[8.0],[-1.0],
+31275,2021-05-19T03:55:33Z,30,[2.0],[0.0],
+87827,2021-05-18T19:11:14Z,9,[7.0],[2.0],
+14027,2021-05-18T17:18:06Z,36,[7.0],[0.0],"The average Rt for the 50 states + DC has fallen to 0.85, which is about where it was two months ago. If it had stayed down this question would already be over. Instead it rose to 1.05 in early April. With only four weeks left until June 15 we would need to see a 5% decrease every day for the next month. It's not impossible, but seems unlikely given the many places where vaccination rates are low. NJ shows what can happen when herd immunity is approached. New infections have fallen off a cliff, with Rt = 0.47. Things could change (again), but if the current trend continues we will reach the 50k/week level before July 4th. I'll keep the odds at 14 to one for a YES answer."
+55987,2021-05-18T16:57:08Z,4,[1.0],[0.0],
+90882,2021-05-18T14:44:30Z,7,[5.0],[5.0],
+34959,2021-05-18T14:33:53Z,19,[5.0],[3.0],
+96828,2021-05-18T13:11:07Z,18,[20.0],[19.0],I'm seeing a close call on the horizon. Keeping tabs on that trend line and wary that numbers vary depending on source.
+20044,2021-05-18T09:20:26Z,19,[12.0],[2.0],
+28899,2021-05-18T08:08:29Z,16,[10.0],[-5.0],
+11817,2021-05-18T04:47:57Z,18,[4.0],[-40.0],
+29680,2021-05-18T03:57:18Z,1,[1.0],[1.0],
+87897,2021-05-18T00:11:50Z,11,[5.0],[1.0],h/t @yagudin - raising my estimate slightly; there's more uncertainty here than I first thought.
+60948,2021-05-17T20:41:39Z,17,[10.0],[-5.0],
+88569,2021-05-17T20:09:34Z,81,[9.0],[2.0],
+94737,2021-05-17T05:18:28Z,2,[0.0],[-100.0],
+99943,2021-05-16T20:22:16Z,5,[0.0],[-2.0],"With current nearly linear declines, my lowest forecast for the week is just over 50k. Update 5/20: Current forecast 57k. Will likely end up slightly higher."
+99943,2021-05-16T20:21:03Z,4,[2.0],[-3.0],
+98422,2021-05-16T19:14:59Z,1,[5.0],[5.0],
+58508,2021-05-16T18:25:36Z,8,[25.0],[-2.0],
+90433,2021-05-15T21:43:56Z,4,[5.0],[-10.0],
+62808,2021-05-15T14:04:31Z,13,[51.0],[16.0],
+1333,2021-05-15T13:57:00Z,69,[9.0],[-1.0],
+11447,2021-05-15T11:56:14Z,8,[5.0],[-30.0],Recent peak was just under half a million 14th April. Need about a 5% drop every day from now to get there. by 15th June. Average has been about -2.36% and only 1 in 30 days has got close. So that would suggest a probability much less than 3%.
+80790,2021-05-15T09:18:51Z,9,[0.0],[-1.0],
+101015,2021-05-14T21:43:52Z,1,[100.0],[100.0],
+99943,2021-05-14T18:34:27Z,3,[5.0],[-60.0],After a different analysis.
+99943,2021-05-14T18:29:48Z,2,[65.0],[65.0],"Cases are declining quickly right now, and their decline is not currently slowing down."
+87897,2021-05-14T12:27:57Z,10,[4.0],[-1.0],I agree with @jainsa 's expectation of approximately 75k-125k per week by June 15th.
+20156,2021-05-14T08:40:51Z,5,[0.0],[-9.0],
+15471,2021-05-13T21:09:37Z,6,[20.0],[15.0],Creeping up again. The US showed a nearly linear decrease from 70k/day on 14 April to 34k/day today. With about the same timeframe left this will come down to weeks.
+20044,2021-05-13T19:46:39Z,18,[10.0],[6.0],
+20044,2021-05-13T19:40:33Z,17,[4.0],[-4.0],
+34959,2021-05-13T05:10:27Z,18,[2.0],[-3.0],
+88002,2021-05-12T22:53:58Z,11,[4.0],[-2.0],
+100990,2021-05-12T11:45:32Z,1,[77.0],[77.0],
+88098,2021-05-12T09:53:26Z,14,[5.0],[5.0],Expecting the cases to be in the range of 75k-125k per week on 15th June. But still due to the rapid decline the possibility has increased...
+94872,2021-05-12T06:40:12Z,35,[3.0],[3.0],
+88569,2021-05-11T20:31:19Z,80,[7.0],[2.0],
+87897,2021-05-11T19:45:22Z,9,[5.0],[2.0],seeing a steeper decay than I originally projected.
+88569,2021-05-11T15:38:49Z,79,[5.0],[3.0],
+55987,2021-05-11T15:28:40Z,3,[1.0],[0.0],
+1333,2021-05-11T13:15:42Z,68,[10.0],[-1.0],
+60948,2021-05-10T10:23:55Z,16,[15.0],[5.0],
+94435,2021-05-10T04:17:50Z,7,[3.0],[0.0],
+58508,2021-05-10T03:48:29Z,7,[27.0],[-3.0],
+89038,2021-05-09T19:57:05Z,21,[3.0],[3.0],
+28899,2021-05-09T19:55:52Z,15,[15.0],[-15.0],h/t @LokiOdinevich & @JonathanMann
+914,2021-05-09T19:41:34Z,8,[5.0],[-20.0],
+754,2021-05-09T14:47:38Z,18,[5.0],[5.0],"Up from 0... After a chat with @cafebedouin I'm gonna finish this race a little carefully. I've been well ahead of the crowd on this one, so will buy a touch of last minute insurance through the last stretch till we cross the line."
+56,2021-05-09T14:34:35Z,4,[25.0],[-50.0],
+914,2021-05-08T22:49:05Z,7,[25.0],[-25.0],
+100947,2021-05-08T21:22:08Z,1,[10.0],[10.0],"Vaccine hesitancy means it will be a long time before USA gets cases below 8300 a day. Even if some states do manage to suppress the virus by getting most people vaccinated, there will be outbreaks in states where refusal is high."
+53391,2021-05-08T18:16:50Z,12,[0.0],[-2.0],
+783,2021-05-08T16:53:12Z,14,[2.0],[-12.0],"Given variants and the aggressive anti vax folks in the US, the probability is lowered."
+80790,2021-05-08T13:34:19Z,8,[1.0],[1.0],Daily average is still around 50k let alone for a week. This has remained quite stable the last few months so unlikely to drop that far by 15 June.
+88569,2021-05-07T21:37:04Z,78,[2.0],[-1.0],
+1333,2021-05-07T17:08:33Z,67,[11.0],[1.0],
+55987,2021-05-07T15:34:47Z,2,[1.0],[0.0],
+1333,2021-05-06T13:29:32Z,66,[10.0],[-5.0],
+914,2021-05-06T00:43:29Z,6,[50.0],[-15.0],
+62808,2021-05-05T18:49:08Z,12,[35.0],[-5.0],
+86785,2021-05-05T16:11:12Z,1,[0.0],[0.0],
+87897,2021-05-05T16:01:34Z,8,[3.0],[-1.0],
+28899,2021-05-05T06:06:14Z,14,[30.0],[-5.0],
+94872,2021-05-05T03:14:10Z,34,[0.0],[-3.0],
+100892,2021-05-04T22:58:15Z,1,[2.0],[2.0],"extremely unlikely -- hasn't been that low for a single day, let alone 7 consecutive. with things reopening and herd immunity next to impossible, there is a close to zero chance of this occuring"
+55987,2021-05-04T15:20:23Z,1,[1.0],[1.0],"Given the short window remaining and the current 7-day average about 5x the target rate, these odds are very low."
+20044,2021-05-04T14:16:34Z,16,[8.0],[4.0],
+34815,2021-05-04T04:10:05Z,1,[0.0],[0.0],
+34959,2021-05-03T15:24:21Z,17,[5.0],[4.0],
+1333,2021-05-03T15:21:32Z,65,[15.0],[-1.0],
+87897,2021-05-03T13:51:37Z,7,[4.0],[1.0],
+86367,2021-05-03T01:14:01Z,13,[20.0],[16.0],
+28899,2021-05-02T23:15:23Z,13,[35.0],[15.0],
+86246,2021-05-02T18:07:00Z,4,[0.0],[0.0],There is no fear or following of any guidelines for this to happen.
+12726,2021-05-02T17:33:06Z,2,[0.0],[-10.0],
+94872,2021-05-02T14:20:39Z,33,[3.0],[-3.0],
+89035,2021-05-01T20:03:25Z,10,[0.0],[-20.0],"1) vaccine hesitancy 2) as the travel picks up, the number of mandatory tests will pick up and catch higher percentage of actual cases"
+87897,2021-05-01T18:49:17Z,6,[3.0],[-2.0],"Case counts will get there, but probably not in time to count for this question."
+75863,2021-05-01T14:33:43Z,29,[2.0],[0.0],
+1333,2021-05-01T07:55:57Z,64,[16.0],[-1.0],
+96828,2021-05-01T04:48:31Z,17,[1.0],[-2.0],"I guess the only way is a linear trend downward, but the CDC ensemble (and some of the higher performing models on that contribute to the ensemble) project a flattening trend over the next month, which will stall the goal posed in the question."
+914,2021-05-01T02:24:14Z,5,[65.0],[45.0],
+11447,2021-04-30T22:38:09Z,7,[35.0],[-15.0],"Dropping. With 6 weeks to go, need a bit over 25% drop a week to get there. Was 25%ish last week I believe so the drop needs to accelerate a bit."
+97140,2021-04-30T09:30:26Z,1,[0.0],[0.0],
+94872,2021-04-30T05:41:32Z,32,[6.0],[-2.0],
+14027,2021-04-30T00:32:09Z,35,[7.0],[0.0],"Judging from the small number of updates posted for this question the crowd is very confident of the outcome. The crowd is almost certainly right, having figured it out way before me. I was way too optimistic. But I continue to follow the numbers. While binary questions have an appealing simplicity, it would be interesting to watch the forecasts evolve for a multi-bin question. Possible bins: ""On or before June 15,"" ""June 16 through July 15,"" ""July 16 through August 15,"" and ""After August 15."""
+15471,2021-04-29T21:18:06Z,5,[5.0],[-25.0],"Dropping to slightly above the crows as the US vaccination speed peaked in mid April. There is no chance, that the epidemic situation will be well enough in order to sustain <50k cases/7days. The remaining option is a refusal to count new cases, which should not happen within the next 6 weeks. I'm staying above the crowd mainly out of stubbornness, but the chance for a yes resolution is realistically gone"
+96828,2021-04-29T20:14:04Z,16,[3.0],[3.0],
+31275,2021-04-28T23:52:34Z,29,[2.0],[0.0],
+60948,2021-04-28T22:16:55Z,15,[10.0],[2.0],
+87897,2021-04-28T17:21:59Z,5,[5.0],[2.0],"currently still biasing my forecasts toward the crowd to hedge against my earlier estimates which were relatively high. Echoing the comment from my previous forecast, exponential decay in the number of infections is happening in the United States, but it's unlikely to hit less than 50k weekly confirmed new cases before this question expires especially since, as case counts continue to fall, more and more restrictions will begin to lift acting as a countervailing force. Still I think the crowd is a little bit too pessimistic here. My unweighted estimate is probably about 15%."
+1333,2021-04-28T14:35:15Z,63,[17.0],[-1.0],
+94872,2021-04-28T05:08:33Z,31,[8.0],[8.0],
+88569,2021-04-28T02:34:56Z,77,[3.0],[1.0],
+84880,2021-04-27T23:55:46Z,18,[1.0],[0.0],
+58508,2021-04-27T15:09:37Z,6,[30.0],[-10.0],
+56,2021-04-27T15:08:48Z,3,[75.0],[-25.0],"I'm going to come down a bit, but crowd clearly doesn't understand exponential curves, vaccine rates of 3 million / day and seasonality, all of which makes this much more likely than your linear progression estimates suggest."
+87897,2021-04-27T14:16:20Z,4,[3.0],[1.0],"exponential decay in the number of infections is happening in the United States, but it's unlikely to hit less than 50k weekly confirmed new cases before this question expires especially since, as case counts continue to fall, more and more restrictions will begin to lift acting as a countervailing force. Still I think the crowd is a little bit too pessimistic here."
+28899,2021-04-27T12:30:05Z,12,[20.0],[-5.0],I am mostly HODLing: https://covid19-projections.com/path-to-herd-immunity/#comparison-projected-vs-actual
+89038,2021-04-26T21:25:53Z,20,[0.0],[-3.0],
+20044,2021-04-26T20:04:47Z,15,[4.0],[-4.0],
+20044,2021-04-26T20:03:13Z,14,[8.0],[6.0],
+1333,2021-04-25T15:30:45Z,62,[18.0],[-1.0],
+96450,2021-04-25T10:05:06Z,12,[0.0],[-2.0],Going down from 64K per day back to the pre-pandemic level in only 50 days? No way.
+87175,2021-04-24T12:05:58Z,2,[20.0],[-78.0],
+87897,2021-04-23T21:24:29Z,3,[2.0],[-3.0],
+96450,2021-04-23T19:42:08Z,11,[2.0],[-1.0],
+96828,2021-04-23T08:17:04Z,15,[0.0],[0.0],
+1333,2021-04-23T06:12:45Z,61,[19.0],[-1.0],
+88198,2021-04-22T16:40:49Z,16,[0.0],[-2.0],
+1333,2021-04-22T13:33:14Z,60,[20.0],[-1.0],
+691,2021-04-21T19:36:58Z,23,[1.0],[-1.0],
+12413,2021-04-21T17:07:03Z,4,[12.0],[-53.0],
+12413,2021-04-21T17:06:35Z,3,[65.0],[20.0],
+87827,2021-04-21T14:54:31Z,8,[5.0],[-5.0],
+88569,2021-04-20T20:07:29Z,76,[2.0],[1.0],
+22689,2021-04-20T17:26:48Z,11,[0.0],[-3.0],
+745,2021-04-20T13:32:25Z,3,[2.0],[-8.0],
+14027,2021-04-20T01:53:17Z,34,[7.0],[4.0],
+1333,2021-04-19T13:47:58Z,59,[21.0],[-9.0],
+20044,2021-04-19T13:32:23Z,13,[2.0],[-4.0],
+20044,2021-04-19T13:31:40Z,12,[6.0],[-2.0],
+15471,2021-04-19T11:35:42Z,4,[30.0],[-40.0],I start to get nervous with me being still very high on this question. Especially since Israel's vaccination effort effectively stalled at 60%. If the US were to experience a similar slow down this would show up towards the end of this question (really the only interesting part though). So far the US is still slightly accelerating its distribution. If the US behaves similar to Israel it should start seeing effects in about a month.
+34959,2021-04-19T04:39:15Z,16,[1.0],[-2.0],
+94872,2021-04-19T03:40:46Z,30,[0.0],[0.0],
+914,2021-04-19T02:06:37Z,4,[20.0],[-50.0],
+60948,2021-04-18T20:51:49Z,14,[8.0],[-2.0],Down after looking at my calibration curves.
+31275,2021-04-18T19:57:40Z,28,[2.0],[-10.0],
+53391,2021-04-18T12:58:35Z,11,[2.0],[-2.0],
+70711,2021-04-18T08:34:49Z,4,[0.0],[-100.0],"time to throw in the towel, I think.. I was always an outlier on this question.. the numbers will drop off the current plateau (rising) as vaccination continues apace.. just not in the time frame of this question."
+31275,2021-04-18T01:34:35Z,27,[12.0],[-9.0],
+88569,2021-04-17T23:15:36Z,75,[1.0],[-2.0],
+89035,2021-04-17T21:55:40Z,9,[20.0],[-10.0],"On reluctance to vaccines, Turkey and India spikes"
+78239,2021-04-17T15:45:26Z,6,[0.0],[-5.0],
+1333,2021-04-17T13:26:09Z,58,[30.0],[-2.0],
+75863,2021-04-16T15:28:47Z,28,[2.0],[-1.0],
+89038,2021-04-16T07:40:16Z,19,[3.0],[-5.0],
+1333,2021-04-15T15:47:05Z,57,[32.0],[-9.0],
+75863,2021-04-15T15:09:39Z,27,[3.0],[-1.0],
+96450,2021-04-15T09:14:18Z,10,[3.0],[-1.0],
+88569,2021-04-14T15:25:43Z,74,[3.0],[-2.0],
+13086,2021-04-14T09:57:52Z,1,[3.0],[3.0],
+89035,2021-04-14T05:46:13Z,8,[30.0],[10.0],On Israel improving to 170 cases a day
+62808,2021-04-13T22:23:23Z,11,[40.0],[-11.0],
+89038,2021-04-13T19:18:48Z,18,[8.0],[-2.0],
+1333,2021-04-13T14:00:14Z,56,[41.0],[-2.0],
+87897,2021-04-13T13:11:28Z,2,[5.0],[-20.0],
+94872,2021-04-13T05:53:24Z,29,[0.0],[-5.0],
+14027,2021-04-12T21:58:56Z,33,[3.0],[-4.0],"Chile has vaccinated a larger portion of its population than the US (https://ourworldindata.org/covid-vaccinations?country=), but they have nearly double the infection rate (https://ourworldindata.org/covid-cases). Once they started vaccinating they thought they no longer needed social distancing. They were wrong, and the US is following their lead. We in the US are fortunate to have a more effective vaccine, but we are far from herd immunity. And the clock is running down on this question -- only nine weeks left."
+20044,2021-04-12T14:26:05Z,11,[8.0],[2.0],
+62808,2021-04-12T12:18:03Z,10,[51.0],[2.0],
+62808,2021-04-12T12:17:50Z,9,[49.0],[-2.0],
+1333,2021-04-11T13:42:30Z,55,[43.0],[-12.0],
+60948,2021-04-11T13:39:11Z,13,[10.0],[-5.0],Update slightly downwards after looking at my calibration charts.
+88569,2021-04-11T05:32:10Z,73,[5.0],[-3.0],
+1333,2021-04-10T15:37:08Z,54,[55.0],[-5.0],
+14027,2021-04-09T23:25:56Z,32,[7.0],[-10.0],
+89038,2021-04-09T21:05:55Z,17,[10.0],[-4.0],
+88569,2021-04-09T17:19:00Z,72,[8.0],[-2.0],
+96828,2021-04-09T09:10:19Z,14,[0.0],[-1.0],
+84880,2021-04-09T03:19:57Z,17,[1.0],[0.0],Everybody please go get vaccinated so we don't have to forecast any more COVID-19 questions.
+31275,2021-04-09T01:05:31Z,26,[21.0],[-19.0],
+31275,2021-04-09T01:03:50Z,25,[40.0],[34.0],
+96795,2021-04-08T20:35:21Z,3,[3.0],[0.0],
+1333,2021-04-08T13:33:31Z,53,[60.0],[-1.0],
+92232,2021-04-08T10:47:42Z,1,[0.0],[0.0],
+88452,2021-04-08T09:55:12Z,10,[0.0],[0.0],
+1333,2021-04-07T13:26:16Z,52,[61.0],[-2.0],
+11817,2021-04-07T02:44:55Z,17,[44.0],[4.0],
+95707,2021-04-05T13:40:17Z,2,[5.0],[-15.0],
+1333,2021-04-05T13:23:50Z,51,[63.0],[-1.0],
+20044,2021-04-05T13:18:49Z,10,[6.0],[-3.0],
+62808,2021-04-04T18:10:01Z,8,[51.0],[-24.0],
+62808,2021-04-04T18:09:35Z,7,[75.0],[39.0],
+89038,2021-04-04T10:05:35Z,16,[14.0],[-6.0],
+1333,2021-04-03T19:29:02Z,50,[64.0],[-16.0],
+28899,2021-04-03T16:38:09Z,11,[25.0],[-25.0],Moderating.
+34959,2021-04-03T13:53:03Z,15,[3.0],[-2.0],
+60948,2021-04-03T13:05:56Z,12,[15.0],[-5.0],
+754,2021-04-03T12:44:07Z,17,[0.0],[-5.0],
+60948,2021-04-03T11:52:18Z,11,[20.0],[-5.0],"Going slightly down, seeing as how the aggregate is so confident."
+11817,2021-04-03T04:46:41Z,16,[40.0],[-4.0],
+11817,2021-04-03T04:42:56Z,15,[44.0],[18.0],
+14027,2021-04-02T23:06:51Z,31,[17.0],[6.0],
+14027,2021-04-02T23:06:21Z,30,[11.0],[0.0],"Like @Ruslan-Fazlyev, I'm looking at Israel, where new infections are falling at a rate of nearly 50% per week. See https://ourworldindata.org/covid-cases, and plot Israel on a log scale. The fall has been steep since about March 10."
+89035,2021-04-02T16:41:07Z,7,[20.0],[14.0],"Israel is improving fast, updating my forecast."
+87897,2021-04-02T13:20:08Z,1,[25.0],[25.0],
+1333,2021-04-01T14:49:28Z,49,[80.0],[-1.0],
+15471,2021-04-01T06:47:42Z,3,[70.0],[-10.0],"Going down a bit to the stable numbers right now. I would have expected to observe at least a slight reduction already. Since that didn't happen, I'm backing off a bit. But I still think this should shake out at least very close."
+100184,2021-04-01T00:04:51Z,2,[12.0],[-38.0],
+100184,2021-04-01T00:03:30Z,1,[50.0],[50.0],
+31275,2021-03-31T20:52:53Z,24,[6.0],[3.0],
+88569,2021-03-31T16:07:32Z,71,[10.0],[5.0],
+20156,2021-03-31T08:22:43Z,4,[9.0],[-16.0],
+88569,2021-03-30T16:31:52Z,70,[5.0],[-1.0],
+87827,2021-03-30T14:41:48Z,7,[10.0],[2.0],
+1333,2021-03-30T13:58:27Z,48,[81.0],[-9.0],
+11447,2021-03-30T07:05:47Z,6,[50.0],[15.0],I would be higher without the crowd.
+767,2021-03-30T03:39:38Z,3,[0.0],[-25.0],
+11817,2021-03-29T23:28:07Z,14,[26.0],[-3.0],
+88569,2021-03-28T17:03:52Z,69,[6.0],[1.0],
+1333,2021-03-28T13:19:50Z,47,[90.0],[-1.0],
+60948,2021-03-28T13:08:50Z,10,[25.0],[5.0],
+754,2021-03-28T02:57:06Z,16,[5.0],[-10.0],
+28899,2021-03-27T18:06:31Z,10,[50.0],[-16.0],
+96450,2021-03-27T15:08:41Z,9,[4.0],[-1.0],
+94837,2021-03-27T12:40:58Z,16,[0.0],[-1.0],
+99943,2021-03-27T04:50:26Z,1,[0.0],[0.0],"It's the variants (aided by poor policy choices) vs. the vaccines (aided by natural immunity and warmer weather). Which will win? We might get below a moving 7-day average of 50k cases/day for 7 days in a row (but probably not). But I can't picture a total of <50k cases for 1 week, i.e., 7.1k cases/day avg. Not yet. The US is clearly on a path to allowing every nonvaccinated person to become infected."
+96828,2021-03-26T21:10:05Z,13,[1.0],[0.0],I'm even more pessimistic than my previous forecast. But 3 months is a lot of time left. So I will remain at 1%.
+86367,2021-03-26T15:42:03Z,12,[4.0],[-20.0],
+1333,2021-03-26T13:15:51Z,46,[91.0],[-1.0],
+14027,2021-03-26T02:36:16Z,29,[11.0],[-12.0],"Between mid-January and mid-February new infections dropped fast. It must have been due to good behavior and a lack of new, more-transmissive mutations. Now we seem to have to worst of all worlds -- a nasty B.1.1.7 mutation and a return to risky behavior. It didn't have to be this way, but I have to be realistic. It's time to play defense."
+31275,2021-03-25T22:31:54Z,23,[3.0],[-2.0],
+90167,2021-03-25T19:19:57Z,6,[0.0],[-2.0],
+914,2021-03-25T00:42:41Z,3,[70.0],[15.0],
+89035,2021-03-24T13:39:32Z,6,[6.0],[-9.0],"With a population of 10M, and 1000 cases a day, Israel is now at 7*1000*40 = 280,000 equivalent. And they are considerably ahead of the US in vaccination and are much more strict on lockdowns. More new strains are getting discovered, too. So I'll bring this down to 6%, and I'd say if the US even hits the 50k threshold, that's because of lack of testing in some states."
+1333,2021-03-24T13:20:35Z,45,[92.0],[-2.0],
+94837,2021-03-24T10:31:41Z,15,[1.0],[-1.0],
+1333,2021-03-24T06:49:21Z,44,[94.0],[-1.0],
+62808,2021-03-23T21:51:56Z,6,[36.0],[0.0],
+58508,2021-03-23T14:32:23Z,5,[40.0],[8.0],
+20044,2021-03-23T13:07:23Z,9,[9.0],[1.0],
+60948,2021-03-23T11:57:38Z,9,[20.0],[5.0],
+60948,2021-03-23T11:24:30Z,8,[15.0],[6.0],
+95613,2021-03-22T18:24:13Z,3,[51.0],[46.0],
+1333,2021-03-22T13:27:39Z,43,[95.0],[-4.0],
+87827,2021-03-22T13:05:37Z,6,[8.0],[-2.0],"-2 as the decline has flattened out. We're still much closer to the ballpark, but I think there will be enough vaccine hesitancy during the question period to keep cases from dropping that low, though I could see down to 100k cases a week or something like that happening."
+14027,2021-03-22T01:34:25Z,28,[23.0],[12.0],"I've posted frequently on this question, so if you're tired of me feel free to skip this diatribe."
+88002,2021-03-21T18:13:39Z,10,[6.0],[-1.0],
+28899,2021-03-21T06:47:15Z,9,[66.0],[46.0],
+691,2021-03-20T18:18:47Z,22,[2.0],[-2.0],
+88569,2021-03-20T16:40:40Z,68,[5.0],[-1.0],
+45936,2021-03-20T14:16:31Z,2,[15.0],[5.0],March 15th (unconfirmed figures?) 313M cases on weekly basis. 11st March 98M doses of vaccin administered.
+89038,2021-03-20T12:35:23Z,15,[20.0],[-5.0],
+94872,2021-03-20T07:54:15Z,28,[5.0],[-2.0],
+14027,2021-03-19T19:51:19Z,27,[11.0],[-36.0],"Having lost time to virus denialism, the US has been stuck with a mitigation strategy, i.e., just keep the ICU's functioning. We put incredible stress on our healthcare professionals so that we could minimize the short-term pain of closing down the economy. Of course it didn't work, we eventually had to shut down anyway."
+1333,2021-03-19T13:25:19Z,42,[99.0],[-1.0],
+75863,2021-03-19T12:41:48Z,26,[4.0],[-3.0],
+96828,2021-03-19T12:39:19Z,12,[1.0],[-3.0],The math and psychology just doesn't add up. I will get to 0 if I see no major changes in the next few days. I will revise upward if I see a drastic drop or tangible potential for one.
+96450,2021-03-19T10:33:30Z,8,[5.0],[-2.0],
+70711,2021-03-19T04:41:26Z,3,[100.0],[0.0],"I seem to be an outlier. Not changing my prediction yet. The original prediction was based on the cumulative effect of ramping up of vaccination, superimposed upon the large numbers of infected/recovered patients. I did not factor in the cumulative effect of variants and the active effort (Hannity) to disrupt the vaccination effort. I still think the current plateau will give way to a decline."
+94435,2021-03-19T03:12:13Z,6,[3.0],[-10.0],
+11447,2021-03-18T21:49:57Z,5,[35.0],[6.0],Moving up. Biden has said he hopes everyone has been offered a vaccine by end of May. Israeli cases look to be continuing to drop sharply at c 55% vaccinated albeit not yet at the c. 200 a day that would be consistent with the US hitting 50k a week. I want to do more work on this when the Israeli outcome becomes clearer but felt I should not wait for some upwards movement.
+88569,2021-03-18T21:39:58Z,67,[6.0],[-4.0],
+34959,2021-03-18T04:34:56Z,14,[5.0],[-4.0],
+31275,2021-03-17T14:57:44Z,22,[5.0],[3.0],
+96541,2021-03-17T14:36:59Z,3,[0.0],[0.0],"Everything is opening up again, and the new variants aren't going away. Although vaccinations are going to go up, I don't think it will go down this much by then."
+87064,2021-03-17T12:37:12Z,4,[5.0],[-75.0],
+96828,2021-03-17T10:45:31Z,11,[4.0],[2.0],
+89038,2021-03-17T10:33:31Z,14,[25.0],[5.0],
+84880,2021-03-17T02:56:20Z,16,[1.0],[-2.0],
+80790,2021-03-17T01:01:16Z,7,[0.0],[-2.0],"We’re still running at 50k per day. Seems a dream that it was ever as low as 50k a week, or that it will ever be again. Sure it will, just not before June 21"
+86715,2021-03-16T14:53:24Z,2,[3.0],[1.0],
+11817,2021-03-15T20:02:12Z,13,[29.0],[-7.0],
+60948,2021-03-15T19:56:23Z,7,[9.0],[-1.0],
+94872,2021-03-15T02:21:44Z,27,[7.0],[-3.0],
+75863,2021-03-14T23:55:51Z,25,[7.0],[5.0],
+88569,2021-03-14T18:23:35Z,66,[10.0],[-10.0],
+45936,2021-03-14T14:21:39Z,1,[10.0],[10.0],
+60948,2021-03-14T13:26:26Z,6,[10.0],[-5.0],
+88098,2021-03-14T11:16:48Z,13,[0.0],[-5.0],
+14266,2021-03-13T20:00:19Z,9,[0.0],[-5.0],
+60948,2021-03-13T15:45:41Z,5,[15.0],[-5.0],
+94837,2021-03-13T08:36:04Z,14,[2.0],[-1.0],
+96450,2021-03-12T19:08:14Z,7,[7.0],[4.0],
+96828,2021-03-12T18:38:51Z,10,[2.0],[-3.0],
+91561,2021-03-12T16:10:29Z,8,[6.0],[0.0],
+87827,2021-03-12T13:39:24Z,5,[10.0],[5.0],"+5. Cases appear to be continuing to drop. Still seems unlikely to me as 50k a week is very low, but we're at least approaching the ballpark now. I think most people who want one will have been vaccinated by middle of May, but I would guess there will be enough who don't want it or are just too lazy to go get it right away that weekly cases won't drop below 50k."
+13657,2021-03-12T06:44:19Z,14,[0.0],[-1.0],
+49359,2021-03-12T00:45:43Z,2,[100.0],[60.0],We have the beginnings of a controlled pandemic.
+14027,2021-03-11T23:17:59Z,26,[47.0],[-24.0],"In light of recent trends I'm forced to curb my optimism, down from 71% to 47%."
+90167,2021-03-10T20:48:04Z,5,[2.0],[-5.0],
+94872,2021-03-10T09:13:14Z,26,[10.0],[5.0],
+691,2021-03-09T19:25:04Z,21,[4.0],[2.0],
+34959,2021-03-09T14:06:32Z,13,[9.0],[4.0],
+11817,2021-03-09T12:42:35Z,12,[36.0],[15.0],
+15471,2021-03-09T08:40:29Z,2,[80.0],[0.0],Tl;dr: I don't understand the pessimism of the crowd forecast (but I'll happily admit that I'm a bit optimistic). @cafebedouin @Bobbiekar52 @Anneinak @SE_Meyer
+88452,2021-03-08T22:26:00Z,9,[0.0],[0.0],
+88569,2021-03-08T21:48:29Z,65,[20.0],[12.0],
+96795,2021-03-08T21:48:29Z,2,[3.0],[-17.0],
+89038,2021-03-08T19:01:35Z,13,[20.0],[4.0],
+60948,2021-03-08T09:42:47Z,4,[20.0],[-5.0],
+60948,2021-03-08T09:28:41Z,3,[25.0],[8.0],
+88569,2021-03-08T06:48:37Z,64,[8.0],[3.0],
+89038,2021-03-08T01:02:22Z,12,[16.0],[2.0],
+754,2021-03-07T21:40:38Z,15,[15.0],[10.0],On Jan 31st I wrote: 4 1/2 months till close. 7143/day for 7 days is how low new cases must fall to. Today is still 20X that number
+98108,2021-03-07T20:57:59Z,3,[0.0],[-4.0],
+22689,2021-03-07T17:13:30Z,10,[3.0],[-7.0],
+60948,2021-03-07T15:13:12Z,2,[17.0],[5.0],
+28899,2021-03-07T15:11:24Z,8,[20.0],[18.0],
+60948,2021-03-07T15:09:39Z,1,[12.0],[12.0],
+58508,2021-03-07T15:09:38Z,4,[32.0],[-8.0],
+22689,2021-03-06T21:23:28Z,9,[10.0],[-40.0],
+96559,2021-03-06T14:20:13Z,2,[5.0],[4.0],Vaccine Rollout
+58508,2021-03-06T13:41:20Z,3,[40.0],[-2.0],
+58508,2021-03-06T13:40:25Z,2,[42.0],[7.0],
+96450,2021-03-06T12:06:44Z,6,[3.0],[-2.0],
+14027,2021-03-05T23:19:29Z,25,[71.0],[0.0],"According the the 2010 US Census there were just over 51M Americans over the age of 65. It's probably higher now, maybe about 53M. See https://en.wikipedia.org/wiki/Demographics_of_the_United_States. The CDC reports that over 54M US residents have received at least one vaccine dose. See https://covid.cdc.gov/covid-data-tracker/#vaccinations."
+88569,2021-03-05T21:52:03Z,63,[5.0],[-3.0],
+94872,2021-03-05T00:29:38Z,25,[5.0],[-5.0],
+94837,2021-03-04T20:47:39Z,13,[3.0],[-2.0],
+75863,2021-03-04T19:47:55Z,24,[2.0],[0.0],
+88569,2021-03-04T19:46:32Z,62,[8.0],[1.0],
+90433,2021-03-04T18:44:50Z,3,[15.0],[-20.0],Not likely with Texas and Mississippi opening the doors for Covid's return.
+88569,2021-03-03T23:03:20Z,61,[7.0],[2.0],
+88569,2021-03-03T19:27:12Z,60,[5.0],[1.0],
+691,2021-03-03T18:02:12Z,20,[2.0],[-3.0],
+89038,2021-03-03T14:25:06Z,11,[14.0],[-6.0],
+89038,2021-03-03T10:14:06Z,10,[20.0],[0.0],"If Biden's pledge of finishing adult vaccination by end of May happens, then the week commencing 8th of June does become possible. Ambitious target and far from certain both variables above happen, but do feel 5% crowd forecast low."
+88198,2021-03-03T01:47:23Z,15,[2.0],[-1.0],
+90882,2021-03-03T01:29:55Z,6,[0.0],[-2.0],
+90882,2021-03-03T01:29:42Z,5,[2.0],[-7.0],
+86367,2021-03-03T00:58:09Z,11,[24.0],[-14.0],
+88569,2021-03-02T22:25:33Z,59,[4.0],[-2.0],TX gov Abbott decision to end mask mandate now greatly increases odds of a 4th wave. Expect some other big states to follow his lead off the cliff.
+80475,2021-03-02T20:28:14Z,1,[1.0],[1.0],"Don't see how that's possible in the timeframe. Israel, which has administered almost 1 dose for every one of its citizens at this point, still had about 25,000 new cases in the past week. (Israel's population is 1/36th that of the US.) One difference is that these days most cases in Israel are asymptomatic, so if that's the case in the US by late May/early June, it's possible that the US will be much less aggressive about testing, under a best-case vaccine rollout scenario."
+28899,2021-03-02T18:55:27Z,7,[2.0],[-3.0],
+11817,2021-03-02T16:59:33Z,11,[21.0],[2.0],
+94837,2021-03-02T14:09:47Z,12,[5.0],[-5.0],And back to 5
+88569,2021-03-02T02:50:36Z,58,[6.0],[-2.0],
+31275,2021-03-02T01:49:27Z,21,[2.0],[-3.0],
+53391,2021-03-01T23:28:36Z,10,[4.0],[-6.0],Reducing to 4%
+88569,2021-03-01T20:36:49Z,57,[8.0],[-2.0],
+89135,2021-03-01T20:05:41Z,8,[0.0],[-20.0],https://www.cnn.com/2021/03/01/health/us-coronavirus-monday/index.html
+89038,2021-03-01T19:38:39Z,9,[20.0],[-8.0],
+767,2021-03-01T03:25:08Z,2,[25.0],[15.0],
+88569,2021-02-28T22:10:38Z,56,[10.0],[-6.0],
+75863,2021-02-28T17:24:07Z,23,[2.0],[-3.0],
+86554,2021-02-28T13:50:55Z,5,[0.0],[-2.0],
+11447,2021-02-28T09:20:17Z,4,[29.0],[-4.0],Continuing to watch and monitor. The roll out of the easier to distribute vaccines should start shortly but that is not as quick as I had anticipated. Extra money should help but that is also not there yet.
+28899,2021-02-28T07:53:54Z,6,[5.0],[-2.0],
+94872,2021-02-28T05:04:16Z,24,[10.0],[5.0],
+14027,2021-02-28T00:32:20Z,24,[71.0],[14.0],"3.1 million vaccine doses were delivered today, a very positive trend. I'll bite, increase odds to 71% (again). See https://covid19-projections.com/path-to-herd-immunity/"
+89135,2021-02-27T23:15:33Z,7,[20.0],[18.0],"Am increasing likelihood (from 2%), probably will regret it. I have deep concerns about the downward trend continuing as we lift restrictions. I believe it will be a ""pass"" for those who do not wish to get a vaccination and/or wear a mask. Also concerned about new variations, and our ability to continue to vaccinate. But we are closer to those numbers than we were in October, so I believe an adjustment is warranted."
+11817,2021-02-27T19:14:44Z,10,[19.0],[5.0],
+90882,2021-02-27T15:43:02Z,4,[9.0],[-3.0],
+14027,2021-02-26T20:41:56Z,23,[57.0],[-30.0],"The average reinfection rate for the 50 states + DC has increased from 0.82 to 0.87 over the past three days. It's now at its highest level since Jan 31. That's the bad news. The good news is that vaccine shipments are also way up, reaching 2.6 million doses yesterday after falling well below one million. See https://covid19-projections.com/path-to-herd-immunity/."
+91561,2021-02-26T20:13:45Z,7,[6.0],[0.0],
+34959,2021-02-26T04:52:05Z,12,[5.0],[-7.0],
+783,2021-02-25T22:56:24Z,13,[14.0],[0.0],
+96828,2021-02-25T10:00:10Z,9,[5.0],[0.0],
+91561,2021-02-24T21:51:00Z,6,[6.0],[1.0],
+691,2021-02-24T19:51:56Z,19,[5.0],[-1.0],
+88198,2021-02-24T17:16:25Z,14,[3.0],[-1.0],
+90882,2021-02-24T03:10:34Z,3,[12.0],[-5.0],
+94872,2021-02-24T01:40:58Z,23,[5.0],[-5.0],
+80790,2021-02-23T22:09:41Z,6,[2.0],[-16.0],
+89038,2021-02-23T20:57:53Z,8,[28.0],[3.0],
+14027,2021-02-23T20:05:45Z,22,[87.0],[4.0],"Vaccine supply will increase in the coming weeks, according to congressional testimony by Pfizer, Moderna, and J&J. See https://www.washingtonpost.com/health/2021/02/23/vaccine-distribution-pfizer-moderna/."
+96450,2021-02-23T16:59:37Z,5,[5.0],[0.0],
+754,2021-02-23T14:01:05Z,14,[5.0],[-10.0],
+94872,2021-02-23T02:01:00Z,22,[10.0],[-5.0],
+1333,2021-02-22T20:25:47Z,41,[100.0],[35.0],and its Orange Mans Fault.
+31275,2021-02-22T16:51:54Z,20,[5.0],[-10.0],
+31275,2021-02-22T16:51:29Z,19,[15.0],[-15.0],
+34959,2021-02-22T14:29:07Z,11,[12.0],[5.0],
+45594,2021-02-21T13:21:42Z,5,[30.0],[0.0],
+28899,2021-02-21T12:31:49Z,5,[7.0],[-3.0],
+59023,2021-02-21T05:55:50Z,1,[2.0],[2.0],
+94872,2021-02-21T04:48:17Z,21,[15.0],[-20.0],
+86554,2021-02-21T01:13:39Z,4,[2.0],[-4.0],
+89135,2021-02-21T01:02:05Z,6,[2.0],[0.0],"I continue to be below the crowd average in spite of the falling numbers. As always, I hope my fears are unjustified."
+88569,2021-02-20T20:59:25Z,55,[16.0],[1.0],
+28899,2021-02-20T16:45:52Z,4,[10.0],[5.0],
+96828,2021-02-20T03:09:58Z,8,[5.0],[-4.0],
+14027,2021-02-20T01:14:13Z,21,[83.0],[26.0],"The average Rt for the 50 states + DC is 0.818 [see https://covidactnow.org/?s=1609553], and new infection numbers have continued to fall [see https://covid19.who.int/region/amro/country/us]. Today the number of tests increased to nearly 1.9M, with only 4% positivity [see https://covidtracking.com/data/national]. If the weather is messing with the numbers we'll know within a week or so. Until then I'll follow the data, which is amazingly good."
+94910,2021-02-19T17:12:38Z,3,[10.0],[-10.0],
+88569,2021-02-19T16:59:28Z,54,[15.0],[2.0],
+88002,2021-02-19T03:44:39Z,9,[7.0],[-2.0],
+14027,2021-02-19T00:23:38Z,20,[57.0],[4.0],"Bloomberg headline -- ""A U.S. Vaccine Surge Is Coming, With Millions of Doses Promised."" It seems the Biden administration is trying hard not to overpromise, but apparently a lot of vaccine is about to come out of the pipeline. Vaccination rates could increase rapidly after the weather clears in much of the country. And many geographies have put in place more capacity to give shots; they're just waiting for shipments to arrive."
+88569,2021-02-18T20:09:51Z,53,[13.0],[-3.0],
+1333,2021-02-18T16:01:24Z,40,[65.0],[-1.0],
+28899,2021-02-18T13:19:39Z,3,[5.0],[1.0],
+84880,2021-02-18T06:37:58Z,15,[3.0],[-2.0],https://www.theatlantic.com/ideas/archive/2021/02/why-covid-19-cases-are-falling-so-fast/618041/?utm_source=feed
+86554,2021-02-17T23:59:14Z,3,[6.0],[5.0],
+90882,2021-02-17T22:30:13Z,2,[17.0],[-21.0],
+75863,2021-02-17T15:08:42Z,22,[5.0],[1.0],
+94837,2021-02-17T07:33:47Z,11,[10.0],[5.0],"5 > 10 Regression to the mean, as cases drop sharply in the US"
+80790,2021-02-16T23:15:42Z,5,[18.0],[-6.0],"The past week had about 600k cases. Last time there were 50k cases in a week it was March 2020 (how long ago does that seem!) We have just over 4months to reach that level. With a significant pc of population that will have already had COVID (27m cases confirmed from a population of 330m 8% confirmed by tests. Assume conservative x3 for asymptomatique non tested cases this is 24% now). Plus vaccinations we should expect infection rates to start dropping off. Plus if it is a winter virus like flu (as seems evidenced by the Southern Hemisphere) then rates should start dropping off as the weather gets warmer. Therefore it is possible to get there by June, it just feels totally unrealistic at the moment. Dropping forecast a little, but not as low as the crowd."
+78239,2021-02-16T19:26:59Z,5,[5.0],[-15.0],
+97501,2021-02-16T18:26:42Z,1,[0.0],[0.0],"10/9/2020 to 2/8/2021= the minimum is about 324,000 the last week= about 670,000"
+754,2021-02-16T16:30:23Z,13,[15.0],[12.0],
+90882,2021-02-16T03:12:20Z,1,[38.0],[38.0],
+88569,2021-02-15T21:30:41Z,52,[16.0],[2.0],
+1333,2021-02-15T12:10:08Z,39,[66.0],[2.0],
+94872,2021-02-15T02:55:42Z,20,[35.0],[-15.0],
+31275,2021-02-15T02:52:13Z,18,[30.0],[25.0],
+88569,2021-02-14T23:37:59Z,51,[14.0],[4.0],
+691,2021-02-14T17:24:54Z,18,[6.0],[2.0],
+94837,2021-02-14T17:08:36Z,10,[5.0],[1.0],Regression to the mean
+1333,2021-02-14T14:12:44Z,38,[64.0],[-1.0],
+88452,2021-02-14T12:11:55Z,8,[0.0],[0.0],""" 'Two factors, however, can slow or even reverse the declines that have begun,' the IHME team said. The first factor is the spread of the B.1.1.7 variant, which was first identified in the UK and experts warned could become the dominant strain in the US by spring. Data from the Centers for Disease Control and Prevention shows more than 980 cases of the variant have so far been detected across 37 states. The second factor, according to the IHME team, is 'increased behaviors that favor COVID-19 transmission.' 'Transmission has been contained over the winter through mask wearing, decreased mobility, and avoidance of high-risk settings such as indoor dining,' the team said. 'As daily case counts decline and vaccination increases, behaviors are likely to change towards increased risk of transmission.'"
+88569,2021-02-14T08:33:22Z,50,[10.0],[1.0],
+94872,2021-02-12T02:01:15Z,19,[50.0],[30.0],
+88569,2021-02-11T20:59:31Z,49,[9.0],[2.0],
+25780,2021-02-11T18:31:54Z,3,[100.0],[10.0],
+94872,2021-02-11T03:02:09Z,18,[20.0],[12.0],
+94872,2021-02-11T03:01:31Z,17,[8.0],[6.0],
+94872,2021-02-11T02:57:54Z,16,[2.0],[-2.0],
+14027,2021-02-11T02:04:55Z,19,[53.0],[6.0],"Since peaking in mid-January new infections have fallen steadily at a rate of about two and a half to three percent per day. Plotted on a logarithmic graph it's a fairly straight line. Extrapolating the line gets us below 50k/week in late May. I believe the decline will continue for at least another month, or maybe two. In six weeks we'll be at 250k/week, which matches the lows reached around Labor Day 2020. That's where things could go haywire."
+94910,2021-02-10T20:39:28Z,2,[20.0],[-40.0],
+88569,2021-02-10T20:37:21Z,48,[7.0],[1.0],
+691,2021-02-10T16:39:38Z,17,[4.0],[-2.0],
+1333,2021-02-10T14:50:15Z,37,[65.0],[1.0],
+62808,2021-02-10T01:07:25Z,5,[36.0],[-13.0],
+94837,2021-02-09T21:01:08Z,9,[4.0],[1.0],
+91561,2021-02-09T20:43:45Z,5,[5.0],[0.0],
+11817,2021-02-09T16:22:21Z,9,[14.0],[2.0],
+86367,2021-02-09T14:54:24Z,10,[38.0],[19.0],
+13657,2021-02-09T11:50:55Z,13,[1.0],[-19.0],
+13657,2021-02-09T11:39:07Z,12,[20.0],[-20.0],
+14027,2021-02-09T01:36:57Z,18,[47.0],[4.0],The numbers are heading in the right direction.
+88569,2021-02-09T00:20:35Z,47,[6.0],[-2.0],
+88569,2021-02-08T21:34:00Z,46,[8.0],[-2.0],
+13657,2021-02-08T15:25:09Z,11,[40.0],[-20.0],
+88569,2021-02-07T22:56:58Z,45,[10.0],[-1.0],
+31275,2021-02-07T21:42:29Z,17,[5.0],[-3.0],
+1333,2021-02-07T15:36:29Z,36,[64.0],[-1.0],
+78239,2021-02-07T13:06:11Z,4,[20.0],[-30.0],
+28899,2021-02-07T08:30:11Z,2,[4.0],[-1.0],
+88198,2021-02-06T22:35:15Z,13,[4.0],[-1.0],
+88569,2021-02-06T22:01:27Z,44,[11.0],[-4.0],
+1333,2021-02-06T08:18:57Z,35,[65.0],[-1.0],
+88098,2021-02-06T04:01:18Z,12,[5.0],[-2.0],
+91561,2021-02-05T22:31:48Z,4,[5.0],[0.0],
+94837,2021-02-05T08:20:06Z,8,[3.0],[-2.0],
+84880,2021-02-05T02:32:31Z,14,[5.0],[0.0],
+88569,2021-02-04T22:01:43Z,43,[15.0],[3.0],
+88569,2021-02-04T17:51:58Z,42,[12.0],[-3.0],
+86367,2021-02-04T15:58:37Z,9,[19.0],[-9.0],
+88452,2021-02-04T14:56:36Z,7,[0.0],[0.0],"""The Escape Mutant"" is not a movie title, sadly, but the likely reason why all vaccination will not be enough to bring cases that low; the E484K mutation is present in both the South African variant and one of the Brazilian variants P.1 https://newsinfo.inquirer.net/1392129/explainer-the-3-variants-of-sars2"
+94872,2021-02-04T06:34:15Z,15,[4.0],[-1.0],
+14027,2021-02-04T02:05:36Z,17,[43.0],[-10.0],"Still following the ""Gu model."" See https://covid19-projections.com/path-to-herd-immunity/ It predicts reaching the threshold just after the June 15 end date."
+88569,2021-02-03T19:44:46Z,41,[15.0],[-3.0],
+98108,2021-02-03T19:04:14Z,2,[4.0],[-2.0],"Despite the rapid reduction in cases the United States still has over 100,000 new COVID-19 cases a day."
+34959,2021-02-03T14:52:01Z,10,[7.0],[2.0],
+1333,2021-02-03T14:51:38Z,34,[66.0],[1.0],
+20044,2021-02-03T14:40:42Z,8,[8.0],[-4.0],
+87827,2021-02-03T11:23:23Z,4,[5.0],[-3.0],"Staying ahead of the crowd and this just seems very unlikely, that's an extremely low number of cases."
+88198,2021-02-02T05:52:18Z,12,[5.0],[-1.0],
+84880,2021-02-02T00:42:36Z,13,[5.0],[-4.0],"Question is, how likely is this to be a sustained decline? ...or will we see a fourth wave keep that average up? I can imagine people getting overconfident and celebrating too early. Maybe we'll be wrong... maybe."
+11817,2021-02-01T23:41:13Z,8,[12.0],[2.0],
+62808,2021-02-01T23:02:22Z,4,[49.0],[-1.0],
+94872,2021-02-01T02:50:24Z,14,[5.0],[-2.0],
+96828,2021-02-01T02:39:34Z,7,[9.0],[1.0],
+96828,2021-02-01T02:20:38Z,6,[8.0],[4.0],
+79461,2021-01-31T23:19:23Z,1,[5.0],[5.0],
+754,2021-01-31T22:24:48Z,12,[3.0],[1.0],"CORRECTION 5 1/2 Months till Close, so softening 1 point on the bet."
+31275,2021-01-31T22:23:47Z,16,[8.0],[-6.0],
+31275,2021-01-31T22:23:06Z,15,[14.0],[-16.0],
+754,2021-01-31T22:20:37Z,11,[2.0],[-6.0],4 1/2 months till close.
+40584,2021-01-31T22:17:06Z,5,[4.0],[-46.0],
+75863,2021-01-31T21:43:27Z,21,[4.0],[-1.0],
+53391,2021-01-31T19:51:43Z,9,[10.0],[0.0],My big assumption is the number of asymptomatic infections. This Nature article places eate at 17% https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.nature.com/articles/d41586-020-03141-3&ved=2ahUKEwiV1qnc9MbuAhVOdt8KHfiDD4EQFjAKegQIHxAB&usg=AOvVaw1U3_SEdFdh573UL-53A_wu
+96797,2021-01-31T16:47:20Z,2,[55.0],[52.0],"21 weeks remaining with a 1.1 million case tally this last week. Current who data has us the last 3 weeks decreasing at 12 and 20%, 20%respectively. There's not much data I can find on historical decreases of disease with this large a vaccine push, so we'll just use the average of those as our best guess decrease in cases, so 16% decrease per week. (1.1 mil)(.84)^21= 28,265 cases per week by mid-June if we continually decrease at the rate of the last 3 weeks. CDC ""ensemble"" forecasts have a spread of roughly 100%, so we'll take that as an assumption and use that as our high end, giving us a range of 28,265 to 56,531, leaving 73% of our range below the 50k a week threshold."
+96450,2021-01-31T11:32:41Z,4,[5.0],[1.0],
+691,2021-01-30T18:23:04Z,16,[6.0],[-2.0],
+58508,2021-01-30T17:10:40Z,1,[35.0],[35.0],
+98228,2021-01-30T16:45:51Z,1,[2.0],[2.0],
+1333,2021-01-30T14:26:26Z,33,[65.0],[10.0],
+14027,2021-01-30T02:31:03Z,16,[53.0],[10.0],"New case numbers have been marching steadily downward since mid-January. I'll bet on the trend continuing, but won't go all in."
+94872,2021-01-30T01:02:57Z,13,[7.0],[0.0],
+80790,2021-01-29T21:26:50Z,4,[24.0],[-14.0],
+91561,2021-01-29T19:24:34Z,3,[5.0],[-5.0],"Increased transmissibility among new variations. Slow vaccine rollout/significant amount of population is hesitant to take vaccine. Even during the periods of summer that had the lowest number of cases, we were seeing 150,000-250,000+ new cases per week... I believe it will take us a long time to get <50k/week, probably not until late 2021 or even sometime in 2022."
+1333,2021-01-29T18:09:53Z,32,[55.0],[7.0],
+89038,2021-01-29T16:42:36Z,7,[25.0],[-15.0],
+89135,2021-01-29T12:06:48Z,5,[2.0],[-3.0],Time and more spreadable variations.
+88569,2021-01-28T21:31:39Z,40,[18.0],[-2.0],
+76440,2021-01-28T20:39:00Z,1,[15.0],[15.0],
+84880,2021-01-28T05:21:21Z,12,[9.0],[-6.0],
+14027,2021-01-27T19:11:05Z,15,[43.0],[12.0],"As more people personally know someone who has gotten a shot, vaccine hesitancy is decreasing. See https://www.bloomberg.com/news/articles/2021-01-27/share-of-americans-who-want-covid-vaccine-growing-poll-finds?sref=x7nYEkiY."
+88569,2021-01-27T18:36:20Z,39,[20.0],[6.0],
+13657,2021-01-27T03:32:09Z,10,[60.0],[-39.0],
+14027,2021-01-27T02:41:54Z,14,[31.0],[-40.0],"Moderating my optimism due to new strains, plus states are lifting some COVID restrictions. See https://www.bloomberg.com/news/articles/2021-01-26/u-s-states-ease-covid-restrictions-even-as-variants-take-hold?sref=x7nYEkiY. What we could achieve and what we will achieve are two different things."
+94837,2021-01-26T21:18:32Z,7,[5.0],[-3.0],
+98108,2021-01-26T20:58:21Z,1,[6.0],[6.0],
+1333,2021-01-26T14:18:25Z,31,[48.0],[-1.0],
+89035,2021-01-26T04:34:52Z,5,[15.0],[-15.0],Adjusting for the new strains
+14027,2021-01-25T20:20:05Z,13,[71.0],[-16.0],"President Biden was criticized first for being unrealistic with the ""100M vaccines in 100 days"" goal. Yesterday on the Sunday morning weekly news programs (This Week, Fareed Zakaria, and Meet the Press), the criticism was that the goal of 100M vaccines was not ambitious enough. My bet is that the Biden administration will push harder for faster vaccination. It's clear that everything else the Democrats want to achieve will depend on getting SARS-COV-2 under control. So the motivation is certainly there."
+1333,2021-01-25T14:24:56Z,30,[49.0],[9.0],
+96450,2021-01-25T11:05:58Z,3,[4.0],[-1.0],"Last time we had that, was mid March 2020. Even if they should manage to inoculate 150M people by then AND seasonal effects should be positive, there is still almost now way to get that low by 15 June."
+94435,2021-01-25T05:37:39Z,5,[13.0],[-22.0],
+96828,2021-01-25T04:37:38Z,5,[4.0],[-7.0],
+53391,2021-01-24T20:18:50Z,8,[10.0],[-10.0],"New York Post : Fauci: Joe Biden's 100 million COVID-19 shots pledge means doses, not people. https://nypost.com/2021/01/24/fauci-joe-bidens-100m-shots-does-not-mean-100m-people/ So that is 67 million people, assuming no doses are wasted. Note pfizer says it is counting the ""extra sixth dose"" in a five dose vial as part of jts contract delivery, so to me that means less than 66 million people. Also infection rate is dropping. Were at 200k now at 167k. Herd immunity requires vaccination and infections to get to 80 percent of us population. Looks like a slow burn now."
+88569,2021-01-24T19:23:02Z,38,[14.0],[-7.0],
+90167,2021-01-24T16:36:20Z,4,[7.0],[-9.0],
+34959,2021-01-24T13:52:07Z,9,[5.0],[2.0],2 point bump on the back of the announcement that a target of 100M vaccines should be rolled out by May.
+45594,2021-01-24T08:00:37Z,4,[30.0],[-20.0],
+754,2021-01-24T03:52:02Z,10,[8.0],[-7.0],
+22689,2021-01-24T01:53:04Z,8,[50.0],[-5.0],
+88569,2021-01-23T20:16:47Z,37,[21.0],[-4.0],
+88569,2021-01-23T20:12:20Z,36,[25.0],[-8.0],
+87827,2021-01-23T15:41:24Z,3,[8.0],[-7.0],"-7 on passage of time and the length of the current wave. Still optimistic on a significant reduction in cases in the timeframe, but 50k in a week is extremely low."
+86367,2021-01-23T14:17:37Z,8,[28.0],[-20.0],
+20156,2021-01-23T08:33:34Z,3,[25.0],[-15.0],
+88569,2021-01-22T23:12:42Z,35,[33.0],[-17.0],
+11447,2021-01-22T21:08:17Z,3,[33.0],[-17.0],Going to the lower end of the range from my previous rationale. Roll out not going great and AZ not yet approved but new administration will likely look to turbo charge this.
+88569,2021-01-22T20:12:23Z,34,[50.0],[10.0],
+88766,2021-01-22T18:24:24Z,18,[0.0],[-10.0],
+88098,2021-01-22T12:11:21Z,11,[7.0],[-3.0],
+94872,2021-01-22T04:52:06Z,12,[7.0],[-3.0],
+88766,2021-01-21T19:47:42Z,17,[10.0],[-4.0],
+88569,2021-01-21T18:08:01Z,33,[40.0],[5.0],
+75863,2021-01-21T16:16:00Z,20,[5.0],[0.0],
+20044,2021-01-21T16:13:20Z,7,[12.0],[2.0],
+1333,2021-01-21T14:39:26Z,29,[40.0],[1.0],
+97097,2021-01-21T08:19:58Z,3,[50.0],[-15.0],
+88198,2021-01-21T05:07:38Z,11,[6.0],[-1.0],
+94872,2021-01-21T03:02:40Z,11,[10.0],[-8.0],
+14266,2021-01-21T01:19:52Z,8,[5.0],[-7.0],
+88766,2021-01-20T15:48:21Z,16,[14.0],[-3.0],
+94872,2021-01-20T05:53:55Z,10,[18.0],[-32.0],
+88002,2021-01-20T04:36:41Z,8,[9.0],[-21.0],
+754,2021-01-19T20:34:05Z,9,[15.0],[-5.0],
+88569,2021-01-18T20:05:57Z,32,[35.0],[-15.0],
+94837,2021-01-18T16:09:03Z,6,[8.0],[-7.0],"15 > 8 Tendency to get a COVID vaccine has become, which is both grotesque and foreseeable, a partisan issue: https://www.pewresearch.org/science/2020/12/03/intent-to-get-a-covid-19-vaccine-rises-to-60-as-confidence-in-research-and-development-process-increases/ Many Trump voters will not get the vaccine and thus it is not really likely that the new infections (at the moment 1-2 million per week) will go down to less than a 1/20 compared to now."
+20044,2021-01-18T13:54:47Z,6,[10.0],[2.0],
+96450,2021-01-18T08:07:41Z,2,[5.0],[-5.0],
+88198,2021-01-18T04:08:04Z,10,[7.0],[-1.0],
+754,2021-01-18T03:39:55Z,8,[20.0],[-5.0],
+691,2021-01-17T17:23:49Z,15,[8.0],[-8.0],
+75863,2021-01-16T20:18:24Z,19,[5.0],[1.0],
+11817,2021-01-16T17:33:17Z,7,[10.0],[-3.0],
+745,2021-01-16T14:20:00Z,2,[10.0],[-15.0],There is little indication that enough people will be vaccinated or behaving well In the near future
+1333,2021-01-16T14:10:13Z,28,[39.0],[1.0],
+14027,2021-01-16T02:09:23Z,12,[87.0],[0.0],"COVID infection has been shown to provide the same level of protection as the best vaccines. The referenced UK study did not assess the rate of reinfection for the new B.1.1.7 mutation, but will do that over the next three months."
+86715,2021-01-15T20:52:11Z,1,[2.0],[2.0],
+31275,2021-01-15T16:12:20Z,14,[30.0],[-10.0],
+94872,2021-01-15T01:26:14Z,9,[50.0],[25.0],
+48709,2021-01-14T22:52:43Z,2,[70.0],[0.0],Today's numbers 230K for total cases. Total deaths 386K CFR ==(in%) 1.65 ...
+89135,2021-01-14T21:40:36Z,4,[5.0],[-10.0],Lowering from 15 to 5.
+84880,2021-01-14T19:14:32Z,11,[15.0],[-12.0],
+88198,2021-01-14T18:28:38Z,9,[8.0],[-1.0],
+88766,2021-01-14T18:03:16Z,15,[17.0],[-3.0],
+96828,2021-01-14T07:34:45Z,4,[11.0],[8.0],
+86663,2021-01-14T06:35:52Z,1,[5.0],[5.0],
+88098,2021-01-14T02:07:14Z,10,[10.0],[-5.0],
+80790,2021-01-13T21:27:21Z,3,[38.0],[-15.0],"Still can get there, especially is warm weather does reduce infections as for flu (not yet truly demonstrated). But reducing forecast as we seem a long way off, the election travel will generate cross infections and time to reduce takes longer than increases in infections."
+53391,2021-01-12T20:30:13Z,7,[20.0],[0.0],"Notupodating forecast. Noting that there is vaccine hesitancy among healthcare workers and a slowness jn delivering vaccinations due to a limit ln people to do vaccinatipns(why, i don't know). Any way CDC has expanded vaccine eligibility to anyone over the age of 65. This shows that the reports of the slow vaccinations rollout are true and those in charge are trying to catch up by giving the vaccine to anyone who would take it. Interesting to know that Politico report says that healthcare workers who only graduated high school tend to refuse vaccinations those who graduated college tend to take it. On the other hand, it was in charge and now going to at least all the vaccines and Storage and abandon the policy of holding back vaccinations that work to support the second shot. This would effectively mean we are going with a One-Shot regimen for a 2 Shot protocol and it doesn't seem like the FDA review decision. Again this is a move of desperation and the effectiveness of a One-Shot vaccine is going to be less than 90% whether that numbers 80 or 70 I don't know because no one studied it."
+1333,2021-01-12T18:38:37Z,27,[38.0],[1.0],
+1333,2021-01-12T14:43:35Z,26,[37.0],[-1.0],
+89038,2021-01-12T12:39:42Z,6,[40.0],[-10.0],
+83218,2021-01-12T08:13:01Z,1,[90.0],[90.0],
+88766,2021-01-11T00:57:46Z,14,[20.0],[-10.0],
+14266,2021-01-11T00:43:56Z,7,[12.0],[12.0],"This one is conflicting for me. I had a little free time today, so I played around with some numbers."
+88098,2021-01-11T00:28:08Z,9,[15.0],[-5.0],
+96450,2021-01-10T10:59:39Z,1,[10.0],[10.0],
+94872,2021-01-10T05:38:00Z,8,[25.0],[-16.0],
+75863,2021-01-10T00:46:29Z,18,[4.0],[-1.0],
+14027,2021-01-08T21:01:32Z,11,[87.0],[37.0],"To speed up immunization and herd immunity, the incoming Biden administration says it plans to hold back less vaccine for second doses. This makes sense to me, and should bend the curve down sooner. I'm returning to my optimistic forecast."
+94910,2021-01-07T00:31:11Z,1,[60.0],[60.0],"The best tool I have for this is modeling by Youyang Gu (https://covid19-projections.com/path-to-herd-immunity/) who has been very effective so far in COVID predictions. He estimates the first 7 day period we will be below 50k detected cases is around the end of May, with the week before June 15 having a predicted ~21k detected cases."
+783,2021-01-06T23:35:53Z,12,[14.0],[0.0],
+84880,2021-01-06T23:17:01Z,10,[27.0],[-2.0],
+28899,2021-01-06T20:54:11Z,1,[5.0],[5.0],
+14027,2021-01-06T18:30:33Z,10,[50.0],[-37.0],Vaccine = VERY GOOD B117 Mutation = VERY BAD It's a clash of titans.
+1333,2021-01-06T13:58:35Z,25,[38.0],[1.0],
+88766,2021-01-05T19:14:55Z,13,[30.0],[-6.0],
+97709,2021-01-05T18:28:33Z,1,[5.0],[5.0],
+96828,2021-01-05T07:45:40Z,3,[3.0],[-14.0],
+94872,2021-01-05T03:00:30Z,7,[41.0],[3.0],
+86367,2021-01-05T02:58:21Z,7,[48.0],[-14.0],
+11817,2021-01-05T02:31:03Z,6,[13.0],[4.0],
+88098,2021-01-05T01:08:31Z,8,[20.0],[-15.0],
+81187,2021-01-04T22:55:39Z,1,[100.0],[100.0],
+31275,2021-01-04T18:13:34Z,13,[40.0],[13.0],
+53391,2021-01-04T15:23:54Z,6,[20.0],[15.0],"am providing this for thought. 200,000 cases/day times 160 days = 32 million Add 21 million known cases (1/4/21 although this ignores the false positive issues) and then 63 million of asymptomatic (assume 3 asympt for every known) So 32+21+63 = 116 milion infected Moderna and pfizer initial vaccines are 40 million people, so add 116+40 = 156 million vaccinated or with antibodies."
+20044,2021-01-04T13:50:26Z,5,[8.0],[-5.0],
+1333,2021-01-03T20:43:01Z,24,[37.0],[1.0],
+75863,2021-01-03T20:28:53Z,17,[5.0],[-4.0],
+88002,2021-01-03T19:19:44Z,7,[30.0],[16.0],
+88766,2021-01-03T14:38:10Z,12,[36.0],[-20.0],
+78239,2021-01-03T14:26:54Z,3,[50.0],[10.0],
+45594,2021-01-03T12:12:27Z,3,[50.0],[0.0],
+86367,2021-01-03T10:13:31Z,6,[62.0],[-8.0],
+783,2021-01-03T08:36:49Z,11,[14.0],[-8.0],
+94435,2021-01-03T06:42:09Z,4,[35.0],[10.0],
+94872,2021-01-03T06:22:01Z,6,[38.0],[4.0],
+14266,2021-01-03T04:58:48Z,6,[0.0],[-6.0],
+1333,2021-01-02T20:08:20Z,23,[36.0],[-1.0],
+40584,2021-01-02T19:21:23Z,4,[50.0],[25.0],
+40584,2021-01-02T19:19:40Z,3,[25.0],[10.0],"Although I agree with @cafebedouin that waves end, I’d add that the troughs have been bigger with each wave. I agree this wave will end but lots of people will still be getting sick."
+88569,2021-01-02T04:53:32Z,31,[50.0],[0.0],@cafebedouin has given me the needed head shake to rethink this one and not overly focus on the vaccination story. The base rate story is pandemics tend to last about 18 months.
+88569,2021-01-01T23:51:29Z,30,[50.0],[17.0],
+88569,2021-01-01T23:09:53Z,29,[33.0],[13.0],
+56,2021-01-01T22:13:36Z,2,[100.0],[20.0],See my comment to @Balzac below.
+88569,2021-01-01T21:48:05Z,28,[20.0],[0.0],"Still on the pessimistic side of this with the pathetic vaccine roll-out. Romney, trying to be pro-active, calls on the government to "" immediately enlist veterinarians, combat medics and others in a sweeping proposal to administer coronavirus vaccinations""."
+80790,2021-01-01T19:32:44Z,2,[53.0],[-35.0],"Cases in US running about 200k per week, which is high and sustained. But June is still 6 months away and a drop off back to 50k per week should be possible with vaccines and spring hopefully taking people, outdoors more."
+91561,2021-01-01T05:49:13Z,2,[10.0],[0.0],
+88198,2021-01-01T00:46:38Z,8,[9.0],[-2.0],
+20044,2020-12-31T21:11:27Z,4,[13.0],[-2.0],
+88766,2020-12-31T15:31:05Z,11,[56.0],[9.0],
+97060,2020-12-31T14:52:33Z,1,[5.0],[5.0],
+94872,2020-12-31T04:44:56Z,5,[34.0],[-4.0],
+88569,2020-12-30T22:52:25Z,27,[20.0],[0.0],"The amount of testing come May and June will be a factor. I wonder if there will be a strong correlation between those unwilling to be vaccinated and those less likely to get tested. If so, it may matter less if not enough people get vaccinated to approach herd immunity, for purposes of this question."
+88569,2020-12-30T20:01:23Z,26,[20.0],[5.0],
+88766,2020-12-30T18:26:17Z,10,[47.0],[-3.0],
+88098,2020-12-30T03:06:47Z,7,[35.0],[0.0],"Dec 30th 2020: Approximately 170 days till 15th June 2021. If I use India as a guide: India was able to reduce 78% cases in 100 days. At this rate US will be at ~8% of current number in 170 days i.e. ~ 98k cases per week. Maybe with vaccine rollout, US will do better than India. Still hopeful. But I will relook at this number around Jan 15th after the impact of holidays is clear."
+914,2020-12-29T22:44:10Z,2,[55.0],[-20.0],
+84880,2020-12-29T21:46:11Z,9,[29.0],[-4.0],"If and only if cases decline WoW ...it would be possible to hit 50k by May 13. But don't listen to me, I could be wrong and am likely missing something."
+1333,2020-12-29T14:29:26Z,22,[37.0],[1.0],
+15471,2020-12-29T11:51:41Z,1,[80.0],[80.0],Current cumulative number of infections: 18.8m With an assumed dark field factor of 4: O(80m) Remaining population: O(240m) Current weekly infection number: 1.6m with an assumed dark field factor of 4: O(6m) (about 2% of the total population) Remaining weeks till all infected: 40
+88569,2020-12-29T05:14:06Z,25,[15.0],[0.0],"Could change quickly but right now the vaccine rollout looks horrible. I still think the greater risk in the US is that not enough people will want to get vaccinated before May, but it's also possible a lousy vaccine rollout won't even give enough people the option."
+94872,2020-12-29T03:50:10Z,4,[38.0],[-7.0],
+62808,2020-12-29T03:46:24Z,3,[50.0],[-15.0],
+88569,2020-12-28T18:08:34Z,24,[15.0],[-5.0],
+88766,2020-12-28T14:38:13Z,9,[50.0],[5.0],
+96828,2020-12-28T10:49:58Z,2,[17.0],[12.0],
+94872,2020-12-28T02:26:38Z,3,[45.0],[15.0],
+96828,2020-12-28T01:44:36Z,1,[5.0],[5.0],
+11447,2020-12-28T01:29:23Z,2,[50.0],[17.0],So - been doing some thinking / research on this one.
+783,2020-12-28T01:01:25Z,10,[22.0],[0.0],
+88569,2020-12-28T00:45:53Z,23,[20.0],[-13.0],
+1333,2020-12-27T17:51:22Z,21,[36.0],[3.0],
+75863,2020-12-27T13:53:32Z,16,[9.0],[0.0],"The current 7-day average of cases in the U.S. is about ~200,000/day [1]. This amounts to ~1,400,000 total cases in the last seven consecutive day period. Cases falling to a 7-day average of ~7,100 so as to amount to a total of 50,000 total cases in a seven consecutive day period between now and 15 June would mean that the situation at some point in the late spring/early summer would have to have improved so much so as to be just **3.6% of the current case numbers** (50,000/1,400,000 * 100 = 3.6%). Another way to think of this is it would mean **cases have to fall by 96.4% from where they are now**. This seems unlikely to me, especially given the fact that herd immunity through vaccination+cases is unlikely to have been achieved until late summer/early fall [2]."
+97510,2020-12-26T19:29:18Z,1,[5.0],[5.0],
+58648,2020-12-26T18:00:32Z,1,[75.0],[75.0],
+97505,2020-12-26T15:21:59Z,1,[0.0],[0.0],
+89038,2020-12-26T10:33:37Z,5,[50.0],[2.0],
+14027,2020-12-26T03:11:11Z,9,[87.0],[-6.0],Factors for YES:
+754,2020-12-25T19:43:17Z,7,[25.0],[15.0],
+88766,2020-12-24T19:51:34Z,8,[45.0],[-5.0],
+1333,2020-12-24T14:35:21Z,20,[33.0],[1.0],
+94872,2020-12-24T01:53:59Z,2,[30.0],[2.0],
+84880,2020-12-24T01:15:34Z,8,[33.0],[6.0],
+49359,2020-12-24T00:16:47Z,1,[40.0],[40.0],
+70711,2020-12-23T00:19:57Z,2,[100.0],[70.0],"I am switching my opinion.. Right now, late December, we have 200k+daily... and 18 million+ (6% of population) with diagnosed infection.. Assume 2-3 times undiagnosed or asymptomatic cases .. very conservative.. then add the ones who will be immunized.. the number of people available to be infected starts to run out..., in my assessment, will really start to drop by April and reach the 50 k level by mid june"
+96541,2020-12-22T22:03:47Z,2,[0.0],[0.0],Still not statistically likely.
+783,2020-12-22T06:14:44Z,9,[22.0],[0.0],
+88569,2020-12-22T04:17:00Z,22,[33.0],[3.0],I'm coming round to the view that the crucial known unknown is whether enough people choose to be vaccinated by early May. Enough shots will likely be available: will enough of us shoot up?
+84880,2020-12-22T00:03:52Z,7,[27.0],[-13.0],
+88569,2020-12-21T23:16:21Z,21,[30.0],[10.0],
+88766,2020-12-21T22:56:19Z,7,[50.0],[29.0],
+88569,2020-12-21T22:32:42Z,20,[20.0],[8.0],
+88766,2020-12-21T22:25:30Z,6,[21.0],[-28.0],
+88002,2020-12-21T19:22:27Z,6,[14.0],[-5.0],
+89035,2020-12-21T09:32:05Z,4,[30.0],[-10.0],Adjusting for: (1) slower than expected vaccine rollout (2) possible mutations
+88198,2020-12-21T06:02:06Z,7,[11.0],[-1.0],
+88452,2020-12-21T04:48:56Z,6,[0.0],[0.0],Whoops!?
+85750,2020-12-21T01:26:25Z,1,[15.0],[15.0],The lengthy process of rolling out vaccine (poor initial domestic stock levels + double dose needed for each person) along with prevalence of anti-vaccine sentiment and significant political pressure against lockdowns and other sensible covid measures means it is very likely that cases will continue very high throughout summer. There is a possibility for stronger behaviour changes + vaccine deployment may reduce cases more rapidly than expected (hence the 15% and not 5% as others have suggested)
+88569,2020-12-20T19:27:40Z,19,[12.0],[5.0],
+14027,2020-12-20T18:57:27Z,8,[93.0],[0.0],The Economist estimates that around 20% of the US has already been infected by COVID-19. See:
+88766,2020-12-20T15:38:22Z,5,[49.0],[-26.0],
+13657,2020-12-20T12:53:31Z,9,[99.0],[29.0],"It looks like the test thresholds are going to change as the the vaccine is rolled out. The WHO just released a paper acknowledging that PCR tests with high cycle thresholds can have false positives. This opens the door for all jurisdictions to ensure that their testing thresholds are below the levels that can create false positives. This information has been known for a long time. The New York times reported on it in the summer. Dr Fachi acknowledged it several months ago. Previously I believe it was believed by the authorities that having false positives was beneficial because it was better to err on the side of caution and it helped to justify stronger lockdowns. Now that the vaccine is being distributed changing the test threshold amounts will help it look like the vaccine is working, restoring public confidence. Florida has recently required its testing centers to report what their cycle thresholds are I believe that this will be a trend among all jurisdictions, which will lead to many fewer positive test results."
+14266,2020-12-20T06:19:04Z,5,[6.0],[-6.0],
+94872,2020-12-20T02:41:29Z,1,[28.0],[28.0],
+754,2020-12-19T21:21:27Z,6,[10.0],[-5.0],
+14027,2020-12-19T19:37:08Z,7,[93.0],[0.0],"The Pfizer-BioNTech and Moderna vaccines both seem to give substantial immunity after only one dose. We could potentially vaccinate most of the US population twice as fast. Instead of giving a booster shot after 4 weeks we could wait 6 months, allowing more people to get protected sooner."
+691,2020-12-19T17:09:38Z,14,[16.0],[-6.0],
+94837,2020-12-19T16:08:07Z,5,[15.0],[-3.0],
+62808,2020-12-19T05:16:04Z,2,[65.0],[-15.0],
+88569,2020-12-18T22:34:46Z,18,[7.0],[-3.0],
+53391,2020-12-18T22:04:31Z,5,[5.0],[-10.0],I am reducing from 15 to 5%. This article in STAT discusses the timelines for vaccine rollout to achieving herd immunith. It has math and stuff. https://www.statnews.com/2020/12/17/calculating-our-way-to-herd-immunity/
+90433,2020-12-18T18:18:27Z,2,[35.0],[-40.0],"As people won't wear a freaking mask and stay away from one another regardless of party, this disease will only end when the vaccine makes it."
+88098,2020-12-17T01:06:58Z,6,[35.0],[-10.0],
+1333,2020-12-16T14:16:15Z,19,[32.0],[1.0],
+88452,2020-12-16T12:12:16Z,5,[0.0],[0.0],"I simply don't see seven of the states such as California, Florida, Texas, New York (state), Arizona, Michigan, Ohio collectively falling to or below 1,000 new infections/confirmations per day each (except from maybe in the case of a major outage of test capacity, lab capacity for an extended period of time) - for seven consecutive days! And this does not include any of the other 43 states and D.C."
+88569,2020-12-16T00:32:41Z,17,[10.0],[-5.0],"Downgrading with this scenario in mind: by April the most at-risk population is likely to be fully vaccinated. Fatality/hospitalization rate drops substantially. Since those not yet vaccinated will be relatively healthy, many people will view the pandemic as ""over"". Bars, restaurants, Swedish & Thai massage parlors re-open everywhere."
+88569,2020-12-15T21:17:30Z,16,[15.0],[-2.0],
+53391,2020-12-15T20:43:50Z,4,[15.0],[5.0],"Fauci indicates that vaccination will be further along then I thought by June. I was thinking 18% of population would be vaccinated or had covid. Fauci is more like 50%. Still 50 % would impact case rate, so i am adding 5% https://www.npr.org/sections/coronavirus-live-updates/2020/12/15/946714505/fauci-predicts-u-s-could-see-signs-of-herd-immunity-by-late-march-or-early-april"
+20044,2020-12-15T15:17:50Z,3,[15.0],[1.0],
+89038,2020-12-15T10:10:01Z,4,[48.0],[-5.0],
+34959,2020-12-15T09:24:32Z,8,[3.0],[-1.0],Shaving a point from the bump in mid-Jan coming from Christmas
+754,2020-12-15T03:40:50Z,5,[15.0],[-10.0],
+88569,2020-12-14T01:21:09Z,15,[17.0],[-3.0],
+88569,2020-12-13T19:31:39Z,14,[20.0],[-5.0],
+9263,2020-12-13T18:45:03Z,3,[25.0],[-75.0],
+1333,2020-12-13T14:12:57Z,18,[31.0],[1.0],
+42301,2020-12-13T11:10:28Z,1,[15.0],[15.0],
+88569,2020-12-13T00:18:46Z,13,[25.0],[13.0],
+754,2020-12-12T22:14:02Z,4,[25.0],[-20.0],
+1333,2020-12-12T12:09:55Z,17,[30.0],[1.0],
+88098,2020-12-12T11:52:05Z,5,[45.0],[-3.0],
+54789,2020-12-11T16:10:31Z,1,[75.0],[75.0],
+1333,2020-12-11T13:17:03Z,16,[29.0],[1.0],
+97097,2020-12-11T09:57:26Z,2,[65.0],[-10.0],"Following input from @Balzac and @JamesEE I'm revising my forecast downwards slightly the main reason being that herd immunity does not imply cases <50k immediately. 50k is a relatively low number and we might well be in a situation where the virus is more or less under control, but the number of new cases has yet to fall. As long as the vaccines are proven to be without any substantial side effects, my guess is that the willingness to take it will only increase over time. I've read a little more about the spread of SARS-CoV-2 and it seems to be spreading in a fairly clustered way, fairly different from how influenza spreads, technically that it has a low k value. (https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/) I know too little of epidemiology to fully understand how that affects the spread, but it adds another element of chance to the spread which should at least increase the chance of the number of cases staying higher."
+88569,2020-12-10T18:17:21Z,12,[12.0],[-8.0],
+691,2020-12-10T17:56:09Z,13,[22.0],[-4.0],
+31275,2020-12-10T15:06:35Z,12,[27.0],[-3.0],
+88569,2020-12-09T22:48:28Z,11,[20.0],[-10.0],"Growing more pessimistic as June 15 seems too soon to have vaccinated enough Americans to reach herd immunity, which is basically what would be required to hit those numbers. Hopefully good vaccine news by Feb will change this outlook."
+783,2020-12-09T22:36:19Z,8,[22.0],[0.0],
+88569,2020-12-09T22:12:24Z,10,[30.0],[-5.0],
+96541,2020-12-09T21:38:43Z,1,[0.0],[0.0],"Unfortunately I do not believe this is even a remote possibility. The U.S. has not seen case numbers this low since the very beginning of the pandemic. To not go over 50,000 cases over a 7 day period, there would be an average of only 7,142.857 cases per day. According to the WHO, or any site tracking COVID, there hasn't been a 7 day average that low since the week of 9 March (or earlier), and the lowest case rate the U.S. has seen since was still at around 20,000 per day. With the dramatic increase we are about to see, I am not sure we can even get back down to 20,000 a day by then without another shutdown, and that seems unlikely considering the backlash from the last shutdown. I do no believe there will be enough vaccines available to make a dent by then either. I read an article recently that compares the vaccine to a fire hose to stop the spread of the virus. A highly effective Vaccine is a very strong fire hose. However, with the extremely high case rate we are seeing, we are taking a strong fire hose to fight the country's worst forest fire ever by comparison. If we had lower case rates, meaning it was just a small fire to put out, it would be a lot easier to see cases go down by then. Before the vaccine can be effective, we would need enough doses to vaccinate the majority of the population at the same time, or we would need a lower case rate and a good rate of vaccinations in areas where the cases are most prevalent. If the time frame were longer, say 15 December, I would have more faith in the vaccine helping to get case numbers that far down. However, our lowest case rate over a 7 day period since 9 March occurred during the week of 25 May, with an average case rate of 20,205 cases per day. The U.S. was nowhere near the case rate it is at now when the downward curve began, since the highest weekly rate was 219,073 in April before going down. We are seeing that many cases per day right now. The average case rate per week since 2 November in the U.S. is 1,047,842 new cases, and this includes the week of 2 November, which had 684,493 new cases according to the WHO. Without that week, the U.S. averaged 1,138,679 new cases per week during the last four weeks, and last week was 1,251,632 new cases in 7 days. It takes weeks to get the case numbers down after a surge that is significantly smaller than what we are seeing now, so who knows how long the current surge will effect us. The worst two months are yet to come, and I do not see it improving so drastically after spring comes that we see case numbers drop to about a third of what they were at our lowest case rate since the beginning of the pandemic. I hope I am wrong, but the math doesn't add up in our favor."
+1333,2020-12-09T15:43:53Z,15,[28.0],[1.0],
+64357,2020-12-09T15:41:55Z,1,[0.0],[0.0],
+14266,2020-12-09T07:03:26Z,4,[12.0],[-9.0],
+88569,2020-12-09T00:34:49Z,9,[35.0],[5.0],I've bounced around between 30 and 55 on this so far.
+88569,2020-12-08T21:31:27Z,8,[30.0],[-15.0],
+88569,2020-12-08T21:24:19Z,7,[45.0],[-5.0],
+88010,2020-12-08T20:19:54Z,11,[38.0],[-4.0],
+34353,2020-12-08T17:33:30Z,2,[0.0],[-55.0],"People are putting too much faith in the vaccination rollout. In 2009, only about 20% of the entire U.S. population received the H1N1 vaccine. In 2019, influenza vaccination rates in the U.S. were about 40% on average. If herd immunity is 60-80%, we're still a long way off. Even using the low end of 60%, between 65 million and 131 million people would need to contract and recover from the virus, separate from those who receive the vaccination."
+11817,2020-12-07T21:16:12Z,5,[9.0],[3.0],
+88010,2020-12-07T15:45:32Z,10,[42.0],[0.0],
+20044,2020-12-07T13:46:32Z,2,[14.0],[3.0],
+88569,2020-12-07T04:55:20Z,6,[50.0],[-5.0],
+67374,2020-12-07T02:07:29Z,1,[10.0],[10.0],
+89038,2020-12-06T18:33:42Z,3,[53.0],[3.0],
+87179,2020-12-06T16:16:26Z,1,[65.0],[65.0],
+1333,2020-12-06T14:30:38Z,14,[27.0],[1.0],
+754,2020-12-06T03:01:30Z,3,[45.0],[10.0],I liked @Balzac 's rationale: 1. Nobody knows anything. 2. Some people who claim to know something are optimistic about the pandemic ending midsummer. 3. Everyone has a motive.
+94751,2020-12-05T21:44:52Z,2,[50.0],[-25.0],
+94837,2020-12-05T15:27:34Z,4,[18.0],[0.0],it would be about 30 times less than at present sticking with 18
+84880,2020-12-04T19:51:10Z,6,[40.0],[13.0],
+86367,2020-12-04T17:11:03Z,5,[70.0],[-2.0],
+97097,2020-12-04T08:54:59Z,1,[75.0],[75.0],"I think that it is more likely than not. 50k cases/week or roughly 7k cases/day would imply that contagion has slowed to a trickle. This could either happen through herd immunity (through immunization or people already having had COVID-19) and through fast detection and isolation of those who are contagious. Using data from Stockholm, Sweden it seems that about 10% of those infected are detected, which would give that there are already 140 million infected in the US. On the other hand - with an estimated death rate of .6% the total number of infected would be 46 million. I think 46 million is more certain so let's estimate the number to a weighted average 1/3 - 2/3, giving 77 million in the beginning of December. This doubling to 154 million by the beginning of June is not unreasonable. Regarding vaccines - I haven't seen a lot of numbers for 2021, but this article https://www.businessinsider.com/when-can-i-get-a-coronavirus-vaccine-timeline-2020-11?r=US&IR=T, mentions 30 million vaccines/ month in the beginning of the year (unclear if this is doses which would imply that the number treatments is half). Let's assume 15 million per month every month including May, which is 75 million people having been vaccinated by June 1. This would mean that 154+75 = 229 million could be immune. Of course some people who have already had the disease will receive the vaccine lowering this number say to 154+37.5=191.5. According to Herd immunity is believed to be reached when 60-80% of the population is immune (https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html). 191.5 million is 58% of the US population so almost within the herd immunity range. However, Fauci has said that he thinks it is possible that an ""overwhelming majority"" of the US population could be vaccinated by the end of June 2021, https://thehill.com/policy/healthcare/528247-fauci-says-us-could-have-heard-immunity-by-end-of-summer-2021. In addition to this faster and more widespread testing would make tracing and isolating new cases easier. The main risk in this is associated with the vaccination program - failure in distribution, failure in uptake in general population and failure in the safety or efficiency of the vaccine. The number 50k/ week is also so low that the situation could be under control overall, but with localized outbreaks. My estimate of the number of people already infected could also be off and contagion suppression measures in the beginning of next year could slow down the spread reducing the number of already infected."
+783,2020-12-04T06:41:07Z,7,[22.0],[0.0],
+89135,2020-12-04T06:31:12Z,3,[15.0],[-10.0],"I am continuing to grow more cautious, which is where I went in early November after watching the numbers rise. After we hit the peak, it will take 7 to 8 weeks to come down. I will re-evaluate when we finally hit a peak. But for now, lowering from 25 to 15% as the surge continues to grow. The higher it goes, the longer it will take to come down."
+88569,2020-12-04T04:42:45Z,5,[55.0],[0.0],1. Nobody knows anything. 2. Some people who claim to know something are optimistic about the pandemic ending midsummer. 3. Everyone has a motive.
+88569,2020-12-03T18:36:36Z,4,[55.0],[5.0],
+88569,2020-12-03T17:48:04Z,3,[50.0],[-20.0],
+88569,2020-12-03T05:56:47Z,2,[70.0],[20.0],
+14266,2020-12-03T04:45:06Z,3,[21.0],[10.0],
+88569,2020-12-03T00:53:22Z,1,[50.0],[50.0],
+96524,2020-12-02T22:39:36Z,1,[30.0],[30.0],"Ambitious, but vaccination roll outs beginning in the late winter early sprint will bring cases down slowly. Also new leadership from Biden White House may help curb spread slightly. To reach 50k cases/7 days we need a little under a third the cases from June 2020. Ambitious, but very plausible."
+88010,2020-12-02T20:52:51Z,9,[42.0],[0.0],
+20044,2020-12-02T16:23:14Z,1,[11.0],[11.0],
+1333,2020-12-02T15:35:15Z,13,[26.0],[1.0],
+34959,2020-12-02T14:55:53Z,7,[4.0],[-2.0],Update from a pessimist;
+14266,2020-12-02T05:21:23Z,2,[11.0],[4.0],
+7658,2020-12-01T23:24:46Z,1,[91.0],[91.0],
+94837,2020-12-01T22:14:03Z,3,[18.0],[6.0],"12 > 18 Crowd here becoming more optimistic, so am I but still more cautious"
+88002,2020-12-01T17:56:28Z,5,[19.0],[-3.0],
+89035,2020-12-01T17:45:54Z,3,[40.0],[-10.0],"Adjusting for Goldman Sach's expectation of 50% of US population vaccinated in May. But then again, testing will really peak, so 50,000 will really include all cases, probably will be testing pre-flights, etc, which in fact may increase ratio of observed-to-true cases. So in fact I'm adjusting down!"
+75093,2020-12-01T07:00:48Z,1,[5.0],[5.0],"No too many stupid people not following basic guidelines. I doubt anything will change to make any effect. We don't even know the toll of the Thanksgiving festivities yet. Poor and ineffective leadership across the nation has allowed this thing to get way out of control That plus the unnecessary politicization of the disease, and people afraid of vaccines across the board and spreading of misinformation there's a reason why our country has more cases than any other country."
+91561,2020-11-30T23:42:39Z,1,[10.0],[10.0],
+14027,2020-11-30T20:44:11Z,6,[93.0],[36.0],"The infection rate seems to have peaked, and vaccines are coming soon -- the incurable optimist in me wants to go all in for ""Yes."""
+96784,2020-11-30T20:33:22Z,3,[28.0],[3.0],"News lately has projected multiple vaccines being available somewhat sooner than anticipated. However, two dose formulations + little news on production/rollout + US political and cultural factors don't make this much cause for improvement."
+1333,2020-11-30T16:19:50Z,12,[25.0],[-10.0],
+88198,2020-11-30T15:57:44Z,6,[12.0],[-7.0],
+88452,2020-11-30T15:39:06Z,4,[0.0],[-7.0],"Vaccination will commence within three weeks. I will only amend my forecast, if the uninfected population of the Unhealthy States burns out at a ratio of more than 400,000 new confirmed cases per day around Christmas - in this case, herd immunity from April appears to be an option... (however, likely at the cost of 1 million or more fatalities in total)."
+22689,2020-11-30T01:15:37Z,7,[55.0],[27.0],
+22689,2020-11-30T01:14:22Z,6,[28.0],[-22.0],
+75863,2020-11-29T23:20:25Z,15,[9.0],[4.0],
+14266,2020-11-29T21:38:42Z,1,[7.0],[7.0],
+75863,2020-11-28T21:02:15Z,14,[5.0],[1.0],
+31275,2020-11-27T19:57:06Z,11,[30.0],[-21.0],
+691,2020-11-27T16:03:34Z,12,[26.0],[2.0],
+88452,2020-11-26T20:16:21Z,3,[7.0],[-8.0],
+86554,2020-11-26T18:55:14Z,2,[1.0],[-1.0],
+25780,2020-11-25T22:44:10Z,2,[90.0],[10.0],
+754,2020-11-25T15:36:16Z,2,[35.0],[25.0],
+50395,2020-11-25T14:43:24Z,2,[50.0],[15.0],
+88098,2020-11-25T01:50:22Z,4,[48.0],[3.0],
+11817,2020-11-24T03:18:02Z,4,[6.0],[-3.0],
+14027,2020-11-24T02:57:32Z,5,[57.0],[14.0],"Vaccines will begin to help next year, if only a little. The virus is burning itself out in many states, and will do so in many more by March 2021. Then spring arrives, and with it a reduction of indoor transmission. Bumping up from 43% to 57%"
+75863,2020-11-23T20:07:53Z,13,[4.0],[0.0],
+1019,2020-11-23T14:44:36Z,2,[9.0],[-11.0],
+34959,2020-11-23T04:48:50Z,6,[6.0],[-1.0],Trimming a point based on lack of federal leadership and the inability of people to do either the right thing or accept lockdowns.
+9263,2020-11-23T01:39:28Z,2,[100.0],[0.0],
+1333,2020-11-22T19:51:39Z,11,[35.0],[-10.0],
+90167,2020-11-22T19:08:48Z,3,[16.0],[-11.0],
+62808,2020-11-22T18:58:45Z,1,[80.0],[80.0],
+53391,2020-11-22T18:30:27Z,3,[10.0],[0.0],"Not updating forecast. Adding links to the logistical challenge of distributing and administering the vaccine. Which supports my belief that vaccination will not significantly contribute to minimizing covid cases next spring. This article discusses the temperature requirement and the challenge of moving it from factory to hospital https://www.cbsnews.com/news/covid-vaccine-pfizer-distribution-logistical-nightmare/#app This article discusses the challenge of administering the vaccine to minimize wastage. Once a vial is thawed and diluted to make five shots, health workers will be in a true “use it or lose it” situation: If there aren’t enough people ready for the shots within six hours, the vaccine spoils. So the process needs to be more formal or factory like. Also it is 2 doses 21 days apart, so you got to come back and not forget. https://www.politico.com/news/2020/11/22/scarce-covid-vaccine-waste-438928 As an aside, a percentage of those recieving the vaccine will develop symptons and not feel well. I am sure those anecdotes will deter some from the vaccine."
+75863,2020-11-22T16:25:39Z,12,[4.0],[-1.0],
+94837,2020-11-22T08:05:04Z,2,[12.0],[4.0],
+96797,2020-11-22T02:08:35Z,1,[3.0],[3.0],"50k in one week would be 7,143 cases diagnosed per day. currently, the US is registering 192k positive cases a day on an upward trend. The US needs a 96.3% decrease in positive cases per day within the next 7 months. The biggest decrease the US has currently seen is 40% between late July and early September. Italy achieved a 97% decrease going from 6,554 to a daily average of around 200 between March 21 and June 28-July 8. Spain had a similar 97% decrease between early march (8.5k cases.day) and late June (260 cases/day). Germany and the UK follow similar patterns. so I precipitous decline in cases is possible. However, those decreases can be attributed to strict lockdown measures taken in those countries. The US is unlikely to institute strict lockdown regardless of the party in charge of the executive branch. The US is also likely to see increased daily rates as people gather for the holidays and testing capability continues to increase. The winter weather will also cause a large percentage of the country to favor indoor settings to outdoors, increasing risk of transmission. It's been estimated by an acquaintance who has worked on a task force for a COVID vaccine distribution that mass distribution is expected in April at the earliest, and mid-summer in all likelihood. With the vaccine timeline and the likelihood that US daily rates will remain high, there is a very low probability that the US will have less than 50k confirmed new cases in a week before June 15th 2021."
+88766,2020-11-21T22:04:35Z,4,[75.0],[5.0],
+691,2020-11-21T20:01:01Z,11,[24.0],[3.0],
+31275,2020-11-21T19:40:47Z,10,[51.0],[-4.0],
+31275,2020-11-21T19:39:56Z,9,[55.0],[15.0],
+13657,2020-11-21T07:32:45Z,8,[70.0],[10.0],Increasing because of possibly of rapid tests with a lower sensitivity.
+88010,2020-11-21T02:02:20Z,8,[42.0],[-3.0],
+75863,2020-11-20T14:43:13Z,11,[5.0],[-4.0],
+89038,2020-11-20T12:26:52Z,2,[50.0],[10.0],
+88198,2020-11-19T22:55:58Z,5,[19.0],[-4.0],
+22689,2020-11-19T22:28:38Z,5,[50.0],[20.0],
+88002,2020-11-19T19:25:17Z,4,[22.0],[-7.0],
+75863,2020-11-19T16:38:46Z,10,[9.0],[4.0],
+89035,2020-11-19T03:33:18Z,2,[50.0],[20.0],Adjusting for the two vaccines available.
+25780,2020-11-18T22:18:23Z,1,[80.0],[80.0],
+14027,2020-11-18T19:07:05Z,4,[43.0],[20.0],"With two vaccines that, so far at least, are 90+% effective, I'm becoming more optimistic. There are still hurdles before widespread distribution, and safety studies to complete. I'll bump my forecast to 43%, above the crowd at 29%."
+12413,2020-11-18T17:45:35Z,2,[45.0],[25.0],
+88098,2020-11-18T16:11:38Z,3,[45.0],[10.0],"Vaccine will help, so will the new Biden administration. I am getting this feeling that by March end, we will be on other side of the pandemic."
+75863,2020-11-18T15:50:06Z,9,[5.0],[0.0],
+91430,2020-11-18T15:29:02Z,2,[20.0],[-10.0],The vaccine may help but probably not enough to reduce it that low.
+87691,2020-11-18T08:04:11Z,1,[100.0],[100.0],
+86946,2020-11-18T01:41:17Z,1,[20.0],[20.0],
+691,2020-11-17T21:02:07Z,10,[21.0],[1.0],"Well, let's get it down to twice that every day before we get cocky. In the US we have all winter to continue being stupid about transmission, and several months after that to mux up the supply chains. Even though many adults will be working in government by then, it will take some time to get this sorted. Still staying pretty low."
+34353,2020-11-17T20:17:09Z,1,[55.0],[55.0],Slightly optimistic at this point. Really depends on how stupid Americans can be and how effective the anti-vaxxer campaign is.
+58072,2020-11-17T15:43:56Z,1,[60.0],[60.0],"Things are looking bad right now but there's quite a bit of time between now and June 2021, and some good reasons to be optimistic. Several vaccines are looking extremely promising and there's talk of deployment beginning soon. The US has new leadership and that may bring changes of strategy. And somewhat morbidly, all those infections are increasing resistance in the population, which will make it easier for other strategies to succeed."
+95823,2020-11-16T19:31:43Z,3,[38.0],[37.0],
+95823,2020-11-16T19:30:44Z,2,[1.0],[-59.0],
+89826,2020-11-16T18:48:05Z,1,[5.0],[5.0],
+29054,2020-11-16T17:04:30Z,1,[0.0],[0.0],"Without a massive lock down this is not on the cards, nor a lockdown is on the cards. Vaccination is going to take at least another year to create a measurable initial herd immunity trend."
+22689,2020-11-16T17:02:43Z,4,[30.0],[-20.0],
+34959,2020-11-16T15:21:35Z,5,[7.0],[0.0],Notes on this question from a pessimist;
+91924,2020-11-15T15:55:34Z,1,[20.0],[20.0],
+53391,2020-11-15T12:09:04Z,2,[10.0],[-10.0],So i amdropping this 10% becajse i did not know that it takes two doses to vaccinate. So it is not 25 million people are vaccinated by year end but like 12 million. Just slows the overall vaccination rate.
+14027,2020-11-15T02:21:39Z,3,[23.0],[0.0],"Infections will have to fall a long way to get below 50k/wk, but then June 15 is still 7 months away. Vaccine(s) could begin to affect the numbers, as could ""threshold herd immunity."""
+94837,2020-11-14T22:23:30Z,1,[8.0],[8.0],"Dropping to ~5% of present numbers require vaccination of large population share or reaching herd immunity. Last summer, infection numbers remained relatively high in the US."
+78239,2020-11-14T19:47:20Z,2,[40.0],[-10.0],
+87827,2020-11-14T14:25:57Z,2,[15.0],[5.0],"+5 on the vaccine news. But I don't think the vaccine will have reduced the virus to that point by midway through next year. We haven't been anywhere close to that number since the early days of the pandemic, that's a very small weekly amount."
+88198,2020-11-14T05:48:48Z,4,[23.0],[-3.0],
+88452,2020-11-14T05:16:09Z,2,[15.0],[15.0],
+88010,2020-11-13T20:33:24Z,7,[45.0],[5.0],
+96751,2020-11-13T19:22:50Z,1,[32.0],[32.0],"Assuming that the seasonality principle for infectious disease holds for COVID-19 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116927/), and given the current analysis for US cases since about mid-march on the WHO's website (https://covid19.who.int/region/amro/country/us), I would anticipate a peak to occur in the next month or 2 with a drop to indicate normalization of the curve, yet I would project the likelihood of the trend line falling below 50k for seven consecutive days prior to June to be low."
+96795,2020-11-13T17:07:06Z,1,[20.0],[20.0],"95% decrease by June from last seven days 888k confirmed cases (CDC). Politics and anti-vaccine supporters will limit herd immunity and the successes of social distancing. Also, previous diseases from the WHO show that the decrease will not be 95% that quickly."
+96784,2020-11-13T17:01:32Z,2,[25.0],[0.0],Rates are exponentially climbing and will continue to. Broad vaccine availability isn't likely before Jan to Feb and maybe much later. 2x doses slow uptake. Curve won't necessarily flatten for a time after vaccine availability. Don't expect the public to take vaccines or increase other mitigation measures.
+96722,2020-11-13T16:58:39Z,1,[15.0],[15.0],"Cases have not dipped below 50,000k over 7 days since the beginning of the pandemic even when testing was still sparse in the US. As cases continue to rise heading into the winter combined with ""COVID fatigue"" it is unlikely that cases will dip below 50k before widespread effective vaccines."
+96718,2020-11-13T16:55:13Z,1,[0.0],[0.0],"COVID is 3x as transmissible compared to the flu. Transmissible viruses are going to transmit. Pair this fact with increased testing performance and capacity in the US, and naturally numbers will continue to rise."
+96784,2020-11-13T16:54:12Z,1,[25.0],[25.0],
+88766,2020-11-13T15:52:09Z,3,[70.0],[3.0],
+53391,2020-11-13T13:07:35Z,1,[20.0],[20.0],Given the acceleration in cases in recent weeks i am assuming the virus will be circulating this winter through june. The raml down in vases did not occur until june 2020 so i see no reason to think cases will stop with end of spring. It is an assumption
+87064,2020-11-13T11:28:21Z,3,[80.0],[20.0],
+34959,2020-11-13T07:33:39Z,4,[7.0],[-2.0],Back down on the back of current numbers
+88198,2020-11-13T04:36:50Z,3,[26.0],[12.0],
+13657,2020-11-13T04:01:34Z,7,[60.0],[-15.0],
+84880,2020-11-13T01:36:13Z,5,[27.0],[0.0],As @erikbays mentioned... this is an interesting one.
+91883,2020-11-12T18:33:26Z,2,[100.0],[100.0],
+59881,2020-11-12T18:04:05Z,1,[100.0],[100.0],
+1333,2020-11-12T17:58:24Z,10,[45.0],[10.0],
+89187,2020-11-12T17:47:34Z,1,[95.0],[95.0],Will burn out by then as everyone in the world will have been exposed to it by then with or without vaccine. Herd immunity will be achieved in the united states. Total idiots that Biden voters are they will hail it as Biden's genius. Sadly the USA will be in another great depression so no one will care about this question.
+75863,2020-11-12T16:38:25Z,8,[5.0],[-4.0],
+39562,2020-11-12T12:22:02Z,1,[15.0],[15.0],
+783,2020-11-12T05:28:03Z,6,[22.0],[0.0],
+754,2020-11-12T02:11:04Z,1,[10.0],[10.0],
+914,2020-11-12T00:05:32Z,1,[75.0],[75.0],
+1078,2020-11-11T20:16:14Z,1,[65.0],[65.0],
+14027,2020-11-11T19:15:21Z,2,[23.0],[6.0],
+9263,2020-11-11T17:37:21Z,1,[100.0],[100.0],
+88010,2020-11-11T15:50:54Z,6,[40.0],[0.0],
+75863,2020-11-11T15:25:33Z,7,[9.0],[0.0],
+88002,2020-11-10T22:25:39Z,3,[29.0],[8.0],
+31275,2020-11-10T18:33:14Z,8,[40.0],[8.0],
+88010,2020-11-10T17:28:14Z,5,[40.0],[25.0],
+34959,2020-11-10T15:49:41Z,3,[9.0],[3.0],3 points on the back of vaccination news and a Covid plan from Biden.
+1333,2020-11-10T15:43:36Z,9,[35.0],[10.0],
+31275,2020-11-10T15:37:28Z,7,[32.0],[4.0],
+86367,2020-11-10T14:11:13Z,4,[72.0],[57.0],
+691,2020-11-09T17:48:49Z,9,[20.0],[4.0],
+22689,2020-11-09T02:00:49Z,3,[50.0],[-30.0],
+94435,2020-11-09T01:31:49Z,3,[25.0],[5.0],
+75863,2020-11-08T21:30:29Z,6,[9.0],[-1.0],
+691,2020-11-08T16:07:41Z,8,[16.0],[0.0],The US reported zero yesterday. Presumably everybody was too busy paying attention to something else to keep records. Have to wait a couple of days to see more nearly accurate numbers.
+11817,2020-11-07T22:35:45Z,3,[9.0],[5.0],
+84880,2020-11-07T19:00:43Z,4,[27.0],[10.0],"I'm cautiously warming up to ""Yes."" If an ultimate peak hits, say two weeks after NYE, and the wind-down takes 14-21 weeks, this could be one of those close ones."
+20156,2020-11-07T15:31:10Z,2,[40.0],[0.0],
+691,2020-11-06T15:33:01Z,7,[16.0],[0.0],
+26467,2020-11-05T22:48:20Z,1,[35.0],[35.0],"It's the 7 day total, not the 7 day average Was going to say 95% until I realized it's the total I'm going with 35% because once it starts to fade, this time it will fade quickly"
+90167,2020-11-05T20:50:41Z,2,[27.0],[25.0],
+50395,2020-11-05T19:48:20Z,1,[35.0],[35.0],
+1333,2020-11-04T14:31:05Z,8,[25.0],[12.0],
+11860,2020-11-03T16:30:06Z,1,[100.0],[100.0],
+88766,2020-11-03T15:48:20Z,2,[67.0],[-3.0],
+88198,2020-11-03T04:58:23Z,2,[14.0],[-2.0],
+13657,2020-11-02T21:02:55Z,6,[75.0],[-5.0],
+89135,2020-11-02T19:55:46Z,2,[25.0],[-60.0],
+88010,2020-11-02T14:27:25Z,4,[15.0],[0.0],
+783,2020-11-02T04:51:40Z,5,[22.0],[0.0],
+95944,2020-11-02T01:28:42Z,1,[53.0],[53.0],
+96559,2020-11-01T21:16:21Z,1,[1.0],[1.0],"Given that the US has not been able to accomplish this goal even during times with extended lockdowns and enforcement, the odds of this happening are very low. Given that multiple waves are likely to come in the future, coupled with extensive lockdown required and enforced in order to bring cases down to below 7k per day for 7 consecutive days. It's very difficult to imagine even the tail-end scenarios that could happen to allow for the yes to happen."
+45594,2020-11-01T10:01:11Z,2,[50.0],[-30.0],
+86367,2020-10-30T12:16:00Z,3,[15.0],[8.0],
+66554,2020-10-30T07:54:25Z,1,[40.0],[40.0],
+11817,2020-10-29T23:52:09Z,2,[4.0],[2.0],
+691,2020-10-29T18:23:09Z,6,[16.0],[1.0],
+87155,2020-10-28T22:00:43Z,1,[25.0],[25.0],
+12591,2020-10-27T21:40:07Z,1,[20.0],[20.0],
+56,2020-10-27T15:14:02Z,1,[80.0],[80.0],
+89178,2020-10-27T13:28:51Z,2,[0.0],[-100.0],Oops. Made a forecast the wrong way. So this is a correction. 0% chance we will get down to 50k in 7 days by then.
+89178,2020-10-27T13:26:27Z,1,[100.0],[100.0],
+96620,2020-10-27T12:25:01Z,1,[0.0],[0.0],
+90653,2020-10-27T00:12:22Z,2,[0.0],[0.0],
+691,2020-10-26T21:15:30Z,5,[15.0],[5.0],
+88010,2020-10-26T20:58:43Z,3,[15.0],[3.0],
+88198,2020-10-26T19:51:50Z,1,[16.0],[16.0],
+88002,2020-10-26T18:31:40Z,2,[21.0],[8.0],
+31275,2020-10-26T18:03:12Z,6,[28.0],[2.0],
+88766,2020-10-26T15:21:18Z,1,[70.0],[70.0],
+12413,2020-10-26T14:50:24Z,1,[20.0],[20.0],
+11788,2020-10-26T09:51:15Z,1,[100.0],[100.0],
+75863,2020-10-25T23:17:08Z,5,[10.0],[-5.0],
+13657,2020-10-25T16:29:14Z,5,[80.0],[40.0],"This question is interesting because you can't follow normal forecasting procedures with it. Current data is useless in predicting what will happen by next june. Partly because the data itself is terrible and inaccurate, partly because there are so many factors that can happen by that time. You really just have to go with your biases."
+88098,2020-10-24T08:48:12Z,2,[35.0],[20.0],
+31275,2020-10-24T01:25:20Z,5,[26.0],[-4.0],
+75863,2020-10-23T22:18:23Z,4,[15.0],[-5.0],
+86246,2020-10-23T18:27:41Z,3,[0.0],[-100.0],
+13657,2020-10-21T22:25:59Z,4,[40.0],[-5.0],For own reference https://covid19.healthdata.org/united-states-of-america?view=total-deaths&tab=trend
+31275,2020-10-21T17:46:12Z,4,[30.0],[5.0],
+1333,2020-10-21T13:43:58Z,7,[13.0],[-1.0],
+86367,2020-10-21T12:42:22Z,2,[7.0],[-15.0],
+96495,2020-10-20T20:00:05Z,1,[95.0],[95.0],The communications have been quite clear when a vaccine will most likely get delivered and that is Q1 2021. One problem is obviously that people are skeptical about vaccines but I estimate that by the end of Q1 we should have enough people taking it seriously.
+95613,2020-10-19T19:33:11Z,2,[5.0],[-10.0],
+84880,2020-10-19T17:34:10Z,3,[17.0],[-8.0],
+691,2020-10-19T15:19:32Z,4,[10.0],[2.0],
+88010,2020-10-19T13:35:36Z,2,[12.0],[4.0],
+89035,2020-10-19T06:36:58Z,1,[30.0],[30.0],"Currently 300k-ish cases. Will testing stop dramatically? I don't think so Will the herd immunity kick in? Not with re-infection potential. Will the vaccine be in effect and rolled out at scale before May? I think so, yes. This plus partial herd immunity should do the job."
+80790,2020-10-18T22:03:21Z,1,[88.0],[88.0],Infections are running around 20k - 40k for months and have only just ticked up. So for things to ease off to less than 50k by June 21 seems possible.
+94751,2020-10-18T20:41:18Z,1,[75.0],[75.0],
+95823,2020-10-18T19:06:22Z,1,[60.0],[60.0],
+31275,2020-10-18T18:41:59Z,3,[25.0],[-1.0],
+691,2020-10-18T15:27:17Z,3,[8.0],[-19.0],
+1333,2020-10-18T14:47:16Z,6,[14.0],[1.0],
+34959,2020-10-18T13:21:57Z,2,[6.0],[-19.0],"Upon a closer consideration, this is very unlikely."
+13657,2020-10-18T13:13:36Z,3,[45.0],[-5.0],Reducing because daily cases have gone up to 60k.
+783,2020-10-17T23:23:14Z,4,[22.0],[0.0],
+75863,2020-10-17T18:30:55Z,3,[20.0],[6.0],
+75863,2020-10-17T18:13:27Z,2,[14.0],[-1.0],
+29102,2020-10-17T13:59:12Z,1,[80.0],[80.0],"The daily counts will probably rise through the holidays. In January people will be motivated to be more careful, more wearing masks and social distancing. Sometime before the end of March a vaccine will likely be out and people will begin getting vaccinated, most at risk first. Of those who have been reckless and refuse to use safety protocols there will likely be less than 50% who in spite of their recklessness have not yet attained the virus. These people will likely not be vaccinated but due to the fact that they have survived their reckless behavior for over a year must be less susceptible to it. By June 15 most of those who were initially at risk will either have got the virus or been vaccinated and the rate of daily increase will be much smaller than at the end of the holiday season possibly below 7000 cases per day."
+14027,2020-10-16T16:36:57Z,1,[17.0],[17.0],"June 15, 2021 is 8 months away. That's a long time for something to change. But 50,000 cases per week, ~7000/day, is a very low number. This is a bet on vaccine development, distribution, and acceptance. I can only hope we get there, but I doubt it. So I'll start with 17% vis a vis the crowd at 24%."
+61367,2020-10-16T15:05:03Z,1,[0.0],[0.0],
+88098,2020-10-16T12:02:55Z,1,[15.0],[15.0],"Last time this happened was back in March 2020. Since then, US has not come even close this infection rate. Probably not possible without vaccine"
+1333,2020-10-16T03:15:02Z,5,[13.0],[1.0],
+86367,2020-10-16T01:09:24Z,1,[22.0],[22.0],
+75863,2020-10-15T23:08:50Z,1,[15.0],[15.0],
+85416,2020-10-15T22:16:46Z,1,[34.0],[34.0],
+11447,2020-10-15T19:38:16Z,1,[33.0],[33.0],I think this is basically driven by the chance of a vaccine being out there and widely available. Various commentary about when the vaccine may be available. Consensus seems to be a slim chance this year to maybe 50/50 by mid 2021. It actually feels higher to me given the number of options out there. Will need some time to be widely rolled out.
+783,2020-10-15T08:41:42Z,3,[22.0],[0.0],
+1333,2020-10-15T08:02:11Z,4,[12.0],[1.0],
+86342,2020-10-15T07:11:47Z,1,[55.0],[55.0],
+79609,2020-10-15T04:40:27Z,1,[25.0],[25.0],There hasn't been such a low number for many single days the past 4 months or so. I believe this will continue for quite a while longer.
+94435,2020-10-14T19:56:42Z,2,[20.0],[-10.0],
+88002,2020-10-14T18:41:44Z,1,[13.0],[13.0],
+11817,2020-10-14T17:51:59Z,1,[2.0],[2.0],I think we will see a jump to 550K+/week in early cold/flu + holidays. Followed by a retraction that may bottom out as low as 150K/week but I don't think we will get any lower than that before next Summer.
+95817,2020-10-14T14:57:37Z,1,[25.0],[25.0],"As cases begin to rise in the US, we head into the flu season, the holiday travel season and a period where many schools and other activities around the US gradually open up. This may continue the increase for some time. With a new vaccine on the verge of release, I assess a 1 out of 4 chance that seven consecutive days will be fewer than 50k. General American sentiment of individual rights and freedoms will continue to counter COVID safety measures publicly which will encourage continued spread."
+1333,2020-10-14T14:55:31Z,3,[11.0],[1.0],
+95707,2020-10-14T14:03:28Z,1,[20.0],[20.0],"From 01 Feb 2020 to present (14 Oct) I took the total number of registered cases (8,100,000) in the us and divided it by the number of weeks since 01 Feb (34). This provides an average weekly total of 238,235 cases per week. This was divided by 7 for a daily total of 34,033 cases. In order to strike the range posed by this question, the US will need to cut the rate of infection by 80%, or one fifth of the average weekly infection rate since 01 Feb. Even with successful development and fielding of a vaccine, distribution, trust, and continued ineffective containment protocols would erode confidence in achieving 1/5th of current infection rates. a projection of 20% best reflects the chance we arrive at a 20% rate of infection below current trends."
+74641,2020-10-14T12:12:55Z,1,[75.0],[75.0],
+95552,2020-10-14T06:37:32Z,1,[40.0],[40.0],"There will be some weeks that are lower, but not by much."
+88387,2020-10-14T04:55:30Z,1,[35.0],[35.0],
+95938,2020-10-14T00:17:30Z,1,[15.0],[15.0],
+86246,2020-10-13T22:40:07Z,2,[100.0],[100.0],
+86246,2020-10-13T22:36:59Z,1,[0.0],[0.0],
+78239,2020-10-13T20:43:16Z,1,[50.0],[50.0],
+16093,2020-10-13T20:26:15Z,1,[80.0],[80.0],
+90433,2020-10-13T18:24:20Z,1,[75.0],[75.0],"Chances are good that if Biden wins, a sharp drop in cases is possible"
+767,2020-10-13T17:33:57Z,1,[10.0],[10.0],
+31275,2020-10-13T16:11:14Z,2,[26.0],[21.0],
+40584,2020-10-13T15:57:12Z,2,[15.0],[-60.0],
+63837,2020-10-13T15:36:41Z,1,[70.0],[70.0],
+96391,2020-10-13T14:39:41Z,1,[5.0],[5.0],
+20156,2020-10-13T07:08:45Z,1,[40.0],[40.0],
+34959,2020-10-13T05:07:14Z,1,[25.0],[25.0],
+783,2020-10-13T04:53:19Z,2,[22.0],[-4.0],"There was at least another re-infection. The initial test was not properly calibrated? Maybe, but there is evidence the genome has changed. The patient had two positive tests for SARS-CoV-2, the first on April 18, 2020, and the second on June 5, 2020, separated by two negative tests done during follow-up in May, 2020. Genomic analysis of SARS-CoV-2 showed genetically significant differences between each variant associated with each instance of infection. The second infection was symptomatically more severe than the first. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30764-7/fulltext"
+95613,2020-10-13T01:51:38Z,1,[15.0],[15.0],
+70711,2020-10-13T00:48:04Z,1,[30.0],[30.0],"The current daily number is approximately 50k, and rising! The number will subside by Spring, but being less than 1/7th current rate by then is not a given... Steadily increasing community exposure does increase the likelihood.. my guess.."
+73970,2020-10-12T19:28:39Z,1,[33.0],[33.0],
+94435,2020-10-12T17:06:20Z,1,[30.0],[30.0],
+84880,2020-10-12T16:00:29Z,2,[25.0],[24.0],
+91883,2020-10-12T15:44:19Z,1,[0.0],[0.0],To much of the population is still capable of being infected and I don't have high hopes of vaccine being 100% effective or scaling fast enough to reach those numbers.
+28415,2020-10-12T15:31:55Z,1,[21.0],[21.0],
+95812,2020-10-12T15:15:01Z,1,[10.0],[10.0],"1) COVID-19 tests will detect any coronavirus, including those that will cause the common cold that are seasonal (10-15% of colds are caused by coronaviruses0 2) We seem to have hit a ""steady-state"" in cases; with ""low-risk"" states experiencing resurgence of positive coronavirus tests 3) Vaccine is unlikely to improve outcomes significantly - vaccine efficacy is poor 4) Testing is only likely to increase w/ Abbott 15 minute tests"
+1333,2020-10-12T13:54:53Z,2,[10.0],[10.0],
+91689,2020-10-12T13:11:10Z,1,[95.0],[95.0],
+19706,2020-10-12T10:28:06Z,1,[70.0],[70.0],"The number of cases per seven-day period will drop significantly in March-May 2021 IF the Democrats take control of the White House in the November election. For the same reason, the number of cases per week from the November election until late February will likely rise as President Trump pursues a scorched earth policy as one means of seeking vengeance on the nation for his losing the election."
+12726,2020-10-12T05:37:16Z,1,[10.0],[10.0],
+13657,2020-10-12T04:25:52Z,2,[50.0],[10.0],Currently around 40k/day. I am skeptical that any vaccine will be approved and be effective and will be distributed in any major way by the end of this question.
+13657,2020-10-12T04:16:38Z,1,[40.0],[40.0],
+26642,2020-10-11T18:43:20Z,1,[95.0],[95.0],"By June 30, 2021, there is a significant likelihood of a vaccine. The disease will accelerate its infections over the winter, but the death rates will continue to be level or slightly reduced (not that approximately 1000/day dying is anything to be happy about). By mid-winter, the American population will finally decide that the disease is real and agree to put aside all their adherence to political input and follow scientific guidance. Masks and social distance will be strongly adhered to and with demonstrated effect, the daily rate will rapidly decrease."
+1019,2020-10-11T17:47:22Z,1,[20.0],[20.0],
+90801,2020-10-11T17:22:01Z,1,[5.0],[5.0],
+21865,2020-10-11T17:04:17Z,1,[90.0],[90.0],
+745,2020-10-11T14:54:19Z,1,[25.0],[25.0],
+691,2020-10-11T14:21:02Z,2,[27.0],[17.0],
+91430,2020-10-11T13:43:52Z,1,[30.0],[30.0],That will require a big drop in cases and it is unlikely that a vaccine can bake a big difference before next summer and it is unlikely that people will start wearing masks more regularly and taking other precautions. The numbers should start dropping but it will be hard to drop that much.
+45594,2020-10-11T13:14:21Z,1,[80.0],[80.0],
+95795,2020-10-11T04:03:42Z,1,[15.0],[15.0],"There really isnt enough info out there to be able to determine this. Cases are on there way down from a 300K high (about half now). However, we could expect an uptick in cases as South America moves into the summer months. Pending a vaccine, I don't believe there will be a seven consecutive day period less than 50K before June 21. Even if a vaccine is released, being able to innoculate a sufficient portion of the population as perception that ""the pandemic is over"" may drive increase in number of cases."
+94737,2020-10-11T02:59:21Z,1,[100.0],[100.0],
+783,2020-10-11T02:55:54Z,1,[26.0],[26.0],
+64078,2020-10-11T00:48:35Z,1,[85.0],[85.0],
+8318,2020-10-10T21:48:10Z,1,[100.0],[100.0],
+691,2020-10-10T21:13:02Z,1,[10.0],[10.0],
+90457,2020-10-10T20:53:20Z,1,[12.0],[12.0],
+89135,2020-10-10T18:28:03Z,1,[85.0],[85.0],"It looks like we are separating into two groups, those who think it will happen, and those who don’t. A handful of 50/50 at the moment."
+22689,2020-10-10T17:56:29Z,2,[80.0],[30.0],
+87064,2020-10-10T11:20:29Z,2,[60.0],[-10.0],
+87064,2020-10-10T11:20:18Z,1,[70.0],[70.0],
+92079,2020-10-10T00:40:29Z,1,[100.0],[100.0],
+88452,2020-10-10T00:05:49Z,1,[0.0],[0.0],
+89038,2020-10-09T23:32:07Z,1,[40.0],[40.0],Basically the probability linked to vaccine; unlikely weekly cases will get below 50k without vaccine.
+22689,2020-10-09T22:24:42Z,1,[50.0],[50.0],
+48709,2020-10-09T21:38:02Z,1,[70.0],[70.0],I see a 70/30 probably...
+88010,2020-10-09T20:10:03Z,1,[8.0],[8.0],
+87175,2020-10-09T19:54:56Z,1,[98.0],[98.0],
+90167,2020-10-09T19:27:53Z,1,[2.0],[2.0],
+84880,2020-10-09T19:23:16Z,1,[1.0],[1.0],
+87827,2020-10-09T19:02:36Z,1,[10.0],[10.0],"50,000 is a very low number. The lowest we've been since April is 150,000 in a week. The big factors making that possible would be immunity due to spread of the virus and immunity due to a vaccine, which I would think would be fairly prevalent by then. Another could be measures taken by a president Biden, such as mask mandates or a more aggressive test and trace program. Factors making it unlikely are low seroprevalence (just briefly googling around it still looks like estimates put the country as a whole as less than 10% having antibodies) and low vaccine usage (some surveys indicate only 50% or so of the population might get it) and just the data we have for spread of the virus in the US to date."
+86554,2020-10-09T18:56:13Z,1,[2.0],[2.0],
+40584,2020-10-09T18:09:54Z,1,[75.0],[75.0],
+1333,2020-10-09T18:00:32Z,1,[0.0],[0.0],
+31275,2020-10-09T17:47:13Z,1,[5.0],[5.0],
+90653,2020-10-09T17:41:45Z,1,[0.0],[0.0],
+60695,2020-10-09T17:24:08Z,1,[100.0],[100.0],

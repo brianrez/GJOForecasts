@@ -1,0 +1,1008 @@
+"On 1 September 2020, how many states will report a COVID-19 positivity rate greater than 10.0%?",2020-07-02T22:00:37Z,2020-09-01T07:01:37Z,Between 11 and 15,"['5 or fewer', 'Between 6 and 10', 'Between 11 and 15', 'Between 16 and 20', '21 or more']",['Health'],1007,654,265,237,,https://www.gjopen.com/questions/1681-on-1-september-2020-how-many-states-will-report-a-covid-19-positivity-rate-greater-than-10-0
+95346,2020-09-01T04:06:15Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 5.0, -4.0, 0.0]","Performed a Monte Carlo simulation of changes in daily positivity rate using bootstrap sampling on an exponentially time-weighted distribution (recent % changes are more likely to be sampled than changes in the far past, with probabilities determined by an exponential distribution)."
+57778,2020-09-01T02:55:58Z,64,"[0.0, 2.0, 98.0, 0.0, 0.0]","[0.0, -7.0, 8.0, -1.0, 0.0]",
+93310,2020-09-01T02:44:51Z,4,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",Maintaining forecast. Currently 14.
+95209,2020-09-01T02:43:25Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","There are 14 states with a positivity rate greater than 10.0%. There are 3 other states that are above 9.0% but below 10.0%, but with an increasing trend in the past 14 days: Oklahoma, Minnesota, and Arkansas. Although these 3 states show increasing COVID rates, I do not expect them to reach the 10% positivity rate threshold on September 1st, because their positivity rates are all below 9.5%. Still, I determined that because of their generally poor performance in key measures, I should assign a 1% probability that they would reach the 10% level."
+95243,2020-09-01T02:32:40Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]",
+14027,2020-09-01T02:14:53Z,30,"[0.0, 0.0, 97.0, 3.0, 0.0]","[0.0, -4.0, 4.0, 0.0, 0.0]",
+95398,2020-09-01T02:01:35Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]","Update based on 8/31 data, with 14 states currently above 10%: extremely low probability of sinking to the 6-10 bucket. Confidence still remains extremely high for 11-15, based on the simulations that went into yesterday's forecast, as well as a final assessment of the numbers that will be contributing to tomorrow's 7-day rolling COVID+ average rate in the states near the 10% border."
+95331,2020-09-01T01:39:31Z,5,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",8/31 data out. All 7 data points that will be included in final settlement point to 100% probability for 11-15 outcome. 1% assigned for any data issue within the COVID Tracking project (e.g. SC)
+95427,2020-09-01T00:58:11Z,1,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 95.0, 5.0, 0.0]","As of the current statistics available from https://www.covidexitstrategy.org/, there are 14 states that have a covid-19 positivity rate over 10%. considering that most of them have an upward trend apart from some states like Florida and Idaho, and states such as Arkansas & Oklahoma have an upward trend and are closer to 10% the chances of the number of states having a positivity rate of 10% or more should most likely be between 11 and 15 states."
+95326,2020-09-01T00:55:45Z,1,"[0.0, 0.0, 75.0, 25.0, 0.0]","[0.0, 0.0, 75.0, 25.0, 0.0]",
+31275,2020-09-01T00:55:22Z,20,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+88098,2020-09-01T00:14:42Z,29,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+95333,2020-09-01T00:05:55Z,3,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",8/31 data update
+95307,2020-08-31T23:55:16Z,3,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 4.0, -4.0, 0.0]",Updated initial conditions for most recent data
+95332,2020-08-31T23:34:43Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -2.0, 1.0, 1.0, 0.0]",
+87094,2020-08-31T23:32:16Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -10.0, 25.0, -15.0, 0.0]",
+95223,2020-08-31T23:04:53Z,2,"[0.0, 0.0, 80.0, 20.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]","With many colleges returning to campus and 14 states in the 10%+ range it made sense to change the estimate up. Many colleges have some measures to combat COVID-19, but with examples like University of Alabama and University of North Carolina it seems further outbreaks are likely."
+95308,2020-08-31T23:03:44Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","8/31 data on covidtracking is out, with the 7 day rolling average giving 13 states with a positivity rate > 10%. The 1% for 16-20 is for risk management. This also matches up with the Monte Carlo simulations even before the 8/31 data was released."
+95306,2020-08-31T22:55:09Z,5,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 4.0, -4.0, 0.0]",After quickly looking at updated numbers.
+94883,2020-08-31T22:46:31Z,1,"[0.0, 17.0, 78.0, 3.0, 2.0]","[0.0, 17.0, 78.0, 3.0, 2.0]",
+13974,2020-08-31T22:45:57Z,10,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+94965,2020-08-31T21:34:56Z,4,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, -9.0, 18.0, -9.0, 0.0]","There are currently 14 states with positivity rates > 10% (Puerto Rico has a 2% positivity rate upon further research, not 100%). Unless there is some crazy overnight shift in positivity rate numbers, there's a really strong possibility that there will be between 11-15 states."
+95256,2020-08-31T21:17:49Z,2,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, -2.0, -2.0, 4.0, 0.0]",
+95255,2020-08-31T21:12:14Z,2,"[0.0, 0.0, 84.0, 16.0, 0.0]","[0.0, 0.0, -8.0, 8.0, 0.0]",
+38259,2020-08-31T21:11:55Z,2,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, -15.0, 25.0, -10.0, 0.0]",
+95229,2020-08-31T21:08:06Z,2,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, -15.0, 10.0, 5.0, 0.0]",
+95233,2020-08-31T21:00:23Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]",
+35,2020-08-31T20:54:23Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]",
+95340,2020-08-31T20:43:02Z,3,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+95371,2020-08-31T20:32:31Z,2,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, -4.0, 4.0, 0.0]","Based on the last two days of results, I felt my initial forecast was far too confident. While simulations continue to yield very confident results, it is clear that the volatility in the number is high enough that the possibility of falling between 16 and 20 should be considered."
+95240,2020-08-31T20:28:59Z,1,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 95.0, 5.0, 0.0]",
+95370,2020-08-31T20:26:42Z,3,"[0.0, 0.0, 97.0, 3.0, 0.0]","[0.0, -2.0, 0.0, 2.0, 0.0]","With 14 states currently being over 10.0% there is no real downside risk left, thus we put more weight on upside risk."
+94887,2020-08-31T19:18:17Z,2,"[0.0, 0.0, 80.0, 20.0, 0.0]","[0.0, 0.0, 30.0, -30.0, 0.0]",
+84880,2020-08-31T19:10:16Z,12,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -9.0, 10.0, -1.0, 0.0]",It looks like we'll land at 12-14.
+94981,2020-08-31T18:57:46Z,1,"[30.0, 25.0, 25.0, 15.0, 5.0]","[30.0, 25.0, 25.0, 15.0, 5.0]",
+95373,2020-08-31T18:47:58Z,4,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+95311,2020-08-31T18:44:34Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",The current situation according to https://www.covidexitstrategy.org/ is that 12 States have positivity rates > 10%.
+1333,2020-08-31T18:24:25Z,45,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -10.0, 9.0, 1.0, 0.0]",
+95329,2020-08-31T18:12:10Z,3,"[0.0, 0.0, 98.0, 2.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+94968,2020-08-31T18:07:03Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -30.0, 40.0, -10.0, 0.0]",
+95331,2020-08-31T18:06:10Z,4,"[0.0, 0.0, 94.0, 6.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",NE/HI/AR/GA could finish up in the 10%+ category.
+95306,2020-08-31T18:03:02Z,4,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+95340,2020-08-31T17:53:30Z,2,"[0.0, 0.0, 92.0, 8.0, 0.0]","[0.0, -1.0, -3.0, 4.0, 0.0]",
+95401,2020-08-31T17:50:42Z,2,"[0.0, 0.0, 96.0, 4.0, 0.0]","[0.0, -1.0, 0.0, 1.0, 0.0]",adjustments for monday's new data
+95400,2020-08-31T17:24:53Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -3.0, 4.0, -1.0, 0.0]",Update based on monday data.
+95329,2020-08-31T17:20:45Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",Latest update of state statistics suggests that it is extremely unlikely that cases jump in enough states to reach the 16-20 category.
+95285,2020-08-31T17:20:43Z,5,"[0.0, 0.0, 93.0, 7.0, 0.0]","[0.0, -1.0, -4.0, 5.0, 0.0]",Fixed a bug in simulation that I created when updating predictions.
+95395,2020-08-31T17:10:15Z,2,"[0.0, 0.0, 96.0, 4.0, 0.0]","[0.0, -4.0, 0.0, 4.0, 0.0]",
+95397,2020-08-31T17:04:00Z,3,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",Adjustment for tail risk
+95361,2020-08-31T17:03:44Z,3,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+95275,2020-08-31T16:57:46Z,5,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+95331,2020-08-31T16:48:40Z,3,"[0.0, 0.0, 92.0, 8.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",NE/HI/AR/GA could finish up in the 10%+ category.
+95307,2020-08-31T16:48:05Z,2,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, -5.0, 5.0, 0.0]",Updated initial conditions based on latest data.
+95339,2020-08-31T16:44:05Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Given that most of the numbers contributing to the rolling average calculation is already released, I think there is a less than 1% probability that the number will fall under 1%."
+95339,2020-08-31T16:40:16Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 30.0, -30.0, 0.0]",
+95373,2020-08-31T16:32:07Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+95373,2020-08-31T16:15:33Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+95273,2020-08-31T15:48:18Z,1,"[24.0, 35.0, 40.0, 1.0, 0.0]","[24.0, 35.0, 40.0, 1.0, 0.0]",
+95335,2020-08-31T15:46:31Z,2,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]","Used exact same methodology as before, just updated to latest data which includes the 30th."
+95397,2020-08-31T15:43:05Z,2,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+91893,2020-08-31T15:40:20Z,2,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -23.0, 61.0, -30.0, -8.0]",
+91893,2020-08-31T15:39:48Z,1,"[0.0, 24.0, 38.0, 30.0, 8.0]","[0.0, 24.0, 38.0, 30.0, 8.0]",
+87621,2020-08-31T15:15:40Z,7,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+20044,2020-08-31T15:15:08Z,20,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",
+20044,2020-08-31T15:14:50Z,19,"[0.0, 0.0, 98.0, 2.0, 0.0]","[0.0, -2.0, 1.0, 1.0, 0.0]",
+95306,2020-08-31T14:27:05Z,3,"[0.0, 0.0, 96.0, 4.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+95322,2020-08-31T14:20:42Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",more linear regression using alternative interpretations of the data
+90457,2020-08-31T14:10:02Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 66.0, -66.0, 0.0]",
+95307,2020-08-31T13:58:57Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]",I did a monte carlo simulation using the data up to 08-30. I took the mean and standard deviation of the daily rate changes from the last two weeks and simulated a one day change from 08-30's data to 08-31. I took the resulting distribution which settled nearly 99.97% into the 11-15 bucket.
+95245,2020-08-31T13:09:33Z,1,"[0.0, 4.0, 84.0, 12.0, 0.0]","[0.0, 4.0, 84.0, 12.0, 0.0]",
+95335,2020-08-31T12:48:17Z,1,"[0.0, 1.0, 96.0, 3.0, 0.0]","[0.0, 1.0, 96.0, 3.0, 0.0]",Intuition
+95285,2020-08-31T11:58:12Z,4,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]","Updated state-by-state flip forecasts with new data. Current base rate is 13, and we also know 5/7 days' of data that will be in the final results. Forecast is thus more tightly centered around mean, with small skew."
+75863,2020-08-31T11:29:42Z,25,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -3.0, 4.0, -1.0, 0.0]",Currently 14 as of last night
+27661,2020-08-31T09:34:40Z,26,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+80764,2020-08-31T09:32:18Z,38,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+1333,2020-08-31T05:46:30Z,44,"[0.0, 10.0, 90.0, 0.0, 0.0]","[-1.0, 0.0, 1.0, 0.0, 0.0]",
+86342,2020-08-31T05:20:28Z,5,"[0.0, 0.0, 100.0, 0.0, 0.0]","[-1.0, -13.0, 50.0, -31.0, -5.0]",
+95256,2020-08-31T04:51:21Z,1,"[0.0, 2.0, 97.0, 1.0, 0.0]","[0.0, 2.0, 97.0, 1.0, 0.0]",
+95398,2020-08-31T03:59:41Z,1,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, 1.0, 98.0, 1.0, 0.0]","Running Monte Carlo simulations based on the distribution of daily %positive changes for each state in the past few weeks yields overwhelmingly confident results for the 11-15 bucket. This is the case when sampling from a normal distribution for daily change, as well as when sampling from distributions with fatter tails/higher kurtosis (e.g. Cauchy or Laplace)."
+95333,2020-08-31T03:29:43Z,2,"[0.0, 0.0, 98.0, 2.0, 0.0]","[0.0, -1.0, -1.0, 2.0, 0.0]",Revised monte carlo simulation with newest data and fixed mistakes in code. Changed MC methodology to calculate a bootstrap sample using an empirical distribution look back period at different times up to 4 months. Tried adding Gaussian Noise and artificial outliers to simulate fat tail variance and stress test results.
+94587,2020-08-31T02:44:53Z,8,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -7.0, 9.0, -2.0, 0.0]",
+95400,2020-08-31T02:38:49Z,1,"[0.0, 3.0, 95.0, 2.0, 0.0]","[0.0, 3.0, 95.0, 2.0, 0.0]",I used two methods to make this forecast.
+95070,2020-08-31T02:19:29Z,1,"[2.0, 3.0, 90.0, 3.0, 2.0]","[2.0, 3.0, 90.0, 3.0, 2.0]",
+95329,2020-08-31T01:46:13Z,1,"[0.0, 0.0, 94.0, 6.0, 0.0]","[0.0, 0.0, 94.0, 6.0, 0.0]","Ran some simulations extrapolating from the data at covidtracking.com. Based on the trends of growth it seems like even the beginning of an abnormal, exponential rise in rates should not allow for more than 15 states to be above 10% by September 1st. I am underweighting my estimate a little bit by considering the possibility of a backlog of tests over the weekend that will be processed Monday, leading to a jump in cases."
+95407,2020-08-31T01:42:43Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]",The current data and group consensus show that there's very little variance left.
+38094,2020-08-31T01:29:12Z,25,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",I'll follow the lead and rationale of @ramasoma and go all in on this one at this time.
+95334,2020-08-31T00:56:58Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","The methodology for how the question settles is based on a 7 day rolling average - Therefore much of the information that will determine the forecast has already been released. Looking over current statistics, 13 states are within the criteria of a positivity rate greater than 10%. Still, we must calculate the likelihood of new data on Monday that may shift the positivity rates in either direction. Considering the standard deviation of the data, it is extremely unlikely for any state to flip above or below the 10% threshold. 2 states have a slight chance of positivity rates increasing above 10%, and one state has a chance of positivity decreasing below 10%. However, even in the worst case, the outcome of 11-15 states is a certainty."
+95370,2020-08-31T00:38:40Z,2,"[0.0, 2.0, 97.0, 1.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]","Update: New data for today is out, thus we are updating our forecasts to the distribution above. With less days and more data available, we could tighten our range even more and increase our probabilities. Note, however, that the outcome is not yet carved in stone yet though, as there is still some variance left."
+95332,2020-08-31T00:29:00Z,1,"[0.0, 2.0, 98.0, 0.0, 0.0]","[0.0, 2.0, 98.0, 0.0, 0.0]",
+95334,2020-08-31T00:26:18Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -3.0, 5.0, -2.0, 0.0]",
+87621,2020-08-31T00:04:47Z,6,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, -26.0, 28.0, -2.0, 0.0]",
+95366,2020-08-30T23:43:55Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","2 more days in data, currently 14 states > 0.10 versus 12 at first forecast but a) only 1 more day missing -> less uncertainty b) looking at previous change from number of states >0.10 from Sunday to Monday is -1 for 2 last weeks, constant 2w ago"
+95325,2020-08-30T23:20:15Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]","Current prior is overwhelmingly strong given the very short timeframe of prediction, and that historical volatility of percentage changes in positivity on Sunday / Monday are notably low, possibly due to changes in number of tests."
+88098,2020-08-30T22:59:02Z,28,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",
+95351,2020-08-30T22:24:12Z,1,"[0.0, 0.0, 91.0, 9.0, 0.0]","[0.0, 0.0, 91.0, 9.0, 0.0]",1. get the past 14 day positive rate for each state 2. Monte Carlo 100000 with error (std normal ) -> get the mean rate for each state -> this is the base rate
+95401,2020-08-30T22:16:41Z,1,"[0.0, 1.0, 96.0, 3.0, 0.0]","[0.0, 1.0, 96.0, 3.0, 0.0]","Since we're predicting the published metrics by this third-party site, the first step is to understand the calculation methodology. We see that it says:"
+95331,2020-08-30T21:07:11Z,2,"[0.0, 1.0, 90.0, 9.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]","Current state of the world-13 state above 10%. Two more days of data to come. Some potential candidates include GA, NE, HI."
+95331,2020-08-30T21:05:50Z,1,"[0.0, 1.0, 91.0, 8.0, 0.0]","[0.0, 1.0, 91.0, 8.0, 0.0]",
+95395,2020-08-30T20:58:35Z,1,"[0.0, 4.0, 96.0, 0.0, 0.0]","[0.0, 4.0, 96.0, 0.0, 0.0]",Running a Monte Carlo simulation on negativeIncrease and positiveIncrease for each state based on the 14-day lookback period
+95374,2020-08-30T20:48:11Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",No real update besides the passing of a day giving us additional confidence that no completely outlier event will take place that could swing the outcome out of the 11-15 range.
+95269,2020-08-30T20:26:48Z,1,"[0.0, 2.0, 95.0, 3.0, 0.0]","[0.0, 2.0, 95.0, 3.0, 0.0]",There are 12 states currently above 10%. I created simple forecasts using different weighted moving averages. I had to greatly increase the tail to arrive at either less than 11 or more than 15. There are 3 states that are within reach of having an unlikely increase bump them over 10% and two states within reach of having a large decrease bring them below 10%.
+95346,2020-08-30T20:20:22Z,1,"[0.0, 1.0, 95.0, 4.0, 0.0]","[0.0, 1.0, 95.0, 4.0, 0.0]","I calculated each state's COVID positivity rate based on a linear forecasted positive case count per state and each state's 7-day average count of conducted tests. Based on this, there are 12 states with projected positivity rates > 10%."
+31275,2020-08-30T19:37:17Z,19,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -6.0, 6.0, 0.0, 0.0]",
+95096,2020-08-30T18:59:26Z,5,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+67609,2020-08-30T18:55:34Z,16,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+95396,2020-08-30T18:49:24Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","went through Johns Hopkins individual states data (this seems to be what covidexitstrategy uses but more up to date) and ballparked the % chance that each state would be over 10% positivity rate. I took a sum of these to get my estimate and adjusted all estimates by plus/minus 20% to get a feel for a confidence interval. Mean estimate was 14.09 and my bounds were 11.28, 15.29."
+95340,2020-08-30T18:36:00Z,1,"[0.0, 1.0, 95.0, 4.0, 0.0]","[0.0, 1.0, 95.0, 4.0, 0.0]",
+1333,2020-08-30T18:27:46Z,43,"[1.0, 10.0, 89.0, 0.0, 0.0]","[0.0, -8.0, 14.0, -6.0, 0.0]",
+1333,2020-08-30T18:21:24Z,42,"[1.0, 18.0, 75.0, 6.0, 0.0]","[0.0, 0.0, -2.0, 2.0, 0.0]",
+95397,2020-08-30T18:11:08Z,1,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, 1.0, 99.0, 0.0, 0.0]","The first obvious thing to observe is that we are forecasting/looking forward a very short period of time. Today's observed value of number of states w/ positivity >=10% (denote NUM_STATES) is a very strong forecast for tomorrow's NUM_STATES (there is a limited amount of variance left to be realized over the course of the next day). Therefore, it seemed unintuitive to try to fit a sophisticated logarithmic model or time series regression looking back historically over a significant period of time for a couple of reasons. 1.) The variance in our model prediction may far exceed the amount of variance remaining before the settlement date 2.) The most recent ""moves"" in the Covid positivity rate by day are intuitively a better prediction of tomorrow's move (historical moves looking back across a longer time may not be a good reference point for this). Thus, I will be looking at moves over the course of the last 10 days, and discount moves prior to that as a poor sample for our population parameter (today's move). Important to note: there is a trade-off here between sample size and representativeness of our sample. Last week's moves may better predict tomorrow's move better than last month's moves, but you will be drawing from a smaller sample and thus have greater variance."
+95333,2020-08-30T18:00:15Z,1,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, 1.0, 99.0, 0.0, 0.0]","2 period Monte Carlo with various lookback periods and artificially fat tails for sensitivity analysis. Even with fat tails, probability of realized between 6-10 and 16-20 is estimated to be <1%"
+95195,2020-08-30T17:43:23Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]","Given that most of the numbers contributing to the rolling average calculation is already released, I think there is a less than 1% probability that the number will fall under 1%."
+57628,2020-08-30T17:36:19Z,6,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+95280,2020-08-30T16:52:27Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]","No major changes. However, now that the vast majority of the data points have been included into the rolling average and EV based on my theo calculations is still hovering around 13, I feel comfortable raising 11 - 15 to 100% (in reality I would put something like 99.5% but due to rounding, I am going to 100%)."
+95361,2020-08-30T16:30:47Z,2,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, -5.0, 16.0, -10.0, -1.0]",
+95393,2020-08-30T16:15:20Z,1,"[0.0, 0.0, 92.0, 8.0, 0.0]","[0.0, 0.0, 92.0, 8.0, 0.0]",
+90167,2020-08-30T16:00:51Z,19,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -4.0, 4.0, 0.0, 0.0]",
+95221,2020-08-30T14:18:57Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]",
+691,2020-08-30T14:02:45Z,50,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+95275,2020-08-30T12:32:38Z,4,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 6.0, -6.0, 0.0]",Taking into account current data and the fact that we already have most of the data that will be used in the final calculations. (I have a <0.5% chance in the 16-20 bucket and so have rounded down to 0)
+88010,2020-08-30T10:53:28Z,12,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+80764,2020-08-30T10:47:14Z,37,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+27661,2020-08-30T09:58:26Z,25,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+20156,2020-08-30T07:54:00Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[-10.0, -20.0, 70.0, -25.0, -15.0]",
+37520,2020-08-30T06:21:13Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]",
+86785,2020-08-30T05:12:03Z,8,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -3.0, 6.0, -3.0, 0.0]",
+95257,2020-08-30T03:59:57Z,1,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 95.0, 5.0, 0.0]","1- Schools and Campuses reopening will result in an increase in Covid-19 positivity rate. States that already have a rate close to 10% or higher might continue to see the same trend. 2- Many states have relaxed restrictions by reopening stores, gyms, etc. and no longer have a lockdown in place. 3- CDC modified its coronavirus testing guidelines this week to exclude people who do not show symptoms of Covid-19 4- Overall rates are likely to remain consistent because September 1 is not far in the future"
+22689,2020-08-30T02:47:25Z,12,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+95370,2020-08-30T02:12:38Z,1,"[0.0, 2.0, 94.0, 4.0, 0.0]","[0.0, 2.0, 94.0, 4.0, 0.0]","Methodology: To construct our predictions for this question, first, we defined a benchmark based on historical values. Subsequently, tried to both support and contradict our initial hypothesis with quantitative as well as qualitative metrics. Finally, we looked at edge cases to fine-tune our prediction values between the buckets."
+38094,2020-08-30T01:22:16Z,24,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+95366,2020-08-30T01:17:48Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","Summary of the problem: The objective is to assess the number of US states that will report a COVID-19 positivity rate greater than 10.0%. Positivity rate is the positive cases that have been surfaced from testing: [Positive Cases / Total Tests], rolled on the past 7 days [1]. This data is updated daily and comes from the COVID Tracking Project."
+95374,2020-08-30T00:35:38Z,1,"[0.0, 0.0, 97.0, 3.0, 0.0]","[0.0, 0.0, 97.0, 3.0, 0.0]","Looking at positiveIncrease and totalTestResultIncrease over the past 7 days we can gain an idea of what to expect in terms of positivity rate. In addition to this, if we note that the eventual metric will be calculated using a 7-day rolling average, we can be quite certain our range will fall between 11 and 15, especially considering the current range is around 13~14."
+14027,2020-08-30T00:15:50Z,29,"[0.0, 4.0, 93.0, 3.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+88098,2020-08-29T23:38:05Z,27,"[0.0, 1.0, 95.0, 4.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+1333,2020-08-29T22:57:18Z,41,"[1.0, 18.0, 77.0, 4.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+95369,2020-08-29T22:34:49Z,1,"[0.0, 0.0, 97.0, 3.0, 0.0]","[0.0, 0.0, 97.0, 3.0, 0.0]","Summary: take the latest rolling 7-day average, predict whether states with borderline positivity rate will be above 10% based on the assumption that the rolling positivity rate is a random walk with a linear trend."
+95373,2020-08-29T22:29:45Z,1,"[0.0, 1.0, 97.0, 2.0, 0.0]","[0.0, 1.0, 97.0, 2.0, 0.0]","Currently there are 12 states with a positivity rate > 10% and one (Arkansas) that is at 10.0% flat. The most likely path to 6-10 states appears to be Arkansas, Kansas, and Florida all falling below 10%. Arkansas appears to be a coin flip right now. I would put the probability of Kansas falling below 10.0% at <10% given that its weekly rolling average has remained between approximately 11 and 12.5% for the past two weeks. And similarly, Florida I think also has a sub-10% probability of dipping below 10 given that its positivity rate has been decreasing more or less linearly for the past two weeks at a rate of 0.24 percentage points per day, so it is not on track to go below the 10 mark for another 10.5 days. If we assume these three events are independent we can see that the probability of all three states falling out of the money in the next 2 days is less than 0.5*0.1*0.1 = 0.005."
+31275,2020-08-29T19:59:01Z,18,"[0.0, 7.0, 93.0, 0.0, 0.0]","[0.0, 3.0, -2.0, -1.0, 0.0]",
+95347,2020-08-29T19:46:53Z,1,"[0.0, 2.0, 97.0, 1.0, 0.0]","[0.0, 2.0, 97.0, 1.0, 0.0]","I looked at the percent changes in positivity over the past 13 data points and for each state, generated a random sample of 100,000 percent changes from this original data. I used decaying probability weights so that the most recent data was represented more in the sample than older data. Finally I summed over the state samples to obtain a sample of the number of states with a rate greater than 10%. All of this work led to the obvious conclusion that the number in two days is extremely likely to be between 11 and 15 states. I did increase the chances for 6-10 and 16-20 states by 1% each to account for a bit more uncertainty."
+93541,2020-08-29T19:22:56Z,5,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -5.0, 10.0, -5.0, 0.0]",Final adjustment
+88198,2020-08-29T18:51:08Z,7,"[0.0, 2.0, 97.0, 1.0, 0.0]","[0.0, -3.0, 6.0, -3.0, 0.0]",
+95371,2020-08-29T18:35:46Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","To obtain this estimate, after reading through the problem statement and linked website, I attempted to understand how the data in the COVID+ RATE IS column was computed. This column did not correspond well with positivity rates found on other well-cited websites, so I focused on replicating the methodology used to compute the focal data column. I did this using the data provided from COVID Tracking Project, which the covidexitstrategy site uses."
+95361,2020-08-29T18:06:27Z,1,"[0.0, 6.0, 81.0, 12.0, 1.0]","[0.0, 6.0, 81.0, 12.0, 1.0]",
+14672,2020-08-29T17:50:19Z,3,"[0.0, 2.0, 95.0, 3.0, 0.0]","[0.0, -3.0, 5.0, -2.0, 0.0]",
+95265,2020-08-29T17:16:21Z,2,"[0.0, 3.0, 92.0, 5.0, 0.0]","[-1.0, -3.0, 6.0, -1.0, -1.0]",
+95280,2020-08-29T17:09:44Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",Reran simulations and analysis with 8/28/2020 data. No major changes.
+95265,2020-08-29T16:53:39Z,1,"[1.0, 6.0, 86.0, 6.0, 1.0]","[1.0, 6.0, 86.0, 6.0, 1.0]",
+90167,2020-08-29T16:45:01Z,18,"[0.0, 4.0, 96.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+91924,2020-08-29T16:34:48Z,4,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]","Increasing confidence that the number above 10% + rate will remain around 13. Although 7 states above 10%+ are in decreasing trend, 6 are in increasing trend, and only one of the decrease trending states is real close to 10% - the rest are more than a full % point above that."
+95277,2020-08-29T16:16:21Z,1,"[0.0, 6.0, 78.0, 14.0, 2.0]","[0.0, 6.0, 78.0, 14.0, 2.0]",
+95311,2020-08-29T15:52:51Z,1,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, 1.0, 98.0, 1.0, 0.0]",
+691,2020-08-29T14:18:52Z,49,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+89135,2020-08-29T12:51:52Z,8,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -45.0, 55.0, -10.0, 0.0]",
+75863,2020-08-29T12:07:31Z,24,"[0.0, 3.0, 96.0, 1.0, 0.0]","[0.0, -5.0, 8.0, -3.0, 0.0]",Currently 13. More likely to go down than up.
+23355,2020-08-29T11:23:15Z,1,"[0.0, 4.0, 95.0, 1.0, 0.0]","[0.0, 4.0, 95.0, 1.0, 0.0]",
+89013,2020-08-29T06:11:23Z,7,"[0.0, 10.0, 80.0, 10.0, 0.0]","[0.0, -5.0, 20.0, -15.0, 0.0]",
+38094,2020-08-29T01:56:06Z,23,"[0.0, 2.0, 98.0, 0.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]","Just fiddling, the path is clear, the answer may not be."
+88098,2020-08-29T00:40:18Z,26,"[0.0, 2.0, 93.0, 5.0, 0.0]","[0.0, 0.0, 4.0, -4.0, 0.0]",
+67609,2020-08-28T23:11:23Z,15,"[0.0, 0.0, 98.0, 2.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",
+95280,2020-08-28T23:05:52Z,1,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 99.0, 1.0, 0.0]","First I used the data from https://www.covidexitstrategy.org to calculate 7 day rolling positivity (Covid positivity rate). Next I plotted the time series of the number of states with a Covid positivity rate of greater than 10% . It is currently 12 and since August 1st 2020, it has not hit 16 states or higher and it has only hit below 10 states for a brief period of a few days."
+88284,2020-08-28T22:59:00Z,8,"[0.0, 12.0, 88.0, 0.0, 0.0]","[0.0, -23.0, 23.0, 0.0, 0.0]",
+92438,2020-08-28T22:28:29Z,2,"[0.0, 19.0, 74.0, 7.0, 0.0]","[0.0, -16.0, 14.0, 2.0, 0.0]",
+95334,2020-08-28T22:16:35Z,1,"[0.0, 3.0, 95.0, 2.0, 0.0]","[0.0, 3.0, 95.0, 2.0, 0.0]",
+95322,2020-08-28T20:31:55Z,2,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -5.0, 25.0, -20.0, 0.0]",linear regression
+90167,2020-08-28T20:05:50Z,17,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+88010,2020-08-28T19:16:10Z,11,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, -24.0, 24.0, 0.0, 0.0]",
+1333,2020-08-28T19:01:54Z,40,"[1.0, 19.0, 76.0, 4.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+57628,2020-08-28T18:08:22Z,5,"[0.0, 2.0, 98.0, 0.0, 0.0]","[0.0, -17.0, 17.0, 0.0, 0.0]",
+94965,2020-08-28T17:44:36Z,3,"[0.0, 10.0, 80.0, 10.0, 0.0]","[-2.0, -30.0, 22.0, 10.0, 0.0]","Changing my forecast again. There are a solid 10 states that have positivity rates above 12%. There are five states with positivity rates between 9-11%, which could go either way. I think there's a really good chance that there will be between 11 and 15 states with >10% positivity rates."
+95339,2020-08-28T17:28:23Z,1,"[0.0, 0.0, 70.0, 30.0, 0.0]","[0.0, 0.0, 70.0, 30.0, 0.0]",
+67609,2020-08-28T17:20:14Z,14,"[0.0, 0.0, 96.0, 4.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+80764,2020-08-28T17:07:34Z,36,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, 3.0, 0.0, -3.0, 0.0]",
+93310,2020-08-28T15:17:25Z,3,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -26.0, 35.0, -9.0, 0.0]","Excluding PR, we are at 12."
+691,2020-08-28T14:48:20Z,48,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+20044,2020-08-28T14:14:46Z,18,"[0.0, 2.0, 97.0, 1.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+92357,2020-08-28T13:25:10Z,2,"[0.0, 1.0, 99.0, 0.0, 0.0]","[-40.0, -29.0, 79.0, -10.0, 0.0]",
+95285,2020-08-28T13:10:21Z,3,"[0.0, 1.0, 92.0, 7.0, 0.0]","[0.0, -12.0, 25.0, -13.0, 0.0]","Formalized my intuition by estimating probabilities that states have over 10%, then ran Monte Carlo simulation using these probabilities. I calculated the standard deviation of each states' 7d rolling positivity rate over the past month. Then I formalized probabilities of being above for those states within a standard deviation of the 10% positivity line (assuming those states 1 std dev away would stay on that side): Arkansas, Arizona, Georgia, Hawaii, Kansas, Minnesota, Nebraska, North Carolina, Utah, Virginia, and South Carolina."
+95306,2020-08-28T11:58:15Z,2,"[0.0, 0.0, 93.0, 7.0, 0.0]","[0.0, 0.0, -2.0, 2.0, 0.0]",Increased the statewide standard deviation from .2% to .5% and reran MonteCarlo
+80764,2020-08-28T09:44:20Z,35,"[0.0, 7.0, 90.0, 3.0, 0.0]","[0.0, -1.0, 3.0, -2.0, 0.0]",
+27661,2020-08-28T08:31:33Z,24,"[0.0, 3.0, 97.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",12 as of now if my count is correct.
+88198,2020-08-28T05:38:26Z,6,"[0.0, 5.0, 91.0, 4.0, 0.0]","[0.0, -13.0, 20.0, -7.0, 0.0]",
+95255,2020-08-28T04:15:41Z,1,"[0.0, 0.0, 92.0, 8.0, 0.0]","[0.0, 0.0, 92.0, 8.0, 0.0]","The opening of schools and universities will create a new spike in cases, despite efforts to maintain distance and contact trace. Those who may have previously been isolated may now be exposed if even one person from a family is going to a school and coming into contact with hundreds of others. Additionally, the CDC release that limits testing to only those with symptoms should increase the COVID+ rate as those with symptoms are more likely to test positive. By September 1, those who contracted the disease as schools first opened should have had enough time to develop symptoms, get tested, and have the results come back. This should keep the rates steady. With 12 states currently above 10%, I think it's possible that a few more reach the threshold. A four state increase seems possible, but unlikely."
+89013,2020-08-28T03:31:48Z,6,"[0.0, 15.0, 60.0, 25.0, 0.0]","[0.0, -10.0, 18.0, -8.0, 0.0]",
+84931,2020-08-28T03:07:11Z,2,"[0.0, 34.0, 46.0, 15.0, 5.0]","[-27.0, 1.0, 31.0, 2.0, -7.0]","Rates may jump or decrease in the south based on the hurricanes. Either way, I feel they will stay within the 11-15 window with a higher potentiality to drop."
+14672,2020-08-28T02:26:46Z,2,"[0.0, 5.0, 90.0, 5.0, 0.0]","[0.0, -3.0, 5.0, -2.0, 0.0]",
+95252,2020-08-28T01:01:33Z,1,"[0.0, 3.0, 95.0, 2.0, 0.0]","[0.0, 3.0, 95.0, 2.0, 0.0]",
+88098,2020-08-28T00:52:14Z,25,"[0.0, 2.0, 89.0, 9.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+84880,2020-08-28T00:13:16Z,11,"[0.0, 9.0, 90.0, 1.0, 0.0]","[0.0, 2.0, 4.0, -6.0, 0.0]",
+57778,2020-08-27T23:53:03Z,63,"[0.0, 9.0, 90.0, 1.0, 0.0]","[0.0, -6.0, 6.0, 0.0, 0.0]",
+94587,2020-08-27T23:35:32Z,7,"[0.0, 8.0, 90.0, 2.0, 0.0]","[0.0, 7.0, -3.0, -4.0, 0.0]",
+95248,2020-08-27T22:02:33Z,1,"[0.0, 3.0, 95.0, 2.0, 0.0]","[0.0, 3.0, 95.0, 2.0, 0.0]",
+95275,2020-08-27T21:47:42Z,3,"[0.0, 0.0, 94.0, 6.0, 0.0]","[0.0, 0.0, 10.0, -10.0, 0.0]",
+95322,2020-08-27T21:26:57Z,1,"[0.0, 5.0, 75.0, 20.0, 0.0]","[0.0, 5.0, 75.0, 20.0, 0.0]",existing numbers really speak for themselves
+31275,2020-08-27T21:20:32Z,17,"[0.0, 4.0, 95.0, 1.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+1333,2020-08-27T18:34:50Z,39,"[1.0, 20.0, 75.0, 4.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+67609,2020-08-27T18:21:36Z,13,"[0.0, 2.0, 94.0, 4.0, 0.0]","[0.0, -2.0, 9.0, -7.0, 0.0]",
+691,2020-08-27T18:16:15Z,47,"[0.0, 2.0, 98.0, 0.0, 0.0]","[0.0, -3.0, 4.0, -1.0, 0.0]",
+79556,2020-08-27T18:10:55Z,2,"[0.0, 9.0, 87.0, 4.0, 0.0]","[-1.0, -2.0, 24.0, -14.0, -7.0]",
+95306,2020-08-27T18:03:39Z,1,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 95.0, 5.0, 0.0]","After using the current positivity rates for each state gotten from https://www.covidexitstrategy.org, I ran a Monte Carlo simulation. In each trial, I assumed each state's rate would change by some normally distributed amount, where that error has mean 0 and standard deviation .5%. I also added the same ""national error"" to every state according to a normal distribution with mean 0 and standard deviation .3%. I got these numbers by looking at a few states' and US' trends over time, and failing to think of any national event that would happen by then that might imply a directional move."
+14027,2020-08-27T17:14:13Z,28,"[0.0, 3.0, 93.0, 4.0, 0.0]","[0.0, 3.0, 4.0, -7.0, 0.0]",
+87621,2020-08-27T16:40:19Z,5,"[0.0, 27.0, 70.0, 3.0, 0.0]","[0.0, 2.0, 1.0, -3.0, 0.0]",
+95285,2020-08-27T16:30:40Z,2,"[0.0, 13.0, 67.0, 20.0, 0.0]","[0.0, 5.0, -13.0, 8.0, 0.0]","Updated to fix a mistake pointed out by @RSparkes, as the statistics are 7 day moving averages. Leads to more uncertainty in my forecast."
+40584,2020-08-27T16:28:21Z,19,"[0.0, 4.0, 95.0, 1.0, 0.0]","[0.0, -9.0, 8.0, 1.0, 0.0]",
+95285,2020-08-27T15:47:13Z,1,"[0.0, 8.0, 80.0, 12.0, 0.0]","[0.0, 8.0, 80.0, 12.0, 0.0]","Currently (8/27) there are 12 states above 10%. These are 14 day rolling averages, which helps buffer any extreme changes and effect of noisy reporting periods, and only 4 more days until Sept1. All of these states are above 11.5%, many much higher. Thus base rate estimate of mean is thus 11-15."
+22689,2020-08-27T15:40:25Z,11,"[0.0, 1.0, 99.0, 0.0, 0.0]","[0.0, -19.0, 19.0, 0.0, 0.0]",
+20044,2020-08-27T15:07:43Z,17,"[0.0, 4.0, 95.0, 1.0, 0.0]","[0.0, -4.0, 5.0, -1.0, 0.0]",
+27661,2020-08-27T14:38:51Z,23,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, 3.0, 0.0, -3.0, 0.0]",
+95275,2020-08-27T14:16:29Z,2,"[0.0, 0.0, 84.0, 16.0, 0.0]","[0.0, 0.0, 32.0, -32.0, 0.0]",Testing data from WA was back-filled in [1] rather than inputting new data on the day it was released. This changes the calculation which means that WA will no longer be included in my list of states with expected positivity rate >10%.
+75863,2020-08-27T13:59:22Z,23,"[0.0, 8.0, 88.0, 4.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",Currently 12 (data reporting issue with Washington has been resolved)
+80764,2020-08-27T10:37:48Z,34,"[0.0, 8.0, 87.0, 5.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+80764,2020-08-27T10:09:37Z,33,"[0.0, 8.0, 84.0, 8.0, 0.0]","[0.0, -2.0, 4.0, -2.0, 0.0]",
+95275,2020-08-27T04:05:29Z,1,"[0.0, 0.0, 52.0, 48.0, 0.0]","[0.0, 0.0, 52.0, 48.0, 0.0]","I make a rough approximation from current data by looking at the 6 most toss-up states (UT, HI, NE, KS, GA, AR) to simplify things. All other states are windsorised to have probabilities of 0 or 1 in the obvious fashion by looking at positivity rates at [1]. I then assign the following probabilities to the states (by intuitive guessing): - UT = 85% - HI = 80% - NE = 70% - KS = 40% - GA = 40% - AR = 30% Of course WA is the elephant in the room. The final 7 day rolling average will include data from Aug 26 which will be listed as 100% positivity rate given the methodology used [2][3]. Thus WA will finish with a positivity rate of at least 14%."
+94425,2020-08-27T03:50:42Z,4,"[0.0, 2.0, 90.0, 8.0, 0.0]","[0.0, -13.0, 10.0, 3.0, 0.0]",
+19127,2020-08-27T01:46:26Z,18,"[0.0, 4.0, 83.0, 13.0, 0.0]","[-2.0, -25.0, 29.0, 0.0, -2.0]",
+95223,2020-08-26T23:36:04Z,1,"[0.0, 5.0, 75.0, 20.0, 0.0]","[0.0, 5.0, 75.0, 20.0, 0.0]",
+57778,2020-08-26T22:34:03Z,62,"[0.0, 15.0, 84.0, 1.0, 0.0]","[0.0, -10.0, 9.0, 1.0, 0.0]",
+75863,2020-08-26T22:17:45Z,22,"[0.0, 8.0, 86.0, 6.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Currently 13 (excluding Washington since they have a data reporting issues that will be resolved next week) [1]. Nationally, percent positivity seems to be falling [2] and the number of tests administered is plateauing [3]."
+95270,2020-08-26T22:11:53Z,1,"[0.0, 0.0, 40.0, 60.0, 0.0]","[0.0, 0.0, 40.0, 60.0, 0.0]","Looking at current trends, three states have COVID test positivity rates that are near 10% and increasing, while only a single state has a COVID test positivity rate near 10% and decreasing. If these trends continue, it would mean that 2 additional states could be >10 by September 1st."
+95230,2020-08-26T21:51:13Z,1,"[0.0, 5.0, 85.0, 10.0, 0.0]","[0.0, 5.0, 85.0, 10.0, 0.0]",
+95229,2020-08-26T21:37:39Z,1,"[0.0, 15.0, 85.0, 0.0, 0.0]","[0.0, 15.0, 85.0, 0.0, 0.0]",
+38094,2020-08-26T20:33:02Z,22,"[0.0, 1.0, 98.0, 1.0, 0.0]","[0.0, -9.0, 8.0, 1.0, 0.0]",
+691,2020-08-26T19:53:43Z,46,"[0.0, 5.0, 94.0, 1.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+92249,2020-08-26T19:23:11Z,2,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, -16.0, 35.0, -18.0, -1.0]",
+95096,2020-08-26T19:15:53Z,4,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+1333,2020-08-26T18:48:32Z,38,"[1.0, 21.0, 74.0, 4.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+94587,2020-08-26T18:16:06Z,6,"[0.0, 1.0, 93.0, 6.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",Updating
+31251,2020-08-26T17:56:58Z,5,"[0.0, 8.0, 89.0, 3.0, 0.0]","[0.0, -18.0, 18.0, 0.0, 0.0]",
+20044,2020-08-26T17:09:17Z,16,"[0.0, 8.0, 90.0, 2.0, 0.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+90167,2020-08-26T16:48:19Z,16,"[0.0, 7.0, 93.0, 0.0, 0.0]","[0.0, -1.0, 9.0, -8.0, 0.0]",
+84880,2020-08-26T16:24:01Z,10,"[0.0, 7.0, 86.0, 7.0, 0.0]","[0.0, -3.0, 11.0, -8.0, 0.0]",
+87621,2020-08-26T16:17:35Z,4,"[0.0, 25.0, 69.0, 6.0, 0.0]","[0.0, -10.0, 9.0, 1.0, 0.0]",
+31275,2020-08-26T15:34:46Z,16,"[0.0, 4.0, 92.0, 4.0, 0.0]","[0.0, -11.0, 16.0, -5.0, 0.0]",
+13974,2020-08-26T15:13:03Z,9,"[0.0, 10.0, 90.0, 0.0, 0.0]","[-3.0, -10.0, 17.0, -3.0, -1.0]",
+13974,2020-08-26T15:12:01Z,8,"[3.0, 20.0, 73.0, 3.0, 1.0]","[0.0, -30.0, 30.0, 0.0, 0.0]",
+1333,2020-08-26T14:55:20Z,37,"[1.0, 20.0, 75.0, 4.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+16109,2020-08-26T14:54:19Z,2,"[95.0, 5.0, 0.0, 0.0, 0.0]","[60.0, -40.0, -20.0, 0.0, 0.0]",
+94405,2020-08-26T14:30:02Z,2,"[0.0, 0.0, 75.0, 25.0, 0.0]","[-20.0, -60.0, 60.0, 20.0, 0.0]",
+94587,2020-08-26T14:20:26Z,5,"[0.0, 1.0, 90.0, 9.0, 0.0]","[0.0, -17.0, 25.0, -6.0, -2.0]",Updated from current data on https://www.covidexitstrategy.org/
+91924,2020-08-26T14:00:09Z,3,"[0.0, 0.0, 97.0, 3.0, 0.0]","[0.0, -3.0, 38.0, -35.0, 0.0]","13 states above 10% positivity with another three 9.5% or greater (although two of them decreasing trend). This has trended upward in the past 10 days. Couple that with decreased testing and new CDC directive concerning testing of exposed individuals, and you get a higher positivity rate since clinicians are restricting who can be tested based on symptom criteria as well. I feel it is very unlikely that this will shift downward, but the chances of it shifting upward just increased dramatically. Just doubtful that this will be fully evident by Sept 1 - less than a week away."
+87440,2020-08-26T13:38:33Z,8,"[0.0, 7.0, 90.0, 3.0, 0.0]","[0.0, -23.0, 21.0, 2.0, 0.0]",
+87943,2020-08-26T13:22:04Z,8,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, -30.0, 30.0, 0.0, 0.0]",
+75863,2020-08-26T13:16:14Z,21,"[0.0, 8.0, 86.0, 6.0, 0.0]","[0.0, -7.0, 4.0, 3.0, 0.0]",Currently 13 (+1 from yesterday; excluding Washington since it has a data reporting issue that will soon be resolved)
+88766,2020-08-26T13:12:16Z,37,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -8.0, 8.0, 0.0, 0.0]",
+67609,2020-08-26T13:10:37Z,12,"[0.0, 4.0, 85.0, 11.0, 0.0]","[0.0, -5.0, 6.0, -1.0, 0.0]",
+67609,2020-08-26T12:43:45Z,11,"[0.0, 9.0, 79.0, 12.0, 0.0]","[-1.0, -5.0, 4.0, 2.0, 0.0]",
+88098,2020-08-26T11:40:39Z,24,"[0.0, 3.0, 87.0, 10.0, 0.0]","[0.0, -7.0, 0.0, 7.0, 0.0]","With 14 states currently, bin 4 is more likely than bin 2. Updating the forecast accordingly."
+88766,2020-08-26T11:32:01Z,36,"[0.0, 8.0, 92.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+80764,2020-08-26T09:34:34Z,32,"[0.0, 10.0, 80.0, 10.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+27661,2020-08-26T09:06:45Z,22,"[0.0, 2.0, 95.0, 3.0, 0.0]","[0.0, -13.0, 10.0, 3.0, 0.0]",
+95235,2020-08-26T00:51:47Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 44.0, -44.0, 0.0]","Missed the Puerto Rico note the first time. I think it will be between 13 and 15, with 14 being most likely."
+95235,2020-08-26T00:47:13Z,1,"[0.0, 0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 55.0, 45.0, 0.0]","I think it will be between 14 and 16, with 15 being most likely. *Missed the Puerto Rico note. It will be between 13 and 15 and will 100% be between 11 and 15 IMO.*"
+57778,2020-08-26T00:17:05Z,61,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -25.0, 25.0, 0.0, 0.0]",
+75863,2020-08-25T22:46:56Z,20,"[0.0, 15.0, 82.0, 3.0, 0.0]","[0.0, 3.0, -3.0, 0.0, 0.0]",still 12
+94968,2020-08-25T22:02:04Z,2,"[0.0, 30.0, 60.0, 10.0, 0.0]","[-5.0, -5.0, 20.0, -5.0, -5.0]",
+14027,2020-08-25T19:37:55Z,27,"[0.0, 0.0, 89.0, 11.0, 0.0]","[0.0, -23.0, 16.0, 7.0, 0.0]",
+86472,2020-08-25T18:32:58Z,1,"[0.0, 15.0, 75.0, 10.0, 0.0]","[0.0, 15.0, 75.0, 10.0, 0.0]",
+1333,2020-08-25T18:14:59Z,36,"[1.0, 25.0, 70.0, 4.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+1333,2020-08-25T17:55:29Z,35,"[1.0, 27.0, 68.0, 4.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+691,2020-08-25T17:49:50Z,45,"[0.0, 10.0, 89.0, 1.0, 0.0]","[0.0, -4.0, 5.0, -1.0, 0.0]",
+92275,2020-08-25T17:23:02Z,3,"[0.0, 15.0, 80.0, 5.0, 0.0]","[0.0, -20.0, 45.0, -25.0, 0.0]",
+90433,2020-08-25T17:11:21Z,2,"[0.0, 10.0, 90.0, 0.0, 0.0]","[-45.0, -35.0, 80.0, 0.0, 0.0]",
+87064,2020-08-25T16:43:38Z,12,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -100.0, 100.0, 0.0, 0.0]",
+88098,2020-08-25T16:27:05Z,23,"[0.0, 10.0, 87.0, 3.0, 0.0]","[0.0, -10.0, 12.0, -2.0, 0.0]",
+75863,2020-08-25T15:38:31Z,19,"[0.0, 12.0, 85.0, 3.0, 0.0]","[-1.0, -14.0, 15.0, 0.0, 0.0]",Still 12
+94884,2020-08-25T14:41:20Z,2,"[0.0, 0.0, 99.0, 1.0, 0.0]","[0.0, -5.0, 89.0, -79.0, -5.0]","A review of States positivity rates on 25 Aug show that 13 States are now above 10% positivity rate, with 2 state showing they are with in .1 -.2% of being above 10%. Looking at the new daily cases in each state compared to their populations I am feeling more confident that the number of states over 10% positivity rate will be with in 11-15."
+88227,2020-08-25T13:59:45Z,2,"[0.0, 20.0, 70.0, 10.0, 0.0]","[-3.0, 0.0, 25.0, -20.0, -2.0]",
+20044,2020-08-25T13:38:30Z,15,"[0.0, 15.0, 83.0, 2.0, 0.0]","[0.0, -5.0, 6.0, -1.0, 0.0]",
+87440,2020-08-25T10:54:07Z,7,"[0.0, 30.0, 69.0, 1.0, 0.0]","[-5.0, -20.0, 29.0, -4.0, 0.0]",
+86678,2020-08-25T09:52:02Z,3,"[0.0, 13.0, 79.0, 7.0, 1.0]","[-1.0, 4.0, 18.0, -21.0, 0.0]",
+27661,2020-08-25T08:02:07Z,21,"[0.0, 15.0, 85.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+57778,2020-08-25T04:31:06Z,60,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, -30.0, 30.0, 0.0, 0.0]",
+57778,2020-08-25T04:29:17Z,59,"[0.0, 80.0, 20.0, 0.0, 0.0]","[0.0, 60.0, -60.0, 0.0, 0.0]",
+88284,2020-08-25T03:18:29Z,7,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+86785,2020-08-25T00:58:07Z,7,"[0.0, 3.0, 94.0, 3.0, 0.0]","[0.0, 3.0, 0.0, -3.0, 0.0]",
+86785,2020-08-25T00:57:43Z,6,"[0.0, 0.0, 94.0, 6.0, 0.0]","[0.0, -7.0, 8.0, -1.0, 0.0]",
+75863,2020-08-25T00:04:14Z,18,"[1.0, 26.0, 70.0, 3.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+19127,2020-08-24T23:47:19Z,17,"[2.0, 29.0, 54.0, 13.0, 2.0]","[-2.0, -7.0, 7.0, 2.0, 0.0]",
+90167,2020-08-24T22:55:16Z,15,"[0.0, 8.0, 84.0, 8.0, 0.0]","[0.0, -11.0, 3.0, 8.0, 0.0]",
+13974,2020-08-24T22:43:34Z,7,"[3.0, 50.0, 43.0, 3.0, 1.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+1333,2020-08-24T20:24:31Z,34,"[1.0, 26.0, 68.0, 5.0, 0.0]","[0.0, 0.0, 10.0, -10.0, 0.0]",
+1333,2020-08-24T18:08:25Z,33,"[1.0, 26.0, 58.0, 15.0, 0.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+31275,2020-08-24T16:56:46Z,15,"[0.0, 15.0, 76.0, 9.0, 0.0]","[0.0, -18.0, 9.0, 9.0, 0.0]",Just trying to calculate from those increasing and decreasing. Probably should have had a spreadsheet of that to calculate the average percent of increase or decrease for each state. Too many questions to do that.
+95219,2020-08-24T16:56:35Z,1,"[0.0, 10.0, 80.0, 10.0, 0.0]","[0.0, 10.0, 80.0, 10.0, 0.0]",
+95096,2020-08-24T16:45:24Z,3,"[0.0, 15.0, 85.0, 0.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",
+87621,2020-08-24T14:52:22Z,3,"[0.0, 35.0, 60.0, 5.0, 0.0]","[0.0, -25.0, 25.0, 0.0, 0.0]","As of this morning when I checked, there were 12 states* with a positivity rate above 10.0% with 3 other states above an 8.5% with an increasing trend. Shifting the forecast more in favor of Bin C from Bin B to reflect the current status."
+20044,2020-08-24T14:30:40Z,14,"[0.0, 20.0, 77.0, 3.0, 0.0]","[0.0, -3.0, 0.0, 3.0, 0.0]",
+20044,2020-08-24T14:28:12Z,13,"[0.0, 23.0, 77.0, 0.0, 0.0]","[-2.0, -20.0, 24.0, -2.0, 0.0]",
+691,2020-08-24T14:06:32Z,44,"[0.0, 14.0, 84.0, 2.0, 0.0]","[0.0, -2.0, 4.0, -2.0, 0.0]",
+75863,2020-08-24T13:40:15Z,17,"[1.0, 26.0, 70.0, 3.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]","Currently 12 (excluding Washington since they have a data reporting issues that will be resolved next week) [1]. Nationally, percent positivity seems to be falling [2] and the number of tests administered is plateauing [3]."
+95212,2020-08-24T13:02:36Z,1,"[0.0, 20.0, 75.0, 5.0, 0.0]","[0.0, 20.0, 75.0, 5.0, 0.0]",
+80764,2020-08-24T08:52:04Z,31,"[0.0, 20.0, 70.0, 10.0, 0.0]","[0.0, -20.0, 20.0, 0.0, 0.0]",
+88766,2020-08-24T08:29:59Z,35,"[0.0, 18.0, 82.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+27661,2020-08-24T08:01:45Z,20,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -24.0, 24.0, 0.0, 0.0]",
+27661,2020-08-24T08:01:08Z,19,"[0.0, 49.0, 51.0, 0.0, 0.0]","[0.0, -6.0, 6.0, 0.0, 0.0]",
+783,2020-08-24T06:10:25Z,4,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, -9.0, 9.0, 0.0, 0.0]",There is a balance of 16 increasing or flat cases in states with 9 states with decreases as Caution Warranted in How is My State Doing on Key Measures?
+31275,2020-08-24T02:51:46Z,14,"[0.0, 33.0, 67.0, 0.0, 0.0]","[0.0, 7.0, -7.0, 0.0, 0.0]",
+14672,2020-08-24T02:51:20Z,1,"[0.0, 8.0, 85.0, 7.0, 0.0]","[0.0, 8.0, 85.0, 7.0, 0.0]",
+31275,2020-08-24T02:48:18Z,13,"[0.0, 26.0, 74.0, 0.0, 0.0]","[0.0, -4.0, 4.0, 0.0, 0.0]",
+38094,2020-08-23T23:06:24Z,21,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]","There are dynamics that I do not understand, but I can count."
+57778,2020-08-23T23:00:53Z,58,"[0.0, 20.0, 80.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+38259,2020-08-23T20:41:15Z,1,"[0.0, 15.0, 70.0, 15.0, 0.0]","[0.0, 15.0, 70.0, 15.0, 0.0]",
+67609,2020-08-23T18:48:19Z,10,"[1.0, 14.0, 75.0, 10.0, 0.0]","[-2.0, -2.0, 5.0, -1.0, 0.0]",
+22689,2020-08-23T18:46:00Z,10,"[0.0, 20.0, 80.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+14027,2020-08-23T18:25:57Z,26,"[0.0, 23.0, 73.0, 4.0, 0.0]","[0.0, -5.0, 6.0, -1.0, 0.0]",
+691,2020-08-23T14:34:23Z,43,"[0.0, 16.0, 80.0, 4.0, 0.0]","[0.0, -8.0, 12.0, -4.0, 0.0]",
+88766,2020-08-23T12:37:44Z,34,"[0.0, 13.0, 87.0, 0.0, 0.0]","[0.0, -87.0, 87.0, 0.0, 0.0]",
+31251,2020-08-23T11:36:55Z,4,"[0.0, 26.0, 71.0, 3.0, 0.0]","[0.0, 5.0, 11.0, -15.0, -1.0]",
+88954,2020-08-23T10:13:27Z,4,"[0.0, 22.0, 78.0, 0.0, 0.0]","[0.0, -19.0, 26.0, -5.0, -2.0]",
+1333,2020-08-23T09:46:57Z,32,"[1.0, 26.0, 55.0, 18.0, 0.0]","[0.0, -1.0, 0.0, 1.0, 0.0]",
+95096,2020-08-23T05:46:47Z,2,"[0.0, 15.0, 80.0, 5.0, 0.0]","[0.0, 5.0, 0.0, -5.0, 0.0]",
+93541,2020-08-23T05:35:30Z,4,"[0.0, 5.0, 90.0, 5.0, 0.0]","[-5.0, -65.0, 65.0, 5.0, 0.0]","Number of tests is going down is some states which will raise positivity rate. COVID+ rate is calculated for the 7-day rolling average of [new positive cases] / [total tests], so last week is what really matters. My current projection for is between 12-14 states."
+22689,2020-08-23T03:36:16Z,9,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+88098,2020-08-23T02:46:44Z,22,"[0.0, 20.0, 75.0, 5.0, 0.0]","[0.0, -10.0, 7.0, 3.0, 0.0]",
+57778,2020-08-23T02:07:58Z,57,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -25.0, 25.0, 0.0, 0.0]",
+38094,2020-08-23T00:53:04Z,20,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -100.0, 100.0, 0.0, 0.0]",
+19127,2020-08-22T21:06:12Z,16,"[4.0, 36.0, 47.0, 11.0, 2.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+84880,2020-08-22T17:47:20Z,9,"[0.0, 10.0, 75.0, 15.0, 0.0]","[0.0, -22.0, 8.0, 14.0, 0.0]",Conceivably... comfortably 14 +/-1 But I haven't been tracking swings so I might get burned by that. It appears at least 11 states will not reach <10% before the deadline.
+90167,2020-08-22T15:36:41Z,14,"[0.0, 19.0, 81.0, 0.0, 0.0]","[0.0, -9.0, 9.0, 0.0, 0.0]",
+691,2020-08-22T14:52:18Z,42,"[0.0, 24.0, 68.0, 8.0, 0.0]","[0.0, -14.0, 6.0, 8.0, 0.0]",
+45594,2020-08-22T13:51:15Z,4,"[10.0, 30.0, 50.0, 5.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+31275,2020-08-22T13:34:07Z,12,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+80764,2020-08-22T10:33:07Z,30,"[0.0, 40.0, 50.0, 10.0, 0.0]","[0.0, -10.0, 0.0, 10.0, 0.0]",
+57628,2020-08-22T01:08:33Z,4,"[0.0, 19.0, 81.0, 0.0, 0.0]","[0.0, -18.0, 18.0, 0.0, 0.0]",The coronavirus lasts approximately 14 days with a 7-10 day lag in reporting the data to news sources. So given the fact that the decay rate is relatively low then the rate should stay the same.
+88098,2020-08-21T23:49:38Z,21,"[0.0, 30.0, 68.0, 2.0, 0.0]","[0.0, -20.0, 20.0, 0.0, 0.0]",
+92438,2020-08-21T22:59:56Z,1,"[0.0, 35.0, 60.0, 5.0, 0.0]","[0.0, 35.0, 60.0, 5.0, 0.0]","We reviewed https://www.covidexitstrategy.org/ 11 states were on the list 3 states were near, but had flat or decreasing positivity rates"
+88452,2020-08-21T22:58:10Z,11,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -50.0, 50.0, 0.0, 0.0]",
+94587,2020-08-21T22:50:29Z,4,"[0.0, 18.0, 65.0, 15.0, 2.0]","[0.0, 10.0, 0.0, -10.0, 0.0]","updating closer to crowd. It seems there will be an increase when schools are active, but Sept 1st may be too soon for the wave up."
+673,2020-08-21T21:55:47Z,3,"[0.0, 15.0, 74.0, 10.0, 1.0]","[0.0, 13.0, 26.0, -35.0, -4.0]",
+40584,2020-08-21T21:01:08Z,18,"[0.0, 13.0, 87.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+13974,2020-08-21T19:01:50Z,6,"[3.0, 40.0, 53.0, 3.0, 1.0]","[0.0, -10.0, 21.0, -10.0, -1.0]",
+32100,2020-08-21T16:02:46Z,3,"[0.0, 27.0, 70.0, 3.0, 0.0]","[0.0, 27.0, 0.0, -27.0, 0.0]",
+94903,2020-08-21T16:00:14Z,2,"[0.0, 45.0, 45.0, 10.0, 0.0]","[0.0, 35.0, 0.0, -35.0, 0.0]",
+95096,2020-08-21T14:58:55Z,1,"[0.0, 10.0, 80.0, 10.0, 0.0]","[0.0, 10.0, 80.0, 10.0, 0.0]",
+27661,2020-08-21T14:52:26Z,18,"[0.0, 55.0, 45.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+75863,2020-08-21T14:19:10Z,16,"[1.0, 36.0, 60.0, 3.0, 0.0]","[-1.0, 6.0, 0.0, -5.0, 0.0]","Currently 11 (excluding Washington since they have a data reporting issues that will be resolved next week) [1]. Nationally, percent positivity seems to be falling [2] and the number of tests administered is plateauing [3]."
+691,2020-08-21T14:05:23Z,41,"[0.0, 38.0, 62.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+20044,2020-08-21T13:58:49Z,12,"[2.0, 43.0, 53.0, 2.0, 0.0]","[-1.0, 0.0, 7.0, -6.0, 0.0]",
+80764,2020-08-21T10:59:28Z,29,"[0.0, 50.0, 50.0, 0.0, 0.0]","[-10.0, 5.0, 5.0, 0.0, 0.0]",12 today. 7 of them are testing much less than their share of the target of daily 500K tests in the US.
+1333,2020-08-21T10:38:16Z,31,"[1.0, 27.0, 55.0, 17.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+80764,2020-08-21T09:54:37Z,28,"[10.0, 45.0, 45.0, 0.0, 0.0]","[0.0, -15.0, 15.0, 0.0, 0.0]",
+57778,2020-08-21T05:15:27Z,56,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 20.0, -20.0, 0.0, 0.0]",
+57778,2020-08-21T05:13:30Z,55,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+88098,2020-08-20T23:20:58Z,20,"[0.0, 50.0, 48.0, 2.0, 0.0]","[0.0, -25.0, 23.0, 2.0, 0.0]",
+86785,2020-08-20T21:03:46Z,5,"[0.0, 7.0, 86.0, 7.0, 0.0]","[0.0, -3.0, -4.0, 7.0, 0.0]",
+86785,2020-08-20T21:03:23Z,4,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, -30.0, 30.0, 0.0, 0.0]",
+691,2020-08-20T19:39:23Z,40,"[0.0, 39.0, 61.0, 0.0, 0.0]","[0.0, 2.0, -2.0, 0.0, 0.0]",
+20044,2020-08-20T18:35:02Z,11,"[3.0, 43.0, 46.0, 8.0, 0.0]","[-5.0, -4.0, 4.0, 5.0, 0.0]",
+1333,2020-08-20T18:06:47Z,30,"[1.0, 26.0, 55.0, 18.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+94965,2020-08-20T17:02:36Z,2,"[2.0, 40.0, 58.0, 0.0, 0.0]","[-28.0, -20.0, 48.0, 0.0, 0.0]","It looks like the state's with above 10% positivity rates are increasing (went from 9 to 11). There are also quite a few states on the cusp of 10% and have increasing 14-day trends of COVID+ , so I altered my forecast to reflect more confidence that between 11-15 states will have more than 10% by 1 September."
+1333,2020-08-20T15:29:29Z,29,"[1.0, 26.0, 54.0, 19.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+52131,2020-08-20T14:18:20Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]",
+88766,2020-08-20T13:55:53Z,33,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 35.0, -35.0, 0.0, 0.0]",
+88452,2020-08-20T12:54:32Z,10,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 20.0, -20.0, 0.0, 0.0]",
+88766,2020-08-20T11:57:49Z,32,"[0.0, 65.0, 35.0, 0.0, 0.0]","[0.0, -35.0, 35.0, 0.0, 0.0]",
+27661,2020-08-20T10:54:59Z,17,"[0.0, 60.0, 40.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+80764,2020-08-20T09:31:29Z,27,"[10.0, 60.0, 30.0, 0.0, 0.0]","[-5.0, -10.0, 15.0, 0.0, 0.0]",
+67609,2020-08-20T07:57:21Z,9,"[3.0, 16.0, 70.0, 11.0, 0.0]","[-16.0, -45.0, 51.0, 10.0, 0.0]",
+90167,2020-08-20T03:23:13Z,13,"[0.0, 28.0, 72.0, 0.0, 0.0]","[0.0, -22.0, 22.0, 0.0, 0.0]",
+88098,2020-08-20T00:26:40Z,19,"[0.0, 75.0, 25.0, 0.0, 0.0]","[-10.0, 0.0, 10.0, 0.0, 0.0]",
+75863,2020-08-20T00:12:31Z,15,"[2.0, 30.0, 60.0, 8.0, 0.0]","[-2.0, -2.0, 4.0, 0.0, 0.0]","Currently 10 [1]. Nationally, percent positivity seems to be falling [2] and the number of tests administered is plateauing [3]."
+57778,2020-08-20T00:11:57Z,54,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+27661,2020-08-19T21:02:08Z,16,"[0.0, 55.0, 45.0, 0.0, 0.0]","[0.0, 7.0, -7.0, 0.0, 0.0]",
+88010,2020-08-19T20:32:02Z,10,"[0.0, 25.0, 74.0, 1.0, 0.0]","[0.0, 0.0, 4.0, -4.0, 0.0]",
+87621,2020-08-19T20:25:00Z,2,"[0.0, 60.0, 35.0, 5.0, 0.0]","[0.0, 40.0, -25.0, -15.0, 0.0]",I am shifting more forecast more into bin B from my initial forecast which favored bin C.
+31275,2020-08-19T20:22:18Z,11,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+14027,2020-08-19T19:54:10Z,25,"[0.0, 28.0, 67.0, 5.0, 0.0]","[0.0, -1.0, 3.0, -2.0, 0.0]",
+84880,2020-08-19T19:37:10Z,8,"[0.0, 32.0, 67.0, 1.0, 0.0]","[0.0, 7.0, 0.0, -7.0, 0.0]",
+40584,2020-08-19T18:54:47Z,17,"[0.0, 15.0, 85.0, 0.0, 0.0]","[0.0, 10.0, 5.0, -15.0, 0.0]",
+691,2020-08-19T18:07:22Z,39,"[0.0, 37.0, 63.0, 0.0, 0.0]","[0.0, -3.0, 3.0, 0.0, 0.0]",
+57628,2020-08-19T17:05:06Z,3,"[0.0, 37.0, 63.0, 0.0, 0.0]","[0.0, 37.0, 0.0, -37.0, 0.0]",
+88766,2020-08-19T12:41:29Z,31,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 35.0, -35.0, 0.0, 0.0]",
+1333,2020-08-19T12:41:20Z,28,"[1.0, 26.0, 53.0, 20.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+27661,2020-08-19T11:03:12Z,15,"[0.0, 48.0, 52.0, 0.0, 0.0]","[0.0, 13.0, -13.0, 0.0, 0.0]",
+80764,2020-08-19T10:20:11Z,26,"[15.0, 70.0, 15.0, 0.0, 0.0]","[-15.0, 10.0, 5.0, 0.0, 0.0]","Up to 10 again, in spite of the US average having gone down from 6.7 to 6.5."
+89135,2020-08-19T01:15:04Z,7,"[0.0, 45.0, 45.0, 10.0, 0.0]","[0.0, 45.0, 15.0, -25.0, -35.0]",
+88284,2020-08-19T00:50:32Z,6,"[0.0, 45.0, 55.0, 0.0, 0.0]","[0.0, 6.0, -6.0, 0.0, 0.0]",
+88284,2020-08-19T00:49:53Z,5,"[0.0, 39.0, 61.0, 0.0, 0.0]","[0.0, 15.0, 3.0, -18.0, 0.0]",
+86785,2020-08-19T00:13:43Z,3,"[0.0, 40.0, 60.0, 0.0, 0.0]","[-10.0, 6.0, 10.0, -5.0, -1.0]",
+94425,2020-08-18T23:55:41Z,3,"[0.0, 15.0, 80.0, 5.0, 0.0]","[0.0, -10.0, 30.0, -20.0, 0.0]",
+90167,2020-08-18T22:46:59Z,12,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 29.0, -21.0, -8.0, 0.0]",
+1333,2020-08-18T18:11:54Z,27,"[1.0, 26.0, 52.0, 21.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+691,2020-08-18T16:55:02Z,38,"[0.0, 40.0, 60.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+75863,2020-08-18T15:31:08Z,14,"[4.0, 32.0, 56.0, 8.0, 0.0]","[-1.0, 2.0, 1.0, -2.0, 0.0]","Currently 9 [1]. Nationally, percent positivity seems to be plateauing [2] and the number of tests administered is plateauing [3]."
+75863,2020-08-18T15:15:28Z,13,"[5.0, 30.0, 55.0, 10.0, 0.0]","[4.0, 15.0, -13.0, -5.0, -1.0]",Currently 9
+22689,2020-08-18T15:13:43Z,8,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 30.0, 0.0, -30.0, 0.0]",
+1333,2020-08-18T14:05:53Z,26,"[1.0, 26.0, 51.0, 22.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+20156,2020-08-18T13:09:26Z,1,"[10.0, 20.0, 30.0, 25.0, 15.0]","[10.0, 20.0, 30.0, 25.0, 15.0]",
+20044,2020-08-18T11:29:37Z,10,"[8.0, 47.0, 42.0, 3.0, 0.0]","[5.0, 22.0, 0.0, -25.0, -2.0]",
+67609,2020-08-18T10:17:34Z,8,"[19.0, 61.0, 19.0, 1.0, 0.0]","[19.0, 48.0, -52.0, -15.0, 0.0]",
+80764,2020-08-18T10:14:17Z,25,"[30.0, 60.0, 10.0, 0.0, 0.0]","[10.0, -10.0, 0.0, 0.0, 0.0]","9 states today, national average 6.7%, decreasing (and so are 6 of the 9 still above 10%). Number of daily cases in the US clearly going down for three weeks now with number of test flat. Two weeks to go. If they don´t manage to create another big wave, that trend should continue. Arrrived in the bin I considered the most likely outcome most of the time (going full force against the crowd again). Hope to stay there."
+88766,2020-08-18T06:53:02Z,30,"[0.0, 65.0, 35.0, 0.0, 0.0]","[0.0, 8.0, -8.0, 0.0, 0.0]",
+87943,2020-08-18T00:17:44Z,7,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 30.0, -25.0, -5.0, 0.0]",
+57778,2020-08-17T22:57:50Z,53,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, 14.0, -14.0, 0.0, 0.0]",
+84880,2020-08-17T22:41:36Z,7,"[0.0, 25.0, 67.0, 8.0, 0.0]","[0.0, 2.0, -4.0, 3.0, -1.0]","We're bouncing around ~12. Some will rise as others dip, nationally, the rate is decreasing."
+93174,2020-08-17T19:57:26Z,2,"[0.0, 4.0, 96.0, 0.0, 0.0]","[0.0, 4.0, 63.0, -67.0, 0.0]",
+90167,2020-08-17T19:51:05Z,11,"[0.0, 21.0, 71.0, 8.0, 0.0]","[0.0, 8.0, -4.0, -4.0, 0.0]",
+691,2020-08-17T19:29:04Z,37,"[0.0, 40.0, 60.0, 0.0, 0.0]","[0.0, 31.0, -26.0, -5.0, 0.0]",
+88452,2020-08-17T19:04:04Z,9,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+1333,2020-08-17T18:05:00Z,25,"[1.0, 25.0, 51.0, 23.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+14027,2020-08-17T17:16:50Z,24,"[0.0, 29.0, 64.0, 7.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+27661,2020-08-17T17:08:52Z,14,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+14027,2020-08-17T16:33:41Z,23,"[0.0, 29.0, 64.0, 7.0, 0.0]","[0.0, 10.0, 0.0, -10.0, 0.0]",
+88098,2020-08-17T15:39:41Z,18,"[10.0, 75.0, 15.0, 0.0, 0.0]","[10.0, 59.0, -60.0, -9.0, 0.0]",
+1333,2020-08-17T11:42:08Z,24,"[1.0, 25.0, 50.0, 24.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+88766,2020-08-17T09:52:20Z,29,"[0.0, 57.0, 43.0, 0.0, 0.0]","[0.0, 46.0, -38.0, -8.0, 0.0]",
+80764,2020-08-17T09:48:05Z,24,"[20.0, 70.0, 10.0, 0.0, 0.0]","[17.0, 28.0, -45.0, 0.0, 0.0]","10 today, general trend drecreasing (from US average 7 to 6.7 in a single day, which is quite remarkable even for a sunday). 5 of the remaining above 15%"
+87943,2020-08-17T09:36:51Z,6,"[0.0, 5.0, 90.0, 5.0, 0.0]","[0.0, -30.0, 35.0, -5.0, 0.0]",
+87064,2020-08-17T07:14:12Z,11,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+87064,2020-08-17T07:13:45Z,10,"[0.0, 90.0, 10.0, 0.0, 0.0]","[0.0, 20.0, -20.0, 0.0, 0.0]",
+8318,2020-08-17T04:17:22Z,1,"[77.0, 23.0, 0.0, 0.0, 0.0]","[77.0, 23.0, 0.0, 0.0, 0.0]",
+38094,2020-08-17T02:27:57Z,19,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 90.0, -90.0, 0.0, 0.0]","I just counted 10 two times, what am I missing?"
+88098,2020-08-17T00:51:04Z,17,"[0.0, 16.0, 75.0, 9.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+57778,2020-08-16T22:59:34Z,52,"[0.0, 11.0, 89.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+40584,2020-08-16T21:12:28Z,16,"[0.0, 5.0, 80.0, 15.0, 0.0]","[0.0, 5.0, 20.0, -25.0, 0.0]",
+75863,2020-08-16T21:00:11Z,12,"[1.0, 15.0, 68.0, 15.0, 1.0]","[0.0, -1.0, 2.0, -1.0, 0.0]","Currently 13 [1]. Nationally, percent positivity seems to be plateauing [2] and the number of tests administered is plateauing [3]."
+14027,2020-08-16T17:07:10Z,22,"[0.0, 19.0, 64.0, 17.0, 0.0]","[0.0, 3.0, -3.0, 0.0, 0.0]",
+31275,2020-08-16T16:56:24Z,10,"[0.0, 34.0, 66.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+1333,2020-08-16T15:18:01Z,23,"[1.0, 25.0, 49.0, 25.0, 0.0]","[0.0, -10.0, 2.0, 8.0, 0.0]",
+691,2020-08-16T15:06:00Z,36,"[0.0, 9.0, 86.0, 5.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+91924,2020-08-16T13:46:10Z,2,"[0.0, 3.0, 59.0, 38.0, 0.0]","[0.0, 3.0, 54.0, -42.0, -15.0]","11-12 states above 10% + rate at the present. Several near. Considering recent data lag, still putting more into the 16-20 bucket than I might otherwise if this data void didn’t exist."
+57778,2020-08-16T10:13:06Z,51,"[0.0, 11.0, 89.0, 0.0, 0.0]","[0.0, 6.0, -6.0, 0.0, 0.0]",
+57778,2020-08-16T10:11:38Z,50,"[0.0, 5.0, 95.0, 0.0, 0.0]","[0.0, -20.0, 20.0, 0.0, 0.0]",
+45594,2020-08-16T07:40:10Z,3,"[10.0, 30.0, 50.0, 5.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+88010,2020-08-16T04:10:05Z,9,"[0.0, 25.0, 70.0, 5.0, 0.0]","[0.0, 10.0, 0.0, -10.0, 0.0]",
+95065,2020-08-16T02:50:36Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]",Just a guess
+57778,2020-08-16T02:37:00Z,49,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+90167,2020-08-15T15:49:16Z,10,"[0.0, 13.0, 75.0, 12.0, 0.0]","[0.0, 8.0, -1.0, -7.0, 0.0]",
+80764,2020-08-15T15:22:55Z,23,"[3.0, 42.0, 55.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+14027,2020-08-15T15:10:28Z,21,"[0.0, 16.0, 67.0, 17.0, 0.0]","[0.0, 5.0, 1.0, -6.0, 0.0]",
+691,2020-08-15T14:19:09Z,35,"[0.0, 10.0, 84.0, 6.0, 0.0]","[0.0, 6.0, 0.0, -6.0, 0.0]",
+88954,2020-08-15T09:43:55Z,3,"[0.0, 41.0, 52.0, 5.0, 2.0]","[0.0, 6.0, 13.0, -11.0, -8.0]",
+80764,2020-08-15T07:55:46Z,22,"[3.0, 37.0, 60.0, 0.0, 0.0]","[3.0, 7.0, -8.0, -2.0, 0.0]",
+57778,2020-08-15T02:14:33Z,48,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+93358,2020-08-14T19:08:59Z,10,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+84880,2020-08-14T19:04:29Z,6,"[0.0, 23.0, 71.0, 5.0, 1.0]","[0.0, 22.0, 0.0, -22.0, 0.0]","A guess of ~9 now in the given timeframe... just did a quick eyeball mental simulation noting the +10% states and 9%+ states that are ALSO increasing. I expect the unexpected, but am basing this on the available info."
+93358,2020-08-14T19:02:13Z,9,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+94968,2020-08-14T17:50:02Z,1,"[5.0, 35.0, 40.0, 15.0, 5.0]","[5.0, 35.0, 40.0, 15.0, 5.0]",
+94966,2020-08-14T17:25:34Z,1,"[0.0, 5.0, 20.0, 70.0, 5.0]","[0.0, 5.0, 20.0, 70.0, 5.0]",
+691,2020-08-14T15:43:05Z,34,"[0.0, 4.0, 84.0, 12.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+14027,2020-08-14T15:23:26Z,20,"[0.0, 11.0, 66.0, 23.0, 0.0]","[0.0, -12.0, 2.0, 10.0, 0.0]",
+88452,2020-08-14T13:44:50Z,8,"[0.0, 20.0, 80.0, 0.0, 0.0]","[0.0, 20.0, -10.0, -10.0, 0.0]",
+57778,2020-08-14T04:16:13Z,47,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]",
+93358,2020-08-14T01:17:04Z,8,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+88098,2020-08-14T01:05:56Z,16,"[0.0, 17.0, 73.0, 10.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",
+75863,2020-08-13T23:44:51Z,11,"[1.0, 16.0, 66.0, 16.0, 1.0]","[-1.0, -2.0, 3.0, 0.0, 0.0]","Currently 13 [1]. Nationally, percent positivity seems to be plateauing [2] and the number of tests administered is plateauing [3]."
+94965,2020-08-13T19:37:51Z,1,"[30.0, 60.0, 10.0, 0.0, 0.0]","[30.0, 60.0, 10.0, 0.0, 0.0]","Right now there are only about nine states with positivity rates that are quite a bit above 10%. Given improvements in the past week, it seems that the states with about 10% positivity rates will fall below the mark and the other nine states will probably decrease but perhaps not below 10%."
+88010,2020-08-13T18:58:01Z,8,"[0.0, 15.0, 70.0, 15.0, 0.0]","[-2.0, -30.0, 24.0, 8.0, 0.0]",
+691,2020-08-13T18:55:39Z,33,"[0.0, 4.0, 84.0, 12.0, 0.0]","[0.0, -5.0, 14.0, -9.0, 0.0]",
+1333,2020-08-13T18:27:20Z,22,"[1.0, 35.0, 47.0, 17.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+14027,2020-08-13T18:05:17Z,19,"[0.0, 23.0, 64.0, 13.0, 0.0]","[0.0, 6.0, 4.0, -10.0, 0.0]",
+14027,2020-08-13T18:04:04Z,18,"[0.0, 17.0, 60.0, 23.0, 0.0]","[0.0, 16.0, 1.0, -14.0, -3.0]",
+19127,2020-08-13T13:18:33Z,15,"[4.0, 43.0, 40.0, 11.0, 2.0]","[1.0, 6.0, -2.0, -5.0, 0.0]",
+80764,2020-08-13T10:45:55Z,21,"[0.0, 30.0, 68.0, 2.0, 0.0]","[0.0, 5.0, -2.0, -3.0, 0.0]","13 today, general trend in the US flat at 7.5% average. Trend in the states currently above 10%: 4/13 slightly down in the past two weeks. Shifting slightly down..."
+87064,2020-08-13T10:06:59Z,9,"[0.0, 70.0, 30.0, 0.0, 0.0]","[-10.0, 10.0, 0.0, 0.0, 0.0]",
+27661,2020-08-13T08:12:57Z,13,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","There are currently 13 states above 10%. Puerto Rico is above 10% as well but as it is not regarded as a US state, it doesn't affect the outcome of the question. Arizona, Kansas and Missouri with a sharp decrease in the last 14 days. Georgia with a moderate decrease but at 11% relatively close to the 10% threshold and with a reduction of 1.6% in the last 14 days."
+93310,2020-08-13T06:45:25Z,2,"[0.0, 26.0, 65.0, 9.0, 0.0]","[0.0, 16.0, -5.0, -11.0, 0.0]","Keeping up to date to Aug 11 note above, excluding PR and DC, I counted 12. Only 1 state is between 9-10%. 3 states are between 10-11%."
+88452,2020-08-13T06:28:21Z,7,"[0.0, 0.0, 90.0, 10.0, 0.0]","[0.0, 0.0, 15.0, -15.0, 0.0]",
+34815,2020-08-13T03:34:53Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]",
+87094,2020-08-13T00:35:27Z,2,"[0.0, 10.0, 75.0, 15.0, 0.0]","[0.0, 10.0, 65.0, -10.0, -65.0]","14 are at or above 10% currently. 3 of those are between 10 and 12 -- all three of which are decreasing. 8 are between 8 and 10%, with half flat or decreasing and half increasing, so could be potentials to at to the greater than 10%."
+57778,2020-08-12T22:50:57Z,46,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+84880,2020-08-12T22:45:28Z,5,"[0.0, 1.0, 71.0, 27.0, 1.0]","[0.0, 0.0, 6.0, -6.0, 0.0]",
+13974,2020-08-12T21:09:03Z,5,"[3.0, 50.0, 32.0, 13.0, 2.0]","[-2.0, 0.0, 2.0, 0.0, 0.0]",
+93358,2020-08-12T18:59:52Z,7,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, -35.0, 60.0, -25.0, 0.0]",Getting worse.. 14 states now..I am identifying 1) 5 states close above to 10% - decreasing 2) 4 states close below to 10% - increasing So it may be around 13 states...
+86785,2020-08-12T17:04:46Z,2,"[10.0, 34.0, 50.0, 5.0, 1.0]","[0.0, 14.0, -10.0, -4.0, 0.0]",
+86678,2020-08-12T16:41:24Z,2,"[1.0, 9.0, 61.0, 28.0, 1.0]","[1.0, 8.0, 54.0, 5.0, -68.0]",
+31275,2020-08-12T16:28:28Z,9,"[0.0, 36.0, 64.0, 0.0, 0.0]","[-5.0, -4.0, 14.0, -5.0, 0.0]",Agree it is trending down. The question is how fast will those that have high percent like 16% and decreasing will in fact decrease. Have to track that in next couple of days.
+94951,2020-08-12T15:54:54Z,1,"[5.0, 60.0, 25.0, 5.0, 5.0]","[5.0, 60.0, 25.0, 5.0, 5.0]","There are currently at least six states with positivity rates over 10%, and over the past week, another eight states rose by at least a percent. It takes time (two to three weeks) to see declines in community spread after policy measures like public masking and business closures are implemented. We are two-ish weeks away from 1 September, and media reports say the virus is spreading in the midwest, which may add to the number of states with higher positivity rates, while states that currently have high positivity rates may not be able to bring them down much in the next two weeks."
+84931,2020-08-12T15:48:51Z,1,"[27.0, 33.0, 15.0, 13.0, 12.0]","[27.0, 33.0, 15.0, 13.0, 12.0]",
+75863,2020-08-12T14:55:43Z,10,"[2.0, 18.0, 63.0, 16.0, 1.0]","[0.0, -2.0, 8.0, -5.0, -1.0]","Currently 14 (13 if you don't include Puerto Rico) [1]. Nationally, percent positivity seems to be plateauing [2] and the number of tests administered is falling somewhat [3]."
+94884,2020-08-12T14:51:04Z,1,"[0.0, 5.0, 10.0, 80.0, 5.0]","[0.0, 5.0, 10.0, 80.0, 5.0]",Based on Jon Hopkins Corona Virus Resource Center percentage of Positive Tests by State. There are already 12 state above 10%. I assumed an 1-2% increase over the next few weeks.
+691,2020-08-12T13:46:41Z,32,"[0.0, 9.0, 70.0, 21.0, 0.0]","[0.0, -1.0, 4.0, -3.0, 0.0]",
+1333,2020-08-12T13:45:46Z,21,"[1.0, 35.0, 46.0, 18.0, 0.0]","[0.0, -5.0, 0.0, 5.0, 0.0]",
+88766,2020-08-12T12:10:08Z,28,"[0.0, 11.0, 81.0, 8.0, 0.0]","[0.0, -14.0, 6.0, 8.0, 0.0]",
+80764,2020-08-12T09:49:11Z,20,"[0.0, 25.0, 70.0, 5.0, 0.0]","[0.0, 5.0, 10.0, -15.0, 0.0]",
+57778,2020-08-12T03:41:59Z,45,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+88098,2020-08-12T00:48:41Z,15,"[0.0, 17.0, 68.0, 15.0, 0.0]","[0.0, 0.0, 4.0, -4.0, 0.0]",
+94587,2020-08-12T00:39:42Z,3,"[0.0, 8.0, 65.0, 25.0, 2.0]","[0.0, 3.0, 0.0, 0.0, -3.0]",updating.
+27661,2020-08-11T23:38:35Z,12,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",
+94976,2020-08-11T21:45:43Z,1,"[82.0, 10.0, 5.0, 2.0, 1.0]","[82.0, 10.0, 5.0, 2.0, 1.0]",
+38094,2020-08-11T21:22:47Z,18,"[0.0, 10.0, 90.0, 0.0, 0.0]","[0.0, -15.0, 15.0, 0.0, 0.0]","I count 13 today, excluding P.R. per the note above. That puts the middle bucket in the sweet spot with 3 weeks to go."
+22689,2020-08-11T21:12:34Z,7,"[0.0, 5.0, 65.0, 30.0, 0.0]","[0.0, -15.0, 5.0, 10.0, 0.0]",
+90167,2020-08-11T19:13:58Z,9,"[0.0, 5.0, 76.0, 19.0, 0.0]","[0.0, -2.0, 14.0, -12.0, 0.0]",
+94972,2020-08-11T18:48:17Z,1,"[0.0, 10.0, 75.0, 10.0, 5.0]","[0.0, 10.0, 75.0, 10.0, 5.0]",
+67609,2020-08-11T18:25:09Z,7,"[0.0, 13.0, 71.0, 16.0, 0.0]","[0.0, 1.0, 9.0, -10.0, 0.0]",
+67609,2020-08-11T18:24:15Z,6,"[0.0, 12.0, 62.0, 26.0, 0.0]","[0.0, -5.0, -5.0, 10.0, 0.0]",
+67609,2020-08-11T18:17:31Z,5,"[0.0, 17.0, 67.0, 16.0, 0.0]","[0.0, -4.0, 2.0, 2.0, 0.0]",
+1333,2020-08-11T17:34:55Z,20,"[1.0, 40.0, 46.0, 13.0, 0.0]","[-1.0, 1.0, 0.0, 0.0, 0.0]",
+91134,2020-08-11T15:34:52Z,1,"[0.0, 5.0, 85.0, 10.0, 0.0]","[0.0, 5.0, 85.0, 10.0, 0.0]","Number of states sits at 8 to 9 currently, will grow when school resumes."
+80764,2020-08-11T14:08:43Z,19,"[0.0, 20.0, 60.0, 20.0, 0.0]","[0.0, 0.0, 8.0, -8.0, 0.0]","14 today. General trend is down (US average: 7.4%, decreasing), but some little surprises like Washington and Puerto Rico might change things."
+89013,2020-08-11T12:23:25Z,5,"[0.0, 25.0, 42.0, 33.0, 0.0]","[0.0, 0.0, 9.0, -9.0, 0.0]",
+57778,2020-08-11T11:51:40Z,44,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+57778,2020-08-11T11:50:24Z,43,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+80764,2020-08-11T10:45:22Z,18,"[0.0, 20.0, 52.0, 28.0, 0.0]","[0.0, -4.0, 0.0, 4.0, 0.0]","Washington with an impressive 100% as Puerto Rico did last week. 52 states now. Let´s add some more. How about the Military, Veteran Affairs and Navajo Nation? Federal Prisons would be nice too. And there are some islands I´d love to welcome here as well..."
+88766,2020-08-11T07:18:43Z,27,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -11.0, 11.0, 0.0, 0.0]",
+27661,2020-08-11T07:08:01Z,11,"[0.0, 30.0, 65.0, 5.0, 0.0]","[0.0, -5.0, 0.0, 5.0, 0.0]",
+93541,2020-08-11T04:34:58Z,3,"[5.0, 70.0, 25.0, 0.0, 0.0]","[-35.0, 10.0, 25.0, 0.0, 0.0]",
+75863,2020-08-10T22:54:40Z,9,"[2.0, 20.0, 55.0, 21.0, 2.0]","[1.0, 1.0, 3.0, -5.0, 0.0]","Currently 14 (13 if you don't include Puerto Rico) [1]. Nationally, percent positivity seems to be plateauing [2] and the number of tests administered is falling [3]."
+94364,2020-08-10T22:52:56Z,2,"[0.0, 15.0, 60.0, 20.0, 5.0]","[-5.0, -15.0, 15.0, 5.0, 0.0]",
+57778,2020-08-10T22:47:32Z,42,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+67609,2020-08-10T18:58:59Z,4,"[0.0, 21.0, 65.0, 14.0, 0.0]","[-2.0, -2.0, 2.0, 2.0, 0.0]",
+67609,2020-08-10T18:58:10Z,3,"[2.0, 23.0, 63.0, 12.0, 0.0]","[-2.0, -21.0, 15.0, 8.0, 0.0]",
+691,2020-08-10T18:23:24Z,31,"[0.0, 10.0, 66.0, 24.0, 0.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",
+84880,2020-08-10T17:10:55Z,4,"[0.0, 1.0, 65.0, 33.0, 1.0]","[0.0, -12.0, 4.0, 8.0, 0.0]",Now I'm starting to think about it: https://www.covidexitstrategy.org
+14027,2020-08-10T16:47:27Z,17,"[0.0, 1.0, 59.0, 37.0, 3.0]","[0.0, -6.0, 3.0, 0.0, 3.0]","Over the past month the number of new tests has remained flat at a little over 700k/day. It was previously going up at a fairly steady rate. The positivity test rate would be expected to decrease with more testing, but that's not happening. So I am underweighting the lower numbers vis a vis the crowd. Also, there are only 22 days remaining until Sept 1, leaving less time for a significant shift to occur."
+92467,2020-08-10T15:43:24Z,1,"[0.0, 0.0, 45.0, 50.0, 5.0]","[0.0, 0.0, 45.0, 50.0, 5.0]",
+88284,2020-08-10T15:34:43Z,4,"[0.0, 24.0, 58.0, 18.0, 0.0]","[-3.0, -5.0, 14.0, -6.0, 0.0]",
+87621,2020-08-10T15:30:23Z,1,"[0.0, 20.0, 60.0, 20.0, 0.0]","[0.0, 20.0, 60.0, 20.0, 0.0]",
+86785,2020-08-10T15:04:26Z,1,"[10.0, 20.0, 60.0, 9.0, 1.0]","[10.0, 20.0, 60.0, 9.0, 1.0]",
+40584,2020-08-10T13:53:11Z,15,"[0.0, 0.0, 60.0, 40.0, 0.0]","[0.0, 0.0, 10.0, -10.0, 0.0]",
+20044,2020-08-10T13:50:51Z,9,"[3.0, 25.0, 42.0, 28.0, 2.0]","[-1.0, 1.0, 4.0, 0.0, -4.0]",
+40584,2020-08-10T13:50:28Z,14,"[0.0, 0.0, 50.0, 50.0, 0.0]","[0.0, 0.0, 5.0, 0.0, -5.0]",
+80764,2020-08-10T10:47:50Z,17,"[0.0, 24.0, 52.0, 24.0, 0.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+87064,2020-08-10T09:28:12Z,8,"[10.0, 60.0, 30.0, 0.0, 0.0]","[-30.0, 10.0, 20.0, 0.0, 0.0]",
+88766,2020-08-10T08:01:44Z,26,"[0.0, 36.0, 64.0, 0.0, 0.0]","[0.0, 7.0, -7.0, 0.0, 0.0]",
+93310,2020-08-10T05:26:00Z,1,"[0.0, 10.0, 70.0, 20.0, 0.0]","[0.0, 10.0, 70.0, 20.0, 0.0]",Counted 14.
+92649,2020-08-10T05:25:36Z,3,"[2.0, 3.0, 35.0, 30.0, 30.0]","[0.0, 0.0, 15.0, -15.0, 0.0]",
+88198,2020-08-10T04:52:36Z,5,"[0.0, 18.0, 71.0, 11.0, 0.0]","[0.0, 8.0, 14.0, -21.0, -1.0]",
+38094,2020-08-10T02:23:27Z,17,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, 15.0, -10.0, -5.0, 0.0]","I count 14 down from 15 (assuming PR is counted as a state). I assume several more states can fall off the count, but will 4 drop off in 3 weeks? This question demands daily tending."
+57778,2020-08-09T23:41:53Z,41,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+27661,2020-08-09T19:43:42Z,10,"[0.0, 35.0, 65.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+31275,2020-08-09T17:36:38Z,8,"[5.0, 40.0, 50.0, 5.0, 0.0]","[0.0, 0.0, 9.0, -9.0, 0.0]",
+94918,2020-08-09T14:54:22Z,1,"[0.0, 4.0, 14.0, 57.0, 25.0]","[0.0, 4.0, 14.0, 57.0, 25.0]","I think this is so, because a lot of people have been infected and have defeated the virus on their own without a report. By @ATGY."
+691,2020-08-09T13:46:10Z,30,"[0.0, 10.0, 64.0, 26.0, 0.0]","[0.0, 2.0, 0.0, -2.0, 0.0]",
+71165,2020-08-09T10:46:34Z,2,"[0.0, 0.0, 70.0, 30.0, 0.0]","[0.0, 0.0, 50.0, -10.0, -40.0]","There are three weeks left and 13 states are 10% +. Since these states are either increasing and/or no longer implementing mask policy, I'm skeptical these will escape the 10%+ club."
+57778,2020-08-09T02:19:02Z,40,"[0.0, 42.0, 58.0, 0.0, 0.0]","[0.0, -6.0, 6.0, 0.0, 0.0]",
+691,2020-08-08T17:48:55Z,29,"[0.0, 8.0, 64.0, 28.0, 0.0]","[0.0, -4.0, 2.0, 2.0, 0.0]",
+89013,2020-08-08T16:42:15Z,4,"[0.0, 25.0, 33.0, 42.0, 0.0]","[0.0, -10.0, -7.0, 17.0, 0.0]",
+89013,2020-08-08T16:40:38Z,3,"[0.0, 35.0, 40.0, 25.0, 0.0]","[-5.0, -20.0, 5.0, 20.0, 0.0]",
+94903,2020-08-08T15:45:01Z,1,"[0.0, 10.0, 45.0, 45.0, 0.0]","[0.0, 10.0, 45.0, 45.0, 0.0]",
+27661,2020-08-08T14:17:32Z,9,"[0.0, 40.0, 60.0, 0.0, 0.0]","[0.0, 0.0, 5.0, -5.0, 0.0]",
+75863,2020-08-08T13:35:27Z,8,"[1.0, 19.0, 52.0, 26.0, 2.0]","[-1.0, -7.0, 0.0, 10.0, -2.0]","Currently 15 (14 if you don't include Puerto Rico) [1]. Nationally, percent positivity seems to be plateauing [2]."
+88452,2020-08-08T13:01:53Z,6,"[0.0, 0.0, 75.0, 25.0, 0.0]","[0.0, -12.0, -3.0, 15.0, 0.0]",
+13974,2020-08-08T13:00:29Z,4,"[5.0, 50.0, 30.0, 13.0, 2.0]","[-20.0, -10.0, 22.0, 8.0, 0.0]",
+80764,2020-08-08T12:09:51Z,16,"[0.0, 25.0, 50.0, 25.0, 0.0]","[0.0, -5.0, 0.0, 5.0, 0.0]",
+19127,2020-08-08T11:10:00Z,14,"[3.0, 37.0, 42.0, 16.0, 2.0]","[-1.0, 8.0, 0.0, -7.0, 0.0]",
+57778,2020-08-08T02:30:42Z,39,"[0.0, 48.0, 52.0, 0.0, 0.0]","[0.0, -8.0, 8.0, 0.0, 0.0]",
+94887,2020-08-07T22:58:33Z,1,"[0.0, 0.0, 50.0, 50.0, 0.0]","[0.0, 0.0, 50.0, 50.0, 0.0]",
+94885,2020-08-07T21:33:34Z,1,"[0.0, 40.0, 50.0, 10.0, 0.0]","[0.0, 40.0, 50.0, 10.0, 0.0]",General look at positivity rates for states. Somewhere around 15 over 10%. Didn't have time to look at specific trending to each state along with forecast models. A non-representative sample of states (to include those under 10%) showed some downward trending.
+22689,2020-08-07T20:43:02Z,6,"[0.0, 20.0, 60.0, 20.0, 0.0]","[0.0, -20.0, 0.0, 20.0, 0.0]",
+80764,2020-08-07T09:18:51Z,15,"[0.0, 30.0, 50.0, 20.0, 0.0]","[0.0, -3.0, -2.0, 5.0, 0.0]",
+94425,2020-08-07T01:08:42Z,2,"[0.0, 25.0, 50.0, 25.0, 0.0]","[-10.0, -5.0, 20.0, 5.0, -10.0]",
+88766,2020-08-07T01:07:39Z,25,"[0.0, 29.0, 71.0, 0.0, 0.0]","[0.0, -13.0, 13.0, 0.0, 0.0]",
+90167,2020-08-07T00:08:16Z,8,"[0.0, 7.0, 62.0, 31.0, 0.0]","[0.0, -29.0, 8.0, 21.0, 0.0]",
+57778,2020-08-06T23:01:18Z,38,"[0.0, 56.0, 44.0, 0.0, 0.0]","[0.0, 16.0, -15.0, -1.0, 0.0]",
+43588,2020-08-06T20:20:52Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+31251,2020-08-06T19:35:59Z,3,"[0.0, 21.0, 60.0, 18.0, 1.0]","[0.0, -7.0, 2.0, 5.0, 0.0]",
+1333,2020-08-06T18:13:35Z,19,"[2.0, 39.0, 46.0, 13.0, 0.0]","[-1.0, 1.0, 0.0, 0.0, 0.0]",
+90457,2020-08-06T17:19:40Z,2,"[0.0, 0.0, 34.0, 66.0, 0.0]","[0.0, -33.0, 1.0, 32.0, 0.0]",Currently 14 states have positivity rate above 10. The likelihood that number will increase is quite high. This is reflected in increased percentages for 11 and beyond.
+691,2020-08-06T16:31:25Z,28,"[0.0, 12.0, 62.0, 26.0, 0.0]","[0.0, -8.0, 2.0, 6.0, 0.0]",
+14027,2020-08-06T16:17:34Z,16,"[0.0, 7.0, 56.0, 37.0, 0.0]","[0.0, 0.0, -3.0, 3.0, 0.0]",
+32100,2020-08-06T16:03:35Z,2,"[0.0, 0.0, 70.0, 30.0, 0.0]","[-29.0, -70.0, 69.0, 30.0, 0.0]",
+40584,2020-08-06T14:04:32Z,13,"[0.0, 0.0, 45.0, 50.0, 5.0]","[0.0, -4.0, -6.0, 10.0, 0.0]",
+88452,2020-08-06T13:18:13Z,5,"[0.0, 12.0, 78.0, 10.0, 0.0]","[0.0, 12.0, 9.0, -21.0, 0.0]",
+88766,2020-08-06T11:22:12Z,24,"[0.0, 42.0, 58.0, 0.0, 0.0]","[0.0, -3.0, 3.0, 0.0, 0.0]",
+80764,2020-08-06T10:16:33Z,14,"[0.0, 33.0, 52.0, 15.0, 0.0]","[0.0, -5.0, 0.0, 5.0, 0.0]",
+57778,2020-08-06T09:24:30Z,37,"[0.0, 40.0, 59.0, 1.0, 0.0]","[0.0, -15.0, 15.0, 0.0, 0.0]",
+57778,2020-08-06T09:20:45Z,36,"[0.0, 55.0, 44.0, 1.0, 0.0]","[0.0, 0.0, -1.0, 1.0, 0.0]",
+93565,2020-08-06T09:07:38Z,1,"[0.0, 0.0, 65.0, 35.0, 0.0]","[0.0, 0.0, 65.0, 35.0, 0.0]",
+13974,2020-08-06T01:58:55Z,3,"[25.0, 60.0, 8.0, 5.0, 2.0]","[0.0, 0.0, 3.0, -3.0, 0.0]",
+88098,2020-08-06T01:44:41Z,14,"[0.0, 17.0, 64.0, 19.0, 0.0]","[-2.0, 0.0, 4.0, -2.0, 0.0]",
+38094,2020-08-06T01:08:52Z,16,"[0.0, 10.0, 85.0, 5.0, 0.0]","[0.0, -5.0, 15.0, -10.0, 0.0]",Things appear to be tightening and less volatile.
+57778,2020-08-06T00:17:21Z,35,"[0.0, 55.0, 45.0, 0.0, 0.0]","[0.0, 30.0, -30.0, 0.0, 0.0]",
+89013,2020-08-06T00:16:15Z,2,"[5.0, 55.0, 35.0, 5.0, 0.0]","[-20.0, 10.0, 10.0, 0.0, 0.0]",
+40584,2020-08-06T00:05:50Z,12,"[0.0, 4.0, 51.0, 40.0, 5.0]","[0.0, -11.0, -9.0, 15.0, 5.0]",
+75863,2020-08-05T20:02:43Z,7,"[2.0, 26.0, 52.0, 16.0, 4.0]","[-6.0, -10.0, 10.0, 4.0, 2.0]","Currently 14 (13 if you don't include Puerto Rico) [1]. Nationally, percent positivity seems to be plateauing [2]."
+14027,2020-08-05T19:50:36Z,15,"[0.0, 7.0, 59.0, 34.0, 0.0]","[0.0, -4.0, 2.0, 2.0, 0.0]",
+88198,2020-08-05T18:27:21Z,4,"[0.0, 10.0, 57.0, 32.0, 1.0]","[0.0, -26.0, 9.0, 22.0, -5.0]",
+13974,2020-08-05T17:57:15Z,2,"[25.0, 60.0, 5.0, 8.0, 2.0]","[-35.0, 30.0, 0.0, 5.0, 0.0]",
+14027,2020-08-05T16:07:51Z,14,"[0.0, 11.0, 57.0, 32.0, 0.0]","[0.0, -2.0, 1.0, 1.0, 0.0]",
+88452,2020-08-05T13:33:02Z,4,"[0.0, 0.0, 69.0, 31.0, 0.0]","[0.0, 0.0, -5.0, 5.0, 0.0]",
+707,2020-08-05T11:36:10Z,1,"[0.0, 15.0, 33.0, 42.0, 10.0]","[0.0, 15.0, 33.0, 42.0, 10.0]",
+19127,2020-08-05T11:23:37Z,13,"[4.0, 29.0, 42.0, 23.0, 2.0]","[0.0, -3.0, 1.0, 2.0, 0.0]",
+86342,2020-08-05T10:55:23Z,4,"[1.0, 13.0, 50.0, 31.0, 5.0]","[0.0, 1.0, 2.0, 2.0, -5.0]",
+31275,2020-08-05T00:52:13Z,7,"[5.0, 40.0, 41.0, 14.0, 0.0]","[0.0, -1.0, -2.0, 3.0, 0.0]",
+31275,2020-08-05T00:50:26Z,6,"[5.0, 41.0, 43.0, 11.0, 0.0]","[-3.0, -3.0, -5.0, 11.0, 0.0]",
+88098,2020-08-05T00:28:40Z,13,"[2.0, 17.0, 60.0, 21.0, 0.0]","[0.0, -18.0, 8.0, 10.0, 0.0]",
+57778,2020-08-04T22:31:40Z,34,"[0.0, 25.0, 75.0, 0.0, 0.0]","[0.0, -12.0, 12.0, 0.0, 0.0]",
+14027,2020-08-04T18:43:56Z,13,"[0.0, 13.0, 56.0, 31.0, 0.0]","[0.0, -24.0, -1.0, 25.0, 0.0]","The number of states with positivity > 10% has increased. And daily test numbers are not increasing, which could result in higher positivity rates. Moving towards higher brackets."
+84880,2020-08-04T16:22:55Z,3,"[0.0, 13.0, 61.0, 25.0, 1.0]","[-5.0, -17.0, 12.0, 10.0, 0.0]",
+691,2020-08-04T14:41:50Z,27,"[0.0, 20.0, 60.0, 20.0, 0.0]","[0.0, -7.0, 0.0, 7.0, 0.0]",
+1333,2020-08-04T13:14:46Z,18,"[3.0, 38.0, 46.0, 13.0, 0.0]","[-1.0, 1.0, 0.0, 0.0, 0.0]",
+80764,2020-08-04T09:43:33Z,13,"[0.0, 38.0, 52.0, 10.0, 0.0]","[0.0, -4.0, 0.0, 4.0, 0.0]",
+57778,2020-08-04T08:57:32Z,33,"[0.0, 37.0, 63.0, 0.0, 0.0]","[-1.0, -13.0, 15.0, -1.0, 0.0]",
+673,2020-08-04T08:17:55Z,2,"[0.0, 2.0, 48.0, 45.0, 5.0]","[0.0, 0.0, 39.0, -13.0, -26.0]",Adjusting for progress since initial forecast.
+88766,2020-08-04T07:31:33Z,23,"[0.0, 45.0, 55.0, 0.0, 0.0]","[0.0, 12.0, -12.0, 0.0, 0.0]",
+94587,2020-08-04T00:56:03Z,2,"[0.0, 5.0, 65.0, 25.0, 5.0]","[0.0, -10.0, 0.0, 5.0, 5.0]",Readjusting from current data. Only a month away with no decline in sight.
+22689,2020-08-03T23:55:05Z,5,"[0.0, 40.0, 60.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+40584,2020-08-03T21:24:01Z,11,"[0.0, 15.0, 60.0, 25.0, 0.0]","[-1.0, -55.0, 36.0, 20.0, 0.0]",
+92275,2020-08-03T18:27:06Z,2,"[0.0, 35.0, 35.0, 30.0, 0.0]","[0.0, -20.0, -10.0, 30.0, 0.0]",
+14027,2020-08-03T16:04:00Z,12,"[0.0, 37.0, 57.0, 6.0, 0.0]","[0.0, -6.0, 4.0, 2.0, 0.0]",
+20044,2020-08-03T15:14:27Z,8,"[4.0, 24.0, 38.0, 28.0, 6.0]","[-2.0, -4.0, 0.0, 4.0, 2.0]",
+89135,2020-08-03T13:33:50Z,6,"[0.0, 0.0, 30.0, 35.0, 35.0]","[0.0, 0.0, 15.0, -5.0, -10.0]","Perhaps the greatest factor is not whether states will have increasing cases, but rather how they will implement testing. A small number of tests on the sick produces a higher positivity rate. A widespread testing provides a lower rate."
+1333,2020-08-03T11:49:35Z,17,"[4.0, 37.0, 46.0, 13.0, 0.0]","[-1.0, 0.0, 1.0, 0.0, 0.0]",
+57778,2020-08-03T10:38:03Z,32,"[1.0, 50.0, 48.0, 1.0, 0.0]","[0.0, -8.0, 8.0, 0.0, 0.0]",
+27661,2020-08-03T08:55:02Z,8,"[0.0, 40.0, 55.0, 5.0, 0.0]","[-10.0, -30.0, 35.0, 5.0, 0.0]","With Puerto Rico added to the list and still not enough tests to come in the ballpark of actual cases, I shift my forecast upward. Currently, there are 14 states above 10% with three states above the 9% mark."
+88766,2020-08-03T07:54:37Z,22,"[0.0, 33.0, 67.0, 0.0, 0.0]","[0.0, -17.0, 17.0, 0.0, 0.0]",
+19127,2020-08-03T06:09:01Z,12,"[4.0, 32.0, 41.0, 21.0, 2.0]","[-2.0, -12.0, 0.0, 14.0, 0.0]",
+783,2020-08-03T05:59:17Z,3,"[0.0, 44.0, 56.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+57628,2020-08-03T01:16:20Z,2,"[0.0, 0.0, 63.0, 37.0, 0.0]","[0.0, 0.0, 31.0, -14.0, -17.0]","13 states already have a positivity rate that is higher than 10%. To get to 16 states, you need for the infection rate to be greater than the rate of testing. THis is the case ergo, I think that this can happen."
+57628,2020-08-03T01:02:54Z,1,"[0.0, 0.0, 32.0, 51.0, 17.0]","[0.0, 0.0, 32.0, 51.0, 17.0]",
+40584,2020-08-03T00:19:08Z,10,"[1.0, 70.0, 24.0, 5.0, 0.0]","[0.0, -27.0, 22.0, 5.0, 0.0]",
+38094,2020-08-02T23:39:05Z,15,"[0.0, 15.0, 70.0, 15.0, 0.0]","[0.0, -15.0, 0.0, 15.0, 0.0]","With the addition of Puerto Rico we hit 15, since they are in the ""chart"" we must assume they are counted in the total. A few states could fall off the list, but more could just as easily be added over the next 4 weeks. Moving the goal post by adding Puerto Rico doesn't materially change things but was a surprise."
+87440,2020-08-02T22:09:41Z,6,"[5.0, 50.0, 40.0, 5.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+87440,2020-08-02T22:05:14Z,5,"[5.0, 40.0, 50.0, 5.0, 0.0]","[-5.0, 6.0, 7.0, -5.0, -3.0]",
+14027,2020-08-02T18:18:17Z,11,"[0.0, 43.0, 53.0, 4.0, 0.0]","[0.0, 8.0, -6.0, -2.0, 0.0]",
+54564,2020-08-02T17:15:09Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",Stupid leadership and citizenship
+691,2020-08-02T14:09:34Z,26,"[0.0, 27.0, 60.0, 13.0, 0.0]","[0.0, -12.0, 0.0, 12.0, 0.0]",
+89223,2020-08-02T14:07:43Z,1,"[0.0, 0.0, 0.0, 83.0, 17.0]","[0.0, 0.0, 0.0, 83.0, 17.0]",
+90801,2020-08-02T11:36:56Z,3,"[0.0, 30.0, 40.0, 30.0, 0.0]","[0.0, 10.0, 0.0, -10.0, 0.0]",
+80764,2020-08-02T10:56:39Z,12,"[0.0, 42.0, 52.0, 6.0, 0.0]","[0.0, -2.0, 0.0, 2.0, 0.0]","I don´t understand the trend: with number of daily infections down and number of tests up it should definitely lead into the other direction (well number of tests in the south has been going down last week - for political reasons?) ?!?!?! Only thing, that´s obvious: they added Puerto Rico to the list..."
+88766,2020-08-02T10:09:32Z,21,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+45594,2020-08-02T07:11:21Z,2,"[10.0, 30.0, 50.0, 5.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+38094,2020-08-02T02:26:10Z,14,"[0.0, 30.0, 70.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]","And now we are 14, how did that happen? 12 was a nice safe number, 14 is disturbing. Where will all this go in 30 days at this rate?"
+57778,2020-08-02T01:55:07Z,31,"[1.0, 58.0, 40.0, 1.0, 0.0]","[-3.0, 17.0, -12.0, -1.0, -1.0]",
+88098,2020-08-02T01:46:25Z,12,"[2.0, 35.0, 52.0, 11.0, 0.0]","[0.0, 0.0, -5.0, 5.0, 0.0]",
+75863,2020-08-01T19:26:16Z,6,"[8.0, 36.0, 42.0, 12.0, 2.0]","[-4.0, -6.0, 6.0, 4.0, 0.0]","Currently 14 [1]. Nationally, percent positivity seems to be plateauing [2]."
+14027,2020-08-01T16:54:32Z,10,"[0.0, 35.0, 59.0, 6.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+691,2020-08-01T16:47:45Z,25,"[0.0, 39.0, 60.0, 1.0, 0.0]","[0.0, -2.0, 1.0, 1.0, 0.0]",
+15839,2020-08-01T16:07:39Z,1,"[5.0, 5.0, 50.0, 35.0, 5.0]","[5.0, 5.0, 50.0, 35.0, 5.0]",
+94723,2020-08-01T12:31:51Z,1,"[70.0, 30.0, 0.0, 0.0, 0.0]","[70.0, 30.0, 0.0, 0.0, 0.0]",
+80764,2020-08-01T11:26:35Z,11,"[0.0, 44.0, 52.0, 4.0, 0.0]","[-3.0, 0.0, 3.0, 0.0, 0.0]",
+88766,2020-08-01T10:30:14Z,20,"[0.0, 52.0, 48.0, 0.0, 0.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+88452,2020-08-01T09:00:16Z,3,"[0.0, 0.0, 74.0, 26.0, 0.0]","[0.0, 0.0, -6.0, 6.0, 0.0]",
+90167,2020-08-01T02:58:03Z,7,"[0.0, 36.0, 54.0, 10.0, 0.0]","[0.0, -8.0, 2.0, 6.0, 0.0]",
+57778,2020-08-01T02:57:11Z,30,"[4.0, 41.0, 52.0, 2.0, 1.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+31275,2020-07-31T23:58:22Z,5,"[8.0, 44.0, 48.0, 0.0, 0.0]","[-3.0, -5.0, 8.0, 0.0, 0.0]",
+94539,2020-07-31T23:17:25Z,1,"[0.0, 0.0, 10.0, 40.0, 50.0]","[0.0, 0.0, 10.0, 40.0, 50.0]",
+75863,2020-07-31T21:42:30Z,5,"[12.0, 42.0, 36.0, 8.0, 2.0]","[6.0, 5.0, -13.0, 1.0, 1.0]","Currently 13 [1]. Nationally, percent positivity seems to be plateauing [2]."
+93358,2020-07-31T19:19:42Z,6,"[0.0, 35.0, 40.0, 25.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",Right now only 12 states are greater than 10%. https://coronavirus.jhu.edu/testing/tracker/overview
+691,2020-07-31T17:02:00Z,24,"[0.0, 41.0, 59.0, 0.0, 0.0]","[0.0, 7.0, -7.0, 0.0, 0.0]",
+67609,2020-07-31T13:54:56Z,2,"[4.0, 44.0, 48.0, 4.0, 0.0]","[-1.0, -4.0, 5.0, 0.0, 0.0]",
+1333,2020-07-31T11:54:49Z,16,"[5.0, 37.0, 45.0, 13.0, 0.0]","[-10.0, 0.0, 7.0, 3.0, 0.0]",
+80764,2020-07-31T10:34:42Z,10,"[3.0, 44.0, 49.0, 4.0, 0.0]","[-3.0, -1.0, 2.0, 2.0, 0.0]",Up to 13 out of 52 now. Another player in the game: Puerto Rico. Starting with impressive 100%.
+88766,2020-07-31T08:40:29Z,19,"[0.0, 59.0, 41.0, 0.0, 0.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+93358,2020-07-31T02:36:52Z,5,"[0.0, 35.0, 40.0, 25.0, 0.0]","[-5.0, 0.0, 10.0, 0.0, -5.0]",Right now only 12 states are greater than 10%. https://coronavirus.jhu.edu/testing/tracker/overview
+38094,2020-07-30T22:51:14Z,13,"[0.0, 40.0, 60.0, 0.0, 0.0]","[-5.0, -15.0, 20.0, 0.0, 0.0]",Slow motion with lttle movement in the numbers.
+88284,2020-07-30T22:21:17Z,3,"[3.0, 29.0, 44.0, 24.0, 0.0]","[1.0, 15.0, 0.0, -13.0, -3.0]",
+88766,2020-07-30T22:08:29Z,18,"[0.0, 66.0, 34.0, 0.0, 0.0]","[-22.0, 13.0, 9.0, 0.0, 0.0]",
+90837,2020-07-30T20:40:49Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+88010,2020-07-30T20:32:10Z,7,"[2.0, 45.0, 46.0, 7.0, 0.0]","[-4.0, 2.0, 2.0, 0.0, 0.0]",
+691,2020-07-30T18:29:44Z,23,"[0.0, 34.0, 66.0, 0.0, 0.0]","[0.0, -3.0, 3.0, 0.0, 0.0]",
+14027,2020-07-30T15:28:51Z,9,"[0.0, 37.0, 57.0, 6.0, 0.0]","[0.0, -6.0, 4.0, 2.0, 0.0]",
+1333,2020-07-30T14:34:33Z,15,"[15.0, 37.0, 38.0, 10.0, 0.0]","[-3.0, 0.0, 3.0, 0.0, 0.0]",
+92249,2020-07-30T13:49:22Z,1,"[0.0, 26.0, 55.0, 18.0, 1.0]","[0.0, 26.0, 55.0, 18.0, 1.0]","As of 29 July, it appears there were 12 states with a postivity rate above 10. With 3 more relatively close to 10. Of course, reduction in the positivity rate would suggest greater numbers of people to include those with mild cases are being tested and that testing is not restricted to just the sickest in the population. Willingness to come forward will play a significant role in whether those with milder symptoms or less come forward for testing. Based on the behavior of the populations to date with respect to COVID procedures, I do not expect a significant number of mild or asymptomatic people to come forward so its most like the numbers will remain around where they currently are."
+27661,2020-07-30T09:01:00Z,7,"[10.0, 70.0, 20.0, 0.0, 0.0]","[-5.0, 3.0, 2.0, 0.0, 0.0]","12 currently above 10%. Some still increasing, some decreasing. Some under 10% increasing. Assuming better situation in 4 weeks, ergo ~10 with my hopes up for <10."
+93541,2020-07-30T05:31:46Z,2,"[40.0, 60.0, 0.0, 0.0, 0.0]","[-10.0, 10.0, 0.0, 0.0, 0.0]","Small adjustment. It looks like peak in new cases was about week ago and total number of new cases is going down. Same time number of test conducted has been raising which will also take ""covid+ rate"" down. There is still ~11 states which seems to on the edge and my prediction for result in 1st of Sep is is between 4-8 states."
+84665,2020-07-30T01:02:37Z,2,"[0.0, 10.0, 55.0, 35.0, 0.0]","[-85.0, -5.0, 55.0, 35.0, 0.0]",
+84665,2020-07-30T00:58:08Z,1,"[85.0, 15.0, 0.0, 0.0, 0.0]","[85.0, 15.0, 0.0, 0.0, 0.0]",
+14027,2020-07-30T00:40:14Z,8,"[0.0, 43.0, 53.0, 4.0, 0.0]","[0.0, 6.0, 0.0, -6.0, 0.0]",
+93358,2020-07-29T21:47:58Z,4,"[5.0, 35.0, 30.0, 25.0, 5.0]","[-34.0, 0.0, 15.0, 19.0, 0.0]",
+6330,2020-07-29T21:09:50Z,1,"[0.0, 99.0, 1.0, 0.0, 0.0]","[0.0, 99.0, 1.0, 0.0, 0.0]",
+40584,2020-07-29T20:28:23Z,9,"[1.0, 97.0, 2.0, 0.0, 0.0]","[-1.0, 77.0, -46.0, -25.0, -5.0]",
+31275,2020-07-29T15:39:31Z,4,"[11.0, 49.0, 40.0, 0.0, 0.0]","[6.0, -1.0, 0.0, -5.0, 0.0]",
+691,2020-07-29T14:49:52Z,22,"[0.0, 37.0, 63.0, 0.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+20044,2020-07-29T14:15:06Z,7,"[6.0, 28.0, 38.0, 24.0, 4.0]","[0.0, 3.0, 1.0, -2.0, -2.0]",
+93101,2020-07-29T12:33:07Z,1,"[0.0, 0.0, 95.0, 5.0, 0.0]","[0.0, 0.0, 95.0, 5.0, 0.0]",
+94425,2020-07-29T11:58:53Z,1,"[10.0, 30.0, 30.0, 20.0, 10.0]","[10.0, 30.0, 30.0, 20.0, 10.0]",Currently 12 are above 10% with a few more that are just under. Expecting a slight improvement in the coming weeks due to mask mandates and travel restrictions
+94642,2020-07-28T23:36:17Z,1,"[0.0, 5.0, 80.0, 10.0, 5.0]","[0.0, 5.0, 80.0, 10.0, 5.0]",
+57778,2020-07-28T23:18:50Z,29,"[4.0, 48.0, 45.0, 2.0, 1.0]","[0.0, -6.0, 8.0, -2.0, 0.0]",
+57778,2020-07-28T23:18:01Z,28,"[4.0, 54.0, 37.0, 4.0, 1.0]","[-2.0, 0.0, 2.0, 0.0, 0.0]",
+20044,2020-07-28T16:25:59Z,6,"[6.0, 25.0, 37.0, 26.0, 6.0]","[0.0, 2.0, 0.0, -2.0, 0.0]",
+691,2020-07-28T15:45:16Z,21,"[0.0, 37.0, 62.0, 1.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+86342,2020-07-28T10:25:39Z,3,"[1.0, 12.0, 48.0, 29.0, 10.0]","[-5.0, -11.0, 15.0, 4.0, -3.0]",
+88766,2020-07-28T07:13:57Z,17,"[22.0, 53.0, 25.0, 0.0, 0.0]","[22.0, -13.0, -9.0, 0.0, 0.0]",
+89135,2020-07-28T00:29:40Z,5,"[0.0, 0.0, 15.0, 40.0, 45.0]","[0.0, 0.0, -5.0, 5.0, 0.0]",
+57778,2020-07-28T00:03:09Z,27,"[6.0, 54.0, 35.0, 4.0, 1.0]","[1.0, 5.0, -5.0, -1.0, 0.0]",
+27661,2020-07-27T21:34:10Z,6,"[15.0, 67.0, 18.0, 0.0, 0.0]","[0.0, 4.0, -3.0, -1.0, 0.0]",
+87064,2020-07-27T20:34:32Z,7,"[40.0, 50.0, 10.0, 0.0, 0.0]","[10.0, -5.0, -5.0, 0.0, 0.0]",
+93174,2020-07-27T20:10:19Z,1,"[0.0, 0.0, 33.0, 67.0, 0.0]","[0.0, 0.0, 33.0, 67.0, 0.0]","Based on the current numbers and the trends I'm seeing, it's likely that more than the current number of 12 states over the threshold will increase. I'm guessing at least 18 states will be over 10% by September 1. I'll continue to watch and adjust my forecast."
+38094,2020-07-27T20:09:17Z,12,"[5.0, 55.0, 40.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]","I am still counting 12 with several likely to fall off in the coming month, e.g. Arkansas and Kansas"
+14027,2020-07-27T18:35:36Z,7,"[0.0, 37.0, 53.0, 10.0, 0.0]","[0.0, -4.0, 5.0, -1.0, 0.0]",
+691,2020-07-27T18:35:23Z,20,"[0.0, 36.0, 62.0, 2.0, 0.0]","[0.0, 0.0, -2.0, 2.0, 0.0]",
+94587,2020-07-27T18:09:18Z,1,"[0.0, 15.0, 65.0, 20.0, 0.0]","[0.0, 15.0, 65.0, 20.0, 0.0]",
+20044,2020-07-27T17:25:47Z,5,"[6.0, 23.0, 37.0, 28.0, 6.0]","[0.0, -2.0, 0.0, 2.0, 0.0]",
+80764,2020-07-27T13:26:11Z,9,"[6.0, 45.0, 47.0, 2.0, 0.0]","[-1.0, -1.0, 3.0, -1.0, 0.0]",
+783,2020-07-27T02:15:07Z,2,"[0.0, 44.0, 56.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+14027,2020-07-27T01:26:58Z,6,"[0.0, 41.0, 48.0, 11.0, 0.0]","[0.0, -12.0, 7.0, 5.0, 0.0]",
+57778,2020-07-26T23:05:48Z,26,"[5.0, 49.0, 40.0, 5.0, 1.0]","[0.0, 10.0, -9.0, -1.0, 0.0]",
+19127,2020-07-26T17:31:47Z,11,"[6.0, 44.0, 41.0, 7.0, 2.0]","[0.0, -6.0, 7.0, -1.0, 0.0]",
+691,2020-07-26T14:32:06Z,19,"[0.0, 36.0, 64.0, 0.0, 0.0]","[0.0, -2.0, 2.0, 0.0, 0.0]",
+88766,2020-07-26T10:26:27Z,16,"[0.0, 66.0, 34.0, 0.0, 0.0]","[0.0, -7.0, 7.0, 0.0, 0.0]",
+45594,2020-07-26T06:51:37Z,1,"[10.0, 30.0, 50.0, 5.0, 5.0]","[10.0, 30.0, 50.0, 5.0, 5.0]",
+57778,2020-07-26T05:43:06Z,25,"[5.0, 39.0, 49.0, 6.0, 1.0]","[-10.0, -6.0, 12.0, 4.0, 0.0]",
+88010,2020-07-26T04:01:40Z,6,"[6.0, 43.0, 44.0, 7.0, 0.0]","[3.0, -3.0, 0.0, 0.0, 0.0]",
+38094,2020-07-26T01:39:47Z,11,"[5.0, 65.0, 30.0, 0.0, 0.0]","[0.0, -20.0, 20.0, 0.0, 0.0]","Fiddling with forecast, the numbers don't seem to change that fast. But we have 5 weeks remaining."
+88098,2020-07-26T00:11:57Z,11,"[2.0, 35.0, 57.0, 6.0, 0.0]","[0.0, -5.0, 7.0, -2.0, 0.0]",
+90802,2020-07-25T16:38:32Z,1,"[0.0, 5.0, 35.0, 40.0, 20.0]","[0.0, 5.0, 35.0, 40.0, 20.0]",
+691,2020-07-25T13:52:13Z,18,"[0.0, 38.0, 62.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+88766,2020-07-25T12:28:14Z,15,"[0.0, 73.0, 27.0, 0.0, 0.0]","[-17.0, 2.0, 15.0, 0.0, 0.0]",
+90167,2020-07-25T03:25:55Z,6,"[0.0, 44.0, 52.0, 4.0, 0.0]","[0.0, -4.0, 4.0, 0.0, 0.0]",
+57778,2020-07-25T02:28:31Z,24,"[15.0, 45.0, 37.0, 2.0, 1.0]","[0.0, 0.0, 2.0, -2.0, 0.0]",
+57778,2020-07-25T02:26:04Z,23,"[15.0, 45.0, 35.0, 4.0, 1.0]","[-5.0, -10.0, 15.0, 0.0, 0.0]",
+94000,2020-07-25T02:01:35Z,1,"[0.0, 0.0, 60.0, 25.0, 15.0]","[0.0, 0.0, 60.0, 25.0, 15.0]",
+72713,2020-07-25T00:52:33Z,1,"[0.0, 0.0, 51.0, 30.0, 19.0]","[0.0, 0.0, 51.0, 30.0, 19.0]",
+75863,2020-07-24T20:48:50Z,4,"[6.0, 37.0, 49.0, 7.0, 1.0]","[-2.0, 5.0, 9.0, -9.0, -3.0]","Currently 12 [1]. Nationally, percent positivity seems to be plateauing [2]."
+956,2020-07-24T20:37:06Z,1,"[0.0, 5.0, 55.0, 35.0, 5.0]","[0.0, 5.0, 55.0, 35.0, 5.0]",
+67609,2020-07-24T15:37:22Z,1,"[5.0, 48.0, 43.0, 4.0, 0.0]","[5.0, 48.0, 43.0, 4.0, 0.0]",
+79556,2020-07-24T15:07:57Z,1,"[1.0, 11.0, 63.0, 18.0, 7.0]","[1.0, 11.0, 63.0, 18.0, 7.0]","There are currently about 14 states that are reporting a measurement of >10% positivity. I think that will remain about the same, with some states on the list reacting strongly to correct and others that aren't there yet loosening restrictions too much. School returning will increase the spread rate (based on Israel's experience)."
+94469,2020-07-24T13:28:26Z,1,"[0.0, 0.0, 60.0, 30.0, 10.0]","[0.0, 0.0, 60.0, 30.0, 10.0]",Uninhibited transmission in the Midwest and sunbelt will continue through at least mid August
+691,2020-07-24T12:18:10Z,17,"[0.0, 37.0, 63.0, 0.0, 0.0]","[0.0, -9.0, 9.0, 0.0, 0.0]",
+80764,2020-07-24T12:08:26Z,8,"[7.0, 46.0, 44.0, 3.0, 0.0]","[-1.0, -2.0, 0.0, 3.0, 0.0]",
+94455,2020-07-24T06:55:10Z,1,"[1.0, 12.0, 35.0, 33.0, 19.0]","[1.0, 12.0, 35.0, 33.0, 19.0]",
+94445,2020-07-24T02:22:14Z,1,"[0.0, 0.0, 20.0, 50.0, 30.0]","[0.0, 0.0, 20.0, 50.0, 30.0]",
+88284,2020-07-24T00:47:45Z,2,"[2.0, 14.0, 44.0, 37.0, 3.0]","[0.0, 5.0, 15.0, 0.0, -20.0]",
+91924,2020-07-24T00:46:58Z,1,"[0.0, 0.0, 5.0, 80.0, 15.0]","[0.0, 0.0, 5.0, 80.0, 15.0]","Considering 13 states are currently above 10% positivity rates, and another 9 b/w 7.5 and 10% rate, and unlikely that most places will regress to full stay-at-home orders again. Only a few weeks away from September 1, and no real WH push to wear a mask, take seriously until a couple of days ago. Accounting also for lag time it takes for current infections brewing to become symptomatic or told of exposures. If WH push to wear masks and take advised precautions is effective, it would still take about 2-3 weeks or so for the data to actually reflect this in the numbers. And even that may be too soon to tell or maybe the WH push came a little too late,"
+49809,2020-07-23T22:57:53Z,1,"[0.0, 10.0, 70.0, 20.0, 0.0]","[0.0, 10.0, 70.0, 20.0, 0.0]",
+57778,2020-07-23T22:43:20Z,22,"[20.0, 55.0, 20.0, 4.0, 1.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+64407,2020-07-23T21:59:11Z,1,"[30.0, 45.0, 25.0, 0.0, 0.0]","[30.0, 45.0, 25.0, 0.0, 0.0]",
+78366,2020-07-23T21:04:38Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+89589,2020-07-23T20:54:55Z,1,"[5.0, 5.0, 5.0, 65.0, 20.0]","[5.0, 5.0, 5.0, 65.0, 20.0]",
+25036,2020-07-23T20:24:44Z,1,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, 90.0]","In well managed states the positivity rate should be under 10%, but most states are failing to properly mitigate infections. Also the official reporting systems are under testing their population which results in higher positivity rates."
+79975,2020-07-23T20:22:56Z,1,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, 90.0]",
+83927,2020-07-23T19:36:19Z,1,"[0.0, 10.0, 65.0, 25.0, 0.0]","[0.0, 10.0, 65.0, 25.0, 0.0]",It will still remain high but probably not too much different than late July
+32789,2020-07-23T19:27:06Z,1,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 50.0, 50.0, 0.0, 0.0]",
+93358,2020-07-23T19:26:00Z,3,"[39.0, 35.0, 15.0, 6.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+9291,2020-07-23T19:25:39Z,1,"[0.0, 0.0, 85.0, 10.0, 5.0]","[0.0, 0.0, 85.0, 10.0, 5.0]","Some states are starting to get better and follow recommendations, so hopefully will start to get better, but some will just dig in."
+65019,2020-07-23T19:22:04Z,1,"[25.0, 25.0, 25.0, 20.0, 5.0]","[25.0, 25.0, 25.0, 20.0, 5.0]",
+82690,2020-07-23T15:41:32Z,1,"[55.0, 45.0, 0.0, 0.0, 0.0]","[55.0, 45.0, 0.0, 0.0, 0.0]",
+691,2020-07-23T14:14:00Z,16,"[0.0, 46.0, 54.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+1333,2020-07-23T11:48:35Z,14,"[18.0, 37.0, 35.0, 10.0, 0.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+80764,2020-07-23T10:26:33Z,7,"[8.0, 48.0, 44.0, 0.0, 0.0]","[-2.0, -2.0, 4.0, 0.0, 0.0]",
+88766,2020-07-23T10:08:07Z,14,"[17.0, 71.0, 12.0, 0.0, 0.0]","[17.0, 0.0, -17.0, 0.0, 0.0]",
+88017,2020-07-23T05:52:50Z,1,"[0.0, 10.0, 45.0, 35.0, 10.0]","[0.0, 10.0, 45.0, 35.0, 10.0]",
+57778,2020-07-22T23:22:51Z,21,"[20.0, 60.0, 15.0, 4.0, 1.0]","[6.0, -1.0, -5.0, 0.0, 0.0]",
+57778,2020-07-22T23:13:49Z,20,"[14.0, 61.0, 20.0, 4.0, 1.0]","[9.0, 4.0, -13.0, 0.0, 0.0]",
+88010,2020-07-22T20:22:26Z,5,"[3.0, 46.0, 44.0, 7.0, 0.0]","[1.0, 1.0, 0.0, -1.0, -1.0]",
+92174,2020-07-22T19:26:26Z,2,"[0.0, 5.0, 70.0, 25.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",
+94405,2020-07-22T18:23:21Z,1,"[20.0, 60.0, 15.0, 5.0, 0.0]","[20.0, 60.0, 15.0, 5.0, 0.0]",
+87064,2020-07-22T17:12:03Z,6,"[30.0, 55.0, 15.0, 0.0, 0.0]","[5.0, 5.0, -10.0, 0.0, 0.0]",
+691,2020-07-22T16:04:18Z,15,"[0.0, 56.0, 44.0, 0.0, 0.0]","[0.0, 6.0, -6.0, 0.0, 0.0]",
+94364,2020-07-22T15:32:13Z,1,"[5.0, 30.0, 45.0, 15.0, 5.0]","[5.0, 30.0, 45.0, 15.0, 5.0]",
+80764,2020-07-22T12:00:55Z,6,"[10.0, 50.0, 40.0, 0.0, 0.0]","[2.0, 2.0, -4.0, 0.0, 0.0]",
+88766,2020-07-22T08:26:28Z,13,"[0.0, 71.0, 29.0, 0.0, 0.0]","[0.0, 2.0, -2.0, 0.0, 0.0]",
+19127,2020-07-22T06:46:38Z,10,"[6.0, 50.0, 34.0, 8.0, 2.0]","[0.0, 5.0, 1.0, -6.0, 0.0]",
+88098,2020-07-22T06:20:15Z,10,"[2.0, 40.0, 50.0, 8.0, 0.0]","[1.0, 10.0, -10.0, 0.0, -1.0]",
+57778,2020-07-22T04:03:20Z,19,"[5.0, 57.0, 33.0, 4.0, 1.0]","[0.0, 15.0, -15.0, 0.0, 0.0]",
+38094,2020-07-22T03:20:09Z,10,"[5.0, 85.0, 10.0, 0.0, 0.0]","[5.0, 0.0, -5.0, 0.0, 0.0]","I have appropriated the following table from @jainsa -- my value add it is to show the data as of July 21 vs. July 19 STATE LAST WEEK TWO WEEKS AGO DIFFERENCE --- the last figure is for July 21 two days later. My conclusion - the data varies. 12 states today meet the criteria. Where will we be in less than 6 weeks? The lowest 3 states could easily slip below the criteria, others not so much. Arizona 24.2% 26.9% -2.6% 23.4 Idaho 19.0% 13.8% 5.2% 19.1 Nevada 18.5% 13.2% 5.3% 19.4 Alabama 18.3% 15.2% 3.2% 18.0 Florida 18.2% 19.6% -1.4% 18.9 S. Carolina 17.5% 16.8% 0.7% 16.3 Texas 16.3% 16.4% -0.1% 15.3 Georgia 15.3% 15.2% 0.0% 15.1 Mississippi 15.0% 19.4% -4.5% 15.5 Arkansas 11.4% 11.7% -0.2% 10.0 Kansas 10.6% 10.3% 0.4% 10.8 Louisiana 9.9% 9.6% 0.2% 10.1 Oklahoma 9.4% 7.5% 2.0% 8.5 Tennessee 9.2% 8.5% 0.7% 9.0 Iowa 9.2% 9.2% 0.1% 8.7"
+92738,2020-07-22T02:26:17Z,1,"[5.0, 55.0, 25.0, 10.0, 5.0]","[5.0, 55.0, 25.0, 10.0, 5.0]","As of today, July 21, 2020 only about 11 states have more than 10% but I don't think that number will change much in the coming months."
+94384,2020-07-22T01:52:14Z,1,"[75.0, 25.0, 0.0, 0.0, 0.0]","[75.0, 25.0, 0.0, 0.0, 0.0]",
+88284,2020-07-21T22:07:49Z,1,"[2.0, 9.0, 29.0, 37.0, 23.0]","[2.0, 9.0, 29.0, 37.0, 23.0]",
+90716,2020-07-21T19:48:41Z,1,"[15.0, 85.0, 0.0, 0.0, 0.0]","[15.0, 85.0, 0.0, 0.0, 0.0]",
+20044,2020-07-21T14:27:26Z,4,"[6.0, 25.0, 37.0, 26.0, 6.0]","[1.0, 6.0, -2.0, -3.0, -2.0]",
+94368,2020-07-21T12:06:55Z,1,"[10.0, 15.0, 20.0, 30.0, 25.0]","[10.0, 15.0, 20.0, 30.0, 25.0]",
+88227,2020-07-21T12:03:25Z,1,"[3.0, 20.0, 45.0, 30.0, 2.0]","[3.0, 20.0, 45.0, 30.0, 2.0]",This is a tough question to answer.
+88098,2020-07-21T00:38:31Z,9,"[1.0, 30.0, 60.0, 8.0, 1.0]","[1.0, 6.0, 10.0, -17.0, 0.0]",
+57778,2020-07-20T22:53:28Z,18,"[5.0, 42.0, 48.0, 4.0, 1.0]","[-5.0, -3.0, 6.0, 2.0, 0.0]",
+94348,2020-07-20T22:10:14Z,1,"[65.0, 35.0, 0.0, 0.0, 0.0]","[65.0, 35.0, 0.0, 0.0, 0.0]",
+31275,2020-07-20T21:55:44Z,3,"[5.0, 50.0, 40.0, 5.0, 0.0]","[-15.0, -10.0, 20.0, 5.0, 0.0]",Hovering around 11 or 12. Have to pay attention to those going up or down. Expecting improvement by Sept 1.
+93358,2020-07-20T16:50:52Z,2,"[39.0, 35.0, 15.0, 6.0, 5.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+27661,2020-07-20T16:16:29Z,5,"[15.0, 63.0, 21.0, 1.0, 0.0]","[-3.0, 6.0, -4.0, 1.0, 0.0]",
+90142,2020-07-20T14:38:11Z,1,"[0.0, 0.0, 0.0, 20.0, 80.0]","[0.0, 0.0, 0.0, 20.0, 80.0]",
+87943,2020-07-20T03:34:01Z,5,"[0.0, 35.0, 55.0, 10.0, 0.0]","[0.0, -6.0, 0.0, 6.0, 0.0]",
+57778,2020-07-20T03:30:39Z,17,"[10.0, 45.0, 42.0, 2.0, 1.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+87943,2020-07-20T02:30:47Z,4,"[0.0, 41.0, 55.0, 4.0, 0.0]","[0.0, 6.0, 0.0, -6.0, 0.0]",
+88098,2020-07-20T01:08:24Z,8,"[0.0, 24.0, 50.0, 25.0, 1.0]","[0.0, 14.0, -3.0, -5.0, -6.0]","11 states above 10% right now. likely to drop out soon - Mississippi, Arkansas 13 states with positivity above 5% and rate is increasing. likely to be added soon - Louisiana, Oklahoma, Tennessee STATE LAST WEEK TWO WEEKS AGO DIFFERENCE Arizona 24.2% 26.9% -2.6% Idaho 19.0% 13.8% 5.2% Nevada 18.5% 13.2% 5.3% Alabama 18.3% 15.2% 3.2% Florida 18.2% 19.6% -1.4% South Carolina 17.5% 16.8% 0.7% Texas 16.3% 16.4% -0.1% Georgia 15.3% 15.2% 0.0% Mississippi 15.0% 19.4% -4.5% Arkansas 11.4% 11.7% -0.2% Kansas 10.6% 10.3% 0.4% Louisiana 9.9% 9.6% 0.2% Oklahoma 9.4% 7.5% 2.0% Tennessee 9.2% 8.5% 0.7% Iowa 9.2% 9.2% 0.1% Utah 8.8% 11.2% -2.4% Indiana 8.1% 8.0% 0.2% Wisconsin 7.2% 6.8% 0.4% California 7.1% 7.6% -0.5% North Carolina 7.0% 7.7% -0.7% Colorado 7.0% 6.4% 0.6% Missouri 6.7% 6.3% 0.4% Wyoming 6.5% 5.0% 1.5% Virginia 6.4% 5.4% 1.0% North Dakota 6.2% 5.2% 1.0% Ohio 6.2% 6.0% 0.2% Oregon 6.0% 5.2% 0.8%"
+87440,2020-07-20T00:02:31Z,4,"[10.0, 34.0, 43.0, 10.0, 3.0]","[2.0, 4.0, 13.0, -19.0, 0.0]",
+88010,2020-07-19T23:11:07Z,4,"[2.0, 45.0, 44.0, 8.0, 1.0]","[0.0, 5.0, -2.0, -2.0, -1.0]",
+40584,2020-07-19T19:48:08Z,8,"[2.0, 20.0, 48.0, 25.0, 5.0]","[-3.0, -20.0, 5.0, 15.0, 3.0]","Ok, homing in on an opinion here."
+88766,2020-07-19T12:29:24Z,12,"[0.0, 69.0, 31.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+19127,2020-07-19T10:55:04Z,9,"[6.0, 45.0, 33.0, 14.0, 2.0]","[0.0, 4.0, 2.0, -4.0, -2.0]",
+93552,2020-07-19T03:33:22Z,1,"[60.0, 20.0, 10.0, 5.0, 5.0]","[60.0, 20.0, 10.0, 5.0, 5.0]",
+38094,2020-07-19T02:41:26Z,9,"[0.0, 85.0, 15.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0, 0.0]","July 18 12 States in the club but several are about to drop out, stay tuned."
+94268,2020-07-18T23:47:01Z,1,"[85.0, 15.0, 0.0, 0.0, 0.0]","[85.0, 15.0, 0.0, 0.0, 0.0]","Now that results are being funneled through the White House before they arrive at the CDC, and there is immense pressure to reopen schools and businesses, I have a feeling we'll see stats derived from a new metric system that doesn't align with what the media is reporting."
+80764,2020-07-18T20:17:15Z,5,"[8.0, 48.0, 44.0, 0.0, 0.0]","[-2.0, 0.0, 2.0, 0.0, 0.0]",
+94145,2020-07-18T17:14:32Z,1,"[10.0, 10.0, 10.0, 50.0, 20.0]","[10.0, 10.0, 10.0, 50.0, 20.0]",
+75863,2020-07-18T13:28:55Z,3,"[8.0, 32.0, 40.0, 16.0, 4.0]","[6.0, 2.0, 0.0, -4.0, -4.0]","Currently 12 [1]. Nationally, percent positivity seems to be plateauing [2]."
+88766,2020-07-18T11:57:27Z,11,"[0.0, 68.0, 32.0, 0.0, 0.0]","[0.0, 4.0, -4.0, 0.0, 0.0]",
+88452,2020-07-18T09:05:35Z,2,"[0.0, 0.0, 80.0, 20.0, 0.0]","[0.0, 0.0, -20.0, 20.0, 0.0]",
+19127,2020-07-18T05:12:42Z,8,"[6.0, 41.0, 31.0, 18.0, 4.0]","[0.0, 25.0, -8.0, -10.0, -7.0]",
+57778,2020-07-18T02:57:42Z,16,"[10.0, 45.0, 42.0, 2.0, 1.0]","[0.0, 4.0, 3.0, -7.0, 0.0]",
+14027,2020-07-18T01:53:33Z,5,"[0.0, 53.0, 41.0, 6.0, 0.0]","[0.0, 6.0, -6.0, 0.0, 0.0]",Further adjusting downwards.
+14027,2020-07-18T01:17:12Z,4,"[0.0, 47.0, 47.0, 6.0, 0.0]","[0.0, 32.0, 6.0, -35.0, -3.0]","Total US test numbers are still going up, not fast enough to get the virus under control, but nonetheless they are still going up. If the rate of increase in testing continues to follow the trend that began 7-8 weeks ago we should be at around 1.4M tests/day by September 1. That's a 75% increase in testing from the current 800K/day run rate, which is significant. However, some states are testing more, while others are not. More testing in states that are getting the virus under control is a good thing, but it doesn't reduce the positivity test rate in all states. So I'm not putting any chips on the ""5 or fewer"" space."
+94191,2020-07-17T23:37:54Z,1,"[99.0, 0.0, 0.0, 0.0, 1.0]","[99.0, 0.0, 0.0, 0.0, 1.0]","Because the White House is privatizing this data, the numbers will appear low, even though ICU beds will be gone."
+92275,2020-07-17T20:43:39Z,1,"[0.0, 55.0, 45.0, 0.0, 0.0]","[0.0, 55.0, 45.0, 0.0, 0.0]",
+87064,2020-07-17T20:38:22Z,5,"[25.0, 50.0, 25.0, 0.0, 0.0]","[10.0, 0.0, -10.0, 0.0, 0.0]",
+20044,2020-07-17T19:51:33Z,3,"[5.0, 19.0, 39.0, 29.0, 8.0]","[0.0, 2.0, 1.0, -3.0, 0.0]",
+93733,2020-07-17T15:23:48Z,1,"[90.0, 10.0, 0.0, 0.0, 0.0]","[90.0, 10.0, 0.0, 0.0, 0.0]","The percentage will exceed 10 perhaps on the younger part of the population, but older people will social distance and self isolate more. So in general it will be lower"
+691,2020-07-17T14:56:35Z,14,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+88766,2020-07-17T09:48:40Z,10,"[0.0, 64.0, 36.0, 0.0, 0.0]","[0.0, 15.0, -15.0, 0.0, 0.0]",
+88098,2020-07-17T00:21:31Z,7,"[0.0, 10.0, 53.0, 30.0, 7.0]","[0.0, 8.0, 3.0, 0.0, -11.0]",
+38094,2020-07-16T21:56:00Z,8,"[0.0, 80.0, 20.0, 0.0, 0.0]","[0.0, 50.0, -50.0, 0.0, 0.0]","July 16 still sitting at 12, two sitting on the edge ready to drop off."
+91971,2020-07-16T15:21:05Z,1,"[45.0, 30.0, 10.0, 10.0, 5.0]","[45.0, 30.0, 10.0, 10.0, 5.0]",
+1333,2020-07-16T14:22:04Z,13,"[18.0, 36.0, 35.0, 11.0, 0.0]","[3.0, 0.0, 0.0, 0.0, -3.0]",
+87943,2020-07-16T13:53:32Z,3,"[0.0, 35.0, 55.0, 10.0, 0.0]","[-12.0, -15.0, 17.0, 10.0, 0.0]",
+57778,2020-07-16T09:53:43Z,15,"[10.0, 41.0, 39.0, 9.0, 1.0]","[-7.0, 0.0, 0.0, 7.0, 0.0]",
+57778,2020-07-16T09:51:56Z,14,"[17.0, 41.0, 39.0, 2.0, 1.0]","[0.0, -1.0, 2.0, -1.0, 0.0]",
+27661,2020-07-16T09:17:13Z,4,"[18.0, 57.0, 25.0, 0.0, 0.0]","[3.0, 2.0, -5.0, 0.0, 0.0]",
+19127,2020-07-16T09:16:00Z,7,"[6.0, 16.0, 39.0, 28.0, 11.0]","[0.0, 1.0, 0.0, -1.0, 0.0]",
+93923,2020-07-16T08:29:12Z,1,"[0.0, 0.0, 88.0, 12.0, 0.0]","[0.0, 0.0, 88.0, 12.0, 0.0]",
+90291,2020-07-16T08:24:44Z,1,"[5.0, 5.0, 50.0, 30.0, 10.0]","[5.0, 5.0, 50.0, 30.0, 10.0]","At the current projections many more states are trending with a higher positivity rate. With the US still taking their vacations and the young not taking this pandemic seriously, this creates the stage for this upward projection, whereas we should have had a summer reprieve if openings happened slowly and appropriately and masks and social distancing were followed. We are a country very slow at adapting unfortunately."
+88010,2020-07-16T03:34:26Z,3,"[2.0, 40.0, 46.0, 10.0, 2.0]","[-14.0, -3.0, 13.0, 2.0, 2.0]",
+88954,2020-07-16T00:33:36Z,2,"[0.0, 35.0, 39.0, 16.0, 10.0]","[-12.0, -8.0, 8.0, 7.0, 5.0]",
+554,2020-07-15T23:05:01Z,1,"[0.0, 0.0, 35.0, 60.0, 5.0]","[0.0, 0.0, 35.0, 60.0, 5.0]",
+1333,2020-07-15T22:59:53Z,12,"[15.0, 36.0, 35.0, 11.0, 3.0]","[1.0, 0.0, 0.0, 0.0, -1.0]",
+22689,2020-07-15T22:22:34Z,4,"[0.0, 50.0, 50.0, 0.0, 0.0]","[-10.0, 0.0, 10.0, 0.0, 0.0]",
+91910,2020-07-15T21:21:07Z,1,"[35.0, 65.0, 0.0, 0.0, 0.0]","[35.0, 65.0, 0.0, 0.0, 0.0]",
+87440,2020-07-15T20:43:06Z,3,"[8.0, 30.0, 30.0, 29.0, 3.0]","[-22.0, -15.0, 10.0, 24.0, 3.0]",Flattened - I've become really quite uncertain about this.
+80764,2020-07-15T18:52:07Z,4,"[10.0, 48.0, 42.0, 0.0, 0.0]","[-5.0, 3.0, 2.0, 0.0, 0.0]",
+691,2020-07-15T18:43:45Z,13,"[0.0, 49.0, 51.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+93543,2020-07-15T17:43:04Z,1,"[6.0, 21.0, 43.0, 26.0, 4.0]","[6.0, 21.0, 43.0, 26.0, 4.0]",
+93830,2020-07-15T15:17:45Z,1,"[34.0, 41.0, 18.0, 5.0, 2.0]","[34.0, 41.0, 18.0, 5.0, 2.0]",
+88098,2020-07-15T14:06:20Z,6,"[0.0, 2.0, 50.0, 30.0, 18.0]","[0.0, 0.0, 15.0, 10.0, -25.0]",
+93826,2020-07-15T13:03:15Z,1,"[0.0, 0.0, 0.0, 95.0, 5.0]","[0.0, 0.0, 0.0, 95.0, 5.0]",The fear of economic impact is outweighing the importance of saving the lives of the vulnerable. The political parties are too interested in winning right now. the COVID death toll is not considered at crisis levels by the decision-makers. FLU and other illnesses continue to muddy the waters of this health crisis.
+40584,2020-07-15T12:41:38Z,7,"[5.0, 40.0, 43.0, 10.0, 2.0]","[0.0, -4.0, -2.0, 4.0, 2.0]",Hedging toward the crowd.
+80764,2020-07-15T10:32:38Z,3,"[15.0, 45.0, 40.0, 0.0, 0.0]","[-20.0, 0.0, 20.0, 0.0, 0.0]",
+88766,2020-07-15T08:41:09Z,9,"[0.0, 49.0, 51.0, 0.0, 0.0]","[0.0, -16.0, 16.0, 0.0, 0.0]",
+93719,2020-07-15T05:30:44Z,1,"[0.0, 80.0, 20.0, 0.0, 0.0]","[0.0, 80.0, 20.0, 0.0, 0.0]",
+93713,2020-07-15T05:13:46Z,1,"[0.0, 0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 0.0, 100.0, 0.0]","The problem is the president. Until he convinces his base to take it seriously, it wont happen."
+93671,2020-07-15T05:02:27Z,1,"[0.0, 0.0, 55.0, 45.0, 0.0]","[0.0, 0.0, 55.0, 45.0, 0.0]",
+93711,2020-07-15T05:01:30Z,1,"[0.0, 5.0, 60.0, 30.0, 5.0]","[0.0, 5.0, 60.0, 30.0, 5.0]",
+93691,2020-07-15T04:36:16Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]","Sadly, it will be."
+90167,2020-07-15T03:21:48Z,5,"[0.0, 48.0, 48.0, 4.0, 0.0]","[-5.0, 2.0, 3.0, 0.0, 0.0]",
+93611,2020-07-15T03:18:17Z,1,"[20.0, 60.0, 20.0, 0.0, 0.0]","[20.0, 60.0, 20.0, 0.0, 0.0]",Gut instinct
+88198,2020-07-14T23:18:13Z,3,"[0.0, 36.0, 48.0, 10.0, 6.0]","[-5.0, -5.0, 10.0, 0.0, 0.0]",
+57778,2020-07-14T22:53:52Z,13,"[17.0, 42.0, 37.0, 3.0, 1.0]","[2.0, -1.0, -2.0, 1.0, 0.0]",
+691,2020-07-14T21:22:15Z,12,"[0.0, 49.0, 51.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+91903,2020-07-14T20:41:11Z,1,"[0.0, 15.0, 85.0, 0.0, 0.0]","[0.0, 15.0, 85.0, 0.0, 0.0]",Actually I think the number will be 12.
+91321,2020-07-14T19:02:32Z,1,"[0.0, 5.0, 5.0, 5.0, 85.0]","[0.0, 5.0, 5.0, 5.0, 85.0]","Unless federal action is taken to reign this in, cases will be exploding all over, especially with schools being clubbed over the head to open."
+89135,2020-07-14T18:31:29Z,4,"[0.0, 0.0, 20.0, 35.0, 45.0]","[0.0, 0.0, -10.0, -10.0, 20.0]","Increasing towards more states. States are waiting until numbers beat them over the head to act, and even then citizens are demanding their right to die and take their friends with them."
+90645,2020-07-14T18:28:07Z,2,"[0.0, 5.0, 40.0, 40.0, 15.0]","[0.0, 0.0, -10.0, 10.0, 0.0]",The national will to do what it takes to control the virus is virtually non-existent. Those states which do not have a high rate will be due mostly due to the population distribution of the state.
+92649,2020-07-14T17:24:42Z,2,"[2.0, 3.0, 20.0, 45.0, 30.0]","[-3.0, -2.0, 5.0, 20.0, -20.0]",
+91598,2020-07-14T17:12:45Z,1,"[30.0, 50.0, 20.0, 0.0, 0.0]","[30.0, 50.0, 20.0, 0.0, 0.0]",
+91118,2020-07-14T15:55:15Z,1,"[5.0, 55.0, 25.0, 10.0, 5.0]","[5.0, 55.0, 25.0, 10.0, 5.0]",
+38094,2020-07-14T15:26:42Z,7,"[0.0, 30.0, 70.0, 0.0, 0.0]","[-5.0, -40.0, 45.0, 0.0, 0.0]",We have jumped to 12.
+92174,2020-07-14T13:34:10Z,1,"[0.0, 10.0, 65.0, 25.0, 0.0]","[0.0, 10.0, 65.0, 25.0, 0.0]",
+86342,2020-07-14T11:28:36Z,2,"[6.0, 23.0, 33.0, 25.0, 13.0]","[-4.0, 3.0, 3.0, 0.0, -2.0]",
+88766,2020-07-14T10:34:06Z,8,"[0.0, 65.0, 35.0, 0.0, 0.0]","[0.0, 2.0, -2.0, 0.0, 0.0]",
+93562,2020-07-14T10:09:31Z,1,"[97.0, 2.0, 1.0, 0.0, 0.0]","[97.0, 2.0, 1.0, 0.0, 0.0]","California is experiencing a new surge now. Even with that, it has not reached 1% of its population. Considering the lack of testing done, USA will never really see or know the real percentage"
+19127,2020-07-14T08:45:43Z,6,"[6.0, 15.0, 39.0, 29.0, 11.0]","[-5.0, -11.0, 2.0, 14.0, 0.0]","12 states currently above 10%. Several more close and on rising trends (e.g. Indiana, Louisiana, Tennessee). Lower bins seem unlikely unless lots of states start implementing lockdowns (testing seems unlikely to catch up if the virus is spreading exponentially)."
+31275,2020-07-14T01:27:31Z,2,"[20.0, 60.0, 20.0, 0.0, 0.0]","[7.0, 16.0, -12.0, -7.0, -4.0]",https://www.covidexitstrategy.org/
+88098,2020-07-14T00:54:22Z,5,"[0.0, 2.0, 35.0, 20.0, 43.0]","[0.0, 0.0, 20.0, 0.0, -20.0]",
+57778,2020-07-14T00:17:04Z,12,"[15.0, 43.0, 39.0, 2.0, 1.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+90801,2020-07-13T23:30:17Z,2,"[0.0, 20.0, 40.0, 40.0, 0.0]","[0.0, 20.0, 25.0, -35.0, -10.0]",current testing rates are increasing which should result in a lower positivity rate
+86695,2020-07-13T20:01:24Z,1,"[55.0, 30.0, 10.0, 5.0, 0.0]","[55.0, 30.0, 10.0, 5.0, 0.0]",
+90070,2020-07-13T19:39:00Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",Many schools will go back in August. This will cause a huge spike in cases that will start to show late August. about 35 states will have a rate greater than 10%
+92785,2020-07-13T18:18:45Z,1,"[0.0, 0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 0.0, 25.0, 75.0]",
+1333,2020-07-13T18:07:23Z,11,"[14.0, 36.0, 35.0, 11.0, 4.0]","[-1.0, 1.0, 0.0, 1.0, -1.0]",
+90096,2020-07-13T17:10:57Z,1,"[5.0, 45.0, 45.0, 5.0, 0.0]","[5.0, 45.0, 45.0, 5.0, 0.0]",
+8826,2020-07-13T17:04:07Z,1,"[90.0, 5.0, 5.0, 0.0, 0.0]","[90.0, 5.0, 5.0, 0.0, 0.0]",
+92331,2020-07-13T16:21:11Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+90090,2020-07-13T15:57:35Z,1,"[0.0, 0.0, 0.0, 35.0, 65.0]","[0.0, 0.0, 0.0, 35.0, 65.0]",We're F*****
+31251,2020-07-13T15:27:03Z,2,"[0.0, 28.0, 58.0, 13.0, 1.0]","[-2.0, 5.0, 0.0, 0.0, -3.0]",
+691,2020-07-13T14:13:47Z,11,"[0.0, 50.0, 50.0, 0.0, 0.0]","[-2.0, 2.0, 2.0, -2.0, 0.0]",
+27661,2020-07-13T13:29:16Z,3,"[15.0, 55.0, 30.0, 0.0, 0.0]","[-2.0, 10.0, -5.0, -3.0, 0.0]",
+80764,2020-07-13T11:16:55Z,2,"[35.0, 45.0, 20.0, 0.0, 0.0]","[-10.0, 0.0, 10.0, 0.0, 0.0]",
+93541,2020-07-13T09:13:01Z,1,"[50.0, 50.0, 0.0, 0.0, 0.0]","[50.0, 50.0, 0.0, 0.0, 0.0]","COVID+ rate is calculated for the 7-day rolling average of [new positive cases] / [total tests] so... a) increased testing count will lower this number as more civd negative cases are tested b) if number new positive cases begins to fade (while testing remains high), ""covid+ rate"" will come down quickly"
+74579,2020-07-13T07:20:05Z,1,"[75.0, 20.0, 5.0, 0.0, 0.0]","[75.0, 20.0, 5.0, 0.0, 0.0]",
+71165,2020-07-13T03:58:55Z,1,"[0.0, 0.0, 20.0, 40.0, 40.0]","[0.0, 0.0, 20.0, 40.0, 40.0]",
+19127,2020-07-13T01:41:06Z,5,"[11.0, 26.0, 37.0, 15.0, 11.0]","[-3.0, -2.0, 1.0, 1.0, 3.0]",
+93521,2020-07-13T01:38:50Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+88098,2020-07-13T00:34:49Z,4,"[0.0, 2.0, 15.0, 20.0, 63.0]","[-2.0, -33.0, -43.0, 15.0, 63.0]","Already 12 states are above 10%. Out of the 35 states above 5%, 31 are showing increased percentage as compared to last week [1]."
+93515,2020-07-12T21:53:12Z,2,"[100.0, 0.0, 0.0, 0.0, 0.0]","[100.0, -100.0, 0.0, 0.0, 0.0]",Left wing states with not enough housing.
+93515,2020-07-12T21:44:58Z,1,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0, 0.0]","People are learning to adapt, dying and getting better all which lean on total number of infected."
+93503,2020-07-12T20:25:46Z,1,"[6.0, 7.0, 12.0, 25.0, 50.0]","[6.0, 7.0, 12.0, 25.0, 50.0]",
+40584,2020-07-12T17:45:50Z,6,"[5.0, 44.0, 45.0, 6.0, 0.0]","[-21.0, 9.0, 12.0, 0.0, 0.0]",
+86710,2020-07-12T17:44:40Z,1,"[0.0, 0.0, 5.0, 40.0, 55.0]","[0.0, 0.0, 5.0, 40.0, 55.0]","Currently, there are 12. 40/50 cases show increasing numbers as of today. I would thus weight my probability distribution toward the higher end."
+89344,2020-07-12T16:59:43Z,1,"[0.0, 100.0, 0.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0, 0.0]",
+93506,2020-07-12T16:57:42Z,1,"[0.0, 0.0, 1.0, 19.0, 80.0]","[0.0, 0.0, 1.0, 19.0, 80.0]",People are not willing to do what they should to slow the spread of the virus. The federal government is too busy trying to prop up Trump to do anything.
+14027,2020-07-12T16:26:30Z,3,"[0.0, 15.0, 41.0, 41.0, 3.0]","[-3.0, -14.0, -9.0, 24.0, 2.0]",
+691,2020-07-12T14:35:37Z,10,"[2.0, 48.0, 48.0, 2.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+88766,2020-07-12T13:28:33Z,7,"[0.0, 63.0, 37.0, 0.0, 0.0]","[0.0, -6.0, 6.0, 0.0, 0.0]",
+19127,2020-07-12T09:03:28Z,4,"[14.0, 28.0, 36.0, 14.0, 8.0]","[-1.0, -2.0, 0.0, 3.0, 0.0]",
+89013,2020-07-12T05:23:30Z,1,"[25.0, 45.0, 25.0, 5.0, 0.0]","[25.0, 45.0, 25.0, 5.0, 0.0]",
+90860,2020-07-12T05:04:59Z,1,"[0.0, 0.0, 5.0, 75.0, 20.0]","[0.0, 0.0, 5.0, 75.0, 20.0]",
+57778,2020-07-12T02:34:01Z,11,"[15.0, 43.0, 39.0, 2.0, 1.0]","[-7.0, 4.0, 3.0, 0.0, 0.0]",
+57778,2020-07-12T02:29:26Z,10,"[22.0, 39.0, 36.0, 2.0, 1.0]","[-10.0, -9.0, 21.0, -2.0, 0.0]",
+38094,2020-07-12T01:00:13Z,6,"[5.0, 70.0, 25.0, 0.0, 0.0]","[0.0, -5.0, 5.0, 0.0, 0.0]",July 11 = 12 states meet the criteria.
+90167,2020-07-12T00:56:46Z,4,"[5.0, 46.0, 45.0, 4.0, 0.0]","[0.0, 4.0, 4.0, -8.0, 0.0]",
+88098,2020-07-11T23:31:51Z,3,"[2.0, 35.0, 58.0, 5.0, 0.0]","[-3.0, 0.0, 3.0, 0.0, 0.0]",
+13974,2020-07-11T22:08:44Z,1,"[60.0, 30.0, 5.0, 3.0, 2.0]","[60.0, 30.0, 5.0, 3.0, 2.0]",
+691,2020-07-11T18:48:24Z,9,"[2.0, 48.0, 48.0, 2.0, 0.0]","[2.0, 0.0, 0.0, -2.0, 0.0]",
+87943,2020-07-11T13:41:20Z,2,"[12.0, 50.0, 38.0, 0.0, 0.0]","[-3.0, 2.0, 1.0, 0.0, 0.0]",
+88766,2020-07-11T13:30:53Z,6,"[0.0, 69.0, 31.0, 0.0, 0.0]","[0.0, -1.0, 1.0, 0.0, 0.0]",
+93468,2020-07-11T07:43:58Z,1,"[75.0, 25.0, 0.0, 0.0, 0.0]","[75.0, 25.0, 0.0, 0.0, 0.0]","The main reason states report higher than 10% positive test results is that they are not testing enough. I believe we will have better testing available before September. There is now a nationwide demand for testing, and given testing increased from 100,000 to 600,000 from April and July, I believe we will teach the Harvard Global Heath Institute’s mark of 5 million tests per day. (Maybe if we see cases decline for a couple of weeks we can start phase one of reopening!)"
+57778,2020-07-11T03:12:30Z,9,"[32.0, 48.0, 15.0, 4.0, 1.0]","[7.0, 3.0, -10.0, 0.0, 0.0]",
+57778,2020-07-11T03:11:09Z,8,"[25.0, 45.0, 25.0, 4.0, 1.0]","[-17.0, 7.0, 10.0, 0.0, 0.0]",
+93457,2020-07-11T02:05:31Z,1,"[0.0, 0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 0.0, 10.0, 90.0]",The growth is exponential.
+38094,2020-07-11T01:12:01Z,5,"[5.0, 75.0, 20.0, 0.0, 0.0]","[-5.0, 5.0, 0.0, 0.0, 0.0]",Appears stable for the moment
+89379,2020-07-10T22:01:31Z,1,"[0.0, 40.0, 60.0, 0.0, 0.0]","[0.0, 40.0, 60.0, 0.0, 0.0]",
+78624,2020-07-10T20:49:10Z,1,"[5.0, 20.0, 35.0, 25.0, 15.0]","[5.0, 20.0, 35.0, 25.0, 15.0]",
+90433,2020-07-10T18:57:05Z,1,"[45.0, 45.0, 10.0, 0.0, 0.0]","[45.0, 45.0, 10.0, 0.0, 0.0]",Some states like California and Arizona are going to continue to have high death rates.
+691,2020-07-10T16:16:43Z,8,"[0.0, 48.0, 48.0, 4.0, 0.0]","[0.0, 2.0, -2.0, 0.0, 0.0]",
+19127,2020-07-10T14:12:49Z,3,"[15.0, 30.0, 36.0, 11.0, 8.0]","[0.0, 1.0, 5.0, -3.0, -3.0]",
+88766,2020-07-10T08:21:38Z,5,"[0.0, 70.0, 30.0, 0.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+32199,2020-07-10T07:08:50Z,1,"[20.0, 20.0, 20.0, 20.0, 20.0]","[20.0, 20.0, 20.0, 20.0, 20.0]",
+38094,2020-07-09T22:20:13Z,4,"[10.0, 70.0, 20.0, 0.0, 0.0]","[10.0, 20.0, -30.0, 0.0, 0.0]",Spreading the pain.
+90567,2020-07-09T21:34:41Z,1,"[0.0, 0.0, 0.0, 15.0, 85.0]","[0.0, 0.0, 0.0, 15.0, 85.0]",
+88010,2020-07-09T19:56:35Z,2,"[16.0, 43.0, 33.0, 8.0, 0.0]","[-4.0, 3.0, 3.0, -2.0, 0.0]",
+90237,2020-07-09T19:11:49Z,1,"[15.0, 45.0, 35.0, 5.0, 0.0]","[15.0, 45.0, 35.0, 5.0, 0.0]",
+691,2020-07-09T19:09:24Z,7,"[0.0, 46.0, 50.0, 4.0, 0.0]","[0.0, 8.0, -2.0, -6.0, 0.0]",
+93423,2020-07-09T17:55:19Z,1,"[8.0, 47.0, 30.0, 15.0, 0.0]","[8.0, 47.0, 30.0, 15.0, 0.0]",
+27661,2020-07-09T17:24:03Z,2,"[17.0, 45.0, 35.0, 3.0, 0.0]","[10.0, 0.0, -10.0, 0.0, 0.0]",
+93407,2020-07-09T17:06:16Z,1,"[0.0, 25.0, 55.0, 15.0, 5.0]","[0.0, 25.0, 55.0, 15.0, 5.0]","As of 7/9 there are 10 US States with positivity rates greater than 10% with rates ranging from 10.38%-26.81%. There are 5 states with ranges from 8%-10%. Of those 5, 3 have 7 day declining averages or flat(ish). Of the 10 states identified earlier, the ones closest to 10% (10-12%) have increasing 7-day avg numbers. The United States as a whole has been increasing daily since an early low of 4.4% in early June. The trend is negative and therefore unlikely that the current number of 10 can be reduced in the face of growing cases, however, some states are having success which may push neighbors to follow suit so I assigned a meaningful probability to a slight decline (6-10). The states that breach 10% by September 1, 2020 could possibly replace states that exit that bucket, which given the general desire and efforts to help control the oubreak (albeit on a limited basis) I assigned a greater than 50% likelihood. Given the negative case trends, a worsening is certainly possible and I needed to assign a meaningful probability. Anything less than 15% I think would under-represent the chance of occurrence. Lastly, given the state of the pandemic, we have to acknowledge that things could spiral out of control which is why I assigned a 5% chance to 21 or more. I assigned a zero to 5 or fewer because that would require a near extinguishment of the virus from global hotspots. There is nothing that indicates to me that this is possible."
+20044,2020-07-09T16:44:56Z,2,"[5.0, 17.0, 38.0, 32.0, 8.0]","[0.0, 7.0, 4.0, 0.0, -11.0]",
+91311,2020-07-09T16:42:08Z,1,"[20.0, 50.0, 20.0, 5.0, 5.0]","[20.0, 50.0, 20.0, 5.0, 5.0]",
+87943,2020-07-09T13:18:32Z,1,"[15.0, 48.0, 37.0, 0.0, 0.0]","[15.0, 48.0, 37.0, 0.0, 0.0]",
+40584,2020-07-09T13:12:02Z,5,"[26.0, 35.0, 33.0, 6.0, 0.0]","[1.0, 5.0, -2.0, -4.0, 0.0]",
+93385,2020-07-09T12:10:24Z,2,"[85.0, 15.0, 0.0, 0.0, 0.0]","[-15.0, 15.0, 0.0, 0.0, 0.0]",
+93385,2020-07-09T12:09:28Z,1,"[100.0, 0.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0, 0.0]",
+87064,2020-07-09T08:18:19Z,4,"[15.0, 50.0, 35.0, 0.0, 0.0]","[-5.0, 0.0, 5.0, 0.0, 0.0]",
+88766,2020-07-09T07:35:18Z,4,"[0.0, 60.0, 40.0, 0.0, 0.0]","[0.0, 11.0, -11.0, 0.0, 0.0]",
+93409,2020-07-09T05:28:34Z,1,"[0.0, 20.0, 0.0, 40.0, 40.0]","[0.0, 20.0, 0.0, 40.0, 40.0]",
+89135,2020-07-09T01:12:06Z,3,"[0.0, 0.0, 30.0, 45.0, 25.0]","[0.0, -15.0, 0.0, 15.0, 0.0]","Today 12 are either over or at 9% and increasing. Moving my forecast higher. FYI this shows lower than my state’s current average, may be delays or accuracy problems."
+19127,2020-07-08T23:35:14Z,2,"[15.0, 29.0, 31.0, 14.0, 11.0]","[-3.0, -5.0, 0.0, 2.0, 6.0]","+ve ratio can chance a lot in ~2 months. Dumb linear extrapolation from a week ago (which shouldn't be taken seriously, given you can get negative percentages) gives ~ 23 states over 10%. We also see the US as a whole has been on a increasing trend of +ve ratio for the last month."
+38094,2020-07-08T23:06:31Z,3,"[0.0, 50.0, 50.0, 0.0, 0.0]","[-25.0, 0.0, 25.0, 0.0, 0.0]",I must say the reference chart is about the most difficult to interpret as I have ever encountered. Not being able to reorder on any heading is just mean spirited. It's arrogant to think the only way to access the data is alphabetical by state - how lame is that. Dumping the data into a spreadsheet is even worse.
+22689,2020-07-08T21:33:57Z,3,"[10.0, 50.0, 40.0, 0.0, 0.0]","[10.0, 0.0, 0.0, -10.0, 0.0]",
+22689,2020-07-08T21:32:50Z,2,"[0.0, 50.0, 40.0, 10.0, 0.0]","[0.0, 10.0, -10.0, 0.0, 0.0]",
+80764,2020-07-08T21:01:19Z,1,"[45.0, 45.0, 10.0, 0.0, 0.0]","[45.0, 45.0, 10.0, 0.0, 0.0]",
+93358,2020-07-08T20:53:42Z,1,"[39.0, 35.0, 15.0, 6.0, 5.0]","[39.0, 35.0, 15.0, 6.0, 5.0]",
+93393,2020-07-08T20:45:45Z,1,"[80.0, 15.0, 5.0, 0.0, 0.0]","[80.0, 15.0, 5.0, 0.0, 0.0]",Testing expansion
+90167,2020-07-08T19:35:01Z,3,"[5.0, 42.0, 41.0, 12.0, 0.0]","[0.0, 4.0, -2.0, 0.0, -2.0]",
+32100,2020-07-08T15:13:01Z,1,"[29.0, 70.0, 1.0, 0.0, 0.0]","[29.0, 70.0, 1.0, 0.0, 0.0]",
+691,2020-07-08T13:51:46Z,6,"[0.0, 38.0, 52.0, 10.0, 0.0]","[0.0, 4.0, -3.0, -1.0, 0.0]",
+88098,2020-07-08T11:22:49Z,2,"[5.0, 35.0, 55.0, 5.0, 0.0]","[-5.0, -15.0, 20.0, 0.0, 0.0]",9 states already above 10%. 4 more are above 8% and trending up.
+57778,2020-07-08T08:41:29Z,7,"[42.0, 38.0, 15.0, 4.0, 1.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+57778,2020-07-07T23:08:14Z,6,"[42.0, 38.0, 15.0, 4.0, 1.0]","[5.0, -5.0, 0.0, 0.0, 0.0]",
+89135,2020-07-07T21:43:04Z,2,"[0.0, 15.0, 30.0, 30.0, 25.0]","[0.0, 15.0, -3.0, -4.0, -8.0]",
+14027,2020-07-07T19:53:14Z,2,"[3.0, 29.0, 50.0, 17.0, 1.0]","[-2.0, 0.0, 1.0, 0.0, 1.0]",
+92862,2020-07-07T17:04:24Z,1,"[5.0, 10.0, 20.0, 15.0, 50.0]","[5.0, 10.0, 20.0, 15.0, 50.0]",
+86184,2020-07-07T16:59:30Z,1,"[25.0, 50.0, 25.0, 0.0, 0.0]","[25.0, 50.0, 25.0, 0.0, 0.0]",
+691,2020-07-07T15:04:48Z,5,"[0.0, 34.0, 55.0, 11.0, 0.0]","[0.0, 2.0, -2.0, 0.0, 0.0]",
+81518,2020-07-07T14:25:07Z,1,"[15.0, 35.0, 30.0, 10.0, 10.0]","[15.0, 35.0, 30.0, 10.0, 10.0]",
+87440,2020-07-07T14:04:28Z,2,"[30.0, 45.0, 20.0, 5.0, 0.0]","[15.0, 0.0, -15.0, 0.0, 0.0]",
+75930,2020-07-07T13:05:40Z,1,"[0.0, 0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0, 100.0]",
+87064,2020-07-07T11:13:42Z,3,"[20.0, 50.0, 30.0, 0.0, 0.0]","[-20.0, 20.0, 0.0, 0.0, 0.0]",
+88766,2020-07-07T11:08:01Z,3,"[0.0, 49.0, 51.0, 0.0, 0.0]","[0.0, 12.0, -12.0, 0.0, 0.0]",
+92416,2020-07-07T08:38:29Z,1,"[1.0, 12.0, 35.0, 30.0, 22.0]","[1.0, 12.0, 35.0, 30.0, 22.0]",
+38094,2020-07-07T01:10:32Z,2,"[25.0, 50.0, 25.0, 0.0, 0.0]","[25.0, 25.0, -25.0, -25.0, 0.0]","Down shifting, hoping that current hot spots wind down over the next 6 weeks. Perhaps I am naive?"
+40584,2020-07-06T20:55:45Z,4,"[25.0, 30.0, 35.0, 10.0, 0.0]","[15.0, 7.0, -15.0, -5.0, -2.0]",
+88198,2020-07-06T20:42:04Z,2,"[5.0, 41.0, 38.0, 10.0, 6.0]","[-5.0, 3.0, 2.0, 0.0, 0.0]",
+691,2020-07-06T14:13:09Z,4,"[0.0, 32.0, 57.0, 11.0, 0.0]","[0.0, 1.0, -1.0, 0.0, 0.0]",
+57778,2020-07-06T09:38:18Z,5,"[37.0, 43.0, 15.0, 4.0, 1.0]","[-7.0, 3.0, 5.0, -1.0, 0.0]",
+92357,2020-07-06T02:30:53Z,1,"[40.0, 30.0, 20.0, 10.0, 0.0]","[40.0, 30.0, 20.0, 10.0, 0.0]","This is a somewhat optimistic forecast that, one way or another, we will have the outbreak back under a semblance of control by the end of the Summer. This period of calm, perhaps similar to May/early June, may lead to another increase in cases as cold weather arrives and forces people back indoors in the North, but we should get a respite for a little while."
+89785,2020-07-06T02:14:03Z,1,"[0.0, 0.0, 0.0, 70.0, 30.0]","[0.0, 0.0, 0.0, 70.0, 30.0]","Reasons 1. As of July 4, Rueters reported that according to the CDC 13 States were already in double digits of positivity. 2. It's more than reasonable based on the rising levels across the country and the opening open of the cities including Boston and NY where levels had fallen, that another 7 states would be in double digits in 2 months. 3. With a good but slightly less probability that it would be more than 21 states by Sep."
+19127,2020-07-06T00:55:21Z,1,"[18.0, 34.0, 31.0, 12.0, 5.0]","[18.0, 34.0, 31.0, 12.0, 5.0]",
+70711,2020-07-06T00:44:27Z,2,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+12591,2020-07-06T00:32:00Z,1,"[10.0, 15.0, 15.0, 30.0, 30.0]","[10.0, 15.0, 15.0, 30.0, 30.0]",
+70711,2020-07-06T00:28:46Z,1,"[0.0, 50.0, 50.0, 0.0, 0.0]","[0.0, 50.0, 50.0, 0.0, 0.0]","Current numbers (5 July) and trends + a look (mine ?biased) at state population size/density + political leadership (current/past measures taken) suggests that the # is 12. The states will be forced by high numbers to introduce restrictions, possibly leading to a drop.. Sept 1 is not really Fall in Southern US, and expected increase in Fall will not have occured."
+57778,2020-07-05T23:18:18Z,4,"[44.0, 40.0, 10.0, 5.0, 1.0]","[30.0, 0.0, -27.0, -3.0, 0.0]",
+90801,2020-07-05T22:43:02Z,1,"[0.0, 0.0, 15.0, 75.0, 10.0]","[0.0, 0.0, 15.0, 75.0, 10.0]","while overall death rates have been declining, several southern states have seen a rapid increase in infection rates which will likely lead to increased death rates overtime - current spike infections are seen primarily in young people, as they come into contact with older family members infections, hospitalization, and death rates will climb."
+90457,2020-07-05T22:03:04Z,1,"[0.0, 33.0, 33.0, 34.0, 0.0]","[0.0, 33.0, 33.0, 34.0, 0.0]",
+783,2020-07-05T21:02:13Z,1,"[0.0, 44.0, 56.0, 0.0, 0.0]","[0.0, 44.0, 56.0, 0.0, 0.0]",Given that the hospitalizations reports are skewed..or not reported it is a snark hunt to forecast it. This is based on best reports available.
+1333,2020-07-05T18:02:35Z,10,"[15.0, 35.0, 35.0, 10.0, 5.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+84880,2020-07-05T17:50:09Z,2,"[5.0, 30.0, 49.0, 15.0, 1.0]","[5.0, 5.0, -1.0, -10.0, 1.0]",Look at it this way.. --> ¯\_(ツ)_/¯
+90515,2020-07-05T17:39:22Z,1,"[0.0, 45.0, 55.0, 0.0, 0.0]","[0.0, 45.0, 55.0, 0.0, 0.0]",
+20044,2020-07-05T17:35:19Z,1,"[5.0, 10.0, 34.0, 32.0, 19.0]","[5.0, 10.0, 34.0, 32.0, 19.0]",
+16109,2020-07-05T17:09:40Z,1,"[35.0, 45.0, 20.0, 0.0, 0.0]","[35.0, 45.0, 20.0, 0.0, 0.0]",
+691,2020-07-05T15:09:04Z,3,"[0.0, 31.0, 58.0, 11.0, 0.0]","[0.0, 0.0, 1.0, -1.0, 0.0]",
+88198,2020-07-05T14:49:06Z,1,"[10.0, 38.0, 36.0, 10.0, 6.0]","[10.0, 38.0, 36.0, 10.0, 6.0]",
+90608,2020-07-05T14:24:13Z,1,"[0.0, 5.0, 15.0, 35.0, 45.0]","[0.0, 5.0, 15.0, 35.0, 45.0]",
+90645,2020-07-05T13:42:18Z,1,"[0.0, 5.0, 50.0, 30.0, 15.0]","[0.0, 5.0, 50.0, 30.0, 15.0]","Given current data, projections and human behavior, increases are expected in states which are already exceeding all previous numbers, but states currently under 10% are still increasing and will continue to do so throughout the summer."
+93245,2020-07-04T21:21:59Z,1,"[0.0, 2.0, 5.0, 8.0, 85.0]","[0.0, 2.0, 5.0, 8.0, 85.0]",I think we’ve just begun the journey.
+88010,2020-07-04T21:01:36Z,1,"[20.0, 40.0, 30.0, 10.0, 0.0]","[20.0, 40.0, 30.0, 10.0, 0.0]",
+93243,2020-07-04T19:09:10Z,1,"[10.0, 80.0, 10.0, 0.0, 0.0]","[10.0, 80.0, 10.0, 0.0, 0.0]",
+1333,2020-07-04T18:11:16Z,9,"[15.0, 45.0, 25.0, 10.0, 5.0]","[-10.0, 0.0, 0.0, 5.0, 5.0]",
+1333,2020-07-04T18:09:57Z,8,"[25.0, 45.0, 25.0, 5.0, 0.0]","[-5.0, 0.0, 0.0, 5.0, 0.0]",
+691,2020-07-04T16:10:55Z,2,"[0.0, 31.0, 57.0, 12.0, 0.0]","[0.0, 5.0, 4.0, -8.0, -1.0]",
+87440,2020-07-04T14:47:31Z,1,"[15.0, 45.0, 35.0, 5.0, 0.0]","[15.0, 45.0, 35.0, 5.0, 0.0]","By 1 September, I expect most US States will be looking a bit like European countries are at the moment (all <10% positivity rate). Testing capacity will be better, and states will be pushed into testing and tracing as a result of the chaos they go through in the next couple of months."
+88766,2020-07-04T09:56:02Z,2,"[0.0, 37.0, 63.0, 0.0, 0.0]","[0.0, -10.0, 10.0, 0.0, 0.0]",
+87064,2020-07-04T07:54:07Z,2,"[40.0, 30.0, 30.0, 0.0, 0.0]","[-20.0, -5.0, 25.0, 0.0, 0.0]",
+14027,2020-07-04T03:46:46Z,1,"[5.0, 29.0, 49.0, 17.0, 0.0]","[5.0, 29.0, 49.0, 17.0, 0.0]","Estimating that 9 states will very likely be over 10% -- AL, FL, KS, MS, NV, SC, TN, TX & WY Projecting seven states as possibles -- AR, GA, MO, MS, NE, SD & UT"
+38094,2020-07-04T02:40:12Z,1,"[0.0, 25.0, 50.0, 25.0, 0.0]","[0.0, 25.0, 50.0, 25.0, 0.0]",Currently there are 10 > 10% and the country is experiencing an ever increasing rate in several states. Travel is the viruses friend and this is peak travel season.
+90167,2020-07-04T02:21:23Z,2,"[5.0, 38.0, 43.0, 12.0, 2.0]","[1.0, 2.0, 4.0, -2.0, -5.0]","If states continue to test mainly symptomatic people, or close contacts of people who have tested positive, their rates will remain high. Without a national strategy, I think this will remain the typical approach to testing through the summer."
+57778,2020-07-04T02:08:08Z,3,"[14.0, 40.0, 37.0, 8.0, 1.0]","[1.0, 1.0, 0.0, -2.0, 0.0]",
+75863,2020-07-04T00:54:57Z,2,"[2.0, 30.0, 40.0, 20.0, 8.0]","[2.0, 0.0, 0.0, 0.0, -2.0]",
+75863,2020-07-04T00:53:57Z,1,"[0.0, 30.0, 40.0, 20.0, 10.0]","[0.0, 30.0, 40.0, 20.0, 10.0]",
+87683,2020-07-03T23:17:37Z,1,"[2.0, 25.0, 58.0, 10.0, 5.0]","[2.0, 25.0, 58.0, 10.0, 5.0]",
+86678,2020-07-03T22:14:43Z,1,"[0.0, 1.0, 7.0, 23.0, 69.0]","[0.0, 1.0, 7.0, 23.0, 69.0]",
+30185,2020-07-03T19:49:58Z,1,"[85.0, 15.0, 0.0, 0.0, 0.0]","[85.0, 15.0, 0.0, 0.0, 0.0]",
+1333,2020-07-03T18:52:09Z,7,"[30.0, 45.0, 25.0, 0.0, 0.0]","[-5.0, 10.0, 0.0, -5.0, 0.0]",
+22689,2020-07-03T18:48:41Z,1,"[0.0, 40.0, 50.0, 10.0, 0.0]","[0.0, 40.0, 50.0, 10.0, 0.0]",
+1333,2020-07-03T18:47:42Z,6,"[35.0, 35.0, 25.0, 5.0, 0.0]","[-5.0, 0.0, 0.0, 5.0, 0.0]",
+87094,2020-07-03T18:09:11Z,1,"[0.0, 0.0, 10.0, 25.0, 65.0]","[0.0, 0.0, 10.0, 25.0, 65.0]","As of today 10 states are at or above 10%, with all increasing. With another 15 that are at or above 5%, and also have positive cases increasing."
+73970,2020-07-03T17:21:15Z,2,"[0.0, 65.0, 30.0, 5.0, 0.0]","[-10.0, -25.0, 30.0, 5.0, 0.0]",
+92420,2020-07-03T17:19:05Z,1,"[2.0, 8.0, 18.0, 40.0, 32.0]","[2.0, 8.0, 18.0, 40.0, 32.0]",
+40584,2020-07-03T16:49:53Z,3,"[10.0, 23.0, 50.0, 15.0, 2.0]","[0.0, 3.0, 0.0, -5.0, 2.0]",
+56170,2020-07-03T16:08:18Z,1,"[5.0, 20.0, 30.0, 25.0, 20.0]","[5.0, 20.0, 30.0, 25.0, 20.0]",
+691,2020-07-03T15:05:50Z,1,"[0.0, 26.0, 53.0, 20.0, 1.0]","[0.0, 26.0, 53.0, 20.0, 1.0]",
+1333,2020-07-03T14:32:54Z,5,"[40.0, 35.0, 25.0, 0.0, 0.0]","[-5.0, 0.0, 10.0, -5.0, 0.0]",
+1333,2020-07-03T14:31:46Z,4,"[45.0, 35.0, 15.0, 5.0, 0.0]","[0.0, -10.0, 5.0, 5.0, 0.0]",
+1333,2020-07-03T13:24:32Z,3,"[45.0, 45.0, 10.0, 0.0, 0.0]","[-10.0, 0.0, 10.0, 0.0, 0.0]",
+1333,2020-07-03T13:15:05Z,2,"[55.0, 45.0, 0.0, 0.0, 0.0]","[-20.0, 30.0, -10.0, 0.0, 0.0]",
+1333,2020-07-03T13:14:07Z,1,"[75.0, 15.0, 10.0, 0.0, 0.0]","[75.0, 15.0, 10.0, 0.0, 0.0]",
+86342,2020-07-03T12:19:15Z,1,"[10.0, 20.0, 30.0, 25.0, 15.0]","[10.0, 20.0, 30.0, 25.0, 15.0]",
+87064,2020-07-03T10:28:55Z,1,"[60.0, 35.0, 5.0, 0.0, 0.0]","[60.0, 35.0, 5.0, 0.0, 0.0]",
+57778,2020-07-03T09:34:15Z,2,"[13.0, 39.0, 37.0, 10.0, 1.0]","[6.0, 2.0, 1.0, -5.0, -4.0]",
+88766,2020-07-03T09:32:37Z,1,"[0.0, 47.0, 53.0, 0.0, 0.0]","[0.0, 47.0, 53.0, 0.0, 0.0]",
+88098,2020-07-03T09:28:28Z,1,"[10.0, 50.0, 35.0, 5.0, 0.0]","[10.0, 50.0, 35.0, 5.0, 0.0]","Thanks for the very comprehensive analysis by @sebawi @Paul-Lymath, @SE_Meyer . Looking at performance from other countries, its much easier to bring the test positivity rate down as compared to bringing the infections down. Many countries are now able to do this in relatively short period of time (using combination of RT-PCR, Antigen testing). India is shooting for test positivity rate no higher than 5%, and that seem to be reasonable limit. There is no shortage of test kits now. Its only matter of government focus and priority now. I see many more state governments are more willing to act now and not looking towards the federal government. I would expect the number of states with 10+ rate to go down."
+57778,2020-07-03T09:23:56Z,1,"[7.0, 37.0, 36.0, 15.0, 5.0]","[7.0, 37.0, 36.0, 15.0, 5.0]",
+27661,2020-07-03T09:01:17Z,1,"[7.0, 45.0, 45.0, 3.0, 0.0]","[7.0, 45.0, 45.0, 3.0, 0.0]","Currently, there are 10 states with a positivity rate of higher than 10%:"
+73970,2020-07-03T09:00:39Z,1,"[10.0, 90.0, 0.0, 0.0, 0.0]","[10.0, 90.0, 0.0, 0.0, 0.0]",
+90242,2020-07-03T08:52:17Z,1,"[74.0, 22.0, 4.0, 0.0, 0.0]","[74.0, 22.0, 4.0, 0.0, 0.0]",Believe it will edge down by over next 2 months. May spike in one or two rural states.
+92649,2020-07-03T08:35:23Z,1,"[5.0, 5.0, 15.0, 25.0, 50.0]","[5.0, 5.0, 15.0, 25.0, 50.0]",
+673,2020-07-03T07:44:34Z,1,"[0.0, 2.0, 9.0, 58.0, 31.0]","[0.0, 2.0, 9.0, 58.0, 31.0]","Currently 10 above 10% and all increasing or flat rates. 3 are on track to go above 10% soon. Nine others would cross the 10% threshold in the timeframe on current trajectories and two are possible, but uncertain. That gives 21 as the base rate on current trends. Test numbers are increasing in almost all states; constraints in the availability of tests seem likely to bite soon. Without adequate testing renewed lockdowns (at least partial) will be required to stay ahead of the spread. In any case, the general pattern appears to be that when test availability is constrained, they are prioritised towards higher risk populations. That would tend to support the general trend towards rising Covid positivity rates as those tested are more likely to have the disease. However over a two month period, strict lockdowns could flatten the curve as happened in the Northeast from March (although that really took at least a month to become evident). Overall, it is likely some of the states now on a trajectory towards >10% will be able to flatten the curve, but others may actually pick up speed that are not there yet. The partisan nature of acceptance of public health measures will be a significant factor in which states take which route."
+31251,2020-07-03T06:54:15Z,1,"[2.0, 23.0, 58.0, 13.0, 4.0]","[2.0, 23.0, 58.0, 13.0, 4.0]",
+90505,2020-07-03T06:19:47Z,1,"[0.0, 10.0, 80.0, 10.0, 0.0]","[0.0, 10.0, 80.0, 10.0, 0.0]",
+60695,2020-07-03T06:03:18Z,1,"[20.0, 80.0, 0.0, 0.0, 0.0]","[20.0, 80.0, 0.0, 0.0, 0.0]",
+93189,2020-07-03T05:22:58Z,1,"[10.0, 20.0, 25.0, 30.0, 15.0]","[10.0, 20.0, 25.0, 30.0, 15.0]","The election will provide a slightly delayed uptick, especially if there is some for of voter suppression with poles closing. Leaving thousands of people exposed."
+84880,2020-07-03T04:23:40Z,1,"[0.0, 25.0, 50.0, 25.0, 0.0]","[0.0, 25.0, 50.0, 25.0, 0.0]",
+40584,2020-07-03T04:21:52Z,2,"[10.0, 20.0, 50.0, 20.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0]",
+40584,2020-07-03T04:17:44Z,1,"[10.0, 20.0, 50.0, 20.0, 0.0]","[10.0, 20.0, 50.0, 20.0, 0.0]",
+89135,2020-07-03T01:23:17Z,1,"[0.0, 0.0, 33.0, 34.0, 33.0]","[0.0, 0.0, 33.0, 34.0, 33.0]",
+88452,2020-07-03T01:19:26Z,1,"[0.0, 0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 100.0, 0.0, 0.0]","Depends largely on a fresh active outbreak, where daily positives rise faster than testing and lab capacity; and on whether the Federal admin will be making true their threat to stop (co-)financing testing in the medium term, which would significantly cut testing availability, e.g. for reasons of having no bad news during campaigning. (A very creative way of shooting yourself in the foot and worsening the situation, but you can hardly exclude any stupidity these days...)"
+57400,2020-07-03T01:03:19Z,1,"[0.0, 5.0, 55.0, 35.0, 5.0]","[0.0, 5.0, 55.0, 35.0, 5.0]",
+90167,2020-07-02T23:24:22Z,1,"[4.0, 36.0, 39.0, 14.0, 7.0]","[4.0, 36.0, 39.0, 14.0, 7.0]",There are 10 states above this threshold right now. I think there’s going to be growth over the next month at least. The question is how soon we’ll see noticeable improvement after it plateaus.
+31275,2020-07-02T23:01:44Z,1,"[13.0, 44.0, 32.0, 7.0, 4.0]","[13.0, 44.0, 32.0, 7.0, 4.0]",I count six right now with six more between 9.5 and 10. I think the crowd has it about right.
+88954,2020-07-02T22:22:06Z,1,"[12.0, 43.0, 31.0, 9.0, 5.0]","[12.0, 43.0, 31.0, 9.0, 5.0]",

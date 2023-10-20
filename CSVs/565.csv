@@ -1,0 +1,819 @@
+Will the United States report more deaths attributed to COVID-19 as of 31 December 2021 than will the European Union?,2021-01-29T18:00:40Z,2021-12-31T08:01:40Z,No,"['Yes', 'No']","['Technology', 'Health']",818,654,187,237,,https://www.gjopen.com/questions/1916-will-the-united-states-report-more-deaths-attributed-to-covid-19-as-of-31-december-2021-than-will-the-european-union
+102607,2021-12-30T20:32:44Z,3,[0.0],[-4.0],
+37566,2021-12-30T16:59:37Z,2,[0.0],[0.0],
+84956,2021-12-30T16:08:17Z,16,[0.0],[-1.0],
+767,2021-12-30T03:28:37Z,3,[0.0],[-60.0],
+914,2021-12-29T22:01:51Z,9,[0.0],[-10.0],
+103822,2021-12-29T12:01:37Z,1,[0.0],[0.0],
+87827,2021-12-28T20:17:19Z,17,[0.0],[0.0],
+103878,2021-12-28T12:43:12Z,1,[0.0],[0.0],
+529,2021-12-28T01:26:37Z,38,[0.0],[0.0],
+95112,2021-12-27T23:05:15Z,1,[0.0],[0.0],"With a difference of 77,284 as of 12/26, it seems very unlikely that the US would back-report that many deaths."
+40636,2021-12-27T13:50:13Z,3,[0.0],[0.0],
+84956,2021-12-26T22:48:41Z,15,[1.0],[0.0],
+97302,2021-12-26T03:13:26Z,1,[0.0],[0.0],
+60948,2021-12-25T20:52:58Z,28,[2.0],[-5.0],Not enough time left. https://ourworldindata.org/covid-deaths?country=~USA~European+Union
+2965,2021-12-25T16:18:07Z,26,[0.0],[0.0],
+88098,2021-12-25T11:24:17Z,11,[0.0],[-1.0],
+1019,2021-12-24T15:56:37Z,3,[0.0],[-2.0],
+45594,2021-12-24T14:55:03Z,5,[0.0],[-5.0],
+62808,2021-12-23T18:06:49Z,20,[0.0],[0.0],
+27661,2021-12-23T10:40:03Z,15,[0.0],[0.0],
+40636,2021-12-23T07:28:13Z,2,[0.0],[0.0],
+52131,2021-12-22T15:10:46Z,1,[0.0],[0.0],
+103429,2021-12-22T05:27:59Z,1,[0.0],[0.0],
+80667,2021-12-21T17:43:55Z,1,[0.0],[0.0],
+101051,2021-12-20T14:14:21Z,7,[0.0],[-1.0],
+99780,2021-12-20T06:47:35Z,17,[0.0],[0.0],
+37566,2021-12-18T01:20:46Z,1,[0.0],[0.0],
+87827,2021-12-17T16:36:29Z,16,[0.0],[0.0],
+29054,2021-12-17T02:34:44Z,4,[0.0],[0.0],
+103732,2021-12-17T01:24:53Z,1,[100.0],[100.0],
+529,2021-12-16T23:10:45Z,37,[0.0],[0.0],
+99375,2021-12-16T16:05:10Z,7,[0.0],[-1.0],
+40636,2021-12-15T12:14:53Z,1,[0.0],[0.0],
+88098,2021-12-14T07:17:02Z,10,[1.0],[-1.0],
+62808,2021-12-13T18:00:09Z,19,[0.0],[0.0],
+2965,2021-12-13T16:42:39Z,25,[0.0],[0.0],
+29054,2021-12-12T20:47:14Z,3,[0.0],[0.0],
+84956,2021-12-12T16:45:55Z,14,[1.0],[0.0],
+914,2021-12-11T21:21:58Z,8,[10.0],[-60.0],
+90560,2021-12-11T02:36:48Z,1,[95.0],[95.0],
+19260,2021-12-10T23:50:59Z,19,[0.0],[0.0],"Well, the jump in new US deaths mentioned in my last rationale does seem to have been a reporting artifact. The increase in new cases seems to be more stable."
+58508,2021-12-09T03:41:20Z,14,[0.0],[-1.0],
+89038,2021-12-08T10:41:51Z,17,[0.0],[-1.0],
+103615,2021-12-08T00:40:28Z,1,[0.0],[0.0],
+96367,2021-12-07T12:05:48Z,19,[0.0],[-1.0],
+88098,2021-12-06T00:57:49Z,9,[2.0],[-1.0],
+19260,2021-12-05T20:05:45Z,18,[0.0],[0.0],I am assuming that the sudden simultaneous jumps in cases and deaths in the seven-day rolling averages in the US (following the sudden simultaneous declines) is an artifact of reporting around the Thanksgiving holiday.
+99375,2021-12-05T15:54:21Z,6,[1.0],[-3.0],
+62808,2021-12-03T01:19:30Z,18,[0.0],[0.0],
+81456,2021-12-02T15:30:52Z,1,[0.0],[0.0],
+103410,2021-12-02T08:50:37Z,1,[1.0],[1.0],
+529,2021-11-29T19:52:55Z,36,[0.0],[-1.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+100653,2021-11-29T12:22:07Z,3,[0.0],[-1.0],
+99780,2021-11-29T10:19:11Z,16,[0.0],[0.0],"I assume there's a reporting delay in the US this week due to the Thanksgiving holiday, which is why cases and deaths reported have plummeted. But there are presently 65k more cases in the EU than in the US and the gulf is widening each week, a trend unlikely to reverse."
+102607,2021-11-29T02:45:55Z,2,[4.0],[-21.0],
+102607,2021-11-29T02:45:46Z,1,[25.0],[25.0],
+87827,2021-11-28T13:42:58Z,15,[0.0],[-2.0],
+34959,2021-11-28T05:51:18Z,20,[0.0],[-7.0],
+691,2021-11-27T16:31:26Z,17,[0.0],[-1.0],I am inclined to go along with @see on this
+84956,2021-11-27T16:09:39Z,13,[1.0],[-4.0],
+14027,2021-11-26T16:45:33Z,14,[1.0],[-2.0],
+19260,2021-11-26T14:48:03Z,17,[0.0],[0.0],"The EU is so much higher on new cases at the moment that, given the multi-week lag between cases and deaths, it's highly unlikely that the difference in deaths will narrow *any* from the current difference. The odds that the US will exceed the EU death total are utterly negligible."
+13306,2021-11-26T12:45:18Z,5,[0.0],[-2.0],
+96367,2021-11-26T11:38:17Z,18,[1.0],[-1.0],
+103364,2021-11-26T10:53:55Z,1,[5.0],[5.0],
+43189,2021-11-25T08:52:06Z,2,[0.0],[-95.0],
+99780,2021-11-24T22:34:51Z,15,[0.0],[0.0],
+27661,2021-11-24T11:28:02Z,14,[0.0],[0.0],
+102643,2021-11-23T21:29:19Z,1,[0.0],[0.0],
+529,2021-11-23T19:38:13Z,35,[1.0],[-1.0],EU average daily new COVID deaths (per million) continues to surpass that of the U.S. https://ourworldindata.org/covid-deaths?country=~USA~EU
+102644,2021-11-23T18:02:25Z,1,[2.0],[2.0],
+102973,2021-11-23T17:59:29Z,2,[1.0],[1.0],
+102973,2021-11-23T17:58:37Z,1,[0.0],[0.0],
+100653,2021-11-23T08:07:30Z,2,[1.0],[1.0],
+103233,2021-11-22T02:34:51Z,1,[0.0],[0.0],US number is 50% of EU as of now.
+94837,2021-11-20T14:01:07Z,20,[0.0],[-1.0],
+101489,2021-11-19T12:03:12Z,11,[0.0],[-5.0],
+103290,2021-11-18T23:46:21Z,1,[76.0],[76.0],
+62808,2021-11-18T23:17:11Z,17,[0.0],[0.0],
+28899,2021-11-18T21:10:50Z,13,[0.0],[-5.0],
+87827,2021-11-18T14:05:41Z,14,[2.0],[-1.0],
+20156,2021-11-18T10:55:10Z,5,[0.0],[-4.0],
+88452,2021-11-16T15:43:15Z,20,[0.0],[-18.0],
+754,2021-11-15T23:14:01Z,19,[0.0],[-7.0],
+99780,2021-11-15T21:27:24Z,14,[0.0],[-1.0],"53,933 more deaths in EU than US as of 13 Nov and cases in the former are skyrocketing."
+27661,2021-11-15T12:21:12Z,13,[0.0],[-1.0],
+529,2021-11-14T21:03:11Z,34,[2.0],[-1.0],https://www.nbcnews.com/news/world/covid-surging-europe-experts-say-s-warning-us-rcna4666
+62808,2021-11-14T19:27:26Z,16,[0.0],[0.0],
+14432,2021-11-14T07:18:34Z,1,[0.0],[0.0],
+58508,2021-11-13T18:19:14Z,13,[1.0],[-4.0],
+103219,2021-11-12T19:45:44Z,1,[1.0],[1.0],
+55987,2021-11-12T16:08:46Z,28,[0.0],[-1.0],
+94837,2021-11-12T15:15:07Z,19,[1.0],[-2.0],
+87827,2021-11-11T22:17:20Z,13,[3.0],[-2.0],
+529,2021-11-11T17:44:16Z,33,[3.0],[-6.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+691,2021-11-11T16:03:30Z,16,[1.0],[-1.0],
+84956,2021-11-10T23:09:45Z,12,[5.0],[-5.0],
+14027,2021-11-10T19:11:09Z,13,[3.0],[-4.0],
+88098,2021-11-10T12:09:27Z,8,[3.0],[-2.0],
+89038,2021-11-10T08:34:00Z,16,[1.0],[-2.0],
+101489,2021-11-10T07:39:46Z,10,[5.0],[-45.0],
+101051,2021-11-09T16:32:55Z,6,[1.0],[-19.0],
+80475,2021-11-09T16:13:53Z,2,[0.0],[-85.0],"Since the last time I looked at this, the EU has greatly risen in daily deaths, now exceeding the United States, which has steadily fallen."
+79461,2021-11-09T00:57:45Z,3,[0.0],[-25.0],
+99780,2021-11-08T21:17:02Z,13,[1.0],[0.0],"Current trajectory suggests 800k COVID deaths in the US and 900k in the EU. If you look at the per-capita covid fatality map, other than Peru, the most affected countries for the entirety of the pandemic are now in Eastern Europe."
+34959,2021-11-08T15:54:25Z,19,[7.0],[-3.0],
+88452,2021-11-08T13:49:00Z,19,[18.0],[-28.0],
+529,2021-11-07T20:12:42Z,32,[9.0],[-7.0],https://www.nbcnews.com/news/all/covid-s-resurgence-europe-3-charts-n1283408
+62808,2021-11-07T16:08:01Z,15,[0.0],[-40.0],
+60948,2021-11-07T13:18:45Z,27,[7.0],[-23.0],Going down to consensus forecast.
+102139,2021-11-06T06:48:48Z,8,[5.0],[-45.0],
+19260,2021-11-06T00:13:04Z,16,[0.0],[-1.0],"And following the case-rate crossover, the death-rate crossover has now occurred."
+83135,2021-11-05T23:57:06Z,2,[70.0],[70.0],
+80790,2021-11-05T22:54:34Z,12,[0.0],[-1.0],"Cases in Eastern Europe are jumping up and there are lots of articles about COVID affecting the elderly a lot. So as cases are increasing, deaths are likely to follow just as winter arrives."
+80790,2021-11-05T22:53:43Z,11,[1.0],[0.0],
+88198,2021-11-05T17:47:30Z,9,[0.0],[-27.0],
+100653,2021-11-05T16:01:54Z,1,[0.0],[0.0],
+691,2021-11-05T15:21:31Z,15,[2.0],[-1.0],
+13306,2021-11-05T14:38:29Z,4,[2.0],[2.0],
+529,2021-11-04T17:29:57Z,31,[16.0],[-17.0],https://www.nytimes.com/live/2021/11/04/world/covid-delta-variant-vaccine#covid-surge-europe-who
+96367,2021-11-04T14:49:55Z,17,[2.0],[-1.0],
+96367,2021-11-04T14:49:27Z,16,[3.0],[-12.0],
+87827,2021-11-04T14:48:23Z,12,[5.0],[-2.0],
+86607,2021-11-03T16:25:10Z,2,[0.0],[-2.0],
+95503,2021-11-02T16:25:13Z,10,[5.0],[2.0],
+28899,2021-11-02T14:10:04Z,12,[5.0],[-10.0],
+529,2021-11-01T23:30:29Z,30,[33.0],[-7.0],"Lowering forecast a bit for now mainly on a slowly rising 7-day rolling average new COVID deaths rate for the EU and a generally falling rate for the U.S. Reported difference between the two in cumulative deaths is about +52,400 EU as of 10/31/21: https://ourworldindata.org/covid-deaths?country=~USA~EU"
+99780,2021-11-01T20:16:41Z,12,[1.0],[-3.0],Rapid case growth in Europe all but seals the fate of this question.
+99943,2021-10-31T23:45:53Z,15,[0.0],[-1.0],
+691,2021-10-31T13:46:58Z,14,[3.0],[-2.0],
+45594,2021-10-30T21:31:44Z,4,[5.0],[0.0],
+64041,2021-10-30T17:26:24Z,6,[31.0],[31.0],Current trends have brought the totals closer than I'd earlier expected (EU 795K vs US 743K as of 28 October).
+89038,2021-10-29T11:28:42Z,15,[3.0],[-5.0],
+14027,2021-10-28T19:57:20Z,12,[7.0],[-1.0],
+88452,2021-10-28T17:53:48Z,18,[46.0],[-46.0],
+19260,2021-10-28T15:11:41Z,15,[1.0],[-2.0],Adjusting downward based on case crossover and running out of time in the year.
+101051,2021-10-28T12:38:04Z,5,[20.0],[-5.0],
+2965,2021-10-27T19:58:29Z,24,[0.0],[0.0],
+32100,2021-10-27T17:36:17Z,2,[0.0],[-75.0],
+75863,2021-10-27T16:40:01Z,4,[5.0],[-25.0],
+34959,2021-10-27T14:49:47Z,18,[10.0],[-5.0],
+58508,2021-10-27T14:00:07Z,12,[5.0],[-10.0],"Looks very unlikely with EU cases and deaths continuing to rise, US deaths now falling as well as cases"
+88098,2021-10-27T11:48:32Z,7,[5.0],[4.0],
+27661,2021-10-27T09:59:44Z,12,[1.0],[-5.0],
+754,2021-10-27T06:28:15Z,18,[7.0],[-6.0],
+529,2021-10-26T18:40:58Z,29,[40.0],[0.0],"Maintaining forecast for now mainly on a slowly declining U.S. COVID deaths forecast over the next few weeks (https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html), and a slowly rising EU rolling 7-day average of daily deaths (https://ourworldindata.org/covid-deaths?country=~USA~EU). The reported cumulative COVID deaths margin has continued to lower to about +54,000 EU as of 10/25/21. This difference was about +79,600 EU a month ago on 9/25/21 (https://ourworldindata.org/covid-deaths?country=~USA~EU). IF this current gap were to continue to narrow at the same rate of about -25,000 per month with about 67 days left until 12/31/21 (from 10/25/21), the ending difference between the two entities could be quite close."
+87827,2021-10-26T18:05:29Z,11,[7.0],[-8.0],"-8. With 67 days left and a difference of a little over 50k cases, the difference between them can't average more than 800 deaths a day or this question will resolve positively. Currently the gap is 585 deaths per day and the EU is trending up while the US is trending down, so this seems fairly unlikely, especially given that US case counts are still declining meaning deaths will trend down for the next 3 weeks at least."
+99780,2021-10-25T17:19:08Z,11,[4.0],[-5.0],Trends suggest there will be more total deaths in the EU than in the US between now and EOY.
+2965,2021-10-25T16:30:33Z,23,[0.0],[0.0],
+55987,2021-10-25T15:33:44Z,27,[1.0],[-3.0],
+28899,2021-10-25T03:47:21Z,11,[15.0],[-5.0],
+754,2021-10-24T01:56:06Z,17,[13.0],[-14.0],
+84956,2021-10-23T16:20:18Z,11,[10.0],[-5.0],
+58508,2021-10-23T15:00:50Z,11,[15.0],[-4.0],Rolling average of EU cases has surpassed US
+80790,2021-10-23T12:42:24Z,10,[1.0],[-10.0],"69 days to go Deaths at 800 per day in EU, 1500 per day in US Cumulative US 726k EU 784k: 58k gap To close gap 58k / 69 = 840. I.e. US needs 840 more deaths every day than the EU"
+89038,2021-10-20T20:17:29Z,14,[8.0],[-8.0],
+79069,2021-10-20T09:47:59Z,3,[0.0],[0.0],"I think the paths of cases in the US and EU will cross within the week (on 22nd?), and then will likely cross again in December as EU cases subside more quickly. Meanwhile I expect the rates of death will sadly be slightly higher for both than earlier prediction, but as those paths are less likely to intersect the relative difference will be broadly similar to the outcome forecast on 7th October: https://www.gjopen.com/comments/1341488"
+60948,2021-10-20T07:15:12Z,26,[30.0],[-20.0],
+58508,2021-10-20T03:56:57Z,10,[19.0],[7.0],"EU currently has ~60k more deaths and ~800 more deaths per day according to https://ourworldindata.org/covid-cases, which would put the US and EU in a tie for num deaths at the end of the year. But cases in the EU are rising relative to the US, with the 7 day rolling average almost the same and trending toward each other. Cases are a fairly good leading indicator of deaths."
+96367,2021-10-20T02:48:16Z,15,[15.0],[5.0],
+96367,2021-10-20T02:47:33Z,14,[10.0],[6.0],
+55987,2021-10-19T15:46:32Z,26,[4.0],[4.0],"My inside view suggests the numbers will converge, but not cross. The data suggests that crossing is possible. So, I'm reluctantly putting some probability on the possibility. The picture should be clearer with about two weeks more data."
+99780,2021-10-19T10:41:34Z,10,[9.0],[-1.0],"EU deaths and cases both increasing, possibly accelerating; US deaths plateaued and increased slightly and cases still in decline but perhaps hitting a plateau."
+754,2021-10-18T21:11:51Z,16,[27.0],[17.0],
+75863,2021-10-18T11:52:59Z,3,[30.0],[29.0],
+89038,2021-10-17T20:17:57Z,13,[16.0],[6.0],
+60948,2021-10-17T19:54:08Z,25,[50.0],[35.0],September 1st: - EU: 755 - US: 643
+94837,2021-10-17T11:41:42Z,18,[3.0],[-2.0],
+14027,2021-10-16T15:43:40Z,11,[8.0],[-3.0],
+62808,2021-10-16T15:18:38Z,14,[40.0],[-5.0],
+87827,2021-10-15T17:20:18Z,10,[15.0],[0.0],
+529,2021-10-13T01:39:32Z,28,[40.0],[-5.0],"https://www.reuters.com/world/europe/romania-remains-vaccine-sceptical-despite-surge-covid-19-cases-2021-10-11/, https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html"
+99780,2021-10-12T19:46:41Z,9,[10.0],[-4.0],"The most surprising thing (to me), and the one making this possibility increasingly and increasingly unlikely, is the slow increase of both cases and deaths in the EU. We've not seen a pattern like this for Covid before, and it may be indicative of a new normal of high vaccination rates and moderate breakout cases and deaths concentrated among the elderly."
+58028,2021-10-12T17:21:01Z,17,[6.0],[-1.0],
+96367,2021-10-12T11:38:18Z,13,[4.0],[-31.0],
+58028,2021-10-12T07:11:53Z,16,[7.0],[-1.0],
+99780,2021-10-11T21:53:21Z,8,[14.0],[-8.0],"Don’t have time for a full analysis this week but wanted to circle back on my prediction “On 9 Oct: the US will have recorded 710,000 deaths; EU 775,000 (difference of 65,000),” made on 20 September."
+58028,2021-10-11T14:16:09Z,15,[8.0],[-1.0],
+27661,2021-10-11T09:56:40Z,11,[6.0],[-1.0],
+58028,2021-10-11T06:46:06Z,14,[9.0],[-1.0],
+99943,2021-10-11T01:26:05Z,14,[1.0],[1.0],"I think there's 0% chance, but I suppose I should allow for the possibility."
+691,2021-10-10T20:45:39Z,13,[5.0],[1.0],
+94837,2021-10-10T19:53:24Z,17,[5.0],[-5.0],
+62808,2021-10-10T17:49:35Z,13,[45.0],[10.0],
+28899,2021-10-09T09:19:51Z,10,[20.0],[-5.0],
+529,2021-10-08T20:18:18Z,27,[45.0],[-5.0],"Daily new confirmed COVID deaths 7-day average has started to decline a bit for U.S. and has slightly increased for the EU as of 10/6/21. Reported gap in cumulative deaths between the two entities is around +67-68,000 EU as of 10/6/21, via this source: https://ourworldindata.org/covid-deaths?country=~USA~EU"
+58028,2021-10-08T18:30:53Z,13,[10.0],[-1.0],
+96367,2021-10-08T06:12:59Z,12,[35.0],[-17.0],Significant case rates fall in the US requires a drop.
+754,2021-10-08T00:13:24Z,15,[10.0],[-15.0],tapering back.
+89038,2021-10-07T23:26:50Z,12,[10.0],[-2.0],
+79069,2021-10-07T12:35:14Z,2,[0.0],[0.0],"I just don't see this happening. The current gap is around 70k. While many EU countries now have low death rates, four or five in eastern Europe (eg Romania, Bulgaria) have a rising wave of cases which (collectively) contribute around half total EU deaths. These are yet to peak and will prevent any decline EU-wide for at least a few weeks; longer than I had forecast 2-wks ago. Minimum best case scenario now +42k to end of year. So minimum total deficit 112k."
+102895,2021-10-07T07:59:48Z,1,[5.0],[5.0],"Given current death, and vaccine development in both regions, a catch up is unlikely"
+84956,2021-10-06T21:44:54Z,10,[15.0],[0.0],
+84956,2021-10-06T20:57:48Z,9,[15.0],[-5.0],
+101051,2021-10-06T14:45:04Z,4,[25.0],[-35.0],
+27661,2021-10-06T08:43:31Z,10,[7.0],[-3.0],
+58028,2021-10-06T07:34:35Z,12,[11.0],[-4.0],
+89038,2021-10-05T21:56:35Z,11,[12.0],[-4.0],
+80790,2021-10-05T21:45:50Z,9,[11.0],[-65.0],87 days to do Assume 1000 on average for the US (assuming rates drop off from 1500 to below 1000 at some point over period) this is 87k extra between now and year end. US total would be 700k plus 87k = 787k Assume 750 per day on average for EU (slight increase from now sustained) this is 65k extra. EU total would be 771k plus 65k = 836k
+691,2021-10-05T14:47:23Z,12,[4.0],[4.0],
+99943,2021-10-05T13:59:54Z,13,[0.0],[-1.0],
+94837,2021-10-05T06:09:40Z,16,[10.0],[5.0],
+94837,2021-10-05T06:07:52Z,15,[5.0],[-45.0],
+28899,2021-10-05T05:09:31Z,9,[25.0],[25.0],Not sure; haven't thought about it yet.
+14027,2021-10-04T16:29:12Z,10,[11.0],[6.0],
+88198,2021-10-04T15:55:59Z,8,[27.0],[20.0],
+88198,2021-10-04T15:55:11Z,7,[7.0],[5.0],
+84956,2021-10-04T15:47:25Z,8,[20.0],[10.0],
+87827,2021-10-04T13:37:26Z,9,[15.0],[0.0],"US is still net +1200 deaths a day over EU, with 88 days left that's enough to cover the ~70k cumulative deaths gap. But US cases are dropping so I'm holding at 15 as it seems unlikely US sustains enough to make up the difference."
+99780,2021-10-04T11:56:21Z,7,[22.0],[-1.0],So far things are progressing just about as I forecasted here: https://www.gjopen.com/comments/1335342
+101489,2021-10-04T11:35:39Z,9,[50.0],[0.0],"The decline in new cases is getting slower in the US, indicating that another wave *might* be imminent."
+34959,2021-10-03T15:40:09Z,17,[15.0],[8.0],
+529,2021-10-01T22:31:15Z,26,[50.0],[-2.0],"Daily new U.S. deaths 7-day average is still almost 4.5 times that of the EU's rate, but may be slightly declining now. The EU has roughly 75,000 more cumulative Covid deaths than the U.S. as of 9/29/21 with about three months to go in the year. (https://ourworldindata.org/covid-deaths?country=~USA~EU)."
+99780,2021-10-01T09:39:42Z,6,[23.0],[-4.0],both deaths and cases in the US already declining.
+754,2021-10-01T03:45:21Z,14,[25.0],[-15.0],
+80790,2021-09-29T22:33:35Z,8,[76.0],[68.0],"690k EU vs 770k US 500 daily EU vs 2k daily US Difference is 80k 93 days to go The US has to report 860 extra deaths every day between now and year end to pass the EU. This is very achievable as the US is currently report 1500 extra deaths per day, and every day this is higher the required number for tomorrow goes down. Unless the US death rate suddenly drops or the EU one suddenly increases. Experiences over the last year can’t rule that out, but it now looks very likely that the US will pass the EU"
+55987,2021-09-29T15:24:58Z,25,[0.0],[-3.0],
+43189,2021-09-29T08:18:04Z,1,[95.0],[95.0],"Setting a baseline - Currently the EU is at 766,185 and has a death rate of 3725 in the last 7 days [1] The USA is at 683,243 and has a death rate of 13,831 in the last 7 days"
+95683,2021-09-29T02:17:06Z,6,[0.0],[0.0],
+87827,2021-09-28T15:32:49Z,8,[15.0],[-15.0],-15 as US cases are coming back down. I'll drop lower if case decline sustains.
+55987,2021-09-28T15:21:47Z,24,[3.0],[-4.0],
+89038,2021-09-28T14:46:50Z,10,[16.0],[-4.0],
+101489,2021-09-28T09:19:20Z,8,[50.0],[-30.0],
+58028,2021-09-28T06:33:18Z,11,[15.0],[-10.0],
+95683,2021-09-28T02:21:25Z,5,[0.0],[0.0],
+99943,2021-09-28T02:02:23Z,12,[1.0],[1.0],
+87440,2021-09-27T20:52:44Z,5,[20.0],[20.0],
+99780,2021-09-27T20:41:38Z,5,[27.0],[-11.0],"More than a week of steadily dropping cases in the US, which would have to reverse course suddenly and continue climbing to materially change the forecasts for the rest of the year. US is likely to end up with ±26,000 fewer deaths by the end of the year."
+55987,2021-09-27T17:18:25Z,23,[7.0],[3.0],
+27661,2021-09-27T10:11:21Z,9,[10.0],[-15.0],
+58028,2021-09-27T05:24:59Z,10,[25.0],[-20.0],
+95683,2021-09-27T02:21:28Z,4,[0.0],[0.0],
+79461,2021-09-27T00:35:54Z,2,[25.0],[-30.0],
+14027,2021-09-26T23:21:18Z,9,[5.0],[-2.0],
+99943,2021-09-26T21:47:15Z,11,[0.0],[-3.0],"While the outcome will be relatively close, the forecast ranges for deaths for the US and the EU do not overlap and are moving apart."
+95683,2021-09-26T20:33:34Z,3,[0.0],[0.0],
+60948,2021-09-26T20:33:01Z,24,[15.0],[-5.0],
+79069,2021-09-26T08:20:59Z,1,[0.0],[0.0],"Forecast total US: ~6.5-8M cases with marginally declining CFR over the period, adding 65-85K further deaths to current 687K, total 752-775M Ballpark EU forecast: plateauing rate then gradual decline/wk overall, adding 35-40K over the period to current 767K, total 802-807K"
+58508,2021-09-25T20:36:53Z,9,[12.0],[10.0],More uncertain than before but still seems pretty unlikely given US cases dropping
+89038,2021-09-25T20:06:23Z,9,[20.0],[4.0],
+79461,2021-09-25T17:07:27Z,1,[55.0],[55.0],
+102139,2021-09-25T16:23:19Z,7,[50.0],[5.0],
+96367,2021-09-25T12:58:38Z,11,[52.0],[-16.0],
+27661,2021-09-25T11:53:39Z,8,[25.0],[15.0],
+2965,2021-09-25T05:14:15Z,22,[0.0],[0.0],
+58028,2021-09-24T20:32:49Z,9,[45.0],[-30.0],
+529,2021-09-24T03:58:15Z,25,[52.0],[14.0],"The most recent CDC forecast shows U.S. COVID deaths more or less plateauing over about the next four weeks (https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html), but the current U.S. 7-day avg. death rate per million is now around five times that of the E.U. The current reported difference between the two entities has narrowed to about +85,400 E.U. cumulative deaths as of 9/22/21, with just under 100 days until 12/31/21. (https://ourworldindata.org/covid-deaths?country=~USA~EU)"
+19260,2021-09-23T21:03:11Z,14,[3.0],[-22.0],"The confirmed-cases-curve in the US has peaked and is on the downslope; the deaths curve will follow, with the usual lag. Thus, the current deaths differential should be expected to resolve with the US still lower in total death count. This has actually been similar (if more severe) than the 2020Q3 pattern, where the US had a big case (and death) run-up that the EU didn't have."
+58028,2021-09-23T17:12:49Z,8,[75.0],[10.0],
+80475,2021-09-23T15:23:43Z,1,[85.0],[85.0],"I finally was able to make my own spreadsheet of all these countries and their weekly average daily deaths, vaccinations, etc. I don’t understand the reasoning behind these crowd odds of only 5%. If there is an extreme amount of confidence it should be on the other end."
+99780,2021-09-23T12:23:13Z,4,[38.0],[1.0],"small update, no deceleration on US covid deaths since my last forecast 3d ago"
+94837,2021-09-22T19:22:52Z,14,[50.0],[45.0],
+94837,2021-09-22T19:18:50Z,13,[5.0],[4.0],
+88452,2021-09-22T19:03:38Z,17,[92.0],[29.0],
+58028,2021-09-21T20:36:28Z,7,[65.0],[0.0],"Covid deaths as of Sept. 19: EU 764,409 USA 673,774"
+19260,2021-09-21T18:33:51Z,13,[25.0],[5.0],
+767,2021-09-21T13:38:19Z,2,[60.0],[60.0],"760,853 deaths have been reported in the EU/EEA. 672,000 deaths reported in the USA, current daily average is over 2,000, and ~1,500 in the EU."
+101489,2021-09-21T10:40:54Z,7,[80.0],[10.0],
+55987,2021-09-20T18:16:56Z,22,[4.0],[3.0],
+14027,2021-09-20T18:02:36Z,8,[7.0],[6.0],
+99943,2021-09-20T17:31:08Z,10,[3.0],[-2.0],"The more I look at the numbers in detail, the less I think this is likely. It will probably be pretty close, though."
+99943,2021-09-20T16:25:40Z,9,[5.0],[-15.0],
+99780,2021-09-20T14:33:11Z,3,[37.0],[36.0],"Lots of good analysis already in recent comments. As of 18 Sep, there are 673,472 COVID fatalities in the US and 764,148 in the EU, for a difference of 90,676. What is the likelihood on this day that 90,677 _more_ people will die in the US of COVID than EU by 31 Dec (104 days away from the 18th)?"
+96367,2021-09-20T13:31:32Z,10,[68.0],[13.0],Thanks to @Columbus for crunching the numbers and to @belikewater for providing moderating counterpoint.
+96367,2021-09-20T13:31:06Z,9,[55.0],[0.0],EDIT: Miss-forecast (Bloody Slider!)
+99943,2021-09-19T20:38:58Z,8,[20.0],[15.0],Looking at death forecasts again. The US and EU ranges do overlap.
+754,2021-09-19T14:54:17Z,13,[40.0],[17.0],"Up till now's this question was a bit of a sleepy no brainer. Things do change! . USA's behind, with a smaller population (EU is 1.36x) , but it's Catching Up FAST..."
+101489,2021-09-19T14:48:07Z,6,[70.0],[0.0],"The amount of cases has roughly plateaued for the past 2 weeks in the US. I'd say 50:50 chance that the US is past the worse. Then again, the EU will most likely do a lot better for the rest of the year anyway because of much higher vaccination rates in the most important countries (Spain, Italy, France)."
+58028,2021-09-19T09:59:50Z,6,[65.0],[35.0],"Covid deaths as of Sept. 17: EU 763,775 USA 672,635"
+99943,2021-09-19T02:41:07Z,7,[5.0],[-45.0],"EU deaths at 764k, US deaths at 673k. EU population 446M. US population 328M. EU population is 1.36 * US population. EU deaths at 1.19/day/1M people and plateaued. US deaths at 5.85/day/1M people and rising. EU: 1.19/day * 446M = 531/day. US: 5.85/day * 328M = 1919/day. US likely to see >75k more deaths before the end of the year from Delta alone, possibly more if a new immune escape strain emerges. It's possible that the EU will see 25k to 30k additional deaths by the end of the year, although there will likely be a rise in Nov and Dec from a smaller fall wave. By the end of the year, I expect US deaths 748k to 775k, EU deaths 789K to 794k, potentially plus the start of a small winter wave. Barring some new variant that hugely escapes immunity, given that the EU's Delta wave has peaked, I think it's possible but unlikely that the US will see more total confirmed deaths by the end of the year than the EU. Extremely sad to see so many deaths on both continents. Later edit: revising a bit upward because there could really be an overlap in forecast ranges."
+99943,2021-09-19T02:28:58Z,6,[50.0],[-35.0],(Oops again.)
+99943,2021-09-19T02:21:29Z,5,[85.0],[85.0],(Oops.)
+58028,2021-09-18T11:55:35Z,5,[30.0],[-15.0],
+86607,2021-09-17T16:13:35Z,1,[2.0],[2.0],
+62808,2021-09-17T14:34:16Z,12,[35.0],[-5.0],
+87827,2021-09-16T14:03:55Z,7,[30.0],[-10.0],"-10, back down a little bit just because it seems fairly unlikely to me that the US maintains a 1k daily death difference with the EU the rest of the year, especially now that US cases have plateaued. But still seems very possible, leaving 30% chance."
+60948,2021-09-16T12:30:28Z,23,[20.0],[5.0],
+60948,2021-09-16T12:29:31Z,22,[15.0],[-15.0],
+81061,2021-09-16T04:47:40Z,3,[3.0],[3.0],
+529,2021-09-15T20:31:59Z,24,[38.0],[-4.0],"The rolling 7-day average of daily new COVID deaths for the U.S is now 5.54 per million people vs. (a much more-slowly rising) 1.13 per million for the EU. (9/13/21) Cumulative EU COVID deaths reported as of 9/13/21 are about 99,000 more than the U.S., vs. a difference of about 126,000 on 8/13/21. https://ourworldindata.org/covid-deaths?country=~USA~EU."
+754,2021-09-15T20:29:20Z,12,[23.0],[-34.0],
+62808,2021-09-15T19:38:44Z,11,[40.0],[-11.0],
+62808,2021-09-15T19:38:29Z,10,[51.0],[0.0],
+27661,2021-09-15T09:20:14Z,7,[10.0],[-5.0],
+80790,2021-09-14T22:17:10Z,7,[8.0],[8.0],"The gap is that the EU is 100k deaths higher than the US. Yes rates are a lot higher in the US, but 100k extra deaths in 3 months is a lot to catch up. In fact 1000 extra deaths per day for the rest of the year. Which alarmingly is the current gap, with EU deaths plateauing about 500 per day and the US increasing to 1500 per day. I am going to have to put some probability on this happening now that the situation has reversed so much between US and EU."
+102139,2021-09-14T18:33:25Z,6,[45.0],[5.0],
+88452,2021-09-13T21:11:25Z,16,[63.0],[49.0],
+27661,2021-09-13T21:06:19Z,6,[15.0],[10.0],
+60948,2021-09-13T11:43:44Z,21,[30.0],[5.0],
+60948,2021-09-13T11:42:25Z,20,[25.0],[20.0],
+58028,2021-09-13T06:05:06Z,4,[45.0],[-5.0],
+101489,2021-09-12T23:58:38Z,5,[70.0],[0.0],
+529,2021-09-12T20:42:22Z,23,[42.0],[41.0],"U.S. death rate recently has risen significantly (as noted in other comments). The rolling 7-day average of daily new COVID deaths for the U.S has recently jumped to 4.9 per million people vs. (an only slowly-rising) 1.15 per million for the EU. Cumulative EU COVID deaths reported are now about 101,000 more than the U.S. as of 9/10/21. https://ourworldindata.org/covid-deaths?country=~USA~EU."
+754,2021-09-11T23:54:23Z,11,[57.0],[32.0],the daily death rate trend in USA should show reductions after vaccine mandates kick in. This will take some time though.
+95683,2021-09-11T22:39:47Z,2,[0.0],[0.0],
+96367,2021-09-11T13:47:02Z,8,[55.0],[-7.0],Dropping slightly to account for some of the measures that Biden has announced (particularly those being imposed on businesses through OSHA). Likely to be challenged by Republicans in Courts and hard to know what today's SC will do with such a challenge (although historical precedent in less partisan times suggests the SC will uphold such public health measures).
+87827,2021-09-11T12:43:43Z,6,[40.0],[37.0],US death rate has increased significantly. According to our world in data the EU has 106k more cumulative deaths than the US. To exceed in the 111 days remaining in 2021 there would have to be about 1k more deaths in the US than the EU each day. Currently the difference is 1.5k and rising. It's looking possible but I'm kind of skeptical that the difference remains that high the entire rest of the year.
+754,2021-09-10T18:46:25Z,10,[25.0],[25.0],"quick rise,"
+89038,2021-09-10T15:54:16Z,8,[16.0],[16.0],
+101051,2021-09-10T13:24:36Z,3,[60.0],[57.0],
+96367,2021-09-10T10:28:35Z,7,[62.0],[62.0],Long overdue for a review on this one. As with so many of these COVID questions the situation that 6 weeks ago was running with high degrees of projected certainty has changed (from a certainty perspective if nothing else) and so the objective imperative must be to adjust certainty (noting the underlying pain and discomfort I'm feeling in moving so far from the current crowd position).
+34959,2021-09-09T13:08:58Z,16,[7.0],[6.0],
+55987,2021-09-08T14:54:09Z,21,[1.0],[1.0],
+58028,2021-09-08T10:27:41Z,3,[50.0],[-30.0],
+27661,2021-09-08T08:51:31Z,5,[5.0],[5.0],
+19260,2021-09-07T01:49:13Z,12,[20.0],[20.0],"Well, we're at a point where, at the current rates, the US can exceed the EU. The question now is, where does the increase in the deaths/day in the US top out, and where does the increase in EU deaths/day top out?"
+58028,2021-09-06T19:21:56Z,2,[80.0],[80.0],"Number of fatalities (as of September 4): EU 756,852 USA 648,106"
+102139,2021-09-06T13:25:17Z,5,[40.0],[5.0],
+102139,2021-09-06T12:33:16Z,4,[35.0],[-45.0],
+102139,2021-09-06T11:09:14Z,3,[80.0],[45.0],
+62808,2021-09-05T21:15:30Z,9,[51.0],[51.0],
+12879,2021-09-05T19:23:58Z,1,[75.0],[75.0],'
+60948,2021-09-05T11:26:54Z,19,[5.0],[0.0],No change
+95503,2021-09-05T10:34:50Z,9,[3.0],[2.0],
+529,2021-09-03T22:06:11Z,22,[1.0],[0.0],"Cumulative EU COVID deaths reported via this source are about 124,500 more than the U.S. as of 9/1/21: https://ourworldindata.org/covid-deaths?country=~USA~EU. The difference has been narrowing, but slowly so far."
+95683,2021-09-02T20:37:02Z,1,[0.0],[0.0],
+102139,2021-08-31T18:14:54Z,2,[35.0],[25.0],
+101489,2021-08-31T06:56:44Z,4,[70.0],[10.0],"As of 29.08.2021: Total difference: 115,991 Daily average difference (week ending 29.08.): 797 124 days left: 797*124 = 98,828"
+2965,2021-08-31T00:34:23Z,21,[0.0],[0.0],
+60948,2021-08-29T22:04:37Z,18,[5.0],[-2.0],
+101489,2021-08-28T09:09:33Z,3,[60.0],[20.0],
+92690,2021-08-27T03:31:11Z,1,[90.0],[90.0],
+34959,2021-08-24T05:24:50Z,15,[1.0],[0.0],"USA closing the gap to the tune of ~500/day, probably no where near enough, and given US vaccination rates, I expect both death rates to slow, with the US slowing somewhat quicker."
+96367,2021-08-23T08:34:44Z,6,[0.0],[-1.0],"The gulf between the two now seems too great to make up, even with the steadily improving EU vaccination rates and the stalling US ones [1]."
+60948,2021-08-22T15:21:37Z,17,[7.0],[0.0],No change.
+754,2021-08-22T03:13:15Z,9,[0.0],[-1.0],
+914,2021-08-21T00:26:03Z,7,[70.0],[5.0],
+87827,2021-08-19T14:10:02Z,5,[3.0],[2.0],"+2 on deaths increasing in the US while not increasing as much in the EU. However to make up the difference the US would have to sustain more than 1,000 deaths a day above EU deaths for the remainder of the year, which seems very unlikely to me."
+27661,2021-08-16T17:50:27Z,4,[0.0],[0.0],
+60948,2021-08-15T12:43:46Z,16,[7.0],[-3.0],"I'll stick to my >>1% for now, exponentials are tricky."
+2965,2021-08-13T23:30:42Z,20,[0.0],[0.0],
+529,2021-08-13T22:24:05Z,21,[1.0],[0.0],"Cumulative EU COVID deaths reported via this source are about 128,000 more than the U.S. as of 8/11/21: https://ourworldindata.org/covid-deaths?country=~USA~EU"
+84956,2021-08-13T12:11:33Z,7,[10.0],[5.0],
+101051,2021-08-12T09:05:28Z,2,[3.0],[2.0],
+34959,2021-08-12T04:51:24Z,14,[1.0],[0.0],Started manual tracking on this one.
+60948,2021-08-10T17:37:56Z,15,[10.0],[3.0],
+60948,2021-08-10T17:37:28Z,14,[7.0],[4.0],
+94000,2021-08-10T03:16:30Z,1,[50.0],[50.0],Delta variant is just starting its devastation in the US. The UK struggles with it seem to be leveling off.
+88452,2021-08-07T19:33:25Z,15,[14.0],[14.0],
+97567,2021-08-06T14:27:30Z,2,[20.0],[19.0],"Since my last forecast cumulative death curve for EU has levelled off (whereas previously it was rising noticeably more steeply than US); cumulative vaccination is about the same for both meaning EU has caught up with and slightly exceeded US; current vaccination rates in EU are higher than US but dropping sharply, with US rates low but rising slowly. The metrics described are less favourable to US than they were when I predicted 1% but there is still a big gap in cumulative deaths and currently I don't see it as likely that it will entirely close."
+99375,2021-08-06T14:07:36Z,5,[4.0],[3.0],Adjusting up very slightly to account US/EU now having roughly same death rate and the Delta variant seemingly taking hold in the US.
+27661,2021-08-06T09:14:48Z,3,[0.0],[-1.0],
+59881,2021-08-05T15:38:41Z,1,[0.0],[0.0],
+102116,2021-08-04T05:53:26Z,1,[80.0],[80.0],
+102139,2021-08-03T16:24:36Z,1,[10.0],[10.0],445M people in the EU vs 328M people in the US. They have roughly comparable vaccination update. Both have the similar public health vs economy debates going on. The EU already has a notable lead in cumulative deaths against the US.
+914,2021-08-01T22:38:12Z,6,[65.0],[45.0],US Covid cases continue to rise because of people choosing not to get vaccinated and the Delta variant. Estimated there will be twice as many Covid cases by Labor Day this year as there were by Labor Day last year.
+34959,2021-07-31T14:16:08Z,13,[1.0],[-1.0],
+89038,2021-07-30T21:36:08Z,7,[0.0],[-1.0],
+529,2021-07-29T15:49:15Z,20,[1.0],[0.0],"Cumulative EU COVID deaths reported are about 132,000 more than the U.S. as of 7/27/21. https://ourworldindata.org/covid-deaths?country=~USA~EU"
+84956,2021-07-29T15:48:33Z,6,[5.0],[-5.0],
+81061,2021-07-29T05:48:50Z,2,[0.0],[-1.0],
+60948,2021-07-28T22:53:44Z,13,[3.0],[-1.0],
+2965,2021-07-28T19:00:22Z,19,[0.0],[0.0],
+34959,2021-07-27T13:12:09Z,12,[2.0],[-3.0],
+88452,2021-07-27T04:43:17Z,14,[0.0],[0.0],
+2965,2021-07-25T20:39:39Z,18,[0.0],[0.0],
+14027,2021-07-24T18:04:28Z,7,[1.0],[-1.0],
+94837,2021-07-22T19:12:16Z,12,[1.0],[1.0],
+99375,2021-07-21T23:01:37Z,4,[1.0],[-1.0],
+27661,2021-07-21T16:35:08Z,2,[1.0],[1.0],
+34959,2021-07-21T13:39:54Z,11,[5.0],[5.0],
+101489,2021-07-20T17:14:52Z,2,[40.0],[30.0],"The EU will have a much higher vaccination rate than the US by winter, when the large share of covid cases will occur."
+97375,2021-07-19T16:00:01Z,2,[2.0],[-53.0],
+60948,2021-07-19T14:29:37Z,12,[4.0],[1.0],
+2965,2021-07-18T02:07:41Z,17,[0.0],[0.0],
+914,2021-07-14T02:10:16Z,5,[20.0],[15.0],
+101187,2021-07-13T15:22:38Z,1,[0.0],[0.0],
+101892,2021-07-13T15:10:48Z,1,[20.0],[20.0],The EU is behind the curve in more ways than one.
+529,2021-07-12T18:48:54Z,19,[1.0],[0.0],"Cumulative EU COVID deaths are about 134,000 more than the U.S. as of 7/10/21. https://ourworldindata.org/covid-deaths?country=~USA~EU"
+2965,2021-07-12T17:31:35Z,16,[0.0],[0.0],
+58508,2021-07-12T06:10:55Z,8,[2.0],[-4.0],
+84420,2021-07-11T17:08:34Z,2,[15.0],[-45.0],
+19260,2021-07-10T05:02:07Z,11,[0.0],[0.0],"The 7-day rolling average of COVID-19 deaths has kept on going down for for both the US and EU, and the EU has just managed to slip to having fewer/day (192) than the US (219)."
+55987,2021-07-09T15:42:03Z,20,[0.0],[0.0],
+767,2021-07-09T02:16:42Z,1,[0.0],[0.0],
+84880,2021-07-06T17:52:00Z,7,[0.0],[-1.0],
+62808,2021-07-06T14:35:31Z,8,[0.0],[0.0],
+27661,2021-07-06T11:07:52Z,1,[0.0],[0.0],
+101793,2021-07-06T00:09:03Z,1,[0.0],[0.0],
+19260,2021-07-02T19:43:30Z,10,[0.0],[0.0],"On the seven-day rolling average of deaths/day, the EU deaths/day are 345, versus the US's 249, which is to say, the EU is still building on its lead in deaths."
+87827,2021-07-02T13:13:21Z,4,[1.0],[-2.0],
+2965,2021-07-01T23:59:11Z,15,[0.0],[0.0],
+91517,2021-07-01T22:46:24Z,1,[0.0],[0.0],
+691,2021-07-01T18:09:46Z,11,[0.0],[0.0],
+83135,2021-07-01T16:42:09Z,1,[0.0],[0.0],
+97440,2021-06-30T13:18:01Z,2,[1.0],[-59.0],"The USA is currently in the 1.800s for the cumulative death toll, per million people The European Union in the 1.600s, a small step behind"
+2965,2021-06-29T14:45:43Z,14,[0.0],[0.0],
+2965,2021-06-29T14:40:38Z,13,[0.0],[0.0],
+99780,2021-06-26T12:40:16Z,2,[1.0],[0.0],holding
+101489,2021-06-24T18:48:28Z,1,[10.0],[10.0],"I would think that since the start of covid 19 most 6 month projections would have been wrong. Mainly, variants yet to appear are the reason for my score. And we all know that the current figures are magnitudes lower than what happens in winter."
+55987,2021-06-24T15:25:09Z,19,[0.0],[0.0],
+92346,2021-06-23T13:32:38Z,4,[0.0],[-1.0],
+529,2021-06-19T21:10:41Z,18,[1.0],[0.0],"Cumulative EU COVID deaths are about 135,000 more than the U.S. as of 6/17/21. https://ourworldindata.org/covid-deaths?country=~USA~EU"
+60948,2021-06-19T15:09:23Z,11,[3.0],[-1.0],
+2965,2021-06-19T00:12:34Z,12,[0.0],[0.0],
+19260,2021-06-18T05:13:40Z,9,[0.0],[0.0],"The EU currently has 133,958 more attributed deaths than the US. In order for the US total to exceed the European, the US will need to average 679.99 more deaths/day for the rest of the year than the EU."
+55987,2021-06-17T15:25:26Z,18,[0.0],[0.0],
+84956,2021-06-17T11:37:01Z,5,[10.0],[-2.0],
+28563,2021-06-16T11:22:31Z,4,[0.0],[-1.0],
+62808,2021-06-12T14:27:23Z,7,[0.0],[0.0],
+55987,2021-06-10T21:04:09Z,17,[0.0],[0.0],
+2965,2021-06-10T00:57:56Z,11,[0.0],[0.0],
+80790,2021-06-09T18:24:42Z,6,[0.0],[-2.0],
+80790,2021-06-09T18:23:35Z,5,[2.0],[2.0],
+64041,2021-06-08T18:56:58Z,5,[0.0],[0.0],
+60948,2021-06-07T18:47:51Z,10,[4.0],[0.0],No change.
+529,2021-06-04T17:40:47Z,17,[1.0],[0.0],"Cumulative EU COVID deaths are at least 130,000 more than the U.S. as of 6/2/21. https://ourworldindata.org/covid-deaths?country=~USA~EU"
+49877,2021-06-03T19:17:34Z,4,[1.0],[-4.0],
+691,2021-06-02T23:00:20Z,10,[0.0],[-2.0],
+19260,2021-06-02T15:24:50Z,8,[0.0],[0.0],"The EU has managed to get its new deaths per day ALMOST down to the US level, and it is making up ground relative percentage vaccinated. It is possible to expect that the EU will come out ahead of the US on new deaths soon, and on vaccinations well before the deadline."
+29054,2021-06-02T13:40:10Z,2,[0.0],[-100.0],
+55987,2021-06-01T15:23:23Z,16,[0.0],[0.0],
+34959,2021-05-30T14:25:35Z,10,[0.0],[-1.0],
+88452,2021-05-30T12:56:00Z,13,[0.0],[0.0],
+2965,2021-05-28T22:58:49Z,10,[0.0],[0.0],
+62808,2021-05-28T22:26:04Z,6,[0.0],[-50.0],
+55987,2021-05-27T16:11:08Z,15,[0.0],[0.0],
+15471,2021-05-27T10:25:51Z,2,[5.0],[-10.0],Dropping down as the possibility of black swan events seems to decrease
+1019,2021-05-26T13:58:36Z,2,[2.0],[-35.0],
+754,2021-05-25T12:53:01Z,8,[1.0],[1.0],
+529,2021-05-24T16:24:57Z,16,[1.0],[0.0],"Cumulative EU COVID deaths are about 130,000 more than the U.S. as of 5/22/21. https://ourworldindata.org/covid-deaths?country=~USA~EU"
+60948,2021-05-24T12:12:41Z,9,[4.0],[0.0],No change
+99375,2021-05-24T02:04:38Z,3,[2.0],[-3.0],
+87827,2021-05-21T13:33:28Z,3,[3.0],[-3.0],
+67403,2021-05-21T06:43:19Z,6,[0.0],[-1.0],
+94737,2021-05-21T06:41:11Z,1,[0.0],[0.0],
+29680,2021-05-21T06:28:47Z,1,[0.0],[0.0],"The EU has as of today has a higher new vaccination rate per 100 people: .65 EU to .54 U.S.,"
+81061,2021-05-21T02:47:56Z,1,[1.0],[1.0],
+84956,2021-05-20T21:16:06Z,4,[12.0],[-8.0],
+101051,2021-05-20T18:09:23Z,1,[1.0],[1.0],"Some EU member states, such as Bulgaria, are really falling behind on vaccination."
+55987,2021-05-18T16:54:24Z,14,[0.0],[0.0],
+60948,2021-05-17T21:03:25Z,8,[4.0],[0.0],No change. EU seems to be falling faster now. One interesting scenario is the one where the European Union goes to ~0 and the US remains at a stable level.
+75863,2021-05-17T16:01:52Z,2,[1.0],[0.0],
+90433,2021-05-15T21:41:23Z,2,[5.0],[-10.0],
+20156,2021-05-14T08:39:41Z,4,[4.0],[-6.0],
+97140,2021-05-13T16:50:45Z,1,[0.0],[0.0],
+95503,2021-05-13T08:45:03Z,8,[1.0],[-1.0],
+73970,2021-05-12T13:22:44Z,2,[8.0],[-7.0],
+55987,2021-05-11T15:22:04Z,13,[0.0],[0.0],
+87889,2021-05-10T15:31:43Z,1,[2.0],[2.0],
+2965,2021-05-09T03:53:56Z,9,[0.0],[-2.0],
+80790,2021-05-08T13:29:43Z,4,[0.0],[0.0],
+19260,2021-05-08T05:48:32Z,7,[0.0],[0.0],"EU still has more total deaths, more deaths/day, a larger population, a lower vaccination percentage (26.80% versus 44.69%), and a lower fully-vaccinated percentage (10.17% vs. 32.57%)."
+55987,2021-05-07T15:19:57Z,12,[0.0],[0.0],
+100892,2021-05-04T23:00:11Z,1,[5.0],[5.0],
+84956,2021-05-03T21:44:56Z,3,[20.0],[-5.0],
+55987,2021-05-03T15:11:10Z,11,[0.0],[0.0],
+88198,2021-05-02T03:24:50Z,6,[2.0],[-3.0],
+75863,2021-05-01T14:22:51Z,1,[1.0],[1.0],
+14027,2021-04-30T15:47:19Z,6,[2.0],[-1.0],
+173,2021-04-29T15:23:10Z,1,[0.0],[0.0],
+19260,2021-04-29T14:43:25Z,6,[0.0],[0.0],"I was a bit nervous because of the massive dropoff in the US vaccination rate starting on the day the Federal Death Administration suspended the J&J vaccine, but despite the drop from 3.3 million doses/day to 2.6 million doses/day, the US is still managing more doses/day than the EU (which peaked at 2.6 million doses/day, and is now at 2.2 million)."
+529,2021-04-29T01:41:23Z,15,[1.0],[0.0],"Cumulative EU COVID deaths are over 100,000 more than the U.S. (as of 4/26/21). https://ourworldindata.org/covid-deaths?country=~USA~EU"
+60948,2021-04-28T21:51:47Z,7,[4.0],[-3.0],
+86233,2021-04-28T19:16:57Z,6,[0.0],[-2.0],
+49877,2021-04-27T17:28:54Z,3,[5.0],[-5.0],
+59635,2021-04-25T04:22:06Z,1,[0.0],[0.0],
+55987,2021-04-23T14:30:48Z,10,[0.0],[0.0],
+85840,2021-04-22T15:19:12Z,5,[1.0],[-4.0],
+84956,2021-04-19T20:42:57Z,2,[25.0],[-6.0],
+34959,2021-04-19T14:52:40Z,9,[1.0],[-1.0],
+92346,2021-04-18T13:59:52Z,3,[1.0],[-2.0],
+100639,2021-04-18T02:49:41Z,1,[5.0],[5.0],"Probablemente esto no ocurra, debido a que si bien los números de contagios de Estados Unidos son altos al igual que en Europa, este continente posee el doble de habitantes que Estados Unidos en un terreno mucho más pequeño con muchos países dentro de este, por lo que las probabilidades de contagio son mayores dentro de Europa. Además, los números hasta ahora indican que Europa seguirá viéndose más perjudicada que los Estados Unidos."
+34527,2021-04-18T02:42:54Z,1,[0.0],[0.0],
+96755,2021-04-17T16:53:53Z,3,[0.0],[-5.0],"Given the much better US vaccine rollout and the resurgence in Europe, it now seems extremely unlikely that the US will have more COVID-19 deaths than the EU by 31 Dec 2021. The current cumulative total for US deaths is 558, 238 (from the WHO site in the question) and for the EU is 655, 958. (The EU data is very hard to get from the linked site in the question. This one is much better https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)."
+19260,2021-04-17T06:49:47Z,5,[0.0],[0.0],Based on the Our World in Data numbers:
+529,2021-04-16T21:29:04Z,14,[1.0],[0.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+55987,2021-04-16T15:03:21Z,9,[0.0],[-1.0],
+15471,2021-04-15T09:43:18Z,1,[15.0],[15.0],"This seems unlikely, given that the EU has significantly more population (500+m to 330+m). I'm still operating under the assumption that the immunisation efforts will be completed on both continents, so we are talking about rather low number statistics"
+100448,2021-04-15T02:11:54Z,1,[2.0],[2.0],"Si bien Estados Unidos es el país con mayor número de muertes con un total de 564.446 hasta el día 13 de Abril de 2021, la unión europea cuenta un total de 649.338 muertes hasta la misma fecha, distribuida entre los 27 países que la componen. Además de eso, la cantidad de muertes diarias es mucho mayor en la Unión Europea, registrándose más de 2800, mientras que en Estados Unidos no se registran más de 1000 muertes diarias desde marzo. Otro factor que consideré es con respecto a los procesos de vacunación que se están desarrollando en ambas partes. La campaña de vacunación en Estados Unidos ha sido bastante prolífica, con un 29,39% de la población ya vacunada. Mientras tanto, varios países de la EU no han llegado ni al 10% de la población vacunada y en general han sufrido de escasez de vacunas debido a problemas en la producción. Por estas razones veo muy improbable que Estados Unidos registre una cantidad de muertes totales mayor a la Unión Europea a final de año."
+88452,2021-04-14T09:30:28Z,12,[0.0],[0.0],
+97982,2021-04-14T07:03:43Z,6,[0.0],[-1.0],
+62808,2021-04-13T23:04:38Z,5,[50.0],[19.0],
+84880,2021-04-12T19:54:01Z,6,[1.0],[-2.0],
+55987,2021-04-12T14:36:02Z,8,[1.0],[0.0],
+99943,2021-04-11T16:22:50Z,4,[0.0],[-2.0],
+95503,2021-04-09T18:09:36Z,7,[2.0],[-2.0],
+62808,2021-04-08T22:53:11Z,4,[31.0],[-18.0],
+914,2021-04-08T02:04:14Z,4,[5.0],[-5.0],
+99375,2021-04-06T23:19:22Z,2,[5.0],[-15.0],
+64041,2021-04-06T15:18:46Z,4,[0.0],[-1.0],
+96793,2021-04-05T14:04:56Z,3,[0.0],[-4.0],
+96793,2021-04-05T14:04:39Z,2,[4.0],[-1.0],
+50395,2021-04-05T05:20:07Z,2,[10.0],[-6.0],
+100243,2021-04-04T02:35:22Z,1,[50.0],[50.0],
+60948,2021-04-03T13:02:41Z,6,[7.0],[2.0],"Unsure about this after looking into it a bit more, going up slightly. In particular, I agree that vaccines will be the deciding factor in the short term, but maybe by December other factors (such as various American strands of craziness) might dominate. Still being pretty low,"
+529,2021-04-02T15:53:26Z,13,[1.0],[-1.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+63825,2021-04-02T09:40:44Z,1,[31.0],[31.0],
+88098,2021-04-01T11:30:05Z,6,[1.0],[-3.0],
+55726,2021-04-01T09:57:54Z,1,[1.0],[1.0],"America will have vaccinated its population, and deaths from covid will drop to only the fools who refuse the free offer of being able to ""walk through the valley of death and fear no evil."" Europe has its fair share of these fools too, including, unfortunately, in their governments. Too many European countries are halting their vaccine program for political reasons, not sound scientific reasons. The "" An abundance of caution"" would be to choose the lesser of two evils, and the lesser is to stick with the program. Instead, politicians are generating smoke to hide their failures, in so doing, killing people when their lives could have been saved. Unlike America, they will choose to continue to fail. America is also a smaller population and the question is about numbers, not percentages, making it easier for America to fall below Europe, than the reverse. America would really need to muck it up from here, and they won't, because the current administrations (federal and state) have achieved a level of operational competence that Europe lacks. America will report less death than Europe by Dec21."
+84956,2021-03-31T19:23:58Z,1,[31.0],[31.0],
+100184,2021-03-31T18:04:22Z,1,[1.0],[1.0],
+99717,2021-03-31T17:58:50Z,1,[10.0],[10.0],
+58028,2021-03-31T17:58:00Z,1,[0.0],[0.0],
+99176,2021-03-31T14:54:59Z,1,[0.0],[0.0],
+99099,2021-03-31T14:30:48Z,1,[5.0],[5.0],"No, we will not have more Covid deaths in the US than in the EU by the end of the year. The nature of EU governance makes it difficult to move quickly on something like vaccine rollouts, and that will bite them."
+97440,2021-03-31T10:42:09Z,1,[60.0],[60.0],"Europe is far behind in vaccination speed right now, but the death rates have been higher in the US for a long time and there is an over 50% chance that the end result will show that the better vaccination effort in the US, currently, will no get them ahead"
+100129,2021-03-31T07:31:07Z,2,[17.0],[-43.0],
+100129,2021-03-31T07:27:22Z,1,[60.0],[60.0],
+91255,2021-03-31T02:21:25Z,1,[9.0],[9.0],
+10203,2021-03-31T00:26:17Z,1,[65.0],[65.0],This is cumulative deaths from 3/20 thru 12/31/2021.
+64020,2021-03-30T22:29:32Z,1,[1.0],[1.0],BIDEN'S GOT IT TOGETHER BETTER THAN THAN THE MULTITUDE OF FIEFDOMS
+63442,2021-03-30T22:08:17Z,1,[85.0],[85.0],You can't fix stupid and there are far too many of them in the U.S.
+12627,2021-03-30T21:39:23Z,1,[5.0],[5.0],Low vaccine rates in EU combined with current “third wave” will make it unlikely the EU will stamp down on death rates as well as the US will. That combined with with varying levels of competence/logistical abilities across the EU and the fact the EU ultimately is 27 countries will mean responses to new variants etc will be slow
+88198,2021-03-30T19:24:39Z,5,[5.0],[-9.0],
+63674,2021-03-30T16:03:38Z,2,[2.0],[-20.0],
+97982,2021-03-30T15:48:59Z,5,[1.0],[-2.0],
+55987,2021-03-30T15:14:04Z,7,[1.0],[0.0],
+28899,2021-03-30T00:17:46Z,8,[0.0],[-2.0],
+62808,2021-03-29T14:42:19Z,3,[49.0],[-6.0],
+98293,2021-03-29T06:58:14Z,4,[2.0],[-3.0],
+90237,2021-03-29T02:43:59Z,1,[100.0],[100.0],
+60948,2021-03-28T19:16:50Z,5,[5.0],[-5.0],Passage of time; updating with the aggregate.
+48709,2021-03-28T15:07:15Z,5,[33.0],[-67.0],I have been looking at case rates or Rt instead of death rates had to redo my forecast on this question sorry forecasters.
+45594,2021-03-28T10:56:33Z,3,[5.0],[-5.0],
+99943,2021-03-28T02:45:04Z,3,[2.0],[-3.0],
+99943,2021-03-28T02:41:25Z,2,[5.0],[-10.0],
+99943,2021-03-28T02:40:31Z,1,[15.0],[15.0],"To date, there have been on the order of 650k deaths so far in the EU (probably a bit less), and 541.7k deaths in the US. It's a tough call. Many US states have far worse policies than many EU countries, but the US population is becoming vaccinated at a much faster rate. B.1.1.7 is spreading, and other variants are coming up, too. I will have to go with a greater chance for EU countries having more deaths than the US by year's end because 1) they have more right now by a substantial percentage, and 2) the US is becoming vaccinated much faster overall. The fall could see immune escape variants flare up, so this will need to be revisited."
+754,2021-03-28T02:03:46Z,7,[0.0],[-6.0],
+2965,2021-03-27T16:15:53Z,8,[2.0],[-1.0],
+48709,2021-03-27T14:42:57Z,4,[100.0],[97.0],"As of today, EU case rate 25,220,376 US case rate 29,903,245 Difference of 4,682,867"
+92346,2021-03-27T13:57:21Z,2,[3.0],[-2.0],
+41612,2021-03-25T22:09:19Z,2,[1.0],[-19.0],
+94837,2021-03-25T17:20:05Z,11,[0.0],[-1.0],
+99509,2021-03-25T17:02:31Z,2,[0.0],[-20.0],
+55987,2021-03-25T14:59:22Z,6,[1.0],[0.0],
+2965,2021-03-25T14:45:42Z,7,[3.0],[-27.0],Crowd was right. EU a bad bet now
+97567,2021-03-25T11:41:13Z,1,[1.0],[1.0],"EU death count is currently about 10% higher that the US, with the US curve flattening and EU curve rising. I assume any new variants that would make a material difference are just as likely to occur in either area, but the much better vaccine roll out in the US thus far will reinforce the current difference between death counts. This also assumes no major recalculation as to what constitutes a covid death."
+88452,2021-03-25T10:30:14Z,11,[0.0],[-33.0],Poland is in a very dire position at the moment.
+914,2021-03-25T00:30:31Z,3,[10.0],[-15.0],
+28563,2021-03-24T23:37:44Z,3,[1.0],[-2.0],
+86233,2021-03-24T21:08:17Z,5,[2.0],[-1.0],
+85840,2021-03-24T17:36:05Z,4,[5.0],[-10.0],
+28899,2021-03-24T08:20:36Z,7,[2.0],[-5.0],
+89038,2021-03-24T00:32:49Z,6,[1.0],[-2.0],
+529,2021-03-23T16:33:42Z,12,[2.0],[-1.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+87827,2021-03-23T14:16:35Z,2,[6.0],[-4.0],"-4 on the latest trend. US now about 50k deaths less on the cumulative count, but also at about 1,000 fewer deaths per day."
+67403,2021-03-23T08:27:34Z,5,[1.0],[-12.0],
+81567,2021-03-22T10:11:20Z,4,[0.0],[-3.0],
+87440,2021-03-22T04:15:38Z,4,[0.0],[0.0],
+38094,2021-03-21T16:28:21Z,4,[0.0],[-1.0],At current course and speed.
+98108,2021-03-21T14:44:39Z,2,[0.0],[-67.0],
+58508,2021-03-21T03:17:03Z,7,[6.0],[-2.0],
+87440,2021-03-21T03:14:32Z,3,[0.0],[0.0],
+85097,2021-03-20T12:13:29Z,5,[0.0],[-1.0],"The EU lacks vaccines, has comparable vaccine hesitancy, has a larger population, a higher median age, and the B.1.1.7 variant has now reached dominance in Europe before European countries have been able to give a first dose to a significant proportion of their populations."
+89038,2021-03-19T20:17:26Z,5,[3.0],[-1.0],
+55987,2021-03-19T15:23:36Z,5,[1.0],[0.0],
+88098,2021-03-19T11:57:40Z,5,[4.0],[-2.0],
+20156,2021-03-19T10:03:18Z,3,[10.0],[-10.0],
+34959,2021-03-19T08:15:59Z,8,[2.0],[-8.0],
+2965,2021-03-19T02:03:05Z,6,[30.0],[-15.0],Looks bad for EU .
+529,2021-03-18T14:52:23Z,11,[3.0],[-2.0],https://ourworldindata.org/covid-deaths?country=~USA~EU
+97982,2021-03-17T22:23:50Z,4,[3.0],[-2.0],
+19260,2021-03-17T14:42:00Z,4,[0.0],[-5.0],"-5 percentage points on the vaccine suspensions. Having signaled their hostility to science, reason, and evidence by refusing to give the AstraZeneca vaccine to the people most at-risk from COVID-19 (the elderly), European governments have now doubled down."
+88452,2021-03-17T14:01:46Z,10,[33.0],[-32.0],
+99780,2021-03-17T13:01:33Z,1,[1.0],[1.0],https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=40..420&pickerSort=asc&pickerMetric=location&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=false&Align+outbreaks=false&country=European+Union~USA
+62808,2021-03-16T14:30:34Z,2,[55.0],[-35.0],
+2965,2021-03-16T10:33:04Z,5,[45.0],[-3.0],Down 3. Spain Italy France and Germany suspend Astra Zeneca with no American substitute improvidently. Astra Zeneca linked to deaths ... Causally related. US forges ahead with 3 m vaccination every day and much supply. In Vaccines and crispr..and AI. America leads the world
+14027,2021-03-15T18:08:59Z,5,[3.0],[-4.0],
+2965,2021-03-15T17:54:23Z,4,[48.0],[-52.0],Given that Germany Italy and now Spain have suspended AstraZeneca injections along with Holland very bad short-term outcome for EU
+55987,2021-03-15T16:24:28Z,4,[1.0],[0.0],
+99509,2021-03-15T16:09:40Z,1,[20.0],[20.0],
+99774,2021-03-15T14:16:49Z,2,[50.0],[-40.0],
+99774,2021-03-15T13:45:27Z,1,[90.0],[90.0],
+914,2021-03-14T23:38:33Z,2,[25.0],[-30.0],
+51956,2021-03-14T16:42:54Z,2,[25.0],[-75.0],
+87440,2021-03-14T13:16:41Z,2,[0.0],[-94.0],
+84880,2021-03-14T06:21:05Z,5,[3.0],[-6.0],https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=earliest..latest&country=USA~EuropeanUnion&region=World&deathsMetric=true&interval=total&smoothing=0&pickerMetric=location&pickerSort=asc via @Klemens-Cranborne
+90433,2021-03-13T20:03:50Z,1,[15.0],[15.0],"Our vaccine rollout overall has been good, but the EU is echoing states like MA which suck hard at getting this task done. I blame Baker."
+2965,2021-03-13T15:52:12Z,3,[100.0],[0.0],
+2965,2021-03-13T13:52:52Z,2,[100.0],[0.0],I rely on the racial and ethnic disparities and disparities of wealth distribution of US health resources Black lives matter Latin lives matter and the US is far behind the EU countries..When do we get single payer system like France or Canada. add to that the delay in the temporary increase in US death rates in the coming third wave for US
+94837,2021-03-13T08:56:21Z,10,[1.0],[-1.0],
+94837,2021-03-13T08:52:20Z,9,[2.0],[-3.0],
+80790,2021-03-13T01:04:27Z,3,[0.0],[-6.0],Looks like the EU is less under control now and less organised for vaccinations. Rates are quite strongly diverging so going for no chance.
+529,2021-03-12T21:45:08Z,10,[5.0],[-3.0],"Rolling 7-day average of ""Daily new confirmed COVID-19 deaths"" has recently diverged significantly between the U.S. and the EU. US average is currently lowering: https://ourworldindata.org/covid-deaths?country=~USA~EU"
+64041,2021-03-12T21:08:42Z,3,[1.0],[-1.0],"This metric is the one to be watching over time, and as of yesterday, the EU had reported 40,000 more covid deaths than the States:"
+2965,2021-03-12T18:57:34Z,1,[100.0],[100.0],
+48709,2021-03-12T16:21:34Z,3,[3.0],[-87.0],
+48709,2021-03-12T16:20:26Z,2,[90.0],[0.0],"After some research I’m changing my forecast To less than 3% as U.S. number of deaths is 828 total deaths for today March 12, 2021. I click the wrong button and entered a bad forecast. On the 90% as I wanted 3%"
+91561,2021-03-12T16:12:03Z,7,[3.0],[0.0],
+96755,2021-03-11T06:28:31Z,2,[5.0],[-5.0],"Given the plummeting US death rate and the slower vaccine rollout in the EU than the US, it seems very likely that the EU will continue to surpass the US in death rate by 31 Dec 2021."
+81567,2021-03-09T22:37:48Z,3,[3.0],[-2.0],
+55987,2021-03-09T17:29:45Z,3,[1.0],[0.0],
+49877,2021-03-09T17:06:06Z,2,[10.0],[-40.0],
+88452,2021-03-09T14:25:15Z,9,[65.0],[14.0],
+87691,2021-03-09T07:11:21Z,1,[100.0],[100.0],
+28899,2021-03-08T19:30:55Z,6,[7.0],[1.0],
+99375,2021-03-08T04:18:30Z,1,[20.0],[20.0],"Numbers are neck and neck, w/ Euro 36k ahead."
+754,2021-03-07T17:56:47Z,6,[6.0],[3.0],Raising to the crowd and taking a closer look now.
+34959,2021-03-07T14:18:37Z,7,[10.0],[-23.0],
+64041,2021-03-07T01:17:03Z,2,[2.0],[-1.0],
+50395,2021-03-06T19:27:42Z,1,[16.0],[16.0],
+95503,2021-03-05T14:15:22Z,6,[4.0],[2.0],
+96367,2021-03-05T13:05:01Z,5,[1.0],[-1.0],Extrapolating over period based on performance and upcoming COVID milestones.
+529,2021-03-04T21:32:20Z,9,[8.0],[-1.0],"EU's rolling 7-day average of ""Daily new confirmed COVID-19 deaths"" remains above that of the U.S. (https://ourworldindata.org/covid-deaths?country=https://ourworldindata.org/covid-deaths?country=~USA~EU)"
+94837,2021-03-04T20:52:47Z,8,[5.0],[1.0],
+94837,2021-03-04T20:51:59Z,7,[4.0],[2.0],
+34959,2021-03-04T14:36:00Z,6,[33.0],[31.0],
+87440,2021-03-04T14:31:57Z,1,[94.0],[94.0],
+85097,2021-03-03T10:53:37Z,4,[1.0],[-1.0],
+88452,2021-03-03T05:52:55Z,8,[51.0],[0.0],"""Vaccination optimism"" in combination with spread of more contagious, probably more lethal variants in the US. Several states, first and foremost Texas, announced ending statewide mask mandates and to fully reopen ""everything"" - Houston's mayor commented: ""It makes no sense."" https://www.cnn.com/videos/politics/2021/03/02/texas-mask-mandate-greg-abbott-vpx.kcbd https://edition.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html https://edition.cnn.com/2021/03/03/politics/president-joe-biden-coronavirus-texas-donald-trump-virus/index.html https://us.cnn.com/videos/health/2021/02/28/fauci-us-case-count-coronavirus-sotu-bash-vpx.cnn/video/playlists/coronavirus/"
+28899,2021-03-02T18:52:36Z,5,[6.0],[-3.0],
+60948,2021-03-02T16:43:02Z,4,[10.0],[0.0],
+62808,2021-03-01T02:30:40Z,1,[90.0],[90.0],
+64041,2021-02-28T22:56:12Z,1,[3.0],[3.0],
+13306,2021-02-28T05:59:08Z,3,[0.0],[-5.0],
+51956,2021-02-27T16:16:45Z,1,[100.0],[100.0],
+50981,2021-02-27T14:49:22Z,1,[70.0],[70.0],The EU does not report deaths from covid the same way US does.
+94837,2021-02-27T07:05:44Z,6,[2.0],[-8.0],
+91561,2021-02-26T20:14:33Z,6,[3.0],[0.0],
+60948,2021-02-26T19:07:54Z,3,[10.0],[-5.0],
+691,2021-02-26T18:50:26Z,9,[2.0],[-2.0],
+20156,2021-02-26T14:55:17Z,2,[20.0],[-10.0],
+98292,2021-02-26T08:02:54Z,4,[12.0],[-10.0],Vaccine efficacy seems to reduce the death rate on the new cases. Less likely for Death in America to catch up with European's
+34959,2021-02-26T05:07:50Z,5,[2.0],[-6.0],
+48709,2021-02-25T22:37:46Z,1,[90.0],[90.0],U.S. already surpassed the E.U.
+529,2021-02-25T19:45:11Z,8,[9.0],[-5.0],"EU reported around 531,000 cumulative deaths as of last week (https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea), U.S. was at roughly 498-499,000 at the same time. (https://coronavirus.jhu.edu/map.html)"
+500,2021-02-25T15:22:03Z,1,[100.0],[100.0],MORE DEATHS
+16093,2021-02-25T15:08:31Z,1,[1.0],[1.0],
+14266,2021-02-25T04:36:00Z,6,[0.0],[-9.0],
+77835,2021-02-25T03:26:16Z,1,[100.0],[100.0],
+91561,2021-02-24T21:52:41Z,5,[3.0],[-17.0],
+754,2021-02-23T14:08:47Z,5,[3.0],[-2.0],
+28899,2021-02-23T07:15:22Z,4,[9.0],[-2.0],
+97192,2021-02-22T22:24:58Z,2,[0.0],[-50.0],
+691,2021-02-22T18:17:59Z,8,[4.0],[-2.0],
+67403,2021-02-22T17:45:43Z,4,[13.0],[-7.0],
+38094,2021-02-22T16:35:59Z,3,[1.0],[-1.0],Cutting forecast in half - vaccines are coming faster in the US than in Europe at present and look to be ahead of the curve thru summer.
+55987,2021-02-22T16:33:45Z,2,[1.0],[-4.0],
+98520,2021-02-22T16:03:13Z,1,[0.0],[0.0],
+88098,2021-02-22T00:24:46Z,4,[6.0],[-4.0],
+3434,2021-02-21T20:43:12Z,2,[99.0],[-1.0],It's going to take President Biden a long time to clean up the mess left by Citizen Trump.
+3434,2021-02-21T20:40:54Z,1,[100.0],[100.0],Current trends
+88198,2021-02-21T20:16:56Z,4,[14.0],[-3.0],
+19260,2021-02-21T19:22:08Z,3,[5.0],[-5.0],"The US has fewer deaths total, fewer deaths/day, a lower population, and is way ahead on vaccinations (total and per capita). And given the irrationality being displayed in the EU over the AstraZeneca vaccine ( https://www.forbes.com/sites/jemimamcevoy/2021/02/21/european-healthcare-workers-are-refusing-astrazeneca-vaccine-over-efficacy-concerns/?sh=99b19a66520c ), they aren't catching up on vaccinations any time soon."
+28899,2021-02-21T17:07:11Z,3,[11.0],[1.0],
+85840,2021-02-21T14:58:01Z,3,[15.0],[-5.0],
+45594,2021-02-21T13:14:17Z,2,[10.0],[0.0],
+95503,2021-02-21T10:50:02Z,5,[2.0],[-2.0],
+88452,2021-02-21T05:11:36Z,7,[51.0],[16.0],Texas backlog.
+58508,2021-02-21T04:30:50Z,6,[8.0],[-1.0],
+58508,2021-02-21T04:26:50Z,5,[9.0],[-3.0],
+96367,2021-02-20T17:59:22Z,4,[2.0],[-3.0],Extrapolating data trends give increased confidence that the US will end 2021 with fewer total deaths than the EU 27. Overall death rate seems likely to drop across the globe (we all hope) but not across the EU to such a degree that it will reverse the current position.
+60948,2021-02-20T17:49:27Z,2,[15.0],[-5.0],
+86233,2021-02-19T22:57:03Z,4,[3.0],[-2.0],
+28899,2021-02-19T03:55:48Z,2,[10.0],[-5.0],
+85097,2021-02-19T01:01:18Z,3,[2.0],[-6.0],"Difference in progress of vaccination programmes when the next wave (caused by the new variants, particularly B.1.1.7) really hits both the US and the EU in mid March."
+89038,2021-02-18T22:39:41Z,4,[4.0],[-2.0],
+529,2021-02-18T18:37:07Z,7,[14.0],[-6.0],"U.S. ""Daily new confirmed COVID-19 deaths per million people"" 7-day average has now declined to closer to the same measure for the EU. (U.S. average is currently only slightly higher, as of 2/16/21.) (https://ourworldindata.org/covid-deaths?country=USA~EU)"
+13657,2021-02-17T06:15:47Z,3,[0.0],[-5.0],
+34959,2021-02-17T05:11:28Z,4,[8.0],[-4.0],
+56115,2021-02-16T19:01:53Z,1,[12.0],[12.0],
+754,2021-02-16T15:46:19Z,4,[5.0],[-10.0],
+2379,2021-02-16T14:47:42Z,1,[15.0],[15.0],
+88452,2021-02-16T12:42:06Z,6,[35.0],[-40.0],
+98292,2021-02-16T09:33:37Z,3,[22.0],[-5.0],"US has shown lower death rate, while EU still has higher death rate than US"
+172,2021-02-16T02:11:03Z,3,[0.0],[-3.0],
+691,2021-02-15T22:32:37Z,7,[6.0],[-4.0],
+81567,2021-02-15T13:42:29Z,2,[5.0],[-15.0],
+97982,2021-02-15T09:52:34Z,3,[5.0],[-20.0],
+88452,2021-02-15T09:16:19Z,5,[75.0],[24.0],https://www.nytimes.com/live/2021/02/14/world/covid-19-coronavirus
+98293,2021-02-15T07:30:52Z,3,[5.0],[-15.0],"The latest WHO data is showing that the death rates in the US have fallen significantly below the EU levels. Secondly, as of 14 Feb the total number of deaths in the EU is bigger than in the US at around 476k vs 472k in the US."
+914,2021-02-15T02:09:29Z,1,[55.0],[55.0],
+172,2021-02-14T21:20:53Z,2,[3.0],[-2.0],
+94837,2021-02-13T14:04:15Z,5,[10.0],[-10.0],
+95503,2021-02-13T13:37:15Z,4,[4.0],[-1.0],
+13306,2021-02-13T02:46:35Z,2,[5.0],[-10.0],
+89038,2021-02-13T00:39:43Z,3,[6.0],[-8.0],
+46762,2021-02-12T05:33:33Z,1,[0.0],[0.0],
+529,2021-02-11T18:50:40Z,6,[20.0],[-3.0],"Per source, the EU was at about 495,000 deaths as of the end of last week. the U.S. was around 460,000 at that time; now at about 464,400 per the WHO: https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea, https://covid19.who.int/table"
+86233,2021-02-10T22:36:52Z,3,[5.0],[-3.0],
+86233,2021-02-10T22:36:40Z,2,[8.0],[-12.0],
+85097,2021-02-10T11:38:21Z,2,[8.0],[-2.0],
+88198,2021-02-09T23:45:50Z,3,[17.0],[-6.0],
+94837,2021-02-09T20:58:20Z,4,[20.0],[5.0],
+91561,2021-02-09T20:45:28Z,4,[20.0],[0.0],
+529,2021-02-09T20:21:47Z,5,[23.0],[-1.0],"""Daily confirmed COVID-19 deaths, rolling 7-day average"" as of 2/7/21 is now very close between the EU and U.S. (I.e., the EU's 7-day average has lowered some:) https://ourworldindata.org/grapher/daily-covid-deaths-7-day?tab=chart&time=earliest..latest&country=European%20Union~USA"
+38094,2021-02-09T17:28:02Z,2,[2.0],[-3.0],"WHO reports Feb 8 EU = 492,881 deaths vs US = 459,993 a terrible toll no matter how it's measured. Bloomberg reports US has administered 43.1 million doses (first and second total) with an average of 1,470,823 doses/day. US about 10% of population has one shot. EU a quick visual estimate shows roughly 3% of the population has had the first shot. Based on the current totals of deaths and vaccines the US is not likely to surpass the EU in deaths in 2021."
+522,2021-02-09T16:21:56Z,1,[49.0],[49.0],Removal of UK figures lowers the chances but a lot will depend on the so called fourth wave that remains a possibility in the fall.
+98293,2021-02-09T06:20:10Z,2,[20.0],[0.0],The total number of deaths in the US is currently higher as of 8 Feb 2021 than in the EU and the deaths toll is increasing faster in the States. However the US is vaccinating faster than Europe. So it should lead to a rapid decrease in deaths going forward in the US. We need to observe the dynamic going forward and see how the vaccines affect the death statistics to confirm this hypothesis.
+49877,2021-02-08T20:19:35Z,1,[50.0],[50.0],
+84880,2021-02-08T19:28:01Z,4,[9.0],[-14.0],
+97539,2021-02-08T15:15:42Z,1,[95.0],[95.0],
+88452,2021-02-08T09:43:59Z,4,[51.0],[-24.0],"I guess the basic reason for why Europe should be less cursed by COVID-19 death toll this full year becomes obvious these days: Germany discusses an extension of its shut down until Easter, probably, as many other countries in Europe curb excesses (Austria declared its province Tirol as a ""high risk region"" amid alpine winter sports risk behavior), mainly because of fear of virus mutants U.S. have Super Bowl LV and the party goes on"
+45594,2021-02-07T08:05:59Z,1,[10.0],[10.0],
+58508,2021-02-06T20:25:52Z,4,[12.0],[-1.0],
+94837,2021-02-06T20:11:50Z,3,[15.0],[3.0],
+7658,2021-02-06T18:26:51Z,1,[100.0],[100.0],
+691,2021-02-06T17:11:36Z,6,[10.0],[-2.0],
+34959,2021-02-06T14:01:47Z,3,[12.0],[-5.0],
+37115,2021-02-06T01:57:15Z,1,[30.0],[30.0],
+91561,2021-02-05T22:34:43Z,3,[20.0],[-13.0],
+90934,2021-02-05T21:42:38Z,1,[100.0],[100.0],Our death rates have been higher than most countries. We are not going to be able to reduce this by that time due to vaccine accessibility issues
+14027,2021-02-05T20:05:47Z,4,[7.0],[-4.0],
+88198,2021-02-05T18:38:24Z,2,[23.0],[-5.0],
+691,2021-02-05T17:43:49Z,5,[12.0],[-29.0],
+88452,2021-02-05T15:11:10Z,3,[75.0],[14.0],
+97192,2021-02-05T14:51:20Z,1,[50.0],[50.0],Too soon to know.
+96772,2021-02-05T14:51:15Z,1,[23.0],[23.0],"U.S. measures seem to be coming along at a decent pace, to include massive amounts of vaccines being distributed. I think the EU may have more issues in overcoming this virus as quickly as the U.S. is able to."
+67403,2021-02-05T14:40:26Z,3,[20.0],[-5.0],
+78587,2021-02-05T14:17:16Z,1,[100.0],[100.0],
+96367,2021-02-05T11:00:07Z,3,[5.0],[-2.0],Slight drop in confidence for EU corrective measures overtaking US virus management over the period.
+80790,2021-02-05T10:41:39Z,2,[6.0],[-11.0],"Reading through other peoples reasoning, such as @jayb, @Michael-Yoe and @cleverfox27 I take on board the comments about vaccination problems in the EU, population density and age. I will add that lockdowns in the EU have been tighter and longer. People are starting to crack up and just can’t tolerate the current level of restriction for much longer. Not only because people need to be able to work, but because mental health is a real concern. And people are starting to make their own judgements on what to do and when. Having vaccinations going on will also foster a sense that that risks are lower and that is it more appropriate to make individual choices over risk, rather than governments."
+94837,2021-02-05T08:25:16Z,2,[12.0],[-28.0],
+14266,2021-02-05T03:51:16Z,5,[9.0],[-24.0],
+84880,2021-02-05T01:52:29Z,3,[23.0],[-38.0],
+14027,2021-02-05T01:20:15Z,3,[11.0],[-2.0],
+98039,2021-02-04T19:36:17Z,1,[50.0],[50.0],
+92346,2021-02-04T18:44:49Z,1,[5.0],[5.0],
+529,2021-02-04T16:38:21Z,4,[24.0],[-14.0],"Rough comparison: EU countries reported about 472,500 cumulative deaths as of the last week in January (https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea), the U.S reported 439,955 cumulative deaths as of 1/31/21 (https://covid.cdc.gov/covid-data-tracker/#trends_totalandratedeaths)."
+96367,2021-02-04T16:19:06Z,2,[7.0],[-3.0],"Trend lines for EU vs US case, case fatality & death rates, combined with vaccine rollout progress all seem to point to the EU coming out worse in 2021's COVID saga."
+73183,2021-02-04T15:24:21Z,1,[3.0],[3.0],
+95669,2021-02-04T14:42:32Z,1,[5.0],[5.0],
+89099,2021-02-04T14:41:59Z,1,[0.0],[0.0],
+19260,2021-02-04T14:18:09Z,2,[10.0],[-10.0],
+23187,2021-02-04T14:17:25Z,1,[18.0],[18.0],
+41612,2021-02-04T08:04:55Z,1,[20.0],[20.0],
+98292,2021-02-04T07:59:18Z,2,[27.0],[-20.0],*revised probability
+754,2021-02-04T04:15:07Z,3,[15.0],[-15.0],
+98292,2021-02-04T04:09:32Z,1,[47.0],[47.0],"Death vs Positive Cases Percentage US Death Rate due to COVID-19 is 1,69% EU Death Rate due to COVID-19 is 2,2%"
+38094,2021-02-03T23:40:24Z,1,[5.0],[5.0],"Hattip to @Ryan-Beck for analysis. I could not do better, so I'll just reference his."
+89038,2021-02-03T23:07:14Z,2,[14.0],[-6.0],
+95125,2021-02-03T22:57:46Z,1,[25.0],[25.0],vaccines slower to reach much of EU
+97501,2021-02-03T19:06:06Z,2,[0.0],[-5.0],"- my original rational; - @Mi and @bogpop, who are Top25 forecasters, forecast 0% chance; - the crowd forecast is now 20% chance"
+691,2021-02-03T19:05:09Z,4,[41.0],[-5.0],
+96793,2021-02-03T17:45:46Z,1,[5.0],[5.0],"EU currently has a slighter higher death tally (~449K per https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea, cao 28 Jan) than the US (~438K per WHO data, cao 2 Feb). However, there is reason to believe that the EU will see a greater toll in 2021. First, underlying demographic factors will play a role. EU population (~447.5M) and population density (112 ppl/sq. km) are both higher than in the US (~328.2M & 36 ppl/sq. km) (data.WorldBank.org). Also, the EU population is older than the US population, providing a larger proportion and total number of people over age 65 that are susceptible to severe cases of COVID (EU - 20.3% vs. US - 15.2%). Additionally, the initial vaccine rollout int he US (7.1 doses administered per 100 ppl) has been more successful than in the EU (2.3 doses administered per 100 ppl), suggesting that vaccination will provide adequate levels of herd immunity in the US faster than in the EU. Additionally, more contagious strains of the virus seem more widespread in the EU at this point, although that will most likely soon even out in the US as the spread strains take hold in North America."
+96367,2021-02-03T15:25:42Z,1,[10.0],[10.0],"Coming in low as a start point given that the US is coming into 2021 under the EU's fatality total by approximately 30,000* and the vaccine programmes for both suggest a diverging trend line over the question period."
+97574,2021-02-03T14:58:16Z,2,[20.0],[-70.0],Now Us 400k vs eu 700k US likely better vaccine program so unlikely to change
+97574,2021-02-03T14:53:30Z,1,[90.0],[90.0],
+98293,2021-02-03T10:39:04Z,1,[20.0],[20.0],Less deaths in the US due to more rapid pace of vaccinations in the US than in the EU.
+97982,2021-02-03T09:39:12Z,2,[25.0],[-25.0],
+34959,2021-02-03T08:42:46Z,2,[17.0],[-23.0],
+87744,2021-02-03T07:44:52Z,1,[35.0],[35.0],
+87245,2021-02-03T05:45:47Z,1,[25.0],[25.0],
+22689,2021-02-03T05:17:30Z,2,[0.0],[-80.0],
+34815,2021-02-03T04:50:42Z,1,[0.0],[0.0],
+70711,2021-02-03T04:45:29Z,1,[0.0],[0.0],"Current death toll for EU exceeds US. Change of government in US, will restore expertise to the helm... 50 states (and territories) under one Federal management will fare better than the European countries..."
+14266,2021-02-03T03:06:38Z,4,[33.0],[-20.0],
+88098,2021-02-03T01:32:56Z,3,[10.0],[-20.0],
+87827,2021-02-02T23:51:06Z,1,[10.0],[10.0],"I think the European Union is in for a much worse 2021 than the US. I'm very optimistic on vaccinations in the US. The US has purchased enough vaccinations to cover the entire population twice over, and is on track to have every adult who wants a vaccination vaccinated by summer. The EU also has enough to cover twice its population, but my understanding is many of these purchases came later, so the US likely has priority."
+96755,2021-02-02T22:35:50Z,1,[10.0],[10.0],"This seems very unlikely given the much quicker US vaccination response than the EU as a whole. The current total deaths for the EU is about 10,000 more than the US and the EU seems less able to deal with the pandemic moving forward than the US simply because the new US administration seemed much more effective at combating the pandemic and the EU has 27 separate governments to contend with. The website linked above does not list the EU death totals any longer but the site linked below does (from the EU's official numbers)"
+80790,2021-02-02T22:11:47Z,1,[17.0],[17.0],
+32100,2021-02-02T20:25:15Z,1,[75.0],[75.0],
+55987,2021-02-02T16:13:20Z,1,[5.0],[5.0],"The countries of the EU have a population of 445M vs. the US population of 331M. For the US to have higher death tolls than the EU, it would need to post more than 34% greater numbers. Normalized are counts are currently 79% higher in the US than the EU, but death counts are only 25% higher. This data suggests that either the EU fatality rates are higher than the US, or that the EU case counts are under reported. Either case suggests that fatalities are not likely to increase in the US faster than in the EU fast enough for the US to pass the EU in cumulative deaths. Given the data so far, the seasonality factors, and vaccination efforts, it seems difficult (but not improbable) for the US to surpass the EU in deaths."
+96791,2021-02-02T15:24:25Z,1,[65.0],[65.0],"Yes; the US will have more consistency in their reporting. Although the US has 328M and the EU has ~447M people, the US has more transparent reporting across the board and will communicate it."
+73970,2021-02-02T12:33:15Z,1,[15.0],[15.0],
+20156,2021-02-02T12:31:17Z,1,[30.0],[30.0],
+88452,2021-02-02T09:57:18Z,2,[61.0],[-39.0],
+34959,2021-02-02T09:28:09Z,1,[40.0],[40.0],
+88198,2021-02-02T05:42:21Z,1,[28.0],[28.0],
+28563,2021-02-02T02:00:37Z,2,[3.0],[-2.0],
+85097,2021-02-02T01:26:24Z,1,[10.0],[10.0],"Not really because while the US will somewhat be able to vaccinate their way out of the B.1.1.7 pandemic, the EU will not be able to in time."
+19260,2021-02-02T00:36:25Z,1,[20.0],[20.0],"Thee EU is structurally incapable of fixing the issues that have caused it to lead in deaths and trail in vaccine distribution, and on top of that antivax sentiment in Europe is substantially higher than anywhere else on Earth."
+85840,2021-02-02T00:04:36Z,2,[20.0],[-15.0],"Given that the number of cumulative deaths in the EU is already higher than the US, and given vaccine approval and distribution, the main difference will be how quickly vaccine roll out occurs. There doesn't seem to be any reason to believe that the EU will be more successful at this than the US."
+81567,2021-02-01T23:30:47Z,1,[20.0],[20.0],
+84880,2021-02-01T19:38:09Z,2,[61.0],[-14.0],
+57613,2021-02-01T15:24:09Z,1,[25.0],[25.0],
+1019,2021-02-01T12:54:55Z,1,[37.0],[37.0],
+95123,2021-02-01T09:34:54Z,1,[30.0],[30.0],"I would expect the EU to have more deaths attributable to Covid-19 on Dec. 31, 2021 for the following reasons. The EU has a larger and slightly older (therefore more vulnerable) population than the United States, and is currently leading the United States in deaths. The EU also has a lower vaccination rate. If rates of infection, vaccination, and death remain somewhat constant, it is reasonable to assume the EU would have more COVID-19 deaths at the end of 2021. While both the EU and the US will likely see vaccination rates increase as the vaccine supply expands and distribution becomes more efficient, I think it is unlikely that the EU's vaccination rate will significantly outpace that of the US. The EU will likely face some distribution challenges that the US will not, as vaccines need to be allocated and distributed across national borders."
+13306,2021-02-01T07:41:42Z,1,[15.0],[15.0],
+29054,2021-01-31T22:45:39Z,1,[100.0],[100.0],
+529,2021-01-31T21:27:09Z,3,[38.0],[-2.0],FWIW this data source allows customized graphical comparisons of COVID death rates between the U.S. and the EU: https://ourworldindata.org/covid-deaths. The EU is recently on a somewhat higher COVID deaths trend vs. the U.S. per that source (through 1/30/21).
+691,2021-01-31T21:22:59Z,3,[46.0],[-6.0],
+1333,2021-01-31T19:52:25Z,2,[0.0],[0.0],
+47210,2021-01-31T19:35:02Z,1,[65.0],[65.0],
+754,2021-01-31T19:15:27Z,2,[30.0],[-10.0],
+172,2021-01-31T18:35:19Z,1,[5.0],[5.0],
+24999,2021-01-31T18:16:31Z,1,[40.0],[40.0],
+13657,2021-01-31T17:28:26Z,2,[5.0],[-10.0],
+81803,2021-01-31T17:02:56Z,1,[60.0],[60.0],COVID is raging in many of the states. Republicans have politicized a disease and therefore proper precautions aren’t being enforced or practiced.
+28899,2021-01-31T16:07:29Z,1,[15.0],[15.0],
+58508,2021-01-31T16:06:02Z,3,[13.0],[-7.0],
+60948,2021-01-31T15:25:39Z,1,[20.0],[20.0],
+28563,2021-01-31T15:00:59Z,1,[5.0],[5.0],"As of 1/31 the growth rates are similar in the EU and USA however, the EU has 700K+ to USA 450K. It is unlikely that the rate of USA deaths will increase with vaccine distribution."
+85840,2021-01-31T14:38:02Z,1,[35.0],[35.0],
+67403,2021-01-31T13:30:02Z,2,[25.0],[-15.0],
+13657,2021-01-31T09:07:23Z,1,[15.0],[15.0],"This is a question about how many deaths will be reported, not how many occur. Points that other people have made about the relative population and relative death rates of the United States versus the European Union are important to this question, but not as important as how likely the United States and European Union are to change their testing methodology. Florida and Colorado are already making their testing centers report their cycle thresholds, and this is why Florida is able to report so few cases when they are fully open with full tourism and even Disney world open, and with one of the oldest populations in the country. California, however, has one of the youngest populations in the country and is much more strictly locked down, yet has a much higher covid rate right now because they are testing without regard to what the cycle thresholds of the test centers are, which means they have a much higher rate of false positives."
+14027,2021-01-31T02:17:00Z,2,[13.0],[-10.0],
+97982,2021-01-31T01:42:58Z,1,[50.0],[50.0],
+88098,2021-01-31T01:23:05Z,2,[30.0],[-5.0],Factors that will work against EU - EU already has more deaths than US - Case fatality rate is much higher in EU. Median age is higher in EU by 5 years. So EU has more number of older people who have higher CFR.
+86233,2021-01-30T22:08:49Z,1,[20.0],[20.0],
+691,2021-01-30T22:06:05Z,2,[52.0],[-23.0],
+75363,2021-01-30T19:51:36Z,1,[30.0],[30.0],Method 1 The EU has a population of 447 * 10^6 https://en.wikipedia.org/wiki/European_Union The US has a population of 328 * 10^6 https://en.wikipedia.org/wiki/United_States
+97501,2021-01-30T19:28:31Z,1,[5.0],[5.0],"Today: European Union=449,496 (2020 population: 447,706,209, source: Wikipedia) US=429,652 (2019 population: 328 239 523, source: WIkipedia)"
+1333,2021-01-30T19:06:05Z,1,[0.0],[0.0],
+96722,2021-01-30T18:45:16Z,1,[40.0],[40.0],"As of 30 Jan 2021, the European Union has reported 449,495 deaths while the US has reported 429,652. With roughly 100 million more individuals (without the UK) in the EU, it is surprising that the death toll is nearly the same. As vaccines are rolling out this trend is likely to continue. It is possible that the US' increasing federal involvement will smooth vaccine deployment under the new administration while the EU's less unified nature will continue to disrupt vaccination and control efforts. Additionally, recent fights over vaccine exports may have more an impact on the EU than the US, due to the proximity and relatively open borders with non-EU states."
+58508,2021-01-30T17:05:30Z,2,[20.0],[-5.0],Became a bit more confident after thinking more
+58508,2021-01-30T17:04:01Z,1,[25.0],[25.0],Current numbers: USA ~430k according to https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea EU ~450k according to https://covid19.who.int/table
+97375,2021-01-30T16:01:48Z,1,[55.0],[55.0],
+98217,2021-01-30T15:34:15Z,1,[90.0],[90.0],
+95503,2021-01-30T14:58:08Z,3,[5.0],[-10.0],
+98226,2021-01-30T14:57:43Z,1,[20.0],[20.0],
+95503,2021-01-30T13:47:10Z,2,[15.0],[-5.0],
+95503,2021-01-30T12:39:39Z,1,[20.0],[20.0],
+14266,2021-01-30T07:33:41Z,3,[53.0],[28.0],
+60695,2021-01-30T07:25:42Z,1,[100.0],[100.0],
+94837,2021-01-30T07:23:37Z,1,[40.0],[40.0],
+88098,2021-01-30T06:40:13Z,1,[35.0],[35.0],
+98222,2021-01-30T05:55:38Z,1,[55.0],[55.0],"Already have higher number and likely to continue for some time, however with new measures beginning to take effect in the USA should slow the growth."
+22689,2021-01-30T05:45:05Z,1,[80.0],[80.0],
+63674,2021-01-30T05:02:27Z,1,[22.0],[22.0],
+14266,2021-01-30T03:56:22Z,2,[25.0],[-25.0],
+754,2021-01-30T03:55:38Z,1,[40.0],[40.0],
+14266,2021-01-30T03:43:34Z,1,[50.0],[50.0],
+14027,2021-01-30T03:15:26Z,1,[23.0],[23.0],"Per the European CDC, as referenced by @jayb, [see https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea. ] there have been 449,395 deaths in the EU. This compares to 425,670 deaths in the US, per WHO."
+88452,2021-01-30T01:03:24Z,1,[100.0],[100.0],"This is a very complex, parameter rich equation for both the EU and the US. However, a lot speaks for the US over the next 11 months. /more population in southern populous US states (CA, TX) with poorly integrated communities with an elevated, high death rate, such as latinos. The high cost of medical treatment, low rates of universal health insurance and a threat of deportation and legality status issue will always keep these from being admitted to the hospital in time, and hospitals will also struggle with high admissions for at least four more consecutive weeks. Thus, it appears very likely the US will cross 500k already in mid-February 2021, with daily rates between 3,000 and 5,000, and the death rate will be closer to Mexican figures in parts of the US than to European rates (Health inequality) /these communities will always be a source for new infection chains and hot spots in the society (completeness of containment, refugium for the virus) / much larger group of individuals vulnerable to a severe CoViD-19 form, due to a broad ""epidemic"" in the US of obesity, diabetes (nr of dialysis patients) and other preexisting conditions /US jails, and incarceration rates"
+92079,2021-01-30T00:19:38Z,1,[63.0],[63.0],
+90653,2021-01-29T23:29:44Z,1,[85.0],[85.0],
+529,2021-01-29T22:00:57Z,2,[40.0],[-4.0],Please see my previous forecast if interested
+89038,2021-01-29T20:53:22Z,1,[20.0],[20.0],"It's abit of a pain for data collection and monitoring that this is EU and not just Europe. My understanding is that EU has more deaths currently. Even Trump managed the vaccination process better than the EU , with a higher proportion of the US vaccinated[1]. EU going to face further vaccine delays [2]. EU clearly behind in the vaccination process and the US have had a slightly lower mortality rate to date than many large EU countries (Germany, Italy) [3]. All this makes me think it unlikely that the US will report more deaths, I also think the volume of criticism that the US has had on its covid response could mean that the crowd forecast is higher than the actual probability, just thoughts."
+84880,2021-01-29T20:43:45Z,1,[75.0],[75.0],
+529,2021-01-29T20:42:44Z,1,[44.0],[44.0],"..Will take on this question, though I'm not initially able to find a WHO 'European Union' cumulative death total. The links currently given in the question's text don't seem useful for providing a cumulative EU death total. (I'm not interested in adding up 27 individual EU-member numbers. Maybe someone else can provide enlightenment.) UPDATE: FWIW I did go ahead and add up current WHO COVID death totals for almost all of the 27 EU member states. That cumulative number currently exceeds the reported (WHO) U.S. death total by a few thousand..(https://covid19.who.int/table)"
+691,2021-01-29T20:18:04Z,1,[75.0],[75.0],
+98108,2021-01-29T20:01:48Z,1,[67.0],[67.0],
+91561,2021-01-29T19:41:46Z,2,[33.0],[-33.0],
+67403,2021-01-29T19:41:22Z,1,[40.0],[40.0],
+91561,2021-01-29T19:41:13Z,1,[66.0],[66.0],
+84420,2021-01-29T19:15:07Z,1,[60.0],[60.0],

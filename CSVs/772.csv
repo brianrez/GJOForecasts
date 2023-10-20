@@ -1,0 +1,290 @@
+"Between 10 July and 31 December 2020, will a firm or paid backup driver operating a self-driving vehicle face criminal charges in relation to an accident involving a self-driving vehicle in the U.S.?",2020-07-10T17:00:47Z,2020-12-31T22:59:47Z,"Yes, a paid backup driver","['Yes, a firm', 'Yes, a paid backup driver', 'Yes, both', 'No']","['Business', 'Technology']",289,654,150,237,,https://www.gjopen.com/questions/1695-between-10-july-and-31-december-2020-will-a-firm-or-paid-backup-driver-operating-a-self-driving-vehicle-face-criminal-charges-in-relation-to-an-accident-involving-a-self-driving-vehicle-in-the-u-s
+1034,2020-12-30T08:33:08Z,24,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+93087,2020-12-29T17:50:16Z,2,"[0.0, 0.0, 0.0, 100.0]","[-8.0, -2.0, -5.0, 15.0]",
+84880,2020-12-29T17:49:41Z,10,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+62808,2020-12-28T20:24:47Z,7,"[0.0, 51.0, 0.0, 49.0]","[0.0, 51.0, 0.0, -51.0]",
+90827,2020-12-25T14:14:14Z,2,"[5.0, 0.0, 0.0, 95.0]","[-10.0, -5.0, -5.0, 20.0]",
+172,2020-12-24T15:07:56Z,4,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",Crowd forecast 95% no? I pity the fools. Unless I am he.
+40010,2020-12-24T08:42:34Z,1,"[0.0, 5.0, 0.0, 95.0]","[0.0, 5.0, 0.0, 95.0]",
+97418,2020-12-23T20:37:11Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+97476,2020-12-23T16:11:58Z,1,"[20.0, 5.0, 15.0, 60.0]","[20.0, 5.0, 15.0, 60.0]",
+80179,2020-12-22T23:56:23Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+38094,2020-12-21T23:01:55Z,4,"[0.0, 0.0, 0.0, 100.0]","[0.0, -100.0, 0.0, 100.0]",
+93502,2020-12-21T16:38:11Z,2,"[0.0, 0.0, 0.0, 100.0]","[-5.0, 0.0, 0.0, 5.0]",
+1034,2020-12-21T09:04:12Z,23,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-12-21T03:39:15Z,22,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+27661,2020-12-20T12:00:52Z,6,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+88452,2020-12-19T08:38:07Z,8,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+62808,2020-12-19T04:56:50Z,6,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-12-18T19:31:31Z,21,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+85097,2020-12-18T15:29:52Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",Timing. I think the behaviour of the crowd score on this question warrants a slight modification of the GJOpen forecasting system as I suggest here: https://www.gjopen.com/comments/1202429
+1034,2020-12-17T22:43:51Z,20,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+80475,2020-12-17T16:16:41Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 50.0, 0.0, -50.0]",
+60948,2020-12-17T10:57:49Z,15,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, 0.0, -1.0]",Passage of time
+27661,2020-12-16T20:14:36Z,5,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+28899,2020-12-16T18:51:53Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+80475,2020-12-14T22:13:16Z,2,"[0.0, 50.0, 0.0, 50.0]","[0.0, 44.0, 0.0, -44.0]","I've burned up lots of Brier Score lately, but what the heck. Again, the criminal charges filing is literally here: https://www.maricopacountyattorney.org/DocumentCenter/View/1724/Rafael-Vasquez-GJ-Indictment Paid backup driver? Check. Self-driving vehicle in the US? Check. Clarification that it doesn't matter that it was a grand jury indictment rather than filed by a prosecutor? Check. Between 10 July and 31 December 2020? Check."
+87427,2020-12-13T23:28:32Z,2,"[0.0, 1.0, 0.0, 99.0]","[-5.0, -9.0, -5.0, 19.0]",
+90860,2020-12-13T14:40:48Z,2,"[3.0, 0.0, 2.0, 95.0]","[-2.0, 0.0, -3.0, 5.0]",
+1333,2020-12-10T19:38:21Z,17,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-12-09T18:43:56Z,19,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-12-08T19:26:46Z,18,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-12-08T14:15:10Z,16,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+97203,2020-12-08T13:18:00Z,1,"[5.0, 10.0, 2.0, 83.0]","[5.0, 10.0, 2.0, 83.0]",
+97204,2020-12-08T06:24:37Z,1,"[1.0, 0.0, 0.0, 99.0]","[1.0, 0.0, 0.0, 99.0]",
+88452,2020-12-07T01:36:16Z,7,"[0.0, 99.0, 1.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+1034,2020-12-06T22:23:31Z,17,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+58508,2020-12-06T18:42:25Z,1,"[0.0, 98.0, 1.0, 1.0]","[0.0, 98.0, 1.0, 1.0]",
+60948,2020-12-06T11:09:09Z,14,"[0.0, 99.0, 0.0, 1.0]","[0.0, 99.0, 0.0, -99.0]",Just kidding
+60948,2020-12-06T11:08:32Z,13,"[0.0, 0.0, 0.0, 100.0]","[0.0, -98.0, -2.0, 100.0]",
+97205,2020-12-06T08:57:47Z,1,"[9.0, 4.0, 2.0, 85.0]","[9.0, 4.0, 2.0, 85.0]",
+78587,2020-12-03T15:39:09Z,1,"[0.0, 25.0, 0.0, 75.0]","[0.0, 25.0, 0.0, 75.0]",
+13657,2020-12-03T15:24:11Z,5,"[0.0, 0.0, 0.0, 100.0]","[0.0, -2.0, 0.0, 2.0]",
+1333,2020-12-03T15:13:25Z,15,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+62808,2020-12-02T21:59:28Z,5,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+68146,2020-12-02T19:00:12Z,1,"[5.0, 5.0, 5.0, 85.0]","[5.0, 5.0, 5.0, 85.0]",
+94872,2020-12-01T19:10:41Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]",
+43311,2020-11-30T21:50:14Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]",Thanks @SE_Meyer. Hat-tip for others working the clarifications too...
+88452,2020-11-30T20:41:05Z,6,"[0.0, 97.0, 3.0, 0.0]","[0.0, 1.0, -1.0, 0.0]","On the 30 November 2020 note clarifying ""A defendant will 'face criminal charges' upon being charged"". I still think this applies to the ongoing proceedings in the Maricopa County case."
+14432,2020-11-29T18:31:39Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+1034,2020-11-28T04:10:19Z,16,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+97100,2020-11-26T19:09:23Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+80475,2020-11-24T14:30:37Z,1,"[0.0, 6.0, 0.0, 94.0]","[0.0, 6.0, 0.0, 94.0]","[EDIT: deleted, as it's redundant to what people have posted below]"
+1333,2020-11-24T05:23:51Z,14,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-11-23T18:09:18Z,15,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-11-22T08:04:08Z,14,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+691,2020-11-21T19:13:44Z,5,"[1.0, 98.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+60948,2020-11-21T16:15:42Z,12,"[0.0, 98.0, 2.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+88452,2020-11-21T15:16:09Z,5,"[0.0, 96.0, 4.0, 0.0]","[0.0, 0.0, 0.0, 0.0]","@Tolga @Balzac I wonder if you noticed there's a clarification note of 12 November now concerning the question we've discussed: what concisely means ""face criminal charges"". As I read it, I feel it confirms our latest finding (the criminal charges were charged/filed this summer...), am I correct?"
+25601,2020-11-20T17:39:12Z,1,"[2.0, 1.0, 0.0, 97.0]","[2.0, 1.0, 0.0, 97.0]",
+96997,2020-11-18T08:51:56Z,1,"[0.0, 90.0, 0.0, 10.0]","[0.0, 90.0, 0.0, 10.0]",
+27321,2020-11-18T02:03:21Z,10,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+2182,2020-11-17T17:14:26Z,1,"[0.0, 1.0, 0.0, 99.0]","[0.0, 1.0, 0.0, 99.0]",
+62808,2020-11-16T21:19:16Z,4,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-11-16T07:04:45Z,13,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+88569,2020-11-16T04:51:46Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+37513,2020-11-15T20:54:32Z,1,"[1.0, 3.0, 1.0, 95.0]","[1.0, 3.0, 1.0, 95.0]",
+96948,2020-11-15T10:44:51Z,1,"[1.0, 3.0, 1.0, 95.0]","[1.0, 3.0, 1.0, 95.0]",
+88422,2020-11-15T05:21:35Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, -5.0, 0.0, 5.0]",
+1034,2020-11-15T05:19:39Z,12,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-11-15T04:57:34Z,11,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+60948,2020-11-14T16:34:41Z,11,"[0.0, 97.0, 3.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+88587,2020-11-14T12:32:52Z,1,"[0.0, 4.0, 0.0, 96.0]","[0.0, 4.0, 0.0, 96.0]",
+96935,2020-11-14T10:54:50Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]",
+1034,2020-11-14T06:13:08Z,10,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+84880,2020-11-11T23:58:44Z,9,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 1.0, -1.0]",
+75093,2020-11-11T19:13:30Z,1,"[15.0, 75.0, 10.0, 0.0]","[15.0, 75.0, 10.0, 0.0]",
+84880,2020-11-11T17:58:38Z,8,"[0.0, 99.0, 0.0, 1.0]","[0.0, 98.0, 0.0, -98.0]",Taking a calculated risk awaiting official clarification on https://www.bbc.com/news/technology-54175359
+206,2020-11-11T17:54:33Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+84880,2020-11-11T17:47:40Z,7,"[0.0, 1.0, 0.0, 99.0]","[0.0, 1.0, 0.0, -1.0]",https://www.gjopen.com/comments/1181792
+1034,2020-11-11T07:38:53Z,9,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+53391,2020-11-10T23:24:09Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",https://www.bbc.com/news/technology-54175359 She was charged. Why are forecasters still forecasting No? I am confused.
+96885,2020-11-10T23:12:50Z,1,"[1.0, 1.0, 0.0, 98.0]","[1.0, 1.0, 0.0, 98.0]","Small potential for an individual, slightly larger for a firm given their exposure to the larger quantity of cars. The rest is just the math."
+1333,2020-11-10T16:59:58Z,13,"[0.0, 0.0, 0.0, 100.0]","[0.0, -1.0, 0.0, 1.0]",
+1034,2020-11-10T07:59:57Z,8,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-11-07T23:39:18Z,7,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+60948,2020-11-07T18:09:54Z,10,"[0.0, 96.0, 4.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+84880,2020-11-07T07:36:00Z,6,"[0.0, 0.0, 0.0, 100.0]","[0.0, -99.0, -1.0, 100.0]",
+1034,2020-11-06T18:34:07Z,6,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+12364,2020-11-03T11:07:41Z,2,"[0.0, 1.0, 0.0, 99.0]","[0.0, 1.0, -1.0, 0.0]",
+12364,2020-11-03T11:06:37Z,1,"[0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 1.0, 99.0]",
+1034,2020-11-02T17:53:55Z,5,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+96369,2020-11-02T10:24:40Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, -99.0, -1.0, 100.0]",
+96369,2020-11-02T10:23:54Z,1,"[0.0, 99.0, 1.0, 0.0]","[0.0, 99.0, 1.0, 0.0]",
+60948,2020-11-01T15:56:59Z,9,"[0.0, 95.0, 5.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+27321,2020-11-01T14:48:36Z,9,"[0.0, 99.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+85097,2020-10-31T17:05:21Z,2,"[0.0, 99.0, 1.0, 0.0]","[0.0, 1.0, -1.0, 0.0]",
+1034,2020-10-30T22:46:46Z,4,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+1333,2020-10-29T12:06:13Z,12,"[0.0, 1.0, 0.0, 99.0]","[0.0, 0.0, 0.0, 0.0]",
+12413,2020-10-27T14:25:41Z,1,"[0.0, 5.0, 0.0, 95.0]","[0.0, 5.0, 0.0, 95.0]",
+1034,2020-10-26T19:56:48Z,3,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+13657,2020-10-26T18:11:51Z,4,"[0.0, 2.0, 0.0, 98.0]","[-1.0, 2.0, 0.0, -1.0]",Increasing due to charges brought against a driver in UK
+33959,2020-10-26T09:42:39Z,2,"[0.0, 100.0, 0.0, 0.0]","[-1.0, 100.0, 0.0, -99.0]",Updating my original forecast for the evolved scenario.
+27321,2020-10-24T23:03:49Z,8,"[0.0, 99.0, 1.0, 0.0]","[0.0, 2.0, -2.0, 0.0]",
+96549,2020-10-24T08:50:02Z,1,"[5.0, 0.0, 0.0, 95.0]","[5.0, 0.0, 0.0, 95.0]",
+1034,2020-10-21T11:38:07Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+96318,2020-10-19T13:20:38Z,2,"[0.0, 99.0, 1.0, 0.0]","[0.0, 49.0, -2.0, -47.0]",
+96318,2020-10-18T17:47:07Z,1,"[0.0, 50.0, 3.0, 47.0]","[0.0, 50.0, 3.0, 47.0]",
+27321,2020-10-16T20:30:23Z,7,"[0.0, 97.0, 3.0, 0.0]","[0.0, -1.0, 1.0, 0.0]",
+60948,2020-10-15T10:55:39Z,8,"[0.0, 90.0, 10.0, 0.0]","[0.0, -5.0, 5.0, 0.0]",
+88766,2020-10-14T17:43:24Z,3,"[0.0, 0.0, 0.0, 100.0]","[0.0, -50.0, 0.0, 50.0]",
+27661,2020-10-14T09:00:54Z,4,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+13657,2020-10-13T07:53:01Z,3,"[1.0, 0.0, 0.0, 99.0]","[-1.0, 0.0, 0.0, 1.0]",
+13657,2020-10-13T07:52:27Z,2,"[2.0, 0.0, 0.0, 98.0]","[2.0, 0.0, 0.0, -2.0]","I'm opening the possibility slightly due to news that a company is releasing fully autonomous vehicles in Arizona. However, I think that 3 months is not enough time for it to be likely for a situation to develop and charges to be brought. https://oilprice.com/Energy/Energy-General/The-Worlds-First-Fully-Driverless-Vehicle-Ready-To-Hit-The-Roads.html"
+1333,2020-10-12T13:55:33Z,11,"[0.0, 1.0, 0.0, 99.0]","[0.0, 0.0, 0.0, 0.0]",
+1034,2020-10-12T02:31:08Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+29054,2020-10-11T18:52:17Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, -100.0, 0.0, 100.0]",
+96351,2020-10-11T17:11:02Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",Because the laws and responsibility aren’t clear enough yet for this to happen.
+88560,2020-10-10T03:31:33Z,3,"[0.0, 0.0, 0.0, 100.0]","[-1.0, 0.0, -1.0, 2.0]",
+1333,2020-10-09T16:20:48Z,10,"[0.0, 1.0, 0.0, 99.0]","[0.0, 1.0, 0.0, -1.0]",
+27321,2020-10-08T13:46:19Z,6,"[0.0, 98.0, 2.0, 0.0]","[0.0, 98.0, 2.0, -100.0]",
+691,2020-10-07T19:56:26Z,4,"[1.0, 98.0, 1.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+88569,2020-10-07T06:53:23Z,1,"[0.0, 99.0, 1.0, 0.0]","[0.0, 99.0, 1.0, 0.0]",
+96269,2020-10-06T21:18:33Z,1,"[4.0, 5.0, 1.0, 90.0]","[4.0, 5.0, 1.0, 90.0]",
+88452,2020-10-06T08:57:28Z,4,"[0.0, 96.0, 4.0, 0.0]","[0.0, 0.0, 2.0, -2.0]",
+27661,2020-10-06T08:51:18Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 50.0, 0.0, -50.0]",I've asked for clarification with the following question:
+88452,2020-10-06T07:41:23Z,3,"[0.0, 96.0, 2.0, 2.0]","[0.0, 96.0, 2.0, -98.0]",
+88669,2020-10-04T13:06:57Z,1,"[0.0, 30.0, 10.0, 60.0]","[0.0, 30.0, 10.0, 60.0]",
+88766,2020-10-04T10:43:50Z,2,"[0.0, 50.0, 0.0, 50.0]","[0.0, 50.0, 0.0, -50.0]",
+87064,2020-10-03T19:28:40Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, -100.0]",
+691,2020-10-03T14:17:13Z,3,"[1.0, 98.0, 1.0, 0.0]","[1.0, 98.0, 1.0, -100.0]","Looks to me like this has already happened, at least as to charges against a driver: https://www.npr.org/2020/09/16/913530100/backup-driver-of-autonomous-uber-suv-charged-with-negligent-homicide-in-arizona The accident was in 2018, but the charge was apparently just laid, and the Q is about when the charges are filed. Any reason I'm wrong about this, as I am about most things? Question probably needs to be kept open in case somebody later charges a firm for this or a different incident."
+60948,2020-09-27T23:15:57Z,7,"[0.0, 95.0, 5.0, 0.0]","[0.0, 5.0, -5.0, 0.0]",
+96019,2020-09-27T03:01:10Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0]",
+96019,2020-09-26T13:26:23Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]",
+27321,2020-09-22T13:35:00Z,5,"[0.0, 0.0, 0.0, 100.0]","[-1.0, 0.0, 0.0, 1.0]",
+29054,2020-09-22T02:28:04Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]",
+95920,2020-09-22T00:27:45Z,1,"[21.0, 8.0, 5.0, 66.0]","[21.0, 8.0, 5.0, 66.0]",
+84880,2020-09-22T00:22:01Z,5,"[0.0, 99.0, 1.0, 0.0]","[-1.0, 98.0, -2.0, -95.0]",
+94301,2020-09-20T12:24:17Z,1,"[20.0, 60.0, 10.0, 10.0]","[20.0, 60.0, 10.0, 10.0]",
+84956,2020-09-20T09:17:39Z,1,"[5.0, 17.0, 3.0, 75.0]","[5.0, 17.0, 3.0, 75.0]",
+13142,2020-09-19T21:11:09Z,1,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, 0.0]","The Uber driver in Arizona has been charged with a class 4 felony. Felony is a 'serious crime' (vs. misdemeanor), so presumably that meets the test of 'criminal charges'. It's really ambiguous though what 'face criminal charges' means. Does that mean 'be convicted of' or 'charged with'? I'd say that 'face criminal charges' covers the broader 'charged with'. But since there is a bit of ambiguity, it would be nice to get a clarification. The other fatal accidents all involved the driver who was ostensibly 'in control of the vehicle' so I don't know how the firm could be charged. Testing is still going on, but everything I checked included a supervising driver in the car so again, it's really unlikely the firm could be charged: https://www.nhtsa.gov/automated-vehicles-safety/av-test-initiative-tracking-tool"
+28899,2020-09-19T12:42:52Z,1,"[0.0, 95.0, 5.0, 0.0]","[0.0, 95.0, 5.0, 0.0]",
+88452,2020-09-17T10:48:20Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]","I have noticed that forecasters have tipped towards some ""YES"" answer lately."
+60948,2020-09-16T19:58:10Z,6,"[0.0, 90.0, 10.0, 0.0]","[0.0, 80.0, 10.0, -90.0]",
+53391,2020-09-16T19:47:49Z,2,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, -100.0]",I mjst be the last to know. https://thehill.com/homenews/state-watch/516640-back-up-uber-driver-charged-in-fatal-crash-of-autonomous-car
+27661,2020-09-16T15:54:04Z,2,"[0.0, 50.0, 0.0, 50.0]","[0.0, 50.0, 0.0, -50.0]",
+38094,2020-09-16T14:52:27Z,3,"[0.0, 100.0, 0.0, 0.0]","[-100.0, 100.0, 0.0, 0.0]",
+38094,2020-09-16T14:51:12Z,2,"[100.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, -100.0]",
+60948,2020-09-16T14:14:19Z,5,"[0.0, 10.0, 0.0, 90.0]","[0.0, -40.0, 0.0, 40.0]",
+60948,2020-09-16T14:08:49Z,4,"[0.0, 50.0, 0.0, 50.0]","[0.0, 45.0, 0.0, -45.0]",
+172,2020-09-16T13:20:52Z,3,"[0.0, 100.0, 0.0, 0.0]","[0.0, 100.0, 0.0, -100.0]",
+60948,2020-09-16T12:52:08Z,3,"[0.0, 5.0, 0.0, 95.0]","[0.0, -5.0, 0.0, 5.0]",
+60948,2020-09-16T12:51:56Z,2,"[0.0, 10.0, 0.0, 90.0]","[0.0, 10.0, 0.0, -10.0]",
+172,2020-09-16T09:40:02Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",FYI https://www.dw.com/en/us-safety-driver-charged-in-fatal-uber-autonomous-crash/a-54940088
+85097,2020-09-16T05:43:47Z,1,"[0.0, 98.0, 2.0, 0.0]","[0.0, 98.0, 2.0, 0.0]",
+27321,2020-09-15T18:11:58Z,4,"[1.0, 0.0, 0.0, 99.0]","[-1.0, 0.0, -1.0, 2.0]",
+88452,2020-09-10T01:39:08Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+87691,2020-09-08T03:12:16Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+27321,2020-09-06T19:32:33Z,3,"[2.0, 0.0, 1.0, 97.0]","[0.0, 0.0, -1.0, 1.0]",
+45594,2020-09-06T11:18:01Z,4,"[10.0, 10.0, 10.0, 70.0]","[0.0, 0.0, 0.0, 0.0]",
+691,2020-09-04T15:17:43Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]",
+80179,2020-09-02T12:02:46Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+89013,2020-09-02T07:18:40Z,2,"[3.0, 0.0, 0.0, 97.0]","[-2.0, 0.0, 0.0, 2.0]",
+27321,2020-09-01T23:11:37Z,2,"[2.0, 0.0, 2.0, 96.0]","[-18.0, -5.0, -8.0, 31.0]",
+27321,2020-09-01T23:11:07Z,1,"[20.0, 5.0, 10.0, 65.0]","[20.0, 5.0, 10.0, 65.0]",
+88560,2020-08-29T00:18:48Z,2,"[1.0, 0.0, 1.0, 98.0]","[-3.0, -2.0, -3.0, 8.0]",
+87192,2020-08-25T22:29:28Z,1,"[5.0, 0.0, 0.0, 95.0]","[5.0, 0.0, 0.0, 95.0]",
+84880,2020-08-24T22:59:34Z,4,"[1.0, 1.0, 3.0, 95.0]","[0.0, 0.0, 2.0, -2.0]",
+45594,2020-08-22T14:02:04Z,3,"[10.0, 10.0, 10.0, 70.0]","[0.0, 0.0, 0.0, 0.0]",
+94938,2020-08-21T00:18:32Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+93087,2020-08-18T15:51:58Z,1,"[8.0, 2.0, 5.0, 85.0]","[8.0, 2.0, 5.0, 85.0]",
+45594,2020-08-16T08:01:19Z,2,"[10.0, 10.0, 10.0, 70.0]","[0.0, 0.0, 0.0, 0.0]",
+77207,2020-08-11T08:24:09Z,1,"[15.0, 5.0, 5.0, 75.0]","[15.0, 5.0, 5.0, 75.0]",
+80367,2020-08-09T19:02:14Z,2,"[5.0, 15.0, 5.0, 75.0]","[0.0, -15.0, 0.0, 15.0]",
+90827,2020-08-08T18:07:28Z,1,"[15.0, 5.0, 5.0, 75.0]","[15.0, 5.0, 5.0, 75.0]",Small number of driverless vehicles makes this unlikely. Backup driver would only be held responsible if they were negligent. Firm would be held accountable if it could be shown accident happened due to a flaw in the technology but this takes time to establish
+94841,2020-08-05T12:17:47Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+80367,2020-08-02T21:57:02Z,1,"[5.0, 30.0, 5.0, 60.0]","[5.0, 30.0, 5.0, 60.0]","This question is completely obscured by the as yet undetermined fate of Rafaela Vasquez, the backup driver of the Uber car responsible for a pedestrian death in 2018. I judge that ignoring this case, the chances of an accident for which criminal charges is then brought is extremely low - i.e. around 5%. However, it is possible that Vasquez faces charges for the 2018 incident (the Arizona prosecutor has ruled out charging Uber) and frustratingly, there's very little public information to determine this likelihood. Given the somewhat short time window, plus the indeterminacy of the outcome, I judge it overall less than likely she will be charged. But there is significant uncertainty."
+54564,2020-08-02T17:05:49Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",I don’t see any fatalities or injuries involving a self driving car between those dates.
+62808,2020-08-02T01:59:53Z,3,"[0.0, 0.0, 0.0, 100.0]","[-5.0, -10.0, -5.0, 20.0]",
+22689,2020-07-31T20:42:19Z,2,"[0.0, 0.0, 0.0, 100.0]","[-5.0, -5.0, 0.0, 10.0]",
+92980,2020-07-31T17:43:29Z,2,"[5.0, 0.0, 0.0, 95.0]","[-18.0, -9.0, -9.0, 36.0]",
+33959,2020-07-31T00:59:06Z,1,"[1.0, 0.0, 0.0, 99.0]","[1.0, 0.0, 0.0, 99.0]","There cannot be criminal charges if there is no mens rea. If a backup driver was not fully concentrating, it's hard to see how any reasonable person could have been concentrating 100% of the time so to prove civil law negligence is going to be difficult. To prove criminal negligence will be impossible. And with no reasonable prospect of a successful prosecution, there will be no convictions. Instead it will just be called an accident in the normal way."
+90237,2020-07-30T18:00:06Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+88560,2020-07-30T14:35:58Z,1,"[4.0, 2.0, 4.0, 90.0]","[4.0, 2.0, 4.0, 90.0]",
+94661,2020-07-29T15:24:34Z,1,"[5.0, 5.0, 2.0, 88.0]","[5.0, 5.0, 2.0, 88.0]",
+29875,2020-07-28T19:56:58Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+1333,2020-07-27T10:15:16Z,9,"[0.0, 0.0, 0.0, 100.0]","[0.0, -1.0, 0.0, 1.0]",
+93502,2020-07-26T13:37:30Z,1,"[5.0, 0.0, 0.0, 95.0]","[5.0, 0.0, 0.0, 95.0]",
+45594,2020-07-26T07:10:37Z,1,"[10.0, 10.0, 10.0, 70.0]","[10.0, 10.0, 10.0, 70.0]",
+94554,2020-07-26T07:08:18Z,1,"[0.0, 5.0, 5.0, 90.0]","[0.0, 5.0, 5.0, 90.0]",
+94549,2020-07-25T23:12:33Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+92980,2020-07-25T21:11:14Z,1,"[23.0, 9.0, 9.0, 59.0]","[23.0, 9.0, 9.0, 59.0]",
+90802,2020-07-25T14:10:17Z,1,"[5.0, 20.0, 0.0, 75.0]","[5.0, 20.0, 0.0, 75.0]",
+86946,2020-07-25T04:05:50Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+94000,2020-07-25T03:24:44Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+2515,2020-07-24T21:24:05Z,1,"[1.0, 8.0, 1.0, 90.0]","[1.0, 8.0, 1.0, 90.0]",
+91053,2020-07-24T21:22:35Z,1,"[10.0, 5.0, 10.0, 75.0]","[10.0, 5.0, 10.0, 75.0]",
+22628,2020-07-24T13:12:14Z,1,"[0.0, 0.0, 10.0, 90.0]","[0.0, 0.0, 10.0, 90.0]",Low risk due to COVID-19 pandemic related traffic reduction
+86243,2020-07-24T12:36:55Z,1,"[2.0, 1.0, 0.0, 97.0]","[2.0, 1.0, 0.0, 97.0]",
+13068,2020-07-24T08:57:32Z,1,"[0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 25.0, 75.0]",
+75045,2020-07-23T22:26:18Z,1,"[0.0, 0.0, 5.0, 95.0]","[0.0, 0.0, 5.0, 95.0]",
+78366,2020-07-23T20:55:18Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+63810,2020-07-23T19:31:56Z,1,"[10.0, 30.0, 20.0, 40.0]","[10.0, 30.0, 20.0, 40.0]",
+69027,2020-07-23T04:02:09Z,1,"[50.0, 25.0, 25.0, 0.0]","[50.0, 25.0, 25.0, 0.0]",
+52131,2020-07-22T20:42:40Z,1,"[0.0, 0.0, 25.0, 75.0]","[0.0, 0.0, 25.0, 75.0]",
+62808,2020-07-22T18:30:59Z,2,"[5.0, 10.0, 5.0, 80.0]","[5.0, -14.0, 5.0, 4.0]",
+94405,2020-07-22T18:27:06Z,1,"[5.0, 5.0, 10.0, 80.0]","[5.0, 5.0, 10.0, 80.0]",
+92174,2020-07-22T13:29:59Z,1,"[2.0, 2.0, 2.0, 94.0]","[2.0, 2.0, 2.0, 94.0]",
+61368,2020-07-22T05:18:06Z,1,"[5.0, 5.0, 5.0, 85.0]","[5.0, 5.0, 5.0, 85.0]","Not likely this year, but more likely next year."
+87427,2020-07-21T21:30:37Z,1,"[5.0, 10.0, 5.0, 80.0]","[5.0, 10.0, 5.0, 80.0]",
+88227,2020-07-21T14:25:17Z,1,"[6.0, 2.0, 2.0, 90.0]","[6.0, 2.0, 2.0, 90.0]",
+1333,2020-07-20T17:40:19Z,8,"[0.0, 1.0, 0.0, 99.0]","[0.0, -1.0, 0.0, 1.0]",
+94034,2020-07-19T21:55:09Z,1,"[20.0, 0.0, 80.0, 0.0]","[20.0, 0.0, 80.0, 0.0]",Weight of numbers of car accidents. I'm not from U. S. but... I believe any accident where there is a medical bill someine is getting sued. The volume of accidents will mean it's likely a back up driver or company will be involved
+94267,2020-07-18T23:20:04Z,1,"[15.0, 0.0, 0.0, 85.0]","[15.0, 0.0, 0.0, 85.0]",The government are keen for the technology to work. They will not be quick to allow this situation. A firm is a legal individual as an entity. An individual will not be charged as the technology is new.
+94098,2020-07-18T11:24:50Z,1,"[5.0, 5.0, 5.0, 85.0]","[5.0, 5.0, 5.0, 85.0]",Coronavirus will dominate this year meaning less expansion of tech. There also won't be a public/political will to make an example of tech vehicles in this period as Covid and the economy are the main focus.
+94217,2020-07-18T05:45:56Z,1,"[20.0, 5.0, 5.0, 70.0]","[20.0, 5.0, 5.0, 70.0]",
+94211,2020-07-18T04:10:14Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",I'm a time traveller
+93243,2020-07-17T19:56:03Z,1,"[8.0, 1.0, 1.0, 90.0]","[8.0, 1.0, 1.0, 90.0]",unlikely
+94150,2020-07-17T19:37:09Z,1,"[10.0, 8.0, 12.0, 70.0]","[10.0, 8.0, 12.0, 70.0]",
+84880,2020-07-17T18:06:04Z,3,"[1.0, 1.0, 1.0, 97.0]","[1.0, 1.0, 1.0, -3.0]","If it hasn't happened yet, I doubt it will on this timeline. https://www.nbcnews.com/tech/tech-news/self-driving-uber-car-hit-killed-woman-did-not-recognize-n1079281"
+87943,2020-07-17T12:56:18Z,1,"[1.0, 1.0, 1.0, 97.0]","[1.0, 1.0, 1.0, 97.0]",
+94092,2020-07-17T09:46:59Z,1,"[2.0, 1.0, 0.0, 97.0]","[2.0, 1.0, 0.0, 97.0]",The technology is new and still in testing phase. The government will not want to discourage the development of the technology by exposing people or companies to criminal charges. A criminal charge if brought would only be if there was a major accident and to satisfy public opinion.
+94051,2020-07-17T02:37:17Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+93518,2020-07-17T01:37:58Z,1,"[10.0, 10.0, 1.0, 79.0]","[10.0, 10.0, 1.0, 79.0]","My understanding is that self-driving vehicles still require humans to take over when necessary, and that most accidents involving self-driving vehicles can be attributed to 1. the driver of the other vehicle or 2. human negligence. Given this information, it seems more likely that a backup driver would face criminal charges than a firm. This is what happened with the Uber crash and several Tesla crashes (see links in question). However, the number of self-driving cars is much higher than the number of self-driving cars with a paid backup driver."
+94030,2020-07-16T23:55:20Z,1,"[100.0, 0.0, 0.0, 0.0]","[100.0, 0.0, 0.0, 0.0]",
+93970,2020-07-16T22:11:50Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+93508,2020-07-16T15:16:29Z,2,"[5.0, 0.0, 0.0, 95.0]","[-5.0, -5.0, -5.0, 15.0]",Firm is more lucrative target but overall chance is small
+1333,2020-07-16T13:14:17Z,7,"[0.0, 2.0, 0.0, 98.0]","[0.0, -1.0, 0.0, 1.0]",
+93933,2020-07-16T11:16:18Z,1,"[5.0, 90.0, 5.0, 0.0]","[5.0, 90.0, 5.0, 0.0]",Liability rests with the driver. It would be difficult to probe the company was at fault of the driver were negligent
+93894,2020-07-16T03:31:47Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",US needs tech progress.
+93886,2020-07-16T01:46:18Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]","Nascent technology, Covid-19, and money behind said tech will prevent this scenario from occurring."
+93879,2020-07-16T01:01:19Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",This technology is almost new I think the answer is NO
+93868,2020-07-16T00:33:44Z,1,"[10.0, 10.0, 75.0, 5.0]","[10.0, 10.0, 75.0, 5.0]","Society already relies on car insurance to cover damages caused by a vehicle driven by another human being. This coverage varies from country to country but that does not mean it changes just because there is no active driver or even back up driver. Currently, a human causing an accident that results in property damage is not charged criminally. However, if a human driver accidentally kills another human being with a vehicle then yes they can be criminally charged with manslaughter. I would think that this doesn’t change in driverless or backup driven vehicles. The criminal liability should be handled by the firm, if the vehicle is operated by their employee. If the person acting as a backup driver operates independently then they (or their LLC) would be liable for the lawsuits and criminal penalties for the death of another human being."
+554,2020-07-15T23:08:09Z,1,"[5.0, 5.0, 10.0, 80.0]","[5.0, 5.0, 10.0, 80.0]",
+85819,2020-07-15T22:07:26Z,1,"[0.0, 0.0, 100.0, 0.0]","[0.0, 0.0, 100.0, 0.0]",
+93851,2020-07-15T19:04:12Z,1,"[5.0, 10.0, 5.0, 80.0]","[5.0, 10.0, 5.0, 80.0]",
+91938,2020-07-15T17:03:16Z,1,"[3.0, 1.0, 0.0, 96.0]","[3.0, 1.0, 0.0, 96.0]",
+93788,2020-07-15T10:00:08Z,1,"[65.0, 15.0, 5.0, 15.0]","[65.0, 15.0, 5.0, 15.0]",
+93760,2020-07-15T07:47:23Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+93746,2020-07-15T06:49:29Z,1,"[2.0, 0.0, 0.0, 98.0]","[2.0, 0.0, 0.0, 98.0]",
+93722,2020-07-15T05:32:34Z,1,"[10.0, 10.0, 5.0, 75.0]","[10.0, 10.0, 5.0, 75.0]","Unlikely but possible. Fewer self-driving cars are on the road because of the pandemic. However, pedestrians and bicyclists have been in the streets more than previously and may test self-driving software to its limit."
+93508,2020-07-15T02:12:41Z,1,"[10.0, 5.0, 5.0, 80.0]","[10.0, 5.0, 5.0, 80.0]",
+91546,2020-07-15T01:15:47Z,1,"[25.0, 50.0, 15.0, 10.0]","[25.0, 50.0, 15.0, 10.0]",
+84880,2020-07-14T23:50:56Z,2,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 0.0]","I really want to dissent... but I can't. I don't know anyone that has left the house in three months. In general, I can presume there is at least a mild dip in people on the road these days. Coupled with the short timeline, even if there was an egregious accident, I feel the resulting investigation and palm greasing would consume several months. If something happened today, maybe we'd see criminal charges before December. Other than that, any damage to personal property is undoubtedly insured against and would likely be settled outside court unless an enterprising DA got in the mix."
+71165,2020-07-14T18:05:28Z,2,"[5.0, 5.0, 0.0, 90.0]","[-66.0, 4.0, -22.0, 84.0]",
+93593,2020-07-14T15:55:20Z,1,"[5.0, 15.0, 0.0, 80.0]","[5.0, 15.0, 0.0, 80.0]",
+1333,2020-07-14T14:09:51Z,6,"[0.0, 3.0, 0.0, 97.0]","[0.0, -1.0, 0.0, 1.0]",
+93591,2020-07-14T13:04:39Z,1,"[12.0, 42.0, 4.0, 42.0]","[12.0, 42.0, 4.0, 42.0]",Gut feeling
+90446,2020-07-14T07:45:27Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",*Rationale remains the same as that for the related question:
+87744,2020-07-14T07:19:34Z,1,"[10.0, 0.0, 0.0, 90.0]","[10.0, 0.0, 0.0, 90.0]",
+90801,2020-07-13T23:34:58Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]","court action during the pandemic is slow, and the reduced number of cars on the road ,makes this unlikely"
+93449,2020-07-13T21:10:33Z,1,"[2.0, 5.0, 1.0, 92.0]","[2.0, 5.0, 1.0, 92.0]","There isn't enough self-driving cars in circulation for the likelihood of a severe accident to be high (though San Francisco does have a high death rate for traffic accidents ref: n 2019, 42 people were killed in traffic violence in San Francisco). Self-driving cars have also shown to contribute to a reduction in accidents: http://www.traffictechnologytoday.com/news.php?NewsID=62827 In addition the legal liability remains unclear though the legislation is leaning towards holding the backup drive responsible, although Volvo have said they will be responsible for any accidents due to system faults (https://www.media.volvocars.com/global/en-gb/media/pressreleases/167975/us-urged-to-establish-nationwide-federal-guidelines-for-autonomous-driving) So a small chance of accident and in the case of an accident more likely to be the responsibility of the backup driver."
+90070,2020-07-13T19:14:37Z,1,"[15.0, 15.0, 10.0, 60.0]","[15.0, 15.0, 10.0, 60.0]",I think it will happen but not before December 31
+91322,2020-07-13T18:26:06Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+8826,2020-07-13T16:57:00Z,1,"[1.0, 1.0, 1.0, 97.0]","[1.0, 1.0, 1.0, 97.0]",
+93358,2020-07-13T16:56:32Z,1,"[3.0, 2.0, 0.0, 95.0]","[3.0, 2.0, 0.0, 95.0]","https://www.businessinsider.com/self-driving-car-accidents-caused-by-humans-2018-9#:~:text=Of%2062%20accidents%20reported%20while,companies%20developing%20self%2Ddriving%20cars."
+92331,2020-07-13T16:15:33Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+87628,2020-07-13T08:03:30Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+71165,2020-07-13T03:55:11Z,1,"[71.0, 1.0, 22.0, 6.0]","[71.0, 1.0, 22.0, 6.0]",
+34815,2020-07-13T03:35:29Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+60948,2020-07-12T20:03:38Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+89309,2020-07-12T15:36:01Z,1,"[10.0, 0.0, 0.0, 90.0]","[10.0, 0.0, 0.0, 90.0]",Criminal charges are very unlikely. There may be a civil suit seeking damages.
+89243,2020-07-12T15:25:19Z,1,"[30.0, 20.0, 10.0, 40.0]","[30.0, 20.0, 10.0, 40.0]","The likelihood of all of this happening eventually is 100%, but Coronavirus is reducing demand for, and the speed of, a driverless rollout. I'd look for it in the 3- to 5- year timeframe, not before December."
+89083,2020-07-12T14:25:06Z,1,"[0.0, 5.0, 1.0, 94.0]","[0.0, 5.0, 1.0, 94.0]",
+1333,2020-07-12T11:21:30Z,5,"[0.0, 4.0, 0.0, 96.0]","[0.0, -1.0, 0.0, 1.0]",
+41707,2020-07-12T09:49:49Z,1,"[3.0, 1.0, 1.0, 95.0]","[3.0, 1.0, 1.0, 95.0]","Going to 95 from 90 for ""No"" to correct for the very confident crowd"
+89013,2020-07-12T05:13:59Z,1,"[5.0, 0.0, 0.0, 95.0]","[5.0, 0.0, 0.0, 95.0]",
+90860,2020-07-12T04:59:28Z,1,"[5.0, 0.0, 5.0, 90.0]","[5.0, 0.0, 5.0, 90.0]",
+92079,2020-07-12T03:14:56Z,1,"[0.0, 0.0, 1.0, 99.0]","[0.0, 0.0, 1.0, 99.0]",
+1333,2020-07-12T00:40:05Z,4,"[0.0, 5.0, 0.0, 95.0]","[0.0, -10.0, 0.0, 10.0]",
+92291,2020-07-11T23:43:25Z,1,"[10.0, 10.0, 10.0, 70.0]","[10.0, 10.0, 10.0, 70.0]",
+27661,2020-07-11T20:58:30Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",Guess I follow the crowd on this one.
+89484,2020-07-11T20:10:14Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]","Too soon. A criminal negligence conviction is difficult to achieve on a good day for an active driver. It will be much more difficult to secure such a conviction with respect to a backup driver, so I seriously doubt any charging decisions would be made this year on such a case. Experience will first need to be derived from civil litigation involving self-driving vehicle before criminal cases begin to pop up. This is still more than a year away, in my opinion."
+691,2020-07-11T19:08:50Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+53391,2020-07-11T18:49:22Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]","The timeframe is short. The quantity of self driving vehicles owned and operated by firms is limited, criminal charges are for recklessness and hit and run which are not prevalent with self driving cars. I guess the paid backup driver could be asleep or drunk after a pedestrian fatality but that is super slim. Autopilot does a hit and run on its way to McD?"
+172,2020-07-11T18:34:44Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+88422,2020-07-11T17:43:06Z,1,"[0.0, 5.0, 0.0, 95.0]","[0.0, 5.0, 0.0, 95.0]",
+84880,2020-07-11T17:39:57Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+93409,2020-07-11T13:52:17Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+88957,2020-07-11T13:42:13Z,1,"[7.0, 7.0, 1.0, 85.0]","[7.0, 7.0, 1.0, 85.0]",
+57400,2020-07-11T12:08:51Z,2,"[20.0, 5.0, 0.0, 75.0]","[-10.0, 0.0, 0.0, 10.0]",
+57400,2020-07-11T12:08:22Z,1,"[30.0, 5.0, 0.0, 65.0]","[30.0, 5.0, 0.0, 65.0]",
+1333,2020-07-11T09:30:46Z,3,"[0.0, 15.0, 0.0, 85.0]","[0.0, -9.0, 0.0, 9.0]",
+13657,2020-07-11T04:57:41Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]","A Tesla driver using autopilot was just charged criminally, but what firm is paying back up drivers? I see a lot of problems here because people expect the software to do too much and don't understand the proper limitations. But I just don't think very much of this is going on yet."
+88766,2020-07-11T01:00:34Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+38094,2020-07-10T23:36:55Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",I'll follow @K-M-G and go straight to the cellar. TIme frame is too short.
+22689,2020-07-10T23:36:16Z,1,"[5.0, 5.0, 0.0, 90.0]","[5.0, 5.0, 0.0, 90.0]",
+62808,2020-07-10T21:04:46Z,1,"[0.0, 24.0, 0.0, 76.0]","[0.0, 24.0, 0.0, 76.0]",
+1333,2020-07-10T18:54:35Z,2,"[0.0, 24.0, 0.0, 76.0]","[0.0, -1.0, 0.0, 1.0]",
+87064,2020-07-10T18:38:03Z,1,"[0.0, 0.0, 0.0, 100.0]","[0.0, 0.0, 0.0, 100.0]",
+1333,2020-07-10T18:22:49Z,1,"[0.0, 25.0, 0.0, 75.0]","[0.0, 25.0, 0.0, 75.0]",
